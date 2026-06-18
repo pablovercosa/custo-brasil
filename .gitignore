@@ -1,0 +1,56 @@
+# Instruções privadas para Codex e pipeline
+AGENTS.md
+PRD.md
+.agents/
+codex-agents/
+config/
+private/
+
+# Automação, testes e estado operacional locais
+scripts/
+tests/
+logs/
+runtime/
+cache/
+work/
+originals/
+
+# RAG exclusivamente privado
+rag/
+
+# Arquivos locais e segredos
+.env
+.env.*
+!.env.example
+*.local.json
+*.secret.json
+*.pfx
+*.p12
+*.pem
+*.key
+*.crt
+*.cer
+*.sqlite
+*.db
+*.parquet
+*.npy
+*.npz
+
+# Intermediários e cópias brutas que não pertencem ao corpus publicado
+*.docling.json
+*.conversion.json
+*.tmp
+*.part
+
+# Ambientes e IDE
+.venv/
+__pycache__/
+*.py[cod]
+node_modules/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Documento operacional local
+README-BOOTSTRAP.md
