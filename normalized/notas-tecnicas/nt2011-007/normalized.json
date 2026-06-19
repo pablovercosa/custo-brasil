@@ -1,0 +1,22 @@
+{
+  "canonical_id": "nt2011-007",
+  "slug": "nt2011-007",
+  "title": "Nota Tecnica 2011/007 - Prazo do Cancelamento da Nota Fiscal Eletronica",
+  "category": "nota_tecnica",
+  "source_family": "portal_nacional_nfe",
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "original_filename": "NT2011.007.pdf",
+  "original_sha256": "1969689ecdec7bc8826dd521836241b202d9d2ed76329eb69be63aa07c7b8751",
+  "document_path": "corpus/notas-tecnicas/nt2011-007/document.md",
+  "metadata_path": "corpus/notas-tecnicas/nt2011-007/metadata.json",
+  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt2011-007/source.json",
+  "status": "unknown",
+  "normalization_status": "minimal_public_record",
+  "validation": {
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "missing_image_refs_count": 0,
+    "asset_count": 5,
+    "image_refs_count": 5
+  }
+}
