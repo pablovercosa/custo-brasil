@@ -1,8 +1,9 @@
-# Instruções privadas para Codex e pipeline
+# Instruções privadas para OpenCode e pipeline
 AGENTS.md
 PRD.md
 .agents/
 codex-agents/
+.codex/
 config/
 private/
 
