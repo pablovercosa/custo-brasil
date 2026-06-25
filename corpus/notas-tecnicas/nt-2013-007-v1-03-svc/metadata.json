@@ -1,0 +1,32 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt-2013-007-v1-03-svc",
+  "category": "nota_tecnica",
+  "conversion": {
+    "image_export_mode": "referenced",
+    "output_format": "md",
+    "target_type": "zip",
+    "tool": "docling-server"
+  },
+  "converted_at_utc": "2026-06-25T16:54:11.310052+00:00",
+  "original_filename": "NT_2013_007_v1.03_SVC.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT_2013_007_v1.03_SVC.pdf",
+  "original_sha256": "e8d4e4f4b31a1e8c3d6b5ad33e94a387e22a78273009cdc8bceda70458d14d83",
+  "public_paths": {
+    "assets": "corpus/notas-tecnicas/nt-2013-007-v1-03-svc/assets/",
+    "document": "corpus/notas-tecnicas/nt-2013-007-v1-03-svc/document.md",
+    "metadata": "corpus/notas-tecnicas/nt-2013-007-v1-03-svc/metadata.json"
+  },
+  "slug": "nt-2013-007-v1-03-svc",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Sistema Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 17,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 17,
+    "missing_image_refs_count": 0
+  }
+}
