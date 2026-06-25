@@ -1,0 +1,41 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2011-006c-evento-cancelamento",
+  "category": "nota_tecnica",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/notas-tecnicas/nt2011-006c-evento-cancelamento/document.md",
+    "corpus/notas-tecnicas/nt2011-006c-evento-cancelamento/metadata.json",
+    "corpus/notas-tecnicas/nt2011-006c-evento-cancelamento/assets/image_000000_aa77a73dce736579763dabfa681af2bd92b9bd9e1e4d45804be1c704cbe49cc5.png",
+    "corpus/notas-tecnicas/nt2011-006c-evento-cancelamento/assets/image_000001_92ce8c64a3d65e4cc058bdcc5922713b1303681e7f08b8ac16f5ea4ed55bb0c6.png",
+    "corpus/notas-tecnicas/nt2011-006c-evento-cancelamento/assets/image_000002_9d4b7d7288600f413b1cc4ad3e498609b971ec8ed05f038394f603626dd6d6a4.png",
+    "corpus/notas-tecnicas/nt2011-006c-evento-cancelamento/assets/image_000003_b41ff26c0e89dba11dcaeeb68ce86c8f83ac25950d27c45026217795c6e1d1b7.png",
+    "corpus/notas-tecnicas/nt2011-006c-evento-cancelamento/assets/image_000004_3a66fc30b576bfac27b6b482a1fed6f23193ea1f2f4b163bb34e2f3fed6e5e9c.png",
+    "corpus/notas-tecnicas/nt2011-006c-evento-cancelamento/assets/image_000005_6e68c0b8174ad1af3938a295a8feb0871a676d84879ad8322d76299d827a1523.png",
+    "corpus/notas-tecnicas/nt2011-006c-evento-cancelamento/assets/image_000006_331fe630ffd23ee160f43c343be41cf0b9ce5523c38c29f0785599868c7fbd94.png",
+    "corpus/notas-tecnicas/nt2011-006c-evento-cancelamento/assets/image_000007_9ce25e1288f1a6a07b885a6700a3a696e22b2d1984de2d04270845ef3753d83c.png",
+    "corpus/notas-tecnicas/nt2011-006c-evento-cancelamento/assets/image_000008_c3a4de778b85eee5981453d73ef8e992a44a8f4e83c7f55c9999b68131287331.png",
+    "corpus/notas-tecnicas/nt2011-006c-evento-cancelamento/assets/image_000009_c3a4de778b85eee5981453d73ef8e992a44a8f4e83c7f55c9999b68131287331.png",
+    "corpus/notas-tecnicas/nt2011-006c-evento-cancelamento/assets/image_000010_f8f74c5d583f51a4e3593298de95d3d1858aecb922289c1a3cfdc47ea02e13c0.png",
+    "corpus/notas-tecnicas/nt2011-006c-evento-cancelamento/assets/image_000011_9ce25e1288f1a6a07b885a6700a3a696e22b2d1984de2d04270845ef3753d83c.png",
+    "sources/portal-nacional-nfe/notas-tecnicas/nt2011-006c-evento-cancelamento/source.json",
+    "normalized/notas-tecnicas/nt2011-006c-evento-cancelamento/normalized.json",
+    "changelog/notas-tecnicas/nt2011-006c-evento-cancelamento.md"
+  ],
+  "original_filename": "NT2011.006c_Evento_Cancelamento.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT2011.006c_Evento_Cancelamento.pdf",
+  "original_sha256": "d5488798a25b76b04038af7e6dd7cd8c766426a1a9601cab76d1280da7a0b0f1",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T15:06:44.762482+00:00",
+  "slug": "nt2011-006c-evento-cancelamento",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica Projeto Nota Fiscal Eletr\u00f4nica Projeto Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 12,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 12,
+    "missing_image_refs_count": 0
+  }
+}

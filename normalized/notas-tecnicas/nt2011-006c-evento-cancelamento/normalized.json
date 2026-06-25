@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2011-006c-evento-cancelamento",
+  "category": "nota_tecnica",
+  "document_path": "corpus/notas-tecnicas/nt2011-006c-evento-cancelamento/document.md",
+  "metadata_path": "corpus/notas-tecnicas/nt2011-006c-evento-cancelamento/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "NT2011.006c_Evento_Cancelamento.pdf",
+  "original_sha256": "d5488798a25b76b04038af7e6dd7cd8c766426a1a9601cab76d1280da7a0b0f1",
+  "published_at_utc": "2026-06-25T15:06:44.762482+00:00",
+  "slug": "nt2011-006c-evento-cancelamento",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt2011-006c-evento-cancelamento/source.json",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica Projeto Nota Fiscal Eletr\u00f4nica Projeto Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 12,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 12,
+    "missing_image_refs_count": 0
+  }
+}
