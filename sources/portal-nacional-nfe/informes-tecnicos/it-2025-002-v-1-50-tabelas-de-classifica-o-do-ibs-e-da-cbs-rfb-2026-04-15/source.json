@@ -1,0 +1,41 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15",
+  "category": "informe_tecnico",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/informes-tecnicos/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15/document.md",
+    "corpus/informes-tecnicos/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15/metadata.json",
+    "corpus/informes-tecnicos/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15/assets/image_000000_7011b941c0f20935accad7ffb4bf5a8b96ca039ef8c979f5da3caf6c0c9a3ae4.png",
+    "corpus/informes-tecnicos/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15/assets/image_000001_449361e0fc73b50daffb13c9ea7bdf06260961d2494b888e05587701eedfebe8.png",
+    "corpus/informes-tecnicos/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15/assets/image_000002_6d032fadbbb188a3ed35e4a2e320938a528720e2d35d0e410508302fbb3386ab.png",
+    "corpus/informes-tecnicos/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15/assets/image_000003_5d0378f5d0bd1fff7c3647f7fbe9db2f16cd8ecb581e01c478dfce0456bb9a04.png",
+    "corpus/informes-tecnicos/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15/assets/image_000004_24f697e75b4b3b916b609be2e71c1e41430faeecf65659db135de005cfc0a578.png",
+    "corpus/informes-tecnicos/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15/assets/image_000005_d03b4d7b98ee3a12bc1ffc382a3883cd65b42fbbd0ac2cb50a1d280155faa643.png",
+    "corpus/informes-tecnicos/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15/assets/image_000006_fea285af3563c48d2a69250f3ede019900b3217a6262ce418627dca921684406.png",
+    "corpus/informes-tecnicos/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15/assets/image_000007_b7cedabaa42e02a077548bb2b71f6c8b947dcf385aab138fa1196a05243186e7.png",
+    "corpus/informes-tecnicos/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15/assets/image_000008_63b544f79e9f07d0d7a1a160dd97cb4f631e6ddef61580ce7a3dd60442aacfd9.png",
+    "corpus/informes-tecnicos/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15/assets/image_000009_f3e7d99d7642403c5ceee22a1c085ee7b02180c44e996439ce519eb436360336.png",
+    "corpus/informes-tecnicos/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15/assets/image_000010_fff3ad6394515cb0702d4e12218d67cb124ada38952d45643da710dcc15f5ed5.png",
+    "corpus/informes-tecnicos/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15/assets/image_000011_bbc518f4fbab94e3b61b582128742b6a3408d589771b20a92c2d2f2a41870fbb.png",
+    "sources/portal-nacional-nfe/informes-tecnicos/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15/source.json",
+    "normalized/informes-tecnicos/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15/normalized.json",
+    "changelog/informes-tecnicos/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15.md"
+  ],
+  "original_filename": "IT 2025.002 v.1.50 - Tabelas de Classifica\u00e7\u00e3o do IBS e da CBS - RFB (2026_04_15).pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Informes T\u00e9cnicos/IT 2025.002 v.1.50 - Tabelas de Classifica\u00e7\u00e3o do IBS e da CBS - RFB (2026_04_15).pdf",
+  "original_sha256": "d7efc771c2308ba7299e0ed991dfea843afb09d6cc6164213fd6b736c3cb61bd",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T20:46:20.717379+00:00",
+  "slug": "it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Projeto Reforma Tribut\u00e1ria do Consumo",
+  "validation": {
+    "asset_count": 12,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 12,
+    "missing_image_refs_count": 0
+  }
+}
