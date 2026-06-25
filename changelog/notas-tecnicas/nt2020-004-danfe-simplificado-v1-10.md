@@ -1,0 +1,13 @@
+# nt2020-004-danfe-simplificado-v1-10
+
+## Publicacao automatica via batch-pdf
+
+- Documento: `nt2020-004-danfe-simplificado-v1-10`.
+- Categoria: `nota_tecnica`.
+- Titulo: Sistema Nota Fiscal Eletrônica.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Arquivo original: `NT2020.004 - DANFE_SIMPLIFICADO v1.10.pdf`.
+- SHA-256 do original: `f2c422ed3490793d674475a7edee7cfc34bd3819c4b880f2d3ae39c16a409f8a`.
+- Conversao: Markdown via Docling Server, com imagens referenciadas em `assets/`.
+- Validacao: sem Base64, sem `data:image`, 10 referencia(s) de imagem, 10 asset(s) presentes.
+- Publicado em: 2026-06-25T15:22:59.748274+00:00.
