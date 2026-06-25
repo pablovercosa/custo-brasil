@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt-2021-001-v1-01-evento-comprovante-entrega-nfe",
+  "category": "nota_tecnica",
+  "document_path": "corpus/notas-tecnicas/nt-2021-001-v1-01-evento-comprovante-entrega-nfe/document.md",
+  "metadata_path": "corpus/notas-tecnicas/nt-2021-001-v1-01-evento-comprovante-entrega-nfe/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "NT 2021_001_v1.01_Evento_Comprovante_Entrega_NFe.pdf",
+  "original_sha256": "7a179b6af37e2cde32156ed30edf6d387447182daac2d06fe11687bc9b29be9b",
+  "published_at_utc": "2026-06-25T16:13:03.531070+00:00",
+  "slug": "nt-2021-001-v1-01-evento-comprovante-entrega-nfe",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt-2021-001-v1-01-evento-comprovante-entrega-nfe/source.json",
+  "status": "published",
+  "title": "Sistema Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 29,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 29,
+    "missing_image_refs_count": 0
+  }
+}
