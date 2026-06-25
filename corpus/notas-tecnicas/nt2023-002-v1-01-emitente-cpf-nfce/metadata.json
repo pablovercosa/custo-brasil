@@ -1,0 +1,32 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2023-002-v1-01-emitente-cpf-nfce",
+  "category": "nota_tecnica",
+  "conversion": {
+    "image_export_mode": "referenced",
+    "output_format": "md",
+    "target_type": "zip",
+    "tool": "docling-server"
+  },
+  "converted_at_utc": "2026-06-25T15:44:38.995556+00:00",
+  "original_filename": "NT2023.002_v1.01 - Emitente CPF - NFCe.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT2023.002_v1.01 - Emitente CPF - NFCe.pdf",
+  "original_sha256": "b0cb9528bfaa6e0b5ac2986c879898eebcbb9457e97fcf0af985a00659649031",
+  "public_paths": {
+    "assets": "corpus/notas-tecnicas/nt2023-002-v1-01-emitente-cpf-nfce/assets/",
+    "document": "corpus/notas-tecnicas/nt2023-002-v1-01-emitente-cpf-nfce/document.md",
+    "metadata": "corpus/notas-tecnicas/nt2023-002-v1-01-emitente-cpf-nfce/metadata.json"
+  },
+  "slug": "nt2023-002-v1-01-emitente-cpf-nfce",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 17,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 17,
+    "missing_image_refs_count": 0
+  }
+}
