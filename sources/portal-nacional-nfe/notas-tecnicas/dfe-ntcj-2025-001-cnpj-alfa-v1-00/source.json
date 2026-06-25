@@ -1,0 +1,36 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "dfe-ntcj-2025-001-cnpj-alfa-v1-00",
+  "category": "nota_tecnica",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00/document.md",
+    "corpus/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00/metadata.json",
+    "corpus/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00/assets/image_000000_14139a1335584e5ff16cf262b8ff298b46c8f48265a8fef74a60223cda819b3e.png",
+    "corpus/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00/assets/image_000001_1a2c7d1c5595ffbd270ea2d87c8f4683b50d6aae3e312cc9733ffd00bbac9726.png",
+    "corpus/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00/assets/image_000002_cac7fd3f6fdcf85b1cce62891f721663da5d3aaa0dd83205648a0bf815f6adfc.png",
+    "corpus/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00/assets/image_000003_7e2f6ee2a5d1875e222bd43e470f629681054e02660810fd1ae428bfb50b7419.png",
+    "corpus/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00/assets/image_000004_017fa9d2fc657d6bd33f3ec301e8f692f6647b52f3d8fd765121ee9adf8fc5cd.png",
+    "corpus/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00/assets/image_000005_f14c7c9aafda87b93676eca9ea802dcb88e262477d31a9cbe8d54ad83ad0031e.png",
+    "corpus/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00/assets/image_000006_e7da64226d05fabba369aeb4f164bb82cd3404e295d2a7429951ba63790e4d36.png",
+    "sources/portal-nacional-nfe/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00/source.json",
+    "normalized/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00/normalized.json",
+    "changelog/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00.md"
+  ],
+  "original_filename": "DFe NTCJ 2025.001_CNPJ Alfa_v1.00.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/DFe NTCJ 2025.001_CNPJ Alfa_v1.00.pdf",
+  "original_sha256": "671d546b24ad4682e267fc76a9eeca8f14ad15ead2be20721ee2aec5438cf964",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T17:00:25.799904+00:00",
+  "slug": "dfe-ntcj-2025-001-cnpj-alfa-v1-00",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Nota T\u00e9cnica Conjunta CNPJ Alfanum\u00e9rico",
+  "validation": {
+    "asset_count": 7,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 7,
+    "missing_image_refs_count": 0
+  }
+}
