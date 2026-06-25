@@ -1,0 +1,32 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2018-005-v1-52-alteracaodeleiautenf-enfc",
+  "category": "nota_tecnica",
+  "conversion": {
+    "image_export_mode": "referenced",
+    "output_format": "md",
+    "target_type": "zip",
+    "tool": "docling-server"
+  },
+  "converted_at_utc": "2026-06-25T16:45:26.356565+00:00",
+  "original_filename": "NT2018 005_v1_52-AlteracaodeleiauteNF-eNFC.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT2018 005_v1_52-AlteracaodeleiauteNF-eNFC.pdf",
+  "original_sha256": "c2c299ee59397a495c88b7b83826f39ca44e0d070bfeebbb9d9ff61d32a58ec7",
+  "public_paths": {
+    "assets": "corpus/notas-tecnicas/nt2018-005-v1-52-alteracaodeleiautenf-enfc/assets/",
+    "document": "corpus/notas-tecnicas/nt2018-005-v1-52-alteracaodeleiautenf-enfc/document.md",
+    "metadata": "corpus/notas-tecnicas/nt2018-005-v1-52-alteracaodeleiautenf-enfc/metadata.json"
+  },
+  "slug": "nt2018-005-v1-52-alteracaodeleiautenf-enfc",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 25,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 25,
+    "missing_image_refs_count": 0
+  }
+}
