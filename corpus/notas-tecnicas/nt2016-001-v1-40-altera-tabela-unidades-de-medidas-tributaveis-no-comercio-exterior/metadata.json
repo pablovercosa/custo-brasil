@@ -1,0 +1,32 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior",
+  "category": "nota_tecnica",
+  "conversion": {
+    "image_export_mode": "referenced",
+    "output_format": "md",
+    "target_type": "zip",
+    "tool": "docling-server"
+  },
+  "converted_at_utc": "2026-06-25T14:52:33.319707+00:00",
+  "original_filename": "NT2016 001 V1_40 - Altera tabela - Unidades de Medidas Tributaveis no Comercio Exterior.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT2016 001 V1_40 - Altera tabela - Unidades de Medidas Tributaveis no Comercio Exterior.pdf",
+  "original_sha256": "0a60137242cc4c5cfdca07871f94fb1be257b74bc8c461caf893abab7ade39bf",
+  "public_paths": {
+    "assets": "corpus/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior/assets/",
+    "document": "corpus/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior/document.md",
+    "metadata": "corpus/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior/metadata.json"
+  },
+  "slug": "nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 9,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 9,
+    "missing_image_refs_count": 0
+  }
+}
