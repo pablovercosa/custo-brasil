@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2019-001-v1-70-regras-de-valida-o",
+  "category": "nota_tecnica",
+  "document_path": "corpus/notas-tecnicas/nt2019-001-v1-70-regras-de-valida-o/document.md",
+  "metadata_path": "corpus/notas-tecnicas/nt2019-001-v1-70-regras-de-valida-o/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "NT2019_001_v1_70 - Regras de Valida\u00e7\u00e3o.pdf",
+  "original_sha256": "8c03e1d53893f211b4967a5f6da0a1a5f9c46b0862e23ee5b63816657e79ff00",
+  "published_at_utc": "2026-06-25T16:41:39.698049+00:00",
+  "slug": "nt2019-001-v1-70-regras-de-valida-o",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt2019-001-v1-70-regras-de-valida-o/source.json",
+  "status": "published",
+  "title": "Sistema Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 28,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 28,
+    "missing_image_refs_count": 0
+  }
+}
