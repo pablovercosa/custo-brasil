@@ -1,0 +1,32 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "moc-nfe-abi-vis-o-geral-v1-00-minuta",
+  "category": "manual",
+  "conversion": {
+    "image_export_mode": "referenced",
+    "output_format": "md",
+    "target_type": "zip",
+    "tool": "docling-server"
+  },
+  "converted_at_utc": "2026-06-25T17:28:42.202158+00:00",
+  "original_filename": "MOC NFe ABI Vis\u00e3o Geral - v1.00 - minuta.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Manuais/MOC NFe ABI Vis\u00e3o Geral - v1.00 - minuta.pdf",
+  "original_sha256": "e97da2101819cbf57a45e782f005c94efad8a0377296720f013ca76483289bd1",
+  "public_paths": {
+    "assets": "corpus/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta/assets/",
+    "document": "corpus/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta/document.md",
+    "metadata": "corpus/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta/metadata.json"
+  },
+  "slug": "moc-nfe-abi-vis-o-geral-v1-00-minuta",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Sistema Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 10,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 10,
+    "missing_image_refs_count": 0
+  }
+}
