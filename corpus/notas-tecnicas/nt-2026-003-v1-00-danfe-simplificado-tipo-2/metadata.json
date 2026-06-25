@@ -1,0 +1,32 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt-2026-003-v1-00-danfe-simplificado-tipo-2",
+  "category": "nota_tecnica",
+  "conversion": {
+    "image_export_mode": "referenced",
+    "output_format": "md",
+    "target_type": "zip",
+    "tool": "docling-server"
+  },
+  "converted_at_utc": "2026-06-25T17:45:21.201069+00:00",
+  "original_filename": "NT_2026.003_v1.00 - DANFE Simplificado Tipo 2.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT_2026.003_v1.00 - DANFE Simplificado Tipo 2.pdf",
+  "original_sha256": "2ef826027e0e8423ba9dc2f53ee7197f8bfdcc399a30459b72da977528600f13",
+  "public_paths": {
+    "assets": "corpus/notas-tecnicas/nt-2026-003-v1-00-danfe-simplificado-tipo-2/assets/",
+    "document": "corpus/notas-tecnicas/nt-2026-003-v1-00-danfe-simplificado-tipo-2/document.md",
+    "metadata": "corpus/notas-tecnicas/nt-2026-003-v1-00-danfe-simplificado-tipo-2/metadata.json"
+  },
+  "slug": "nt-2026-003-v1-00-danfe-simplificado-tipo-2",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "DANFE Simplificado Tipo 2",
+  "validation": {
+    "asset_count": 45,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 45,
+    "missing_image_refs_count": 0
+  }
+}

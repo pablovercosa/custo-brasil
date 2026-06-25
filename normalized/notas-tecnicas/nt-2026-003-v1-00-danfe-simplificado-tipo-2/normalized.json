@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt-2026-003-v1-00-danfe-simplificado-tipo-2",
+  "category": "nota_tecnica",
+  "document_path": "corpus/notas-tecnicas/nt-2026-003-v1-00-danfe-simplificado-tipo-2/document.md",
+  "metadata_path": "corpus/notas-tecnicas/nt-2026-003-v1-00-danfe-simplificado-tipo-2/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "NT_2026.003_v1.00 - DANFE Simplificado Tipo 2.pdf",
+  "original_sha256": "2ef826027e0e8423ba9dc2f53ee7197f8bfdcc399a30459b72da977528600f13",
+  "published_at_utc": "2026-06-25T17:45:21.201069+00:00",
+  "slug": "nt-2026-003-v1-00-danfe-simplificado-tipo-2",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt-2026-003-v1-00-danfe-simplificado-tipo-2/source.json",
+  "status": "published",
+  "title": "DANFE Simplificado Tipo 2",
+  "validation": {
+    "asset_count": 45,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 45,
+    "missing_image_refs_count": 0
+  }
+}
