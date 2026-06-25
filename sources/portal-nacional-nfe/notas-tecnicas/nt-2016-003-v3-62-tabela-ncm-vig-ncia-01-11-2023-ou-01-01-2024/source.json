@@ -1,0 +1,34 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024",
+  "category": "nota_tecnica",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/notas-tecnicas/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/document.md",
+    "corpus/notas-tecnicas/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/metadata.json",
+    "corpus/notas-tecnicas/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/assets/image_000000_71f191a8fc4a9a19897668052c6800a63bfb860f3c534c192b24ca5065832043.png",
+    "corpus/notas-tecnicas/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/assets/image_000001_b80903ed1b93a07698a88ee32b6fd1f2b82afd156cb68fe5ddb7421247e7f2cb.png",
+    "corpus/notas-tecnicas/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/assets/image_000002_84bd98ef310dd8f567ec7a635bddb2ac3d96475cf3a92e6334d399b90f48ca2c.png",
+    "corpus/notas-tecnicas/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/assets/image_000003_43c1e377729b9634eeecf2ec90c8789fbd3b03772783d7dfa419771abce9d923.png",
+    "corpus/notas-tecnicas/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/assets/image_000004_43c1e377729b9634eeecf2ec90c8789fbd3b03772783d7dfa419771abce9d923.png",
+    "sources/portal-nacional-nfe/notas-tecnicas/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/source.json",
+    "normalized/notas-tecnicas/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/normalized.json",
+    "changelog/notas-tecnicas/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024.md"
+  ],
+  "original_filename": "NT 2016_003 v3.62 - Tabela NCM -  vig\u00eancia 01-11-2023 ou 01-01-2024.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT 2016_003 v3.62 - Tabela NCM -  vig\u00eancia 01-11-2023 ou 01-01-2024.pdf",
+  "original_sha256": "9ba730fa2d7c7c2c041da941a56058bd4f212e0c91074e2306b21183f5344b53",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T15:45:09.283230+00:00",
+  "slug": "nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 5,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 5,
+    "missing_image_refs_count": 0
+  }
+}
