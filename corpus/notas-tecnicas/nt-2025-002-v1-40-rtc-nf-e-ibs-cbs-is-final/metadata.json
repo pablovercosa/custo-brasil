@@ -1,0 +1,32 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt-2025-002-v1-40-rtc-nf-e-ibs-cbs-is-final",
+  "category": "nota_tecnica",
+  "conversion": {
+    "image_export_mode": "referenced",
+    "output_format": "md",
+    "target_type": "zip",
+    "tool": "docling-server"
+  },
+  "converted_at_utc": "2026-06-25T19:00:44.548346+00:00",
+  "original_filename": "NT_2025.002_v1.40_RTC_NF-e_IBS_CBS_IS Final.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT_2025.002_v1.40_RTC_NF-e_IBS_CBS_IS Final.pdf",
+  "original_sha256": "4af56d5fae5eceaad63bb67f663dad4fd599f5bd9482d5474b419a97710193f0",
+  "public_paths": {
+    "assets": "corpus/notas-tecnicas/nt-2025-002-v1-40-rtc-nf-e-ibs-cbs-is-final/assets/",
+    "document": "corpus/notas-tecnicas/nt-2025-002-v1-40-rtc-nf-e-ibs-cbs-is-final/document.md",
+    "metadata": "corpus/notas-tecnicas/nt-2025-002-v1-40-rtc-nf-e-ibs-cbs-is-final/metadata.json"
+  },
+  "slug": "nt-2025-002-v1-40-rtc-nf-e-ibs-cbs-is-final",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Reforma Tribut\u00e1ria do Consumo -Adequa\u00e7\u00f5es NF-e / NFC-e",
+  "validation": {
+    "asset_count": 91,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 91,
+    "missing_image_refs_count": 0
+  }
+}
