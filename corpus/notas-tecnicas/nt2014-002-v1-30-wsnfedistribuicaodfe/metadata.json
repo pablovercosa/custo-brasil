@@ -1,0 +1,32 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2014-002-v1-30-wsnfedistribuicaodfe",
+  "category": "nota_tecnica",
+  "conversion": {
+    "image_export_mode": "referenced",
+    "output_format": "md",
+    "target_type": "zip",
+    "tool": "docling-server"
+  },
+  "converted_at_utc": "2026-06-25T16:56:24.139954+00:00",
+  "original_filename": "NT2014.002_v1.30 - WsNFeDistribuicaoDFe.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT2014.002_v1.30 - WsNFeDistribuicaoDFe.pdf",
+  "original_sha256": "d083c8afb0156aea66ac65ae4b6bf0621f6d7fbecbe569dcf9dfc36a05a094c9",
+  "public_paths": {
+    "assets": "corpus/notas-tecnicas/nt2014-002-v1-30-wsnfedistribuicaodfe/assets/",
+    "document": "corpus/notas-tecnicas/nt2014-002-v1-30-wsnfedistribuicaodfe/document.md",
+    "metadata": "corpus/notas-tecnicas/nt2014-002-v1-30-wsnfedistribuicaodfe/metadata.json"
+  },
+  "slug": "nt2014-002-v1-30-wsnfedistribuicaodfe",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 25,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 25,
+    "missing_image_refs_count": 0
+  }
+}
