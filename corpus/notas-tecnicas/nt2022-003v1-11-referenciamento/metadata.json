@@ -1,0 +1,32 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2022-003v1-11-referenciamento",
+  "category": "nota_tecnica",
+  "conversion": {
+    "image_export_mode": "referenced",
+    "output_format": "md",
+    "target_type": "zip",
+    "tool": "docling-server"
+  },
+  "converted_at_utc": "2026-06-25T16:25:45.816641+00:00",
+  "original_filename": "NT2022.003v1.11-Referenciamento.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT2022.003v1.11-Referenciamento.pdf",
+  "original_sha256": "5eda1dbc0be00922e46972836fc81fa605772298ca6f80a96bac5210ba134e31",
+  "public_paths": {
+    "assets": "corpus/notas-tecnicas/nt2022-003v1-11-referenciamento/assets/",
+    "document": "corpus/notas-tecnicas/nt2022-003v1-11-referenciamento/document.md",
+    "metadata": "corpus/notas-tecnicas/nt2022-003v1-11-referenciamento/metadata.json"
+  },
+  "slug": "nt2022-003v1-11-referenciamento",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 18,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 18,
+    "missing_image_refs_count": 0
+  }
+}
