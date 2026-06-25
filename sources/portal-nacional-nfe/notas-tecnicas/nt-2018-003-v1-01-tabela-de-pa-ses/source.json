@@ -1,0 +1,36 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt-2018-003-v1-01-tabela-de-pa-ses",
+  "category": "nota_tecnica",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/notas-tecnicas/nt-2018-003-v1-01-tabela-de-pa-ses/document.md",
+    "corpus/notas-tecnicas/nt-2018-003-v1-01-tabela-de-pa-ses/metadata.json",
+    "corpus/notas-tecnicas/nt-2018-003-v1-01-tabela-de-pa-ses/assets/image_000000_6172778e5ef24aa6ff5019009153ec7792c600dee64bc7b8fd6dcaae50e95141.png",
+    "corpus/notas-tecnicas/nt-2018-003-v1-01-tabela-de-pa-ses/assets/image_000001_c16c7c891244ca695ff5d7180c63e4d273f2f297911980318bf5ec7981dce8ad.png",
+    "corpus/notas-tecnicas/nt-2018-003-v1-01-tabela-de-pa-ses/assets/image_000002_fb3a1f900f74e7f8f7b1f3d806a1cbc89bc70d38d32a18c01f7ada84f0ce4014.png",
+    "corpus/notas-tecnicas/nt-2018-003-v1-01-tabela-de-pa-ses/assets/image_000003_9c170dc8a785cded0b83bbbd4bbc62cf2f926f97a227f9d36e365f718402d1dc.png",
+    "corpus/notas-tecnicas/nt-2018-003-v1-01-tabela-de-pa-ses/assets/image_000004_c4194ba30ceb7473fbac3b3751235ab4a2e77072d281c7809ef6d9f8d791321a.png",
+    "corpus/notas-tecnicas/nt-2018-003-v1-01-tabela-de-pa-ses/assets/image_000005_fcc10cb36fcc65134ea36b824192175d36f22e46b2399ac35cedcc72b4ed74ec.png",
+    "corpus/notas-tecnicas/nt-2018-003-v1-01-tabela-de-pa-ses/assets/image_000006_8c79d2f514775a6c594a6e025118b1ec1355be7e3ac8872e54157a0bcf187a39.png",
+    "sources/portal-nacional-nfe/notas-tecnicas/nt-2018-003-v1-01-tabela-de-pa-ses/source.json",
+    "normalized/notas-tecnicas/nt-2018-003-v1-01-tabela-de-pa-ses/normalized.json",
+    "changelog/notas-tecnicas/nt-2018-003-v1-01-tabela-de-pa-ses.md"
+  ],
+  "original_filename": "NT 2018-003 -v1.01 - Tabela de Pa\u00edses.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT 2018-003 -v1.01 - Tabela de Pa\u00edses.pdf",
+  "original_sha256": "d10873751b86934180a25c0e8a91b0be1808ee0355f5fdb51fd98b22e6652d42",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T15:09:54.578267+00:00",
+  "slug": "nt-2018-003-v1-01-tabela-de-pa-ses",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 7,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 7,
+    "missing_image_refs_count": 0
+  }
+}
