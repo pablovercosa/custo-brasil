@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2023-004-v1-20-campos-e-regras",
+  "category": "nota_tecnica",
+  "document_path": "corpus/notas-tecnicas/nt2023-004-v1-20-campos-e-regras/document.md",
+  "metadata_path": "corpus/notas-tecnicas/nt2023-004-v1-20-campos-e-regras/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "NT2023.004_v1.20 -Campos e Regras.pdf",
+  "original_sha256": "1c6db64a5c32b176f8e60baf2ebbfed24632169ddfcd80632c1b5cc65b9ac71d",
+  "published_at_utc": "2026-06-25T16:33:13.364631+00:00",
+  "slug": "nt2023-004-v1-20-campos-e-regras",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt2023-004-v1-20-campos-e-regras/source.json",
+  "status": "published",
+  "title": "Sistema Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 20,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 20,
+    "missing_image_refs_count": 0
+  }
+}
