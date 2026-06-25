@@ -1,0 +1,32 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "manual-emissor-nfe",
+  "category": "manual",
+  "conversion": {
+    "image_export_mode": "referenced",
+    "output_format": "md",
+    "target_type": "zip",
+    "tool": "docling-server"
+  },
+  "converted_at_utc": "2026-06-25T15:08:56.120829+00:00",
+  "original_filename": "manual_emissor_nfe.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Manuais/manual_emissor_nfe.pdf",
+  "original_sha256": "12b707c1c8b2de2a70699a64186f2709b2253e87f986242b571b1547cf534762",
+  "public_paths": {
+    "assets": "corpus/manuais/manual-emissor-nfe/assets/",
+    "document": "corpus/manuais/manual-emissor-nfe/document.md",
+    "metadata": "corpus/manuais/manual-emissor-nfe/metadata.json"
+  },
+  "slug": "manual-emissor-nfe",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Emissor de Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 1,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 1,
+    "missing_image_refs_count": 0
+  }
+}
