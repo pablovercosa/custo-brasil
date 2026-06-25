@@ -1,0 +1,36 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2010-007",
+  "category": "nota_tecnica",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/notas-tecnicas/nt2010-007/document.md",
+    "corpus/notas-tecnicas/nt2010-007/metadata.json",
+    "corpus/notas-tecnicas/nt2010-007/assets/image_000000_cf0dd90c3722c3f434a6fdefc5694a09d60c3cce31f02fdf1132013c8c4c7f51.png",
+    "corpus/notas-tecnicas/nt2010-007/assets/image_000001_befcd928f12a0b138eca7eb3bab70a1138c0679f02c5ebb49a6b3f2807d8b5cc.png",
+    "corpus/notas-tecnicas/nt2010-007/assets/image_000002_7447947dd07bfa176901fa3cfb0c795fc3a0b0ad8e5f6bff8997c05568bf0620.png",
+    "corpus/notas-tecnicas/nt2010-007/assets/image_000003_e5493c7075b2bc1155b83f7554af0055fe6411733c1e0e7baa911a53dc68c058.png",
+    "corpus/notas-tecnicas/nt2010-007/assets/image_000004_a6a215445ea1440ac95701e8eb18842ad63d7bac5c72eaffd169ebed921ace29.png",
+    "corpus/notas-tecnicas/nt2010-007/assets/image_000005_a6a215445ea1440ac95701e8eb18842ad63d7bac5c72eaffd169ebed921ace29.png",
+    "corpus/notas-tecnicas/nt2010-007/assets/image_000006_a6a215445ea1440ac95701e8eb18842ad63d7bac5c72eaffd169ebed921ace29.png",
+    "sources/portal-nacional-nfe/notas-tecnicas/nt2010-007/source.json",
+    "normalized/notas-tecnicas/nt2010-007/normalized.json",
+    "changelog/notas-tecnicas/nt2010-007.md"
+  ],
+  "original_filename": "NT2010.007.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT2010.007.pdf",
+  "original_sha256": "f255620d2677305325ed3981ec2985cf7cf78fbc4fe419bda7435208ca77719a",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T14:55:55.967854+00:00",
+  "slug": "nt2010-007",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica Projeto Nota Fiscal Eletr\u00f4nica Projeto Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 7,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 7,
+    "missing_image_refs_count": 0
+  }
+}
