@@ -1,0 +1,34 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2012-001",
+  "category": "nota_tecnica",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/notas-tecnicas/nt2012-001/document.md",
+    "corpus/notas-tecnicas/nt2012-001/metadata.json",
+    "corpus/notas-tecnicas/nt2012-001/assets/image_000000_75d3f6ddb229b1c1c190f5fa00db01cb8b4e9179cc4d970d788308e3748e029d.png",
+    "corpus/notas-tecnicas/nt2012-001/assets/image_000001_f507ec44ee2525e575afe5183e61e23cba6186c3176f8304c17af964eefd4a0d.png",
+    "corpus/notas-tecnicas/nt2012-001/assets/image_000002_e50825e76eac10043fd9b620ab85bd2b99c02f592678614a4cfb75e3cd4f7f68.png",
+    "corpus/notas-tecnicas/nt2012-001/assets/image_000003_352cdea79ec79b771664f89ca1c2ea33115dd7bb2638c44ca3d47c718228fbc7.png",
+    "corpus/notas-tecnicas/nt2012-001/assets/image_000004_bff6d3eedbc1842dbf3ff630b40c7a21c63c15c7e4f925395ae89a01acb5a6a6.png",
+    "sources/portal-nacional-nfe/notas-tecnicas/nt2012-001/source.json",
+    "normalized/notas-tecnicas/nt2012-001/normalized.json",
+    "changelog/notas-tecnicas/nt2012-001.md"
+  ],
+  "original_filename": "NT2012_001.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT2012_001.pdf",
+  "original_sha256": "8b1c5dedddb16db017ba4f85f2e9c5fa0e350dd4a3e6c814a2e8d22d5784559e",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T15:02:48.944679+00:00",
+  "slug": "nt2012-001",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 5,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 5,
+    "missing_image_refs_count": 0
+  }
+}
