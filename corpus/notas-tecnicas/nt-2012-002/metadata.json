@@ -1,0 +1,32 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt-2012-002",
+  "category": "nota_tecnica",
+  "conversion": {
+    "image_export_mode": "referenced",
+    "output_format": "md",
+    "target_type": "zip",
+    "tool": "docling-server"
+  },
+  "converted_at_utc": "2026-06-25T15:33:29.054870+00:00",
+  "original_filename": "NT 2012_002.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT 2012_002.pdf",
+  "original_sha256": "df63f8405a428c55d87276c616cf30e0aa04ce3ed8a7071d15ad80c59156760d",
+  "public_paths": {
+    "assets": "corpus/notas-tecnicas/nt-2012-002/assets/",
+    "document": "corpus/notas-tecnicas/nt-2012-002/document.md",
+    "metadata": "corpus/notas-tecnicas/nt-2012-002/metadata.json"
+  },
+  "slug": "nt-2012-002",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica Projeto Nota Fiscal Eletr\u00f4nica Projeto Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 29,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 29,
+    "missing_image_refs_count": 0
+  }
+}
