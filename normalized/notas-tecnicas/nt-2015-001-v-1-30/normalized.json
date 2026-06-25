@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt-2015-001-v-1-30",
+  "category": "nota_tecnica",
+  "document_path": "corpus/notas-tecnicas/nt-2015-001-v-1-30/document.md",
+  "metadata_path": "corpus/notas-tecnicas/nt-2015-001-v-1-30/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "NT 2015.001 - v 1.30.pdf",
+  "original_sha256": "cc1b42b1b542cd85366e7467dce1f9779471fb53a982a705f7330aa63e86fe61",
+  "published_at_utc": "2026-06-25T19:27:21.883056+00:00",
+  "slug": "nt-2015-001-v-1-30",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt-2015-001-v-1-30/source.json",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 80,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 80,
+    "missing_image_refs_count": 0
+  }
+}
