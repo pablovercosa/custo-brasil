@@ -1,0 +1,37 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "it2024-001v2-30-atualiza-tabela-de-ncm",
+  "category": "informe_tecnico",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/informes-tecnicos/it2024-001v2-30-atualiza-tabela-de-ncm/document.md",
+    "corpus/informes-tecnicos/it2024-001v2-30-atualiza-tabela-de-ncm/metadata.json",
+    "corpus/informes-tecnicos/it2024-001v2-30-atualiza-tabela-de-ncm/assets/image_000000_98f3651deb3779045a3d05955a12dcae77e60f44ee54773b092ff854d875d1d5.png",
+    "corpus/informes-tecnicos/it2024-001v2-30-atualiza-tabela-de-ncm/assets/image_000001_a9b1d1601c4484180d757697cd0ab40d19f0c9cd9166651b416a83a8f25897bc.png",
+    "corpus/informes-tecnicos/it2024-001v2-30-atualiza-tabela-de-ncm/assets/image_000002_75a373a4031e5e19efe787f4df12e32f484af93b018b38c4250b7c8ddd45bcfd.png",
+    "corpus/informes-tecnicos/it2024-001v2-30-atualiza-tabela-de-ncm/assets/image_000003_0ce9fb370ac22f859f5f082058a3e1b8292a3623eba8f9dd5be8251e98cd619a.png",
+    "corpus/informes-tecnicos/it2024-001v2-30-atualiza-tabela-de-ncm/assets/image_000004_eee068619f41b32cad5be13f90075e7ea1e8520dd63ca6de94df4f6dc9ba180f.png",
+    "corpus/informes-tecnicos/it2024-001v2-30-atualiza-tabela-de-ncm/assets/image_000005_4f9a488334e876a9d02c08445552814b5c3c359ee900e373fdddfea5bd3a9161.png",
+    "corpus/informes-tecnicos/it2024-001v2-30-atualiza-tabela-de-ncm/assets/image_000006_eee068619f41b32cad5be13f90075e7ea1e8520dd63ca6de94df4f6dc9ba180f.png",
+    "corpus/informes-tecnicos/it2024-001v2-30-atualiza-tabela-de-ncm/assets/image_000007_4f9a488334e876a9d02c08445552814b5c3c359ee900e373fdddfea5bd3a9161.png",
+    "sources/portal-nacional-nfe/informes-tecnicos/it2024-001v2-30-atualiza-tabela-de-ncm/source.json",
+    "normalized/informes-tecnicos/it2024-001v2-30-atualiza-tabela-de-ncm/normalized.json",
+    "changelog/informes-tecnicos/it2024-001v2-30-atualiza-tabela-de-ncm.md"
+  ],
+  "original_filename": "IT2024.001v2.30 - Atualiza tabela de NCM.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Informes T\u00e9cnicos/IT2024.001v2.30 - Atualiza tabela de NCM.pdf",
+  "original_sha256": "d9923d2f1531b85eb77acf2443328974c9766cf594bb32434c60f7c4632fbcd9",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T20:44:04.870707+00:00",
+  "slug": "it2024-001v2-30-atualiza-tabela-de-ncm",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Sistema Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 8,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 8,
+    "missing_image_refs_count": 0
+  }
+}
