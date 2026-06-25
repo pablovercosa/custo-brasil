@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2020-007-v1-40-evento-ator-nfe-transportador",
+  "category": "nota_tecnica",
+  "document_path": "corpus/notas-tecnicas/nt2020-007-v1-40-evento-ator-nfe-transportador/document.md",
+  "metadata_path": "corpus/notas-tecnicas/nt2020-007-v1-40-evento-ator-nfe-transportador/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "NT2020.007_v1.40 - Evento_Ator_NFe_Transportador.pdf",
+  "original_sha256": "9394c3d8cef55c1a2e6e05b7811bc05cc1f4e66f5190308a1bc6f9c92792bf1f",
+  "published_at_utc": "2026-06-25T15:51:50.790636+00:00",
+  "slug": "nt2020-007-v1-40-evento-ator-nfe-transportador",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt2020-007-v1-40-evento-ator-nfe-transportador/source.json",
+  "status": "published",
+  "title": "Sistema Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 15,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 15,
+    "missing_image_refs_count": 0
+  }
+}
