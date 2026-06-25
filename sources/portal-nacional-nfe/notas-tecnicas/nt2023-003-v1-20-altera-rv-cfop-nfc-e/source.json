@@ -1,0 +1,37 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2023-003-v1-20-altera-rv-cfop-nfc-e",
+  "category": "nota_tecnica",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/notas-tecnicas/nt2023-003-v1-20-altera-rv-cfop-nfc-e/document.md",
+    "corpus/notas-tecnicas/nt2023-003-v1-20-altera-rv-cfop-nfc-e/metadata.json",
+    "corpus/notas-tecnicas/nt2023-003-v1-20-altera-rv-cfop-nfc-e/assets/image_000000_6c545e385dc554d4f2538dc5f2f8e123229188ad3a37c64853552479f699396f.png",
+    "corpus/notas-tecnicas/nt2023-003-v1-20-altera-rv-cfop-nfc-e/assets/image_000001_5dd5d5e16748c7abcded3a0035d3a12ebd8073cdc66cfc62ca495386dd8ab477.png",
+    "corpus/notas-tecnicas/nt2023-003-v1-20-altera-rv-cfop-nfc-e/assets/image_000002_91189f7fc509f0ccd75af5037d915e019a009c231f3e7cc19b7730f03913ea6f.png",
+    "corpus/notas-tecnicas/nt2023-003-v1-20-altera-rv-cfop-nfc-e/assets/image_000003_02fca134f695c2e32ef51f532b5e0eea994c0b11545d0be7d9613bdfc06c0e6e.png",
+    "corpus/notas-tecnicas/nt2023-003-v1-20-altera-rv-cfop-nfc-e/assets/image_000004_172046c910dde3cdfc8b722d58b7adea447d6b78b9c6295481f1c2b9b3e8da81.png",
+    "corpus/notas-tecnicas/nt2023-003-v1-20-altera-rv-cfop-nfc-e/assets/image_000005_4002d5dc7c889656f696f7f493496102872299836782a75ffefeae0c859982cc.png",
+    "corpus/notas-tecnicas/nt2023-003-v1-20-altera-rv-cfop-nfc-e/assets/image_000006_0d50c3a80af8835e752218ac7c463c2c8ec35562e23ef298d8bd605bc748deca.png",
+    "corpus/notas-tecnicas/nt2023-003-v1-20-altera-rv-cfop-nfc-e/assets/image_000007_b7defce071bf54435f6bb6f093b24843baa8f259360c757fc19cc7d9eddb7be2.png",
+    "sources/portal-nacional-nfe/notas-tecnicas/nt2023-003-v1-20-altera-rv-cfop-nfc-e/source.json",
+    "normalized/notas-tecnicas/nt2023-003-v1-20-altera-rv-cfop-nfc-e/normalized.json",
+    "changelog/notas-tecnicas/nt2023-003-v1-20-altera-rv-cfop-nfc-e.md"
+  ],
+  "original_filename": "NT2023.003 - v1.20 - Altera RV CFOP NFC-e.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT2023.003 - v1.20 - Altera RV CFOP NFC-e.pdf",
+  "original_sha256": "cba9a2750a6df08c4d2b54d28c1838e172e2a434b677fb52e909f7071579ba3b",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T16:09:17.946136+00:00",
+  "slug": "nt2023-003-v1-20-altera-rv-cfop-nfc-e",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 8,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 8,
+    "missing_image_refs_count": 0
+  }
+}
