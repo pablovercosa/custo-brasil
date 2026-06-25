@@ -1,0 +1,35 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt-2007-001",
+  "category": "nota_tecnica",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/notas-tecnicas/nt-2007-001/document.md",
+    "corpus/notas-tecnicas/nt-2007-001/metadata.json",
+    "corpus/notas-tecnicas/nt-2007-001/assets/image_000000_c4e6daffbc318bd841fc00aef9f87a94e2b919c94e64e8100d060f4f9064a90b.png",
+    "corpus/notas-tecnicas/nt-2007-001/assets/image_000001_97910a2ce66ea579edb2095fcc2104258c19c0419a7635c2ecaeed8025a08ccf.png",
+    "corpus/notas-tecnicas/nt-2007-001/assets/image_000002_245aadd9f41c69d821384747d8934c7eed19b4d04c264df5ad5503dae537983a.png",
+    "corpus/notas-tecnicas/nt-2007-001/assets/image_000003_2cf3aec89793c818f2bf1905551957621d1081334be23b3949ac12fb0a032a13.png",
+    "corpus/notas-tecnicas/nt-2007-001/assets/image_000004_2cf3aec89793c818f2bf1905551957621d1081334be23b3949ac12fb0a032a13.png",
+    "corpus/notas-tecnicas/nt-2007-001/assets/image_000005_2cf3aec89793c818f2bf1905551957621d1081334be23b3949ac12fb0a032a13.png",
+    "sources/portal-nacional-nfe/notas-tecnicas/nt-2007-001/source.json",
+    "normalized/notas-tecnicas/nt-2007-001/normalized.json",
+    "changelog/notas-tecnicas/nt-2007-001.md"
+  ],
+  "original_filename": "NT 2007.001.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT 2007.001.pdf",
+  "original_sha256": "4a5311f7303ad509a7897fca97cb66e416d13cd7462cb210753ff3bbb30ded90",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T14:55:03.434282+00:00",
+  "slug": "nt-2007-001",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 6,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 6,
+    "missing_image_refs_count": 0
+  }
+}
