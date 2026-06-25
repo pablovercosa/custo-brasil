@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs",
+  "category": "informe_tecnico",
+  "document_path": "corpus/informes-tecnicos/it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs/document.md",
+  "metadata_path": "corpus/informes-tecnicos/it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "IT 2026.002 v.1.00 - Tabela de Aliquotas da CBS.pdf",
+  "original_sha256": "80a40a1a5fac20f0e798467eab4e5a3a68732211e5db850469a64bac75fd07ca",
+  "published_at_utc": "2026-06-25T20:45:17.707909+00:00",
+  "slug": "it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal-nacional-nfe/informes-tecnicos/it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs/source.json",
+  "status": "published",
+  "title": "Projeto Reforma Tribut\u00e1ria do Consumo",
+  "validation": {
+    "asset_count": 14,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 14,
+    "missing_image_refs_count": 0
+  }
+}
