@@ -1,0 +1,32 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2020-006-v1-31-intermediador-e-marketplace",
+  "category": "nota_tecnica",
+  "conversion": {
+    "image_export_mode": "referenced",
+    "output_format": "md",
+    "target_type": "zip",
+    "tool": "docling-server"
+  },
+  "converted_at_utc": "2026-06-25T16:24:15.493579+00:00",
+  "original_filename": "NT2020.006 v1.31 - Intermediador e Marketplace.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT2020.006 v1.31 - Intermediador e Marketplace.pdf",
+  "original_sha256": "449c1816a67555082891be24f509c57b8e71096f3f8efaf9a71fcb79c2640600",
+  "public_paths": {
+    "assets": "corpus/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/assets/",
+    "document": "corpus/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/document.md",
+    "metadata": "corpus/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/metadata.json"
+  },
+  "slug": "nt2020-006-v1-31-intermediador-e-marketplace",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 14,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 14,
+    "missing_image_refs_count": 0
+  }
+}

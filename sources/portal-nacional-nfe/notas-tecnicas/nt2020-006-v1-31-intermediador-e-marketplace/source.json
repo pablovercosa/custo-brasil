@@ -1,0 +1,43 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2020-006-v1-31-intermediador-e-marketplace",
+  "category": "nota_tecnica",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/document.md",
+    "corpus/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/metadata.json",
+    "corpus/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/assets/image_000000_fb7492c9815fc92aa4d06c7459e53a5e1b29f063408767ed6f687628e719d9ea.png",
+    "corpus/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/assets/image_000001_9dcbed07271170bf8c86f9f1f3d5014c44077f81ee1c971c4c01859606c93129.png",
+    "corpus/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/assets/image_000002_c3d82fd5203afb5d61764680b6a4ae0b0c2a62e2db6bc6f5ce373c9742f9b68a.png",
+    "corpus/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/assets/image_000003_a3a7983e441564952a0cd31ab6c4a5bb6f4700c1fb260b38386d070fb8fdf101.png",
+    "corpus/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/assets/image_000004_30f1fab1951c71251b5a14f35df296d8e98a08666664a99a715866d398790ab3.png",
+    "corpus/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/assets/image_000005_30f1fab1951c71251b5a14f35df296d8e98a08666664a99a715866d398790ab3.png",
+    "corpus/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/assets/image_000006_30f1fab1951c71251b5a14f35df296d8e98a08666664a99a715866d398790ab3.png",
+    "corpus/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/assets/image_000007_30f1fab1951c71251b5a14f35df296d8e98a08666664a99a715866d398790ab3.png",
+    "corpus/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/assets/image_000008_30f1fab1951c71251b5a14f35df296d8e98a08666664a99a715866d398790ab3.png",
+    "corpus/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/assets/image_000009_a27e3869843732de87b9cf2e6974679c348e50668ea26a2c26a30e1168e2e134.png",
+    "corpus/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/assets/image_000010_30f1fab1951c71251b5a14f35df296d8e98a08666664a99a715866d398790ab3.png",
+    "corpus/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/assets/image_000011_30f1fab1951c71251b5a14f35df296d8e98a08666664a99a715866d398790ab3.png",
+    "corpus/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/assets/image_000012_7de981e6d876980ce53655a6a69033462fac9ba15d37229e393f9ebe9571e215.png",
+    "corpus/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/assets/image_000013_da658237aa376966f8852e3b33a045ef546498c0d51671456e896bc157e4975b.png",
+    "sources/portal-nacional-nfe/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/source.json",
+    "normalized/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/normalized.json",
+    "changelog/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace.md"
+  ],
+  "original_filename": "NT2020.006 v1.31 - Intermediador e Marketplace.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT2020.006 v1.31 - Intermediador e Marketplace.pdf",
+  "original_sha256": "449c1816a67555082891be24f509c57b8e71096f3f8efaf9a71fcb79c2640600",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T16:24:15.493579+00:00",
+  "slug": "nt2020-006-v1-31-intermediador-e-marketplace",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 14,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 14,
+    "missing_image_refs_count": 0
+  }
+}
