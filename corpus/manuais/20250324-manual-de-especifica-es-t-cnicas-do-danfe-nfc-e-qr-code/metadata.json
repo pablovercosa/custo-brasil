@@ -1,0 +1,32 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code",
+  "category": "manual",
+  "conversion": {
+    "image_export_mode": "referenced",
+    "output_format": "md",
+    "target_type": "zip",
+    "tool": "docling-server"
+  },
+  "converted_at_utc": "2026-06-25T18:31:12.793996+00:00",
+  "original_filename": "20250324 - Manual_de_Especifica\u00e7\u00f5es_T\u00e9cnicas_do_DANFE_NFC-e_QR_Code.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Manuais/20250324 - Manual_de_Especifica\u00e7\u00f5es_T\u00e9cnicas_do_DANFE_NFC-e_QR_Code.pdf",
+  "original_sha256": "bf906cc212f1edd19b1df7d1cdf4fbf5e73c3fec77567b6e69fa74453c95db5e",
+  "public_paths": {
+    "assets": "corpus/manuais/20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code/assets/",
+    "document": "corpus/manuais/20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code/document.md",
+    "metadata": "corpus/manuais/20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code/metadata.json"
+  },
+  "slug": "20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "CONTROLE DE VERS\u00d5ES",
+  "validation": {
+    "asset_count": 69,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 69,
+    "missing_image_refs_count": 0
+  }
+}
