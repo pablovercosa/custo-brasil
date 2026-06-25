@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2024-001-v1-20",
+  "category": "nota_tecnica",
+  "document_path": "corpus/notas-tecnicas/nt2024-001-v1-20/document.md",
+  "metadata_path": "corpus/notas-tecnicas/nt2024-001-v1-20/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "NT2024_001_v1_20.pdf",
+  "original_sha256": "fc5e648cac11ed84e1107f273893776af2b9cfa748a0a5332748100e82e05b86",
+  "published_at_utc": "2026-06-25T17:18:34.656967+00:00",
+  "slug": "nt2024-001-v1-20",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt2024-001-v1-20/source.json",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 16,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 16,
+    "missing_image_refs_count": 0
+  }
+}
