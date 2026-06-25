@@ -1,0 +1,38 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2014-004-v1-10-ncm-pais-fuso-evento",
+  "category": "nota_tecnica",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/notas-tecnicas/nt2014-004-v1-10-ncm-pais-fuso-evento/document.md",
+    "corpus/notas-tecnicas/nt2014-004-v1-10-ncm-pais-fuso-evento/metadata.json",
+    "corpus/notas-tecnicas/nt2014-004-v1-10-ncm-pais-fuso-evento/assets/image_000000_057d89aa71f35beec8e7ff0443a371d3785e3d14cb2f100f82b4003b8d9c68d2.png",
+    "corpus/notas-tecnicas/nt2014-004-v1-10-ncm-pais-fuso-evento/assets/image_000001_79553d5481d20260de472eb44946c7eff315fab133f018f50863a03c74ee8b3d.png",
+    "corpus/notas-tecnicas/nt2014-004-v1-10-ncm-pais-fuso-evento/assets/image_000002_3a2f19248942900389f60e711a14426e14449c03475494178cc3c2184146f506.png",
+    "corpus/notas-tecnicas/nt2014-004-v1-10-ncm-pais-fuso-evento/assets/image_000003_af93093f6ff4a0d78b974281849ea8750081ea50a10f3cc2af3e0f2d6cb09b51.png",
+    "corpus/notas-tecnicas/nt2014-004-v1-10-ncm-pais-fuso-evento/assets/image_000004_7dee0d807cdea73d11ece2421bb42def4e3c8150ea5f52d16b75afe7df8aa0ef.png",
+    "corpus/notas-tecnicas/nt2014-004-v1-10-ncm-pais-fuso-evento/assets/image_000005_7df8b82e85de57e93d087b98a638d3121b8d5beb2f40a8893de3eb85081bf22e.png",
+    "corpus/notas-tecnicas/nt2014-004-v1-10-ncm-pais-fuso-evento/assets/image_000006_b614d8c97391e3ec0c4a1cba6cb332e85e2c89cfd98b0575311c74d7984a6c68.png",
+    "corpus/notas-tecnicas/nt2014-004-v1-10-ncm-pais-fuso-evento/assets/image_000007_f95ba834b37fbc808f5d4630d1fbd4647e0d304adc121c364e368f61dc615cc9.png",
+    "corpus/notas-tecnicas/nt2014-004-v1-10-ncm-pais-fuso-evento/assets/image_000008_b614d8c97391e3ec0c4a1cba6cb332e85e2c89cfd98b0575311c74d7984a6c68.png",
+    "sources/portal-nacional-nfe/notas-tecnicas/nt2014-004-v1-10-ncm-pais-fuso-evento/source.json",
+    "normalized/notas-tecnicas/nt2014-004-v1-10-ncm-pais-fuso-evento/normalized.json",
+    "changelog/notas-tecnicas/nt2014-004-v1-10-ncm-pais-fuso-evento.md"
+  ],
+  "original_filename": "NT2014.004_v1.10_NCM_Pais_Fuso_Evento.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT2014.004_v1.10_NCM_Pais_Fuso_Evento.pdf",
+  "original_sha256": "90fb4944e0b19a5404d184db81f468e2d251a3e004e8189ab231764dfd057b06",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T16:09:50.175690+00:00",
+  "slug": "nt2014-004-v1-10-ncm-pais-fuso-evento",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica - NF-e",
+  "validation": {
+    "asset_count": 9,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 9,
+    "missing_image_refs_count": 0
+  }
+}
