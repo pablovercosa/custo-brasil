@@ -1,0 +1,13 @@
+# it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel
+
+## Publicacao automatica via batch-pdf
+
+- Documento: `it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel`.
+- Categoria: `informe_tecnico`.
+- Titulo: Projeto Reforma Tributária do Consumo.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Arquivo original: `IT 2025.004 v.1.10 - Tabela de Indíce de Mistura de BioCombsutível.pdf`.
+- SHA-256 do original: `e8ba4b9a75bff57fec768d8a52afb8ccd6b31f1d595541f7dced37757163e1c5`.
+- Conversao: Markdown via Docling Server, com imagens referenciadas em `assets/`.
+- Validacao: sem Base64, sem `data:image`, 9 referencia(s) de imagem, 9 asset(s) presentes.
+- Publicado em: 2026-06-25T20:43:40.568497+00:00.
