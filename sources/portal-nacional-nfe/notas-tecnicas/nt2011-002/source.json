@@ -1,0 +1,36 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2011-002",
+  "category": "nota_tecnica",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/notas-tecnicas/nt2011-002/document.md",
+    "corpus/notas-tecnicas/nt2011-002/metadata.json",
+    "corpus/notas-tecnicas/nt2011-002/assets/image_000000_83c23eb121948b933e255e5cfa5405d567f44d6beae3a199330cc2dcb5a97816.png",
+    "corpus/notas-tecnicas/nt2011-002/assets/image_000001_96dc2e06b312306cac636d35253c15b1c1fb715829aec532575dca6f08e4dab3.png",
+    "corpus/notas-tecnicas/nt2011-002/assets/image_000002_b0999d8f160de60eb8ac921b1ec8c51b5647a67f293b0c3996af5c5c565b5855.png",
+    "corpus/notas-tecnicas/nt2011-002/assets/image_000003_342f208eb1b069e6c3e0cc13d79566c2821e9c48fe68c93fa0351695faeea7a3.png",
+    "corpus/notas-tecnicas/nt2011-002/assets/image_000004_342f208eb1b069e6c3e0cc13d79566c2821e9c48fe68c93fa0351695faeea7a3.png",
+    "corpus/notas-tecnicas/nt2011-002/assets/image_000005_05fc05d3490fa3414f5a8bc52d53e219087e3e99d9f555ff850ae06b6fabd7b7.png",
+    "corpus/notas-tecnicas/nt2011-002/assets/image_000006_05fc05d3490fa3414f5a8bc52d53e219087e3e99d9f555ff850ae06b6fabd7b7.png",
+    "sources/portal-nacional-nfe/notas-tecnicas/nt2011-002/source.json",
+    "normalized/notas-tecnicas/nt2011-002/normalized.json",
+    "changelog/notas-tecnicas/nt2011-002.md"
+  ],
+  "original_filename": "NT2011.002.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT2011.002.pdf",
+  "original_sha256": "f267c1e81d929db81eb47b42195922713a073b50d5835eaa20b2b1530e219783",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T14:55:29.654339+00:00",
+  "slug": "nt2011-002",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 7,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 7,
+    "missing_image_refs_count": 0
+  }
+}
