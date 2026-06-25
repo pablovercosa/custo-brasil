@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e",
+  "category": "manual",
+  "document_path": "corpus/manuais/manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e/document.md",
+  "metadata_path": "corpus/manuais/manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "Manual de Orienta\u00e7\u00e3o ao Contribuinte - MOC - vers\u00e3o 7.0 - NF-e e NFC-e.pdf",
+  "original_sha256": "f664dcf94b77cabb32311620d85a7eb02cdf86adb2d4632ce178af2572dd2ad1",
+  "published_at_utc": "2026-06-25T20:18:24.495650+00:00",
+  "slug": "manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal-nacional-nfe/manuais/manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e/source.json",
+  "status": "published",
+  "title": "Sistema Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 181,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 181,
+    "missing_image_refs_count": 0
+  }
+}
