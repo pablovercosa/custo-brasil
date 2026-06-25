@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2013-002-b2b-v1-00b",
+  "category": "nota_tecnica",
+  "document_path": "corpus/notas-tecnicas/nt2013-002-b2b-v1-00b/document.md",
+  "metadata_path": "corpus/notas-tecnicas/nt2013-002-b2b-v1-00b/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "NT2013 002_B2B_v1.00b.pdf",
+  "original_sha256": "e7532810920ef074e1003d3bb2dcd6cebdeca51ec839ec6b001558880ddcb406",
+  "published_at_utc": "2026-06-25T15:09:36.305626+00:00",
+  "slug": "nt2013-002-b2b-v1-00b",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt2013-002-b2b-v1-00b/source.json",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 7,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 7,
+    "missing_image_refs_count": 0
+  }
+}
