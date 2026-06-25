@@ -1,0 +1,35 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "it-2025-003-altera-o-endere-o-qrcode-nfc-e-go",
+  "category": "informe_tecnico",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/informes-tecnicos/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go/document.md",
+    "corpus/informes-tecnicos/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go/metadata.json",
+    "corpus/informes-tecnicos/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go/assets/image_000000_7a5c608ebf2476aa4427ba5891caf57dabe8e756de4dd3585ae5bdc5eb507aee.png",
+    "corpus/informes-tecnicos/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go/assets/image_000001_57f70eeb7fb9b0bb34222e07e150e95d811fdc012cb7f61566beec824fc54ad0.png",
+    "corpus/informes-tecnicos/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go/assets/image_000002_7be5a09464666bcdc0a00c8f50f893d1213ae01f7ad2e98102148bcc14655e6b.png",
+    "corpus/informes-tecnicos/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go/assets/image_000003_abb9726d3a0a033d4d9216e7dbfe11d906372d6e2b70b3f23d692e2d9b42c7ed.png",
+    "corpus/informes-tecnicos/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go/assets/image_000004_abb9726d3a0a033d4d9216e7dbfe11d906372d6e2b70b3f23d692e2d9b42c7ed.png",
+    "corpus/informes-tecnicos/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go/assets/image_000005_fc3ea1cbba907e745691e5ca3faeb301f9824ac9e46bd451dd17d689d650e9f7.png",
+    "sources/portal-nacional-nfe/informes-tecnicos/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go/source.json",
+    "normalized/informes-tecnicos/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go/normalized.json",
+    "changelog/informes-tecnicos/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go.md"
+  ],
+  "original_filename": "IT_2025.003- Altera\u00e7\u00e3o Endere\u00e7o QRCode NFC-e - GO.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Informes T\u00e9cnicos/IT_2025.003- Altera\u00e7\u00e3o Endere\u00e7o QRCode NFC-e - GO.pdf",
+  "original_sha256": "c1b849609693bb5e152311786aa8430218a6d98b43cc6be16b13a02049b2fb92",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T20:44:53.350585+00:00",
+  "slug": "it-2025-003-altera-o-endere-o-qrcode-nfc-e-go",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Nota Fiscal de Consumidor Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 6,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 6,
+    "missing_image_refs_count": 0
+  }
+}
