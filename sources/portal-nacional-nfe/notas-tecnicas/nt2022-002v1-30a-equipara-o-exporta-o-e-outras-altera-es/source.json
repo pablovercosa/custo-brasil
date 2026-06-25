@@ -1,0 +1,42 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es",
+  "category": "nota_tecnica",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/notas-tecnicas/nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es/document.md",
+    "corpus/notas-tecnicas/nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es/metadata.json",
+    "corpus/notas-tecnicas/nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es/assets/image_000000_0c16b6c5e1efada552a7c8dfbb9bc4de90c8b35641d183117cd97c68ad839e4e.png",
+    "corpus/notas-tecnicas/nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es/assets/image_000001_29d937827f20e850e3fcfdd1093cfe18744628c4d14ad2ac93a097f9ac0d4de4.png",
+    "corpus/notas-tecnicas/nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es/assets/image_000002_e4cb7a1b6e08b1932bbf11c8896187dfd12e22f066fce6a289924ed89649f381.png",
+    "corpus/notas-tecnicas/nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es/assets/image_000003_9361aa26e34e26faa967d0c0ae9224fde7bec9a9d2ece7497b2523f922a2ad74.png",
+    "corpus/notas-tecnicas/nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es/assets/image_000004_803f452a7cd2038e6a908bbbd9154a620141d7e65d3af915027160ed4c871140.png",
+    "corpus/notas-tecnicas/nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es/assets/image_000005_346bb3078f223a219670edd1c4adfd398e3314d01efe0cd1ea5e7c3bbc9c3275.png",
+    "corpus/notas-tecnicas/nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es/assets/image_000006_346bb3078f223a219670edd1c4adfd398e3314d01efe0cd1ea5e7c3bbc9c3275.png",
+    "corpus/notas-tecnicas/nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es/assets/image_000007_6c5031a550c66217e20cb8ad24242d681462f89e06c74a57029cc17628d6e04c.png",
+    "corpus/notas-tecnicas/nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es/assets/image_000008_b0428c3afd74f7e1a9ff9f8c417a6d4cceafc9fb23ac6a051a18a78234344276.png",
+    "corpus/notas-tecnicas/nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es/assets/image_000009_e8811700dc2762ac5ee5cf4f2e5105d194dd6ef5033fb2cffc2069723c4b6d0e.png",
+    "corpus/notas-tecnicas/nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es/assets/image_000010_346bb3078f223a219670edd1c4adfd398e3314d01efe0cd1ea5e7c3bbc9c3275.png",
+    "corpus/notas-tecnicas/nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es/assets/image_000011_346bb3078f223a219670edd1c4adfd398e3314d01efe0cd1ea5e7c3bbc9c3275.png",
+    "corpus/notas-tecnicas/nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es/assets/image_000012_b0428c3afd74f7e1a9ff9f8c417a6d4cceafc9fb23ac6a051a18a78234344276.png",
+    "sources/portal-nacional-nfe/notas-tecnicas/nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es/source.json",
+    "normalized/notas-tecnicas/nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es/normalized.json",
+    "changelog/notas-tecnicas/nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es.md"
+  ],
+  "original_filename": "NT2022.002v1.30a - Equipara\u00e7\u00e3o Exporta\u00e7\u00e3o e outras altera\u00e7\u00f5es.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT2022.002v1.30a - Equipara\u00e7\u00e3o Exporta\u00e7\u00e3o e outras altera\u00e7\u00f5es.pdf",
+  "original_sha256": "45b96f11d192afafba1d061b4f08eb1047c2609a60b940217a8a37921348b54f",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T16:49:55.429098+00:00",
+  "slug": "nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 13,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 13,
+    "missing_image_refs_count": 0
+  }
+}
