@@ -1,0 +1,37 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt-2008-004",
+  "category": "nota_tecnica",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/notas-tecnicas/nt-2008-004/document.md",
+    "corpus/notas-tecnicas/nt-2008-004/metadata.json",
+    "corpus/notas-tecnicas/nt-2008-004/assets/image_000000_fe6be84161521e88755b2fcf6266ac33af92377ba5aa975f460bc794e3ba9dba.png",
+    "corpus/notas-tecnicas/nt-2008-004/assets/image_000001_23df8919fce260704a8bc46cec3a6b03e65bf2d92b7a434232ab1120ee9bc7fd.png",
+    "corpus/notas-tecnicas/nt-2008-004/assets/image_000002_fcdfd12f49ac5b0eaf7228583cf71ad767177b3ec53fbc5d17ada094f0ea74c3.png",
+    "corpus/notas-tecnicas/nt-2008-004/assets/image_000003_03855e49621a60885bf4c39a53011576c07dc6f710dc2994f7e1ba3cb6605fe9.png",
+    "corpus/notas-tecnicas/nt-2008-004/assets/image_000004_2cf3aec89793c818f2bf1905551957621d1081334be23b3949ac12fb0a032a13.png",
+    "corpus/notas-tecnicas/nt-2008-004/assets/image_000005_2cf3aec89793c818f2bf1905551957621d1081334be23b3949ac12fb0a032a13.png",
+    "corpus/notas-tecnicas/nt-2008-004/assets/image_000006_2cf3aec89793c818f2bf1905551957621d1081334be23b3949ac12fb0a032a13.png",
+    "corpus/notas-tecnicas/nt-2008-004/assets/image_000007_cd002d4a3d9b9562448920a96ad92d7bab6ddec6d49d43d6b6ff37829369b32b.png",
+    "sources/portal-nacional-nfe/notas-tecnicas/nt-2008-004/source.json",
+    "normalized/notas-tecnicas/nt-2008-004/normalized.json",
+    "changelog/notas-tecnicas/nt-2008-004.md"
+  ],
+  "original_filename": "NT_2008_004.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT_2008_004.pdf",
+  "original_sha256": "ecf7d55133b6c29df329b8f965b105c3e996a3ad037513fd62cfb6b1f68c02bb",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T15:01:34.235671+00:00",
+  "slug": "nt-2008-004",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 8,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 8,
+    "missing_image_refs_count": 0
+  }
+}
