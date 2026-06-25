@@ -1,0 +1,32 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "moc-nfag-anexo-ii-danfag-v1-01",
+  "category": "manual",
+  "conversion": {
+    "image_export_mode": "referenced",
+    "output_format": "md",
+    "target_type": "zip",
+    "tool": "docling-server"
+  },
+  "converted_at_utc": "2026-06-25T19:30:09.837089+00:00",
+  "original_filename": "MOC_NFAg_Anexo_II_DANFAG - V1.01.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Manuais/MOC_NFAg_Anexo_II_DANFAG - V1.01.pdf",
+  "original_sha256": "0c13be4ee23555d1d8c4ddd3ae5dc839bff3fb1ba8dd38e230f33c2dbfa55ec0",
+  "public_paths": {
+    "assets": "corpus/manuais/moc-nfag-anexo-ii-danfag-v1-01/assets/",
+    "document": "corpus/manuais/moc-nfag-anexo-ii-danfag-v1-01/document.md",
+    "metadata": "corpus/manuais/moc-nfag-anexo-ii-danfag-v1-01/metadata.json"
+  },
+  "slug": "moc-nfag-anexo-ii-danfag-v1-01",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Controle de Vers\u00f5es",
+  "validation": {
+    "asset_count": 32,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 32,
+    "missing_image_refs_count": 0
+  }
+}
