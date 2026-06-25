@@ -1,0 +1,32 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2014-003-v1-02",
+  "category": "nota_tecnica",
+  "conversion": {
+    "image_export_mode": "referenced",
+    "output_format": "md",
+    "target_type": "zip",
+    "tool": "docling-server"
+  },
+  "converted_at_utc": "2026-06-25T15:12:32.853018+00:00",
+  "original_filename": "NT2014.003_v1.02.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT2014.003_v1.02.pdf",
+  "original_sha256": "9fd4d163923e8766476cb4c33a3392d2c4c456a5629cbe468f02bc92efd4f93c",
+  "public_paths": {
+    "assets": "corpus/notas-tecnicas/nt2014-003-v1-02/assets/",
+    "document": "corpus/notas-tecnicas/nt2014-003-v1-02/document.md",
+    "metadata": "corpus/notas-tecnicas/nt2014-003-v1-02/metadata.json"
+  },
+  "slug": "nt2014-003-v1-02",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 24,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 24,
+    "missing_image_refs_count": 0
+  }
+}
