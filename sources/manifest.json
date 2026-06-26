@@ -55,6 +55,15 @@
       "title": "Bandeiras de Cartão de Crédito/Débito",
       "status": "published",
       "published_at": "2026-06-26T00:00:00+00:00"
+    },
+    {
+      "slug": "tabela-cclass",
+      "category": "geral",
+      "subdir": "tabelas-federais",
+      "family": "portal_nacional_nfe",
+      "title": "Código de Classificação",
+      "status": "published",
+      "published_at": "2026-06-26T00:00:00+00:00"
     }
   ],
   "schemas": {

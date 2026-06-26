@@ -1,0 +1,15 @@
+{
+  "slug": "tabela-cclass",
+  "corpus_category": "geral",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "original_sha256": "c2f1419188cf780c11dbd15a477ea8d6425b50e90d8f40a1cef7dfc2edd5309d",
+  "original_filename": "Tabela-cClass.xlsx",
+  "title": "Código de Classificação",
+  "status": "published",
+  "derived_public_files": {
+    "metadata": "corpus/geral/tabelas-federais/tabela-cclass/metadata.json",
+    "readme": "corpus/geral/tabelas-federais/tabela-cclass/README.md"
+  },
+  "published_at": "2026-06-26T00:00:00+00:00"
+}
