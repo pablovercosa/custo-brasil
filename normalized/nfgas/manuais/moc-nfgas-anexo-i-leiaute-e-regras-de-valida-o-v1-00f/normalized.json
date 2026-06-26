@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f",
+  "category": "manual",
+  "document_path": "corpus/nfgas/manuais/moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f/document.md",
+  "metadata_path": "corpus/nfgas/manuais/moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "MOC_NFGas_Anexo I_Leiaute e Regras de Validação_v1.00f.pdf",
+  "original_sha256": "d99e74368add4f59b5f50c179d78e7038eded22181a3434bff9add7e7700688a",
+  "published_at_utc": "2026-06-25T17:56:10.924642+00:00",
+  "slug": "moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal-nacional-nfe/manuais/moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f/source.json",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletrônica do Gás",
+  "validation": {
+    "asset_count": 52,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 52,
+    "missing_image_refs_count": 0
+  }
+}
