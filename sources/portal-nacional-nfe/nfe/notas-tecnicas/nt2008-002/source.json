@@ -1,0 +1,36 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2008-002",
+  "category": "nota_tecnica",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/nfe/notas-tecnicas/nt2008-002/document.md",
+    "corpus/nfe/notas-tecnicas/nt2008-002/metadata.json",
+    "corpus/nfe/notas-tecnicas/nt2008-002/assets/image_000000_c4e6daffbc318bd841fc00aef9f87a94e2b919c94e64e8100d060f4f9064a90b.png",
+    "corpus/nfe/notas-tecnicas/nt2008-002/assets/image_000001_97125cda11fbe48db007214ab43d4640ad74064abcf03deb1a40748683585098.png",
+    "corpus/nfe/notas-tecnicas/nt2008-002/assets/image_000002_92184f8bd39470e2cf03d293f30a766371086dd26fbc979d64245d6a03989d07.png",
+    "corpus/nfe/notas-tecnicas/nt2008-002/assets/image_000003_03855e49621a60885bf4c39a53011576c07dc6f710dc2994f7e1ba3cb6605fe9.png",
+    "corpus/nfe/notas-tecnicas/nt2008-002/assets/image_000004_ad26cc5286de90e8f937dbe735aa4b042e009b1a847f39bc348cedb1609f0e44.png",
+    "corpus/nfe/notas-tecnicas/nt2008-002/assets/image_000005_dc00abc4fd4d9c8f614df600cecec7c57793c9e5d5608c372429c5471073a6cc.png",
+    "corpus/nfe/notas-tecnicas/nt2008-002/assets/image_000006_df7055f4c2d9b14779ff6254afd8dd0118c777def5d78811e51d937d6080c8d0.png",
+    "sources/portal-nacional-nfe/nfe/notas-tecnicas/nt2008-002/source.json",
+    "normalized/nfe/notas-tecnicas/nt2008-002/normalized.json",
+    "changelog/nfe/notas-tecnicas/nt2008-002.md"
+  ],
+  "original_filename": "NT2008.002.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Técnicas/NT2008.002.pdf",
+  "original_sha256": "e93954e307cab8b8cdc26ad85fb7a51a253c9b22d4d49778ce4905b015e45ef9",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T14:57:12.720361+00:00",
+  "slug": "nt2008-002",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Projeto Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 7,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 7,
+    "missing_image_refs_count": 0
+  }
+}
