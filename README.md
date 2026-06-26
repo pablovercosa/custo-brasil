@@ -1,3 +1,6 @@
+![](cabecalho.jpg)
+
+
 # Custo Brasil
 
 Base pública, versionada e rastreável de documentação técnico-normativa fiscal brasileira, organizada para leitura em Markdown, Obsidian e ferramentas de IA.
