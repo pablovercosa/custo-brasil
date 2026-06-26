@@ -262,6 +262,15 @@
       "title": "Códigos de Benefícios Fiscais SP",
       "status": "published",
       "published_at": "2026-06-26T00:00:00+00:00"
+    },
+    {
+      "slug": "cbenef-sp-ods",
+      "category": "nfe",
+      "subdir": "Estado de SP",
+      "family": "portal_nacional_nfe",
+      "title": "cBenef SP (ODS)",
+      "status": "published",
+      "published_at": "2026-06-26T00:00:00+00:00"
     }
   ],
   "schemas": {
