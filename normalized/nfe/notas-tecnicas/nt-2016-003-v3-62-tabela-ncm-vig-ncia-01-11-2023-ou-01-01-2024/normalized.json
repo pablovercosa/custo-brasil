@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024",
+  "category": "nota_tecnica",
+  "document_path": "corpus/nfe/notas-tecnicas/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/document.md",
+  "metadata_path": "corpus/nfe/notas-tecnicas/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "NT 2016_003 v3.62 - Tabela NCM -  vigência 01-11-2023 ou 01-01-2024.pdf",
+  "original_sha256": "9ba730fa2d7c7c2c041da941a56058bd4f212e0c91074e2306b21183f5344b53",
+  "published_at_utc": "2026-06-25T15:45:09.283230+00:00",
+  "slug": "nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/source.json",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 5,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 5,
+    "missing_image_refs_count": 0
+  }
+}
