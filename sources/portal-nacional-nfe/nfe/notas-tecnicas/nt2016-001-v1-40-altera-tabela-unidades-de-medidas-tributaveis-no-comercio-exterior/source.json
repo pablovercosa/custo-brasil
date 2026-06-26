@@ -1,0 +1,38 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior",
+  "category": "nota_tecnica",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/nfe/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior/document.md",
+    "corpus/nfe/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior/metadata.json",
+    "corpus/nfe/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior/assets/image_000000_a22de9a632d41a91c3c8b1c2c1926dcfcda76eba440bf2853484818cf86956f6.png",
+    "corpus/nfe/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior/assets/image_000001_515b827cf60d13cd0960000d1f4f9f2106eb8e1d6c9283b7acd7a28a0d444fd5.png",
+    "corpus/nfe/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior/assets/image_000002_a79b33c4ccaa726280ae6b90de1da687cbd5ba1142874f4164893418f428523f.png",
+    "corpus/nfe/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior/assets/image_000003_eb89c7f00c5a2edf9f72526202e629c80d94b5b8b62d40423c1c8b25e6f4ad66.png",
+    "corpus/nfe/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior/assets/image_000004_f71b6e72534322c583512d9dd06deae8a7712686f5a38c6612207d7439690131.png",
+    "corpus/nfe/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior/assets/image_000005_ec6fa341775bf30c8afe0d63cab26d01eaeda2fb004de7a765be161e79469cc3.png",
+    "corpus/nfe/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior/assets/image_000006_f71b6e72534322c583512d9dd06deae8a7712686f5a38c6612207d7439690131.png",
+    "corpus/nfe/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior/assets/image_000007_c25512688ff246335e58c19d0837cdc8c0e808df60764d7f44828cb112a91ec5.png",
+    "corpus/nfe/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior/assets/image_000008_43676d47e239fa75f1646e46a9657315d2a7dff064c6026d5223da9cea4cd19b.png",
+    "sources/portal-nacional-nfe/nfe/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior/source.json",
+    "normalized/nfe/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior/normalized.json",
+    "changelog/nfe/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior.md"
+  ],
+  "original_filename": "NT2016 001 V1_40 - Altera tabela - Unidades de Medidas Tributaveis no Comercio Exterior.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Técnicas/NT2016 001 V1_40 - Altera tabela - Unidades de Medidas Tributaveis no Comercio Exterior.pdf",
+  "original_sha256": "0a60137242cc4c5cfdca07871f94fb1be257b74bc8c461caf893abab7ade39bf",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T14:52:33.319707+00:00",
+  "slug": "nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Projeto Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 9,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 9,
+    "missing_image_refs_count": 0
+  }
+}
