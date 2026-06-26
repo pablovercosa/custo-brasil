@@ -1,0 +1,15 @@
+{
+  "slug": "tabela-combustiveis-monofasica",
+  "corpus_category": "geral",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "original_sha256": "be7cdb342e95eb15990070bf17105a25e38aba28af8d3eebdb4ea7fe96773460",
+  "original_filename": "Tabela de Combustíveis Sujeitos à Tributação Monofásica-20251202 (vigência a partir de 01-01-2026).xlsx",
+  "title": "Combustíveis Monofásica",
+  "status": "published",
+  "derived_public_files": {
+    "metadata": "corpus/geral/tabelas-federais/tabela-combustiveis-monofasica/metadata.json",
+    "readme": "corpus/geral/tabelas-federais/tabela-combustiveis-monofasica/README.md"
+  },
+  "published_at": "2026-06-26T00:00:00+00:00"
+}

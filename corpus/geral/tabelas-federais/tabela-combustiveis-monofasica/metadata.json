@@ -1,0 +1,32 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "tabela-combustiveis-monofasica",
+  "category": "geral",
+  "conversion": {
+    "image_export_mode": "none",
+    "output_format": "csv",
+    "target_type": "dir",
+    "tool": "openpyxl"
+  },
+  "converted_at_utc": "2026-06-26T15:52:06.606032+00:00",
+  "original_filename": "Tabela de Combustíveis Sujeitos à Tributação Monofásica-20251202 (vigência a partir de 01-01-2026).xlsx",
+  "original_sha256": "be7cdb342e95eb15990070bf17105a25e38aba28af8d3eebdb4ea7fe96773460",
+  "public_paths": {
+    "document": "corpus/geral/tabelas-federais/tabela-combustiveis-monofasica/document.md",
+    "metadata": "corpus/geral/tabelas-federais/tabela-combustiveis-monofasica/metadata.json",
+    "csv": "corpus/geral/tabelas-federais/tabela-combustiveis-monofasica/csv/"
+  },
+  "slug": "tabela-combustiveis-monofasica",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "status": "converted",
+  "title": "Combustíveis - Tributação Monofásica",
+  "validation": {
+    "asset_count": 0,
+    "sheets": [
+      "Dados atuais",
+      "Dados históricos"
+    ],
+    "total_rows": 193
+  }
+}
