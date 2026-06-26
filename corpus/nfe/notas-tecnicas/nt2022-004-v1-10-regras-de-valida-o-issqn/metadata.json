@@ -1,0 +1,32 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2022-004-v1-10-regras-de-valida-o-issqn",
+  "category": "nota_tecnica",
+  "conversion": {
+    "image_export_mode": "referenced",
+    "output_format": "md",
+    "target_type": "zip",
+    "tool": "docling-server"
+  },
+  "converted_at_utc": "2026-06-25T15:33:57.727441+00:00",
+  "original_filename": "NT2022.004 - v1.10 - Regras de Validação ISSQN.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Técnicas/NT2022.004 - v1.10 - Regras de Validação ISSQN.pdf",
+  "original_sha256": "58c4bfdbb0878a8240024317f376df57da595aa6cf726ef175ee4f4a097ea05d",
+  "public_paths": {
+    "assets": "corpus/nfe/notas-tecnicas/nt2022-004-v1-10-regras-de-valida-o-issqn/assets/",
+    "document": "corpus/nfe/notas-tecnicas/nt2022-004-v1-10-regras-de-valida-o-issqn/document.md",
+    "metadata": "corpus/nfe/notas-tecnicas/nt2022-004-v1-10-regras-de-valida-o-issqn/metadata.json"
+  },
+  "slug": "nt2022-004-v1-10-regras-de-valida-o-issqn",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Sistema Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 9,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 9,
+    "missing_image_refs_count": 0
+  }
+}

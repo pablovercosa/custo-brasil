@@ -1,0 +1,38 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2022-004-v1-10-regras-de-valida-o-issqn",
+  "category": "nota_tecnica",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/nfe/notas-tecnicas/nt2022-004-v1-10-regras-de-valida-o-issqn/document.md",
+    "corpus/nfe/notas-tecnicas/nt2022-004-v1-10-regras-de-valida-o-issqn/metadata.json",
+    "corpus/nfe/notas-tecnicas/nt2022-004-v1-10-regras-de-valida-o-issqn/assets/image_000000_6c545e385dc554d4f2538dc5f2f8e123229188ad3a37c64853552479f699396f.png",
+    "corpus/nfe/notas-tecnicas/nt2022-004-v1-10-regras-de-valida-o-issqn/assets/image_000001_5dd5d5e16748c7abcded3a0035d3a12ebd8073cdc66cfc62ca495386dd8ab477.png",
+    "corpus/nfe/notas-tecnicas/nt2022-004-v1-10-regras-de-valida-o-issqn/assets/image_000002_4f156f2c8dd28b38a94591806b062ef98645ee5a37b3e3d835ff1d2302be224e.png",
+    "corpus/nfe/notas-tecnicas/nt2022-004-v1-10-regras-de-valida-o-issqn/assets/image_000003_daff8b9eb665010935ea69799779bce55373064cdab97b881aedc0e90967f801.png",
+    "corpus/nfe/notas-tecnicas/nt2022-004-v1-10-regras-de-valida-o-issqn/assets/image_000004_29181af27e9578ffb24e50a04e34d03811a5afe846e44a511a6ea99316b8d646.png",
+    "corpus/nfe/notas-tecnicas/nt2022-004-v1-10-regras-de-valida-o-issqn/assets/image_000005_13b16160b02ccb658834d362d1424ee70940acd5d1e3a3d85b2447c34c1ecf51.png",
+    "corpus/nfe/notas-tecnicas/nt2022-004-v1-10-regras-de-valida-o-issqn/assets/image_000006_daff8b9eb665010935ea69799779bce55373064cdab97b881aedc0e90967f801.png",
+    "corpus/nfe/notas-tecnicas/nt2022-004-v1-10-regras-de-valida-o-issqn/assets/image_000007_036a5fd1e563f35614e21bd34847a71048bd08a8bf0d20540504e4332a5eb899.png",
+    "corpus/nfe/notas-tecnicas/nt2022-004-v1-10-regras-de-valida-o-issqn/assets/image_000008_6cba6ea60d678d8b48b6098c14418cea2618e407b71128547241906d30a6da96.png",
+    "sources/portal-nacional-nfe/nfe/notas-tecnicas/nt2022-004-v1-10-regras-de-valida-o-issqn/source.json",
+    "normalized/nfe/notas-tecnicas/nt2022-004-v1-10-regras-de-valida-o-issqn/normalized.json",
+    "changelog/nfe/notas-tecnicas/nt2022-004-v1-10-regras-de-valida-o-issqn.md"
+  ],
+  "original_filename": "NT2022.004 - v1.10 - Regras de Validação ISSQN.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Técnicas/NT2022.004 - v1.10 - Regras de Validação ISSQN.pdf",
+  "original_sha256": "58c4bfdbb0878a8240024317f376df57da595aa6cf726ef175ee4f4a097ea05d",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T15:33:57.727441+00:00",
+  "slug": "nt2022-004-v1-10-regras-de-valida-o-issqn",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Sistema Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 9,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 9,
+    "missing_image_refs_count": 0
+  }
+}
