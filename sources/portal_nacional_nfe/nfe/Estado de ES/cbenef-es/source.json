@@ -1,0 +1,15 @@
+{
+  "slug": "cbenef-es",
+  "corpus_category": "nfe",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "original_sha256": "bb2b89a07b4e2c3f4380382aa8b18108b5ab76bf00121e3896311d6e964a94ac",
+  "original_filename": "cBenef ES V6.xlsx",
+  "title": "cBenef ES V6",
+  "status": "published",
+  "derived_public_files": {
+    "metadata": "corpus/nfe/Estado de ES/cbenef-es/metadata.json",
+    "readme": "corpus/nfe/Estado de ES/cbenef-es/README.md"
+  },
+  "published_at": "2026-06-26T00:00:00+00:00"
+}

@@ -1,0 +1,817 @@
+TABELA CBENEF X CST PARA OS BENEFÍCIOS FISCAIS VIGENTES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Cbenef,Aplica ao Simples Nacional,"CST 00 
+(Tributada integralmente)","CST 10 
+(Tributada e com cobrança do ICMS por substituição tributária)","CST 20 
+(Com redução de base de cálculo)","CST 30 
+(Isenta ou não tributada e com cobrança do ICMS por substituição tributária)","CST 40 
+(Isenta)","CST 41 
+(Não tributada)","CST 50 
+(Suspensão)","CST 51 
+(Diferimento)","CST 60 
+(ICMS cobrado anteriormente por substituição tributária)","CST 70 
+(Com redução de base de cálculo e cobrança do ICMS por substituição tributária)","CST 90 
+(Outras)",DATA INÍCIO,DT FINAL,DESCRIÇÃO: SETORES/PROGRAMAS/BENEFICIÁRIOS,CAPITULAÇÃO LEGAL,OBSERVAÇÃO,,,,,,,,,,,,,,,
+-,SIM,SIM,SIM,,,,,SIM,SIM,SIM,,SIM,,,Sem preenchimento do cBenef.,Sem preenchimento do cBenef,,,,,,,,,,,,,,,,
+SEM CBENEF,SIM,,,SIM,SIM,SIM,SIM,,,,SIM,,,,Item sem cBenef e UF exige cBenef para o CST.,,,,,,,,,,,,,,,,,
+ES100001,SIM,,,,SIM,SIM,,,,,,,2018-03-01 00:00:00,2032-12-31 00:00:00,"Operações de energia elétrica na quantidade correspondente à soma de energia elétrica injetada na rede com créditos de energia ativa, oriundos de micro e minigeração distribuída de energia fotovoltaica aderentes ao Sistema de Compensação de Energia Elétrica, conforme disposições do art. 5º-D da Lei 7.000/2001.","Art. 5º-D da Lei 7.000/01
+Convênio ICMS 190/17
+Lei nº 11.253/2021",Isenção do ICMS,,,,,,,,,,,,,,,
+ES120001,SIM,,,,SIM,SIM,,,,,,,2016-07-01 00:00:00,2032-12-31 00:00:00,Operações sob amparo do Programa de Incentivo ao Investimento no Estado do Espírito Santo - INVEST-ES.,Lei 10.550/2016,Isenção do ICMS,,,,,,,,,,,,,,,
+ES130001,SIM,,,,SIM,SIM,,,,,,,2021-12-16 00:00:00,2026-04-30 00:00:00,Operações realizadas no âmbito do REPETRO.,"Art. 5º-C, II da Lei 7.000/01
+Art. 5º, CXXXVIII e CXXXIX do RICMS/ES
+Convênio ICMS 03/18
+Convênio ICMS 130/07
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100002,SIM,,,,SIM,SIM,,,,,,,2018-12-03 00:00:00,,"Operações internas, interestaduais e de importação com medicamentos destinados ao tratamento da AME.","Art. 5º, § 7º da Lei 7.000/01
+Art. 5º, CLXXXVI do RICMS/ES
+Convênio ICMS 57/17
+Convênio ICMS 84/18",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100003,SIM,,,,SIM,SIM,,,,,,,2019-10-07 00:00:00,,"Compra de veículo novo habitualmente destinado ao transporte privado de passageiros, intermediado por aplicativos via internet.","Art. 5º, § 9º da Lei 7.000/01
+Anexo III, item 4 da Lei 7.000/01
+Convênio ICMS 28/19",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100004,SIM,,,,SIM,SIM,,,,,,,2020-01-28 00:00:00,,Aquisições de máquinas e equipamentos por contribuintes estabelecidos nos Municípios abrangidos por estado de emergência ou de calamidade pública motivados pela chuva.,"Art. 5º, § 11 da Lei 7.000/01
+",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100005,SIM,,,,SIM,SIM,,,,,,,2021-11-29 00:00:00,,"Operações de saídas internas de arroz, com destino a consumidor final.","Art. 5º-E da Lei 7.000/01
+Art. 5º, CLXXXIV do RICMS/ES",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100006,SIM,,,,SIM,SIM,,,,,,,2021-11-29 00:00:00,,"Operações de saídas internas de feijão, com destino a consumidor final.","Art. 5º-F da Lei 7.000/01
+Art. 5º, CLXXXV do RICMS/ES",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100007,SIM,,,,SIM,SIM,,,,,,,2022-05-25 00:00:00,2032-12-31 00:00:00,Saída interna de pedra britada.,Art. 5º-G da Lei 7.000/01,Isenção do ICMS,,,,,,,,,,,,,,,
+ES100008,SIM,,,,SIM,SIM,,,,,,,2022-07-18 00:00:00,2032-12-31 00:00:00,"Operações internas de saída de lajes pré-moldadas, tijolos cerâmicos, blocos de concreto, telhas cerâmicas, tijoleiras de cerâmica, etc. ",Art. 5º-H da Lei 7.000/01,Isenção do ICMS,,,,,,,,,,,,,,,
+ES100009,SIM,,,,SIM,SIM,,,,,,,2022-12-26 00:00:00,,Operações internas de saída de pão francês ou de sal.,Art. 5º-I da Lei 7.000/01,Isenção do ICMS,,,,,,,,,,,,,,,
+ES100010,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Saída de vasilhames, recipientes e embalagens","Art. 5º, I do RICMS/ES
+Convênio ICMS 88/91",Isenção do ICMS,,,,,,,,,,,,,,,
+ES130002,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Entrada, do exterior, amparada pelo BEFIEX.","Art. 5º, II do RICMS/ES
+Convênio ICMS 130/94",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100011,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Recebimento, do exterior, de máquinas, aparelhos e equipamentos recebidos em doação ou adquiridos pelo Serviço Nacional de Aprendizagem Industrial – SENAI ","Art. 5º, III do RICMS/ES
+Convênio ICMS 62/97",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100012,SIM,,,,SIM,SIM,,,,,,,2005-02-15 00:00:00,,"Operações de importação beneficiada com as isenções previstas na Lei federal n.º 8.010, de 29 /03/ 1990 (bens destinados à pesquisa científica e tecnológica).","Art. 5º, IV do RICMS/ES
+Convênio ICMS 93/98
+Convênio ICMS 111/04",Isenção do ICMS,,,,,,,,,,,,,,,
+ES130003,SIM,,,,SIM,SIM,,,,,,,2011-03-01 00:00:00,,Operações de importação realizadas sob o regime de drawback.,"Art. 5º, V do RICMS/ES
+Convênio ICMS 27/90
+Convênio ICMS 94/94",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100013,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Fornecimento, para consumo residencial, de energia elétrica até 50 kwh mensais ou 250kwh mensais, quando gerada por fonte termelétrica em sistema isolado.","Art. 5º, VII do RICMS/ES
+Convênio ICMS 20/89
+Convênio ICMS 151/94",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100014,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,Prestação de serviço de transporte de passageiros.,"Art. 5º, VIII do RICMS/ES
+Convênio ICMS 37/89
+Convênio ICMS 151/94",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100015,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Serviço local de difusão sonora, visando o combate à sonegação.","Art. 5º, IX do RICMS/ES
+Convênio ICMS 08/89
+Convênio ICMS 102/96",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100016,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Saída, exceto quando destinada à industrialização, e a respectiva prestação de serviços de transporte, de flores, funcho e frutas secas, produtos hortícolas, ovos, caprinos, etc.","Art. 5º, X do RICMS/ES
+Convênio ICMS 44/75
+Convênio ICMS 68/90
+Convênio ICMS 124/93",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100017,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Recebimento, por doação, de produtos importados, do exterior, diretamente por órgãos ou entidades da administração pública direta ou indireta, fundações ou entidades beneficentes ou de assistência social.","Art. 5º, XI do RICMS/ES
+Convênio ICMS 80/95
+",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100018,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Entrada, decorrente de importação, e a posterior saída, de mercadorias doadas por organizações internacionais ou estrangeiras, para distribuição gratuita em programas implementados por instituição educacional ou de assistência social.","Art. 5º, XII do RICMS/ES
+Convênio ICMS 55/89",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100019,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Saída de mercadorias em decorrência de doações a entidades, para assistência a vítimas de calamidade pública.","Art. 5º, XIII do RICMS/ES
+Convênio ICMS 26/75
+Convênio ICMS 39/90
+Convênio ICMS 151/94",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100020,SIM,,,,SIM,SIM,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,Saída de mercadoria decorrente de doação efetuada à Secretaria de Estado da Educação.,"Art. 5º, XIV do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 78/92
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100021,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Saída de produtos alimentícios, considerados ""perdas"", com destino aos estabelecimentos do Banco de Alimentos (Food Bank) e do Instituto de Integração e de Promoção da Cidadania (INTEGRA).","Art. 5º, XVI do RICMS/ES
+Convênio ICMS 136/94",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100022,SIM,,,,SIM,SIM,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,"Saídas de mercadorias, em decorrência de doação a órgãos e entidades da administração pública ou a entidades assistenciais, para assistência às vítimas de situação de seca nacionalmente reconhecida.","Art. 5º, XVII do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 57/98
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100023,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Saída de material de consumo, equipamentos e outros bens móveis doados pela EMBRATEL.","Art. 5º, XVIII do RICMS/ES
+Convênio ICMS 15/00",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100024,SIM,,,,SIM,SIM,,,,,,,2004-09-30 00:00:00,,"Operações realizadas com reprodutores e matrizes de animais vacuns, ovinos, suínos e bufalinos.","Art. 5º, XIX do RICMS/ES
+Convênio ICMS 35/77
+Convênio ICMS 46/90
+Convênio ICMS 12/04
+Convênio ICMS 74/04",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100025,SIM,,,,SIM,SIM,,,,,,,2011-04-01 00:00:00,,Saída interna de leite in natura.,"Art. 5º, XX do RICMS/ES
+Convênio ICMS 25/83
+Convênio ICMS 43/90
+Convênio ICMS 124/93",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100026,SIM,,,,SIM,SIM,,,,,,,2019-05-01 00:00:00,,Operações com medicamento destinado ao tratamento dos portadores do vírus da AIDS.,"Art. 5º, XXI do RICMS/ES
+Anexo III, item 1 da Lei 7.000/01
+Convênio ICMS 10/02
+Convênio ICMS 01/19",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100027,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Operações com produtos farmacêuticos, realizadas entre órgãos ou entidades públicas.","Art. 5º, XXII do RICMS/ES
+Convênio ICMS 40/75
+Convênio ICMS 41/90
+Convênio ICMS 151/94",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100028,SIM,,,,SIM,SIM,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,Operação de importação de medicamentos pela Associação de Pais e Amigos dos Excepcionais (APAE).,"Art. 5º, XXIII do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 41/91
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100029,SIM,,,,SIM,SIM,,,,,,,2019-05-01 00:00:00,,Operações com medicamentos destinados ao tratamento de câncer.,"Art. 5º, XXIV do RICMS/ES
+Anexo III, item 3 da Lei 7.000/01
+Convênio ICMS 162/94
+Convênio ICMS 03/19",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100030,SIM,,,,SIM,SIM,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,"Operações de importação, pela Fundação Nacional de Saúde e pelo Ministério da Saúde, de produtos destinados às campanhas de vacinação e de combate à dengue, à malária e à febre amarela e outros agravos.","Art. 5º, XXV do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 95/98
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100031,SIM,,,,SIM,SIM,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,"Operações com fármacos e medicamentos destinados a órgãos da Administração Pública Direta Federal, Estadual e Municipal.","Art. 5º, XXVI do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 87/02
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100032,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Fornecimento de refeições, nos termos especificados.","Art. 5º, XXVIII do RICMS/ES
+Convênio ICMS 01/75
+Convênio ICMS 35/90
+Convênio ICMS 151/94",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100033,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Saída, real ou simbólica, de sucata.","Art. 5º, XXIX do RICMS/ES
+V Convênio do RJ de 1968
+Convênio ICMS 12/85
+Convênio ICMS 31/90
+Convênio ICMS 151/94",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100034,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Saída, de estabelecimento de concessionária de serviços públicos de energia elétrica ou de telecomunicações, de bens destinados à utilização em suas próprias instalações.","Art. 5º, XXX do RICMS/ES
+Convênio AE 05/72
+Protocolo AE 09/73
+Convênio ICMS 33/90
+Convênio ICMS 151/94",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100035,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Saída de mercadorias de produção própria, promovida por instituição de assistência social e educação.","Art. 5º, XXXI do RICMS/ES
+Convênio ICMS 38/82
+Convênio ICMS 52/90
+Convênio ICMS 121/95",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100036,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,Saída e retorno de mercadorias com destino a exposições ou feiras.,"Art. 5º, XXXII do RICMS/ES
+I Convênio do RJ de 1967
+Convênio de Cuiabá de 1967
+Convênio ICMS 30/90
+Convênio ICMS 151/94",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100037,SIM,,,,SIM,SIM,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,"Saídas internas de veículos automotores, máquinas e equipamentos, quando adquiridos por corpos de bombeiros voluntários.","Art. 5º, XXXIV do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 32/95
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100038,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Saída interna de veículos, quando adquiridos pela Secretaria de Estado de Segurança Pública e pela Secretaria de Estado da Fazenda.","Art. 5º, XXXV do RICMS/ES
+Convênio ICMS 34/92",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100039,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Saída interna com peças de argamassa armada, destinada à obras objeto de convênio ou contrato firmados com a Administração Pública.","Art. 5º, XXXVI do RICMS/ES
+Convênio ICMS 12/93
+Convênio ICMS 91/93",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100040,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,Saída de produtos típicos de artesanato regional.,"Art. 5º, XXXVII do RICMS/ES
+Convênio ICMS 32/75
+Convênio ICMS 40/90
+Convênio ICMS 151/94",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100041,SIM,,,,SIM,SIM,,,,,,,2014-02-19 00:00:00,,Saída de produtos industrializados promovidas por lojas francas (free shops) instaladas nas zonas primárias dos aeroportos de categoria internacional.,"Art. 5º, XXXVIII do RICMS/ES
+Convênio ICMS 91/91
+Convênio ICMS 04/14",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100042,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,Serviço de transporte ferroviário de carga vinculado às operações de exportação e importação de países signatários do Acordo sobre o Transporte Internacional.,"Art. 5º, XXXIX do RICMS/ES
+Convênio ICMS 30/96",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100043,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Saída interna e retorno de bens integrados ao ativo imobilizado, de moldes, matrizes, gabaritos, padrões, chapelonas, modelos e estampas.","Art. 5º, XL do RICMS/ES
+Convênio ICMS 70/90
+Convênio ICMS 151/94",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100044,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Saída interna, entre estabelecimentos de uma mesma empresa, de bens integrados ao ativo imobilizado.","Art. 5º, XLI do RICMS/ES
+Convênio ICMS 70/90
+Convênio ICMS 151/94",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100045,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Saída decorrente de destroca de botijões vazios, destinados ao acondicionamento de GLP.","Art. 5º, XLII do RICMS/ES
+Convênio ICMS 88/91",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100046,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,Saída de trava-blocos para a construção de casas populares.,"Art. 5º, XLIII do RICMS/ES
+Convênio ICMS 35/92",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100047,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Saída de papel-moeda, moeda metálica e cupom de distribuição de leite, promovida pela Casa da Moeda do Brasil.","Art. 5º, XLIV do RICMS/ES
+Convênio ICMS 01/91",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100048,SIM,,,,SIM,SIM,,,,,,,2015-06-30 00:00:00,,"Operações internas e interestaduais com oócito, embrião ou sêmen, congelado ou resfriado, de bovinos, ovinos, caprinos ou suínos.","Art. 5º, XLV do RICMS/ES
+Convênio ICMS 70/92
+Convênio ICMS 26/15",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100049,SIM,,,,SIM,SIM,,,,,,,2012-04-05 00:00:00,,"Saída de produtos constantes da lista anexa ao Convênio ICM 07/89, com destino à Zona Franca de Manaus.","Art. 5º, XLVI do RICMS/ES
+Convênio ICMS 65/88
+Convênio ICMS 36/97",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100050,SIM,,,,SIM,SIM,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,"Operações de entrada de mercadoria importadas para a industrialização de componentes e derivados de sangue, nos casos que especifica.","Art. 5º, XLVII do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 24/89
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100051,SIM,,,,SIM,SIM,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,"Aquisições de equipamentos e acessórios destinados às instituições que atendam aos portadores de deficiência física, auditiva, mental, visual e múltipla.","Art. 5º, XLVIII do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 38/91
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100052,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Saída interna de produtos resultantes do trabalho de reeducação dos detentos, promovida pelos estabelecimentos do sistema penitenciário deste Estado.","Art. 5º, XLIX do RICMS/ES
+Convênio ICMS 85/94",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100053,SIM,,,,SIM,SIM,,,,,,,2010-05-13 00:00:00,,"Saída de obra de arte, nas condições especificadas.","Art. 5º, L do RICMS/ES
+Convênio ICMS 59/91
+Convênio ICMS 151/94",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100054,SIM,,,,SIM,SIM,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,"Operação de importação de aparelhos, máquinas, equipamentos e instrumentos médico hospitalares ou técnico-científicos laboratoriais, sem similar produzido no país.","Art. 5º, LI do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 104/89
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100055,SIM,,,,SIM,SIM,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,"Operação de importação de equipamento médicohospitalar, sem similar produzido no País, realizada por clínica ou hospital que se comprometa a compensar este benefício.","Art. 5º, LII do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 05/98
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100056,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Saída interna de mudas de plantas, exceto as ornamentais.","Art. 5º, LIV do RICMS/ES
+Convênio ICMS 54/91",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100057,SIM,,,,SIM,SIM,,,,,,,2021-04-01 00:00:00,2025-12-31 00:00:00,"Saída interna de insumos com destino à apicultura, à aquicultura, à avicultura, à cunicultura, à ranicultura e à sericultura.","Art. 5º, LV do RICMS/ES
+Convênio ICMS 100/97
+Convênio ICMS 26/21",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100058,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Operação de importação, por órgão da administração pública direta, suas autarquias e fundações, de mercadorias destinadas a integrar seu ativo fixo ou para seu uso ou consumo.","Art. 5º, LVII do RICMS/ES
+Convênio ICMS 48/93",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100059,SIM,,,,SIM,SIM,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,Saída de produtos que divulguem atividades da Fundação Pró-Tamar e do Programa Nacional de Proteção às Tartarugas Marinhas.,"Art. 5º, LVIII do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 55/92
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100060,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,Saída de materiais e equipamentos destinados à Itaipu Binacional.,"Art. 5º, LIX do RICMS/ES
+Convênio ICMS 10/75
+Convênio ICMS 36/90",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100061,SIM,,,,SIM,SIM,,,,,,,2010-11-26 00:00:00,,Operações com artigos e aparelhos ortopédicos e para fraturas e outros que especifica.,"Art. 5º, LX do RICMS/ES
+Convênio ICMS 126/10",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100062,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Operação interna de fornecimento de energia elétrica e serviços de telecomunicação, destinada a consumo por órgãos da administração pública estadual direta e suas fundações e autarquias.","Art. 5º, LXI do RICMS/ES
+Convênio ICMS 107/95",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100063,SIM,,,,SIM,SIM,,,,,,,2010-01-21 00:00:00,,Operações realizadas pela Empresa Brasileira de Pesquisa Agropecuária – EMBRAPA.,"Art. 5º, LXII do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 64/95",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100064,SIM,,,,SIM,SIM,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,"Operação de importação pela companhia estadual de saneamento, de produtos importados do exterior, destinados à implantação de projeto de saneamento básico.","Art. 5º, LXIII do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 42/95
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100065,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,Saída interestadual e o respectivo retorno de equipamentos de propriedade da EMBRATEL.,"Art. 5º, LXIV do RICMS/ES
+Convênio ICMS 105/95",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100066,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Operação de importação com mercadorias ou bens, provenientes do exterior, na forma que especifica.","Art. 5º, LXV do RICMS/ES
+Convênio ICMS 18/95",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100067,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Saída, a título de distribuição gratuita, de amostra de produto.","Art. 5º, LXVI do RICMS/ES
+Convênio ICMS 29/90",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100068,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,Operação de venda do bem arrendado ao arrendatário.,"Art. 5º, LXVII do RICMS/ES
+Convênio ICMS 04/97",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100069,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,Operação de importação e saída de mercadorias  em decorrência de aquisições efetuadas pelo executor do Projeto Gasoduto Brasil-Bolívia.,"Art. 5º, LXIX do RICMS/ES
+Convênio ICMS 68/97",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100070,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,Operação de importação e internas com mercadorias destinadas à aplicação no sistema de informática da Secretaria de Estado da Fazenda (SEFAZ).,"Art. 5º, LXXII do RICMS/ES
+Convênio ICMS 61/97",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100071,SIM,,,,SIM,SIM,,,,,,,2012-04-05 00:00:00,,"Saídas de produtos constantes da lista anexa ao Convênio ICM 07/89, de origem nacional, para comercialização ou industrialização nas Áreas de Livre Comércio. ","Art. 5º, LXXIII do RICMS/ES
+Convênio ICMS 65/88
+Convênio ICMS 25/08",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100072,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Operação de transferência interestadual,  realizada pelas empresas prestadoras de serviços de transporte aéreo.","Art. 5º, LXXIV do RICMS/ES
+Convênio ICMS 18/97",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100073,SIM,,,,SIM,SIM,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,Saídas internas e interestaduais de automóveis destinados a motoristas profissionais (taxistas).,"Art. 5º, LXXVI do RICMS/ES
+Anexo III, item 15 da Lei 7.000/01
+Convênio ICMS 38/01
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100074,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,Saída de produtos com destino a empresa nacional exportadora de serviços.,"Art. 5º, LXXVII do RICMS/ES
+Convênio ICMS 04/79
+Convênio ICMS 47/90
+Convênio ICMS 124/93",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100075,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,Operação interna com material de uso e consumo de um para outro estabelecimento da mesma empresa.,"Art. 5º, LXXVIII do RICMS/ES
+Convênio ICMS 70/90
+Convênio ICMS 151/94",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100076,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Operações destinadas a missões diplomáticas, repartições consulares e representações de organismos internacionais e respectivos funcionários estrangeiros.","Art. 5º, LXXIX do RICMS/ES
+Convênio ICMS 158/94
+Convênio ICMS 90/97",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100077,SIM,,,,SIM,SIM,,,,,,,2021-12-27 00:00:00,2028-12-31 00:00:00,Operações com equipamentos e componentes para o aproveitamento das energias solar e eólica que especifica.,"Art. 5º, LXXX do RICMS/ES
+Convênio ICMS 101/97
+Convênio ICMS 156/17",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100078,SIM,,,,SIM,SIM,,,,,,,2005-03-10 00:00:00,,"Saída de embarcações construídas no País, e fornecimento de peças, partes e componentes, utilizados no reparo, no conserto e na reconstrução.","Art. 5º, LXXXI do RICMS/ES
+Convênio ICMS 33/77
+Convênio ICMS 44/90
+Convênio ICMS 102/96",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100079,SIM,,,,SIM,SIM,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,"Operação interna com veículos automotores adquiridos pela APAE, e prestação de serviços de transporte desses veículos.","Art. 5º, LXXXIII do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 91/98
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100080,SIM,,,,SIM,SIM,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,Operações com preservativos.,"Art. 5º, LXXXIV do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 116/98
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100081,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,Operação de importação de máquinas de limpar e selecionar frutas.,"Art. 5º, LXXXVI do RICMS/ES
+Convênio ICMS 93/91",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100082,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Saída de microcomputadores usados, semi-novos, doados para escolas públicas especiais, associações e comunidades carentes.","Art. 5º, LXXXVII do RICMS/ES
+Convênio ICMS 43/99",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100083,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Operações que envolvam aquisições para a construção das Usinas Hidrelétricas de São João e Bicame, pertencentes a Castelo Energética S.A.","Art. 5º, LXXXVIII do RICMS/ES
+Convênio ICMS 62/00",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100084,SIM,,,,SIM,SIM,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,"Operações com produtos e equipamentos utilizados em diagnóstico de imuno-hematologia, sorologia e coagulação, destinados à Administração Pública.","Art. 5º, XC do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 84/97
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100085,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,"Operações internas com lâmpadas fluorescentes compactas, a título de doação, para as unidades consumidoras residenciais de baixa renda.","Art. 5º, XCII do RICMS/ES
+Convênio ICMS 29/01",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100086,SIM,,,,SIM,SIM,,,,,,,2002-10-25 00:00:00,,Operações de devolução obrigatória de embalagens vazias de agrotóxicos.,"Art. 5º, XCIV do RICMS/ES
+Convênio ICMS 42/01",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100087,SIM,,,,SIM,SIM,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,Operações com os medicamentos relacionados.,"Art. 5º, XCVII do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 140/01
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100088,SIM,,,,SIM,SIM,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,"Saída de mercadorias, em decorrência das doações, nas operações internas e interestaduais destinadas ao atendimento do Programa de Segurança Alimentar e Nutricional.","Art. 5º, XCIX do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 18/03
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100089,SIM,,,,SIM,SIM,,,,,,,2003-09-09 00:00:00,,"Operações ou prestações internas, relativas a aquisição de bens, mercadorias ou serviços por órgãos da administração pública estadual direta e suas fundações e autarquias.","Art. 5º, C do RICMS/ES
+Convênio ICMS 26/03",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100090,SIM,,,,SIM,SIM,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,"Operações e prestações internas, referentes às saídas de mercadorias desincorporadas do ativo imobilizado do estabelecimento, em decorrência de doação a órgãos e entidades da Administração Pública.","Art. 5º, CI do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 02/04
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100091,SIM,,,,SIM,SIM,,,,,,,2004-03-01 00:00:00,,Operação de aquisição de veículos pelo Departamento de Polícia Rodoviária Federal – DPRF.,"Art. 5º, CII do RICMS/ES
+Convênio ICMS 122/03",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100092,SIM,,,,SIM,SIM,,,,,,,2004-03-01 00:00:00,,"Operação interna de fornecimento de alimentação, destinada a consumo por órgãos da Administração Pública Estadual e Autarquias.","Art. 5º, CIII do RICMS/ES
+Convênio ICMS 131/03",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100093,SIM,,,,SIM,SIM,,,,,,,2004-03-01 00:00:00,,Operação de fornecimento de água natural canalizada.,"Art. 5º, CIV do RICMS/ES
+Convênio ICMS 132/03",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100094,SIM,,,,SIM,SIM,,,,,,,2005-05-24 00:00:00,,Saídas de pilhas e baterias usadas.,"Art. 5º, CVII do RICMS/ES
+Convênio ICMS 27/05",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100095,SIM,,,,SIM,SIM,,,,,,,2012-03-01 00:00:00,,"Operação de importação, realizada pela FAHUCAM, de matérias-primas destinadas à produção de kit Rapid Check HIV 1&2 e de Kit Diagnóstico Rapid Check Sifilis.","Art. 5º, CVIII do RICMS/ES
+Convênio ICMS 42/05
+Convênio ICMS 133/11",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100096,SIM,,,,SIM,SIM,,,,,,,2005-05-24 00:00:00,,"Operação de importação, por empresa portuária, de guindastes móveis, portuários, a diesel, hidráulicos, sobre pneus, para movimentação de containers e granéis sólidos em navios.","Art. 5º, CIX do RICMS/ES
+Convênio ICMS 48/05",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100097,SIM,,,,SIM,SIM,,,,,,,2005-05-30 00:00:00,,"Saídas, nas operações internas, de produtos vegetais destinados à produção de biodiesel.","Art. 5º, CX do RICMS/ES
+Convênio ICMS 105/03
+Convênio ICMS 11/05",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100098,SIM,,,,SIM,SIM,,,,,,,2005-05-30 00:00:00,,Operação de importação de tratores agrícolas de quatro rodas e de colheitadeiras mecânicas de algodão.,"Art. 5º, CXI do RICMS/ES
+Convênio ICMS 77/93
+Convênio ICMS 24/05",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100099,SIM,,,,SIM,SIM,,,,,,,2008-08-08 00:00:00,,"Saídas de produtos farmacêuticos e de fraldas geriátricas da Fundação Oswaldo Cruz – Fiocruz, destinadas às farmácias que façam parte do Programa Farmácia Popular do Brasil.","Art. 5º, CXII do RICMS/ES
+Convênio ICMS 81/08",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100100,SIM,,,,SIM,SIM,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,"Operações com mercadorias e prestações de serviços de transporte a elas relativas, destinadas a programas de fortalecimento e modernização das áreas fiscal, de gestão, de planejamento e de controle externo.","Art. 5º, CXIII do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 79/05
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100101,SIM,,,,SIM,SIM,,,,,,,2005-09-02 00:00:00,,"Saídas de selos destinados ao controle fiscal federal, promovidas pela Casa da Moeda do Brasil.","Art. 5º, CXIV do RICMS/ES
+Convênio ICMS 80/05",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100102,SIM,,,,SIM,SIM,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,Operação de importação de bens destinados à modernização de Zonas Portuárias do Estado.,"Art. 5º, CXV do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 28/05
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100103,SIM,,,,SIM,SIM,,,,,,,2008-05-01 00:00:00,,Operação de importação de mercadoria ou bem importado sob o Regime Especial de Admissão Temporária.,"Art. 5º, CXVI do RICMS/ES
+Convênio ICMS 58/99",Isenção do ICMS,,,,,,,,,,,,,,,
+ES130004,SIM,,,,SIM,SIM,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,Operação interna de bens destinados a integrar o ativo imobilizado de empresas beneficiadas pelo Regime Tributário para Incentivo à Modernização e à Ampliação da Estrutura Portuária – Reporto.,"Art. 5º, CXVII do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 03/06
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100104,SIM,,,,SIM,SIM,,,,,,,2010-05-01 00:00:00,,"Saídas de medidores de vazão, condutivímetros e de aparelhos para o controle, registro e gravação dos quantitativos medidos.","Art. 5º, CXIX do RICMS/ES
+Convênio ICMS 69/06",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100105,SIM,,,,SIM,SIM,,,,,,,2006-08-17 00:00:00,,"Saídas internas com veículos automotores, máquinas e equipamentos, para utilização exclusiva do Corpo de Bombeiros Militar do Estado do Espírito Santo.","Art. 5º, CXX do RICMS/ES
+Convênio ICMS 38/06",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100106,SIM,,,,SIM,SIM,,,,,,,2011-10-19 00:00:00,,"Saídas internas de refrigeradores e lâmpadas de até 100 W, decorrentes de doações efetuadas pela ESCELSA a pessoas físicas consideradas de baixa renda, no âmbito do Projeto Redução de Perdas de Energia Elétrica.","Art. 5º, CXXII do RICMS/ES
+Convênio ICMS 49/06",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100107,SIM,,,,SIM,SIM,,,,,,,2014-12-30 00:00:00,,Operação de importação de medicamentos destinados ao tratamento do câncer.,"Art. 5º, CXXIII do RICMS/ES
+Convênio ICMS 114/14",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100108,SIM,,,,SIM,SIM,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,"Operações internas e interestaduais e de importação de medicamentos e reagentes químicos, para o desenvolvimento de novos medicamentos.","Art. 5º, CXXIV do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 09/07
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100109,SIM,,,,SIM,SIM,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,Operação de importação de máquinas e equipamentos por empresa concessionária da prestação de serviços públicos de radiodifusão sonora e de sons e imagens de recepção livre e gratuita.,"Art. 5º, CXXV do RICMS/ES
+Anexo III, item 17 da Lei 7.000/01
+Convênio ICMS 10/07
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100110,SIM,,,,SIM,SIM,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,Saída de reagente para diagnóstico da doença de Chagas.,"Art. 5º, CXXVI do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 23/07
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100111,SIM,,,,SIM,SIM,,,,,,,2008-03-25 00:00:00,,Remessa da peça defeituosa para o fabricante até trinta dias após o prazo de vencimento da garantia.,"Art. 5º, CXXXV do RICMS/ES
+Convênio ICMS 27/07",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100112,SIM,,,,SIM,SIM,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,"Fornecimento de alimentação e bebida não alcoólica, realizado por restaurantes populares integrantes de programas específicos.","Art. 5º, CXXX do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 89/07
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100113,SIM,,,,SIM,SIM,,,,,,,2008-01-01 00:00:00,,Prestação de serviço de comunicação referente ao acesso a internet e ao de conectividade em banda larga no âmbito do Programa Governo Eletrônico de Serviço de Atendimento do Cidadão – GESAC.,"Art. 5º, CXXXII do RICMS/ES
+Convênio ICMS 141/07",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100114,SIM,,,,SIM,SIM,,,,,,,2008-01-01 00:00:00,,Saída de óleo comestível usado destinado à utilização como insumo industrial.,"Art. 5º, CXXXIV do RICMS/ES
+Convênio ICMS 144/07",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100115,SIM,,,,SIM,SIM,,,,,,,2008-05-01 00:00:00,,Prestação de serviço de comunicação referente ao acesso à internet e à conectividade em banda larga e doação de equipamentos destinados a escolas públicas.,"Art. 5º, CXXXVI do RICMS/ES
+Convênio ICMS 47/08",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100116,SIM,,,,SIM,SIM,,,,,,,2022-03-23 00:00:00,2026-04-30 00:00:00,"Saída interna e interestadual de veículo automotor novo, quando adquirido por pessoas com deficiência física, visual, mental severa ou profunda, síndrome de Down ou autistas.","Art. 5º, CXXXVII do RICMS/ES
+Anexo III, item 18 da Lei 7.000/01
+Convênio ICMS 38/12
+Convênio ICMS 204/21",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100117,SIM,,,,SIM,SIM,,,,,,,2008-08-08 00:00:00,,"Operações e prestações realizadas ou contratadas no mercado interno ou externo, no âmbito do Tratado Binacional Brasil-Ucrânia, pela Alcântara Cyclone Space – ACS.","Art. 5º, CXL do RICMS/ES
+Convênio ICMS 84/08",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100118,SIM,,,,SIM,SIM,,,,,,,2010-08-20 00:00:00,,Operações internas e interestaduais com maçã e pêra.,"Art. 5º, CXLI do RICMS/ES
+Convênio ICMS 94/05
+Convênio ICMS 79/10",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100119,SIM,,,,SIM,SIM,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,"Operação de importação de bens ou mercadorias destinadas às atividades de pesquisa, exploração ou produção de petróleo e gás natural.","Art. 5º, CXLII do RICMS/ES
+Convênio ICMS 130/07
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100120,SIM,,,,SIM,SIM,,,,,,,2008-11-17 00:00:00,,Aquisição de tratores de até 75 CV por pequenos agricultores.,"Art. 5º, CXLIII do RICMS/ES
+Convênio ICMS 103/08",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100121,SIM,,,,SIM,SIM,,,,,,,2009-05-07 00:00:00,,"Operação de importação de inseticidas, pulverizadores e outros produtos, destinados ao combate à dengue, malária e febre amarela.","Art. 5º, CXLIV do RICMS/ES
+Convênio ICMS 28/09",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100122,SIM,,,,SIM,SIM,,,,,,,2010-01-21 00:00:00,,Saída dos produtos resultantes das aulas práticas dos cursos profissionalizantes ministrados pelo Serviço Nacional de Aprendizagem Comercial – Senac.,"Art. 5º, CXLVI do RICMS/ES
+Convênio ICMS 11/93
+Convênio ICMS 108/09",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100123,SIM,,,,SIM,SIM,,,,,,,2010-01-21 00:00:00,,"Prestações de serviço de transporte ferroviário intermunicipal de passageiros, com finalidade turística, histórica e cultural.","Art. 5º, CXLVII do RICMS/ES
+Convênio ICMS 115/09",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100124,SIM,,,,SIM,SIM,,,,,,,2010-05-13 00:00:00,,"Saídas de pneus usados que tenham como objetivo reciclagem, tratamento ou disposição final ambientalmente adequada.","Art. 5º, CXLVIII do RICMS/ES
+Convênio ICMS 33/10",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100125,SIM,,,,SIM,SIM,,,,,,,2010-05-13 00:00:00,,"Operações e prestações na aquisição de equipamentos de segurança eletrônica, realizadas por meio do Departamento Penitenciário Nacional.","Art. 5º, CXLIX do RICMS/ES
+Convênio ICMS 43/10",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100126,SIM,,,,SIM,SIM,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,"Operações com fosfato de oseltamivir, vinculadas ao Programa Farmácia Popular do Brasil –  Aqui Tem Farmácia Popular – e destinadas ao tratamento dos portadores da Gripe A – H1N1.","Art. 5º, CL do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 73/10
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100127,SIM,,,,SIM,SIM,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,"Saída do sanduíche Big Mac, pelas lojas próprias e franqueadas da Rede McDonald’s estabelecidas no Estado que participarem do evento McDia Feliz.","Art. 5º, CLIII do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 106/10
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100128,SIM,,,,SIM,SIM,,,,,,,2011-07-18 00:00:00,,"Operações internas com CDs produzidos com músicas de artistas capixabas, comercializados por meio de cooperativa de músicos estabelecida neste Estado.","Art. 5º, CLVI do RICMS/ES
+Convênio ICMS 196/10",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100129,SIM,,,,SIM,SIM,,,,,,,2011-04-26 00:00:00,,Prestações de serviço de comunicação referentes ao acesso à internet por conectividade em banda larga prestadas no âmbito do Programa Internet Popular.,"Art. 5º, CLVIII do RICMS/ES
+Convênio ICMS 38/09
+Convênio ICMS 30/11",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100130,SIM,,,,SIM,SIM,,,,,,,2011-08-01 00:00:00,,Operações internas com gêneros alimentícios regionais destinados à merenda escolar da rede pública de ensino.,"Art. 5º, CLIX do RICMS/ES
+Convênio ICMS 55/11",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100131,SIM,,,,SIM,SIM,,,,,,,2011-10-21 00:00:00,,"Operações com fármacos e medicamentos derivados do plasma humano, efetuadas pela Empresa Brasileira de Hemoderivados e Biotecnlogia - HEMOBRÁS.","Art. 5º, CLXII do RICMS/ES
+Convênio ICMS 103/11",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100132,SIM,,,,SIM,SIM,,,,,,,2011-10-21 00:00:00,,"Operações realizadas pela EDP ESCELSA, decorrentes da implementação do Projeto de Eficiência Energética.","Art. 5º, CLXIII do RICMS/ES
+Convênio ICMS 93/11",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100133,SIM,,,,SIM,SIM,,,,,,,2012-12-01 00:00:00,,Operações com bens e mercadorias destinados às redes de transportes públicos sobre trilhos de passageiros.,"Art. 5º, CLXXII do RICMS/ES
+Convênio ICMS 94/12",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100134,SIM,,,,SIM,SIM,,,,,,,2015-10-01 00:00:00,,"Operações com matéria-prima, material secundário, embalagens, partes, peças, máquinas e equipamentos, a serem empregados na execução do Programa de Desenvolvimento de Submarinos – Prosub.","Art. 5º, CLXXVI do RICMS/ES
+Convênio ICMS 81/15",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100135,SIM,,,,SIM,SIM,,,,,,,2014-06-01 00:00:00,,Saída de gêneros alimentícios para alimentação escolar promovida por agricultor familiar ou empreendedor familiar rural ou por suas organizações.,"Art. 5º, CLXXVIII do RICMS/ES
+Convênio ICMS 143/10
+Convênio ICMS 11/14",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100136,SIM,,,,SIM,SIM,,,,,,,2014-08-25 00:00:00,,"Aquisição de bens destinados a integrar o ativo imobilizado para aparelhamento, modernização e utilização das indústrias de panificação.","Art. 5º, CLXXIX do RICMS/ES
+Convênio ICMS 84/13
+Convênio ICMS 58/14",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100137,SIM,,,,SIM,SIM,,,,,,,2014-09-05 00:00:00,,"Operação interna de um veículo automóvel categoria utilitário furgão ou van, adaptado para transporte de pessoas com deficiência, adquirido pela Prefeitura Municipal da Serra.","Art. 5º, CLXXX do RICMS/ES
+Convênio ICMS 92/14",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100138,SIM,,,,SIM,SIM,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,"Operações internas com mercadorias ou bens, em doações destinadas a entidades filantrópicas.","Art. 5º, CLXXXII do RICMS/ES
+Anexo III, item 5 da Lei 7.000/01
+Convênio ICMS 75/19
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100139,SIM,,,,SIM,SIM,,,,,,,2020-02-21 00:00:00,,"Operações com medicamento Spinraza (Nusinersena) injection 12mg/5ml, destinado a tratamento da Atrofia Muscular Espinal – AME.","Anexo III, item 9 da Lei 7.000/01
+Art. 5º, CLXXXVII do RICMS/ES
+Convênio ICMS 96/18",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100140,SIM,,,,SIM,SIM,,,,,,,2021-12-15 00:00:00,,"Operações com o medicamento Zolgensma (princípio ativo OnasemnogeneAbeparvovec-xioi), destinado a tratamento da Atrofia Muscular Espinal – AME.","Anexo III, item 24 da Lei 7.000/01
+Art. 5º, CLXXXVIII do RICMS/ES
+Convênio ICMS 52/20
+Convênio ICMS 80/20",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100141,SIM,,,,SIM,SIM,,,,,,,2021-12-15 00:00:00,,"Operações com o princípio ativo Risdiplam, destinado a tratamento da Atrofia Muscular Espinal – AME.","Anexo III, item 26 da Lei 7.000/01
+Art. 5º, CLXXXIX do RICMS/ES
+Convênio ICMS 100/21",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100142,SIM,,,,SIM,SIM,,,,,,,2022-05-24 00:00:00,,"Operações internas e interestaduais com produtos eletrônicos e seus componentes, no âmbito do sistema de logística reversa.","Anexo III, item 27 da Lei 7.000/01
+Art. 5º, CXC do RICMS/ES
+Convênio ICMS 99/18",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100143,SIM,,,,SIM,SIM,,,,,,,2022-12-23 00:00:00,,"Operações com medicamentos que possuem como princípios ativos Ivacaftor, Lumacaftor, Tezacaftor e Elexacaftor, destinados ao tratamento da Fibrose Cística - FC.","Anexo III, item 31 da Lei 7.000/01
+Art. 5º, CXCI do RICMS/ES
+Convênio ICMS 128/22",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100144,SIM,,,,SIM,SIM,,,,,,,2022-12-30 00:00:00,,"Fornecimento, pelas respectivas concessionárias de energia elétrica, para unidades consumidoras residenciais onde existam pessoas usuárias de equipamentos de autonomia limitada, vitais à preservação da vida humana.","Anexo III, item 38 da Lei 7.000/01
+Art. 5º, CXCII do RICMS/ES
+Convênio ICMS 58/06",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100145,SIM,,,,SIM,SIM,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,Operações com equipamentos e insumos destinados à prestação de serviços de saúde.,"Art. 5º, LXXXV do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 01/99
+Convênio ICMS 226/23",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100146,SIM,,,,SIM,SIM,,,,,,,2024-01-01 00:00:00,,Operaçôes internas ou interestaduas de bens e mercadorias entre estabelecimentos da mesma titularidade.,"Art. 3º, § 10 da Lei 7.000/01
+Art. 3º, § 13 do RICMS/ES
+Art. 136-E a 136-J do RICMS/ES",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100147,SIM,,,,SIM,SIM,,,,,,,2018-03-01 00:00:00,,"Operações de energia elétrica na quantidade correspondente à soma de energia elétrica injetada na rede com créditos de energia ativa, oriundos de micro e minigeração distribuída de energia, aderentes ao Sistema de Compensação de Energia Elétrica, conforme disposições do Art. 5º, § 6º da Lei 7.000/01 (Convênio ICMS 16/15 e 215/17).","Art. 5º, § 6º da Lei 7.000/01
+Convênio ICMS 16/15
+Convênio ICMS 215/17",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100148,SIM,,,,SIM,SIM,,,,,,,2018-03-01 00:00:00,,"Saídas de mercadorias, promovidas pela Associação dos Militares Estaduais da Diretoria de Saúde da Polícia Militar do ES, quando destinadas aos seus associados.","Art. 5º, § 5º da Lei 7.000/01 
+Art. 5º, CLXXI do RICMS/ES 
+Convênio ICMS 16/15 
+Convênio ICMS 215/17",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100149,SIM,,,,SIM,SIM,,,,,,,2024-04-24 00:00:00,2024-12-31 00:00:00,"Operação de aquisição de bens destinados ao imobilizado aos estabelecimentos localizados nos Municípios nos quais tenha sido declarada Situação de Emergência ou Estado de Calamidade Pública, em decorrência das chuvas ocorridas neste Estado, nos termos que especifica.","Art. 179-J da Lei 7.000/01 
+Art. 1257 do RICMS/ES 
+Convênio ICMS 14/24",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100150,SIM,,,,SIM,SIM,,,,,,,2024-03-23 00:00:00,2024-04-30 00:00:00,"Saídas de mercadorias em decorrência de doações a entidades governamentais ou assistenciais, devendo o destinatário final estar situado no Município nos quais tenha sido declarado Situação de Emergência ou Estado de Calamidade Pública, em decorrência das chuvas ocorridas neste Estado.","Art. 179-K da Lei 7.000/01 
+Art. 1258 do RICMS/ES 
+Convênio ICMS 14/24",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100151,SIM,,,,SIM,SIM,,,,,,,2024-02-01 00:00:00,,"Saídas de equipamentos, peças, partes e componentes utilizados para microgeração e minigeração de energia solar fotovoltaica, exceto as mercadorias de que trata o art. 5º, LXXX do RICMS/ES.","Art. 5º, CXCVI do RICMS/ES",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100152,SIM,,,,SIM,SIM,,,,,,,2024-07-15 00:00:00,,Saídas internas destinadas a estabelecimentos localizados em Zona de Processamento de Exportação (ZPE).,"Anexo III, item 43 da Lei 7.000/01
+Art. 5º, CXCVII do RICMS/ES
+Convênio ICMS 99/98
+Convênio ICMS 136/16",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100153,SIM,,,,SIM,SIM,,,,,,,2024-08-30 00:00:00,2026-04-30 00:00:00,Saídas de bolas de aço forjadas e fundidas.,"Art. 5º, CXCVIII do RICMS/ES
+Convênio ICMS 33/01",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100154,SIM,,,,SIM,SIM,,,,,,,2024-08-30 00:00:00,2026-04-30 00:00:00,"Operações com máquinas, aparelhos e equipamentos industriais que especifica, destinados a CGHs ou PCHs.","Art. 5º, CXCIX do RICMS/ES
+Convênio ICMS 42/12",Isenção do ICMS,,,,,,,,,,,,,,,
+ES100155,SIM,,,,SIM,SIM,,,,,,,2024-12-23 00:00:00,,Operações de importação de gás natural a ser utilizado na geração de energia elétrica por empresas termelétricas vencedoras de leilões.,Lei 12.322/24,Isenção do ICMS,,,,,,,,,,,,,,,
+ES000001,SIM,,,,SIM,,SIM,,,,,,2003-11-17 00:00:00,2032-12-31 00:00:00,"Operações relativas ao fornecimento de energia elétrica e prestações de serviços de comunicação feitas por qualquer meio, aos templos de qualquer culto.","Art. 4º, XIII da Lei 7.000/01
+Art. 4º, XIV do RICMS/ES",Não Incidência ou Imunidade do ICMS,,,,,,,,,,,,,,,
+ES000002,SIM,,,,SIM,,SIM,,,,,,2002-01-01 00:00:00,,"Operações com livros, jornais, periódicos e o papel destinado a sua impressão.","Art. 4º, I da Lei 7.000/01
+Art. 4º, I do RICMS/ES",Não Incidência ou Imunidade do ICMS,,,,,,,,,,,,,,,
+ES000003,SIM,,,,SIM,,SIM,,,,,,2005-09-28 00:00:00,,Operações que destinem mercadorias para o exterior ou equiparados.,"Art. 4º, II da Lei 7.000/01
+Art. 4º, II do RICMS/ES",Não Incidência ou Imunidade do ICMS,,,,,,,,,,,,,,,
+ES000004,SIM,,,,SIM,,SIM,,,,,,2002-01-01 00:00:00,,"Operações interestaduais relativas à energia elétrica e petróleo, quando destinados à industrialização ou à comercialização.","Art. 4º, III da Lei 7.000/01
+Art. 4º, III do RICMS/ES",Não Incidência ou Imunidade do ICMS,,,,,,,,,,,,,,,
+ES000005,SIM,,,,SIM,,SIM,,,,,,2002-01-01 00:00:00,,"Operações com ouro, quando definido em lei como ativo financeiro ou instrumento cambial.","Art. 4º, IV da Lei 7.000/01
+Art. 4º, IV do RICMS/ES",Não Incidência ou Imunidade do ICMS,,,,,,,,,,,,,,,
+ES000006,SIM,,,,SIM,,SIM,,,,,,2002-01-01 00:00:00,,Operações sobre as quais incide ISS.,"Art. 4º, V da Lei 7.000/01
+Art. 4º, V do RICMS/ES",Não Incidência ou Imunidade do ICMS,,,,,,,,,,,,,,,
+ES000007,SIM,,,,SIM,,SIM,,,,,,2002-01-01 00:00:00,,"Operações de que decorra a transferência de propriedade de estabelecimento industrial, comercial ou de outra espécie.","Art. 4º, VI da Lei 7.000/01
+Art. 4º, VI do RICMS/ES",Não Incidência ou Imunidade do ICMS,,,,,,,,,,,,,,,
+ES000008,SIM,,,,SIM,,SIM,,,,,,2002-01-01 00:00:00,,Operações decorrentes de alienação fiduciária em garantia.,"Art. 4º, VII da Lei 7.000/01
+Art. 4º, VII do RICMS/ES",Não Incidência ou Imunidade do ICMS,,,,,,,,,,,,,,,
+ES000009,SIM,,,,SIM,,SIM,,,,,,2002-01-01 00:00:00,,Operações de arrendamento mercantil.,"Art. 4º, VIII da Lei 7.000/01
+Art. 4º, VIII do RICMS/ES",Não Incidência ou Imunidade do ICMS,,,,,,,,,,,,,,,
+ES000010,SIM,,,,SIM,,SIM,,,,,,2002-01-01 00:00:00,,Operações de que decorra a transferência de bens móveis salvados de sinistro para companhias seguradoras.,"Art. 4º, IX da Lei 7.000/01
+Art. 4º, IX do RICMS/ES",Não Incidência ou Imunidade do ICMS,,,,,,,,,,,,,,,
+ES000011,SIM,,,,SIM,,SIM,,,,,,2002-01-01 00:00:00,,"Saídas de mercadorias com destino a depósito fechado do próprio contribuinte, localizado neste Estado.","Art. 4º, X da Lei 7.000/01
+Art. 4º, XI do RICMS/ES",Não Incidência ou Imunidade do ICMS,,,,,,,,,,,,,,,
+ES000012,SIM,,,,SIM,,SIM,,,,,,2002-01-01 00:00:00,,Saídas de mercadorias com destino a armazém geral situado neste Estado.,"Art. 4º, XI da Lei 7.000/01
+Art. 4º, XII do RICMS/ES",Não Incidência ou Imunidade do ICMS,,,,,,,,,,,,,,,
+ES000013,SIM,,,,SIM,,SIM,,,,,,2002-01-01 00:00:00,,"Saída de mercadorias de depósitos fechados e armazéns gerais, em retorno.","Art. 4º, XII da Lei 7.000/01
+Art. 4º, XIII do RICMS/ES",Não Incidência ou Imunidade do ICMS,,,,,,,,,,,,,,,
+ES000014,SIM,,,,SIM,,SIM,,,,,,2002-10-26 00:00:00,,Saídas de bens em decorrência de comodato ou locação.,"Art. 4º, X do RICMS/ES",Não Incidência ou Imunidade do ICMS,,,,,,,,,,,,,,,
+ES000015,SIM,,,,SIM,,SIM,,,,,,2005-09-28 00:00:00,,Serviço de comunicação por radiodifusão sonora e de sons e imagens de recepção livre e gratuita.,"Art. 4º, XIV da Lei 7.000/01
+Art. 4º, XV do RICMS/ES",Não Incidência ou Imunidade do ICMS,,,,,,,,,,,,,,,
+ES000016,SIM,,,,SIM,,SIM,,,,,,2017-07-12 00:00:00,,"Entrada de mercadorias importadas do exterior para depósito em estabelecimento exclusivamente prestador de serviços de armazém geral situado neste Estado, e sua posterior saída para destinatário localizado em outra unidade da Federação.","Art. 4º, XV da Lei 7.000/01
+Art. 4º, XVI do RICMS/ES",Não Incidência ou Imunidade do ICMS,,,,,,,,,,,,,,,
+ES000017,SIM,,,,SIM,,SIM,,,,,,2022-08-05 00:00:00,,Operações de fornecimento de água canalizada às igrejas e de templos de qualquer culto.,"Art. 1º da Lei 11.692/22
+Art. 4º, XIV do RICMS/ES",Não Incidência ou Imunidade do ICMS,,,,,,,,,,,,,,,
+ES000018,SIM,,,,SIM,,SIM,,,,,,2022-06-29 00:00:00,,Serviços de transmissão e distribuição e encargos setoriais vinculados às operações com energia elétrica.,"Art. 4º, XVII do RICMS/ES",Não Incidência ou Imunidade do ICMS,,,,,,,,,,,,,,,
+ES200001,SIM,,,SIM,,,,,,,SIM,,2014-12-03 00:00:00,2032-12-31 00:00:00,Operações internas com minérios de ferro especificamente discriminados por NCM.,"Art. 70, LX do RICMS/ES
+",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200002,SIM,,,SIM,,,,,,,SIM,,2010-04-08 00:00:00,2032-12-31 00:00:00,Operações internas com coque.,"Art. 70, LXI do RICMS/ES
+",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200003,SIM,,,SIM,,,,,,,SIM,,2017-03-29 00:00:00,2032-12-31 00:00:00,Saída de veículos usados arrolados no Anexo II do Convênio ICMS 132/92.,"Art. 70, XXXV do RICMS/ES
+Art. 5º-A, I da Lei 7.000/01
+Convênio ICMS 132/92",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200004,SIM,,,SIM,,,,,,,SIM,,2017-03-29 00:00:00,2032-12-31 00:00:00,Operações internas com insumos para rochas ornamentais.,"Art. 5º-A, II da Lei 7.000/01
+Art. 70, XXXVIII do RICMS/ES",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200005,SIM,,,SIM,,,,,,,SIM,,2017-03-29 00:00:00,2032-12-31 00:00:00,"Operações internas com massas alimentícias não cozidas, pães, biscoitos e bolachas.","Art. 5º-A, III da Lei 7.000/01
+Art. 70, XLIV do RICMS/ES",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200006,SIM,,,SIM,,,,,,,SIM,,2017-03-29 00:00:00,2032-12-31 00:00:00,Saídas de produtos cerâmicos que especifica.,"Art. 5º-A, IV da Lei 7.000/01
+Art. 70, LI do RICMS/ES",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200007,SIM,,,SIM,,,,,,,SIM,,2017-03-29 00:00:00,2032-12-31 00:00:00,Saídas de gás natural com destino a UTE.,"Art. 5º-A, VI da Lei 7.000/01
+",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200008,SIM,,,SIM,,,,,,,SIM,,2017-03-29 00:00:00,2032-12-31 00:00:00,Operações internas por estabelecimento comercial distribuidor atacadista.,"Art. 5º-A, VII da Lei 7.000/01
+Art. 534-Z-Z-A do RICMS/ES",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200009,SIM,,,SIM,,,,,,,SIM,,2017-03-29 00:00:00,2032-12-31 00:00:00,"Operações internas com peixes, crustáceos, moluscos e rã.","Art. 5º-A, VIII da Lei 7.000/01",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200010,SIM,,,SIM,,,,,,,SIM,,2017-03-29 00:00:00,2032-12-31 00:00:00,Operações internas com carnes e produtos semelhantes especificados.,"Art. 5º-A, IX e §9º a 12  da Lei 7.000/01
+Art. 70, LXXI e  §13-A do RICMS/ES",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200011,SIM,,,SIM,,,,,,,SIM,,2017-05-08 00:00:00,2032-12-31 00:00:00,"Saídas internas promovidas por estabelecimento distribuidor atacadista, responsável tributário por substituição, de mercadorias especificadas.","Art. 5º-A, X da Lei 7.000/01
+Art. 70, LXXIII do RICMS/ES",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200012,SIM,,,SIM,,,,,,,SIM,,2017-07-12 00:00:00,2032-12-31 00:00:00,Operações internas com produtos químicos destinados a indústria preponderantemente exportadora.,"Art. 5º-A, XIII da Lei 7.000/01
+Art. 70, LXXII do RICMS/ES",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200013,SIM,,,SIM,,,,,,,SIM,,2017-07-12 00:00:00,2032-12-31 00:00:00,"Saídas interestaduais de café arábica cru, em coco ou em grão.","Art. 5º-A, XIV da Lei 7.000/01
+Art. 70, LXX do RICMS/ES",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200014,SIM,,,SIM,,,,,,,SIM,,2017-07-12 00:00:00,2032-12-31 00:00:00,Saídas internas pelos estabelecimentos especificados.,"Art. 5º-A, XV da Lei 7.000/01",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200015,SIM,,,SIM,,,,,,,SIM,,2017-03-29 00:00:00,2032-12-31 00:00:00,"Operações internas com farinha de trigo, misturas para bolos e pizzas.","Art. 179-F,I da Lei 7.000/01",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES210001,SIM,,,SIM,,,,,,,SIM,,2016-07-27 00:00:00,2032-12-31 00:00:00,"Saídas pela indústria metalmecânica, nos termos especificados (COMPETE).","Art. 5º, I da Lei 10.568/2016",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES210002,SIM,,,SIM,,,,,,,SIM,,2016-07-27 00:00:00,2032-12-31 00:00:00,"Operações internas pela indústria de rochas ornamentais, nos termos especificados (COMPETE).","Art. 7º, I da Lei 10.568/2016",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES210003,SIM,,,SIM,,,,,,,SIM,,2016-07-27 00:00:00,2032-12-31 00:00:00,"Operações interestaduais com açúcar e café torrado e moído, pela indústria açucareira e de torrefação (COMPETE).",Art. 8º  da Lei 10.568/2016,Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES210004,SIM,,,SIM,,,,,,,SIM,,2016-07-27 00:00:00,2032-12-31 00:00:00,Saídas de móveis sob encomendas a consumidor final (COMPETE).,Art. 9º da Lei 10.568/2016,Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES210005,SIM,,,SIM,,,,,,,SIM,,2016-07-27 00:00:00,2032-12-31 00:00:00,"Saídas internas com água mineral pela indústria de envasamento, nos termos especificados (COMPETE).",Art. 11 da Lei 10.568/2016,Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES210006,SIM,,,SIM,,,,,,,SIM,,2016-07-27 00:00:00,2032-12-31 00:00:00,"Operações internas pela indústria moveleira, nos termos especificados (COMPETE).",Art. 12 da Lei 10.568/2016,Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES210007,SIM,,,SIM,,,,,,,SIM,,2016-07-27 00:00:00,2032-12-31 00:00:00,"Operações internas por indústria do vestuário, de confecções ou calçados, nos termos especificados (COMPETE).","Art. 13, I da Lei 10.568/2016",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES210008,SIM,,,SIM,,,,,,,SIM,,2016-07-27 00:00:00,2032-12-31 00:00:00,"Operações internas por indústrias de embalagem de material plástico, de papel e papelão, e de reciclagem plástica, nos termos especificados (COMPETE).","Art. 14, I da Lei 10.568/2016",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES210009,SIM,,,SIM,,,,,,,SIM,,2016-07-27 00:00:00,2032-12-31 00:00:00,"Saídas internas pela indústria de produção de aguardente de cana-de-açúcar, melaço e outros, nos termos especificados (COMPETE).","Art. 15, I da Lei 10.568/2016",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES210010,SIM,,,SIM,,,,,,,SIM,,2016-07-27 00:00:00,2032-12-31 00:00:00,"Operações internas pela indústria de produção de cimentos, argamassas e concretos, não refratários (COMPETE).","Art. 17, I da Lei 10.568/2016",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES210011,SIM,,,SIM,,,,,,,SIM,,2016-07-27 00:00:00,2032-12-31 00:00:00,"Operações internas pela indústria de tintas e complementos, nos termos especificados (COMPETE).","Art. 19, I da Lei 10.568/2016",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES210012,SIM,,,SIM,,,,,,,SIM,,2016-07-27 00:00:00,2032-12-31 00:00:00,"Operações realizadas por bares, restaurantes, empresas preparadoras de refeições coletivas e similares, nos termos especificados (COMPETE).",Art. 20 da Lei 10.568/2016,Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES210013,SIM,,,SIM,,,,,,,SIM,,2016-07-27 00:00:00,2032-12-31 00:00:00,"Operações internas pela indústria de moagem de calcários e mármores, nos termos especificados (COMPETE).","Art. 21, I da Lei 10.568/2016",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES210014,SIM,,,SIM,,,,,,,SIM,,2016-07-27 00:00:00,2032-12-31 00:00:00,"Operações internas pela indústria de tempeiros e condimentos, nos termos especificados (COMPETE).","Art. 22, II da Lei 10.568/2016",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES210015,SIM,,,SIM,,,,,,,SIM,,2016-07-27 00:00:00,2032-12-31 00:00:00,"Operações internas pela indústria de perfumaria e cosméticos, nos termos especificados (COMPETE).","Art. 24, I da Lei 10.568/2016",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES210016,SIM,,,SIM,,,,,,,SIM,,2016-06-16 00:00:00,2032-12-31 00:00:00,"Operações internas pela indústria de cervejas artesanais, nos termos especificados (COMPETE).","Art. 25-A, I da Lei 10.568/2016",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES210017,SIM,,,SIM,,,,,,,SIM,,2018-10-19 00:00:00,2032-12-31 00:00:00,"Saída interna de querosene de aviação (QAV), nos termos especificados (COMPETE).",Art. 25-B da Lei 10.568/2016,Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES210018,SIM,,,SIM,,,,,,,SIM,,2016-07-27 00:00:00,2032-12-31 00:00:00,"Operações realizadas por bares, restaurantes, empresas preparadoras de refeições coletivas e similares, nos termos especificados (COMPETE).","Art. 20 da Lei 10.568/2016
+Art. 530-L-R-F do RICMS/ES",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES220001,SIM,,,SIM,,,,,,,SIM,,2016-07-01 00:00:00,2032-12-31 00:00:00,Operações sob amparo do Programa de Incentivo ao Investimento no Estado do Espírito Santo - INVEST-ES.,Lei 10.550/2016,Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200016,SIM,,,SIM,,,,,,,SIM,,2017-06-19 00:00:00,2032-12-31 00:00:00,Saídas internas de pedra britada e de mão.,"Art. 70, XX do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênios ICMS 13/94
+Convênio ICMS 178/21",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200017,SIM,,,SIM,,,,,,,SIM,,2010-05-13 00:00:00,2032-12-31 00:00:00,Fornecimento de energia elétrica a produtor rural ou empresa agropecuária.,"Art. 70, II, a do RICMS/ES",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200018,SIM,,,SIM,,,,,,,SIM,,2020-02-27 00:00:00,,Operações internas com vidro.,"Art. 5º-A, XVI da Lei 7.000/01
+Art. 70, LXXIV, a do RICMS/ES",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200019,SIM,,,SIM,,,,,,,SIM,,2021-12-15 00:00:00,,Prestações internas de comunicação.,"Art. 5º-A, XVII e §19 da Lei 7.000/01
+Convênio ICMS 19/18",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200020,SIM,,,SIM,,,,,,,SIM,,2009-10-01 00:00:00,,Saídas de mercadorias desincorporadas do ativo imobilizado.,"Art. 70, V do RICMS/ES
+Convênio ICMS 15/81
+Convênio ICMS 50/90",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200021,SIM,,,SIM,,,,,,,SIM,,2002-10-25 00:00:00,,"Saídas de aparelhos, máquinas, veículos, motores, móveis e vestuários usados.","Art. 70, VI do RICMS/ES
+Convênio ICMS 15/81
+Convênio ICMS 50/90
+Convênio ICMS 151/94",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200022,SIM,,,SIM,,,,,,,SIM,,2021-04-01 00:00:00,2025-12-31 00:00:00,"Operações interestaduais com os insumos discriminados, estendido o benefício à remessa com destino à apicultura, à aquicultura, à avicultura, à cunicultura, à ranicultura e à sericultura","Art. 70, VII do RICMS/ES
+Convênio ICMS 100/97
+Convênio ICMS 26/21",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200023,SIM,,,SIM,,,,,,,SIM,,2021-04-01 00:00:00,2025-12-31 00:00:00,"Operações interestaduais com produtos como farelos, tortas, milho.","Art. 70, VIII do RICMS/ES
+Convênio ICMS 100/97
+Convênio ICMS 26/21",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200024,SIM,,,SIM,,,,,,,SIM,,2006-04-03 00:00:00,,"Operações internas com produtos como arroz, feijão, fubá, sal, óle, açúcar, etc (cesta básica).","Art. 70, IX do RICMS/ES
+Convênio ICMS 128/94",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200025,SIM,,,SIM,,,,,,,SIM,,2023-01-24 00:00:00,2026-04-30 00:00:00,"Operações com aeronaves, veículos espaciais, paraquedas e similares.","Art. 70, XII do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 75/91
+Convênio ICMS 226/23",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200026,SIM,,,SIM,,,,,,,SIM,,2022-03-07 00:00:00,2026-04-30 00:00:00,Operações internas com ferro e aço não planos comuns.,"Art. 70, XIII do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 33/96
+Convênio ICMS 226/23",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200027,SIM,,,SIM,,,,,,,SIM,,2002-10-25 00:00:00,,Operações de entrada de mercadorias estrangeiras no estabelecimento importador industrial para integração no seu ativo imobilizado.,"Art. 70, XIV do RICMS/ES
+Convênio ICMS 130/94
+Convênio ICMS 23/95",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200028,SIM,,,SIM,,,,,,,SIM,,2016-01-01 00:00:00,,Prestação de serviço de televisão por assinatura e a cabo.,"Art. 70, XVII do RICMS/ES
+Convênio ICMS 78/15
+Convênio ICMS 99/15",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200029,SIM,,,SIM,,,,,,,SIM,,2022-03-25 00:00:00,,Prestações de serviço de radiochamada.,"Art. 70, XXI do RICMS/ES
+Convênio ICMS 86/99",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200030,SIM,,,SIM,,,,,,,SIM,,2013-06-25 00:00:00,,Operações interestaduais efetuadas por estabelecimento fabricante ou importador com pneumáticos novos de borracha e câmaras de ar de borracha.,"Art. 70, XXVIII do RICMS/ES",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200031,SIM,,,SIM,,,,,,,SIM,,2022-03-07 00:00:00,2026-04-30 00:00:00,"Operações com máquinas, aparelhos e equipamentos industriais arrolados no Anexo I do Convênio ICMS 52/91.","Art. 70, XXIX do RICMS/ES
+Anexo III, item 6 da Lei 7.000/01
+Convênio ICMS 52/91
+Convênio ICMS 226/23",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200032,SIM,,,SIM,,,,,,,SIM,,2022-03-07 00:00:00,2026-04-30 00:00:00,Operações com máquinas e implementos agrícolas arrolados no Anexo II do Convênio ICMS 52/91.,"Art. 70, XXX do RICMS/ES
+Anexo III, item 6 da Lei 7.000/01
+Convênio ICMS 52/91
+Convênio ICMS 226/23",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200033,SIM,,,SIM,,,,,,,SIM,,2022-03-07 00:00:00,2026-04-30 00:00:00,"Operações interestaduais efetuadas por estabelecimento fabricante ou importador, com as mercadorias relacionadas nos Anexos I, II ou III do Convênio ICMS 133/02.","Art. 70, XXXI do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 133/02
+Convênio ICMS 226/23",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200034,SIM,,,SIM,,,,,,,SIM,,2018-01-12 00:00:00,2026-04-30 00:00:00,Saídas internas de bovinos precoces do estabelecimento produtor.,"Art. 70, XXXIX do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 153/04
+Convênio ICMS 226/23",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200035,SIM,,,SIM,,,,,,,SIM,,2022-03-07 00:00:00,2026-04-30 00:00:00,Saídas de produtos resultantes da industrialização da mandioca.,"Art. 70, XL do RICMS/ES
+Convênio ICMS 153/04
+Convênio ICMS 226/23",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200036,SIM,,,SIM,,,,,,,SIM,,2018-01-12 00:00:00,,Importação de mercadoria ou bem sob o amparo de regime especial aduaneiro de admissão temporária.,"Art. 70, XLVI do RICMS/ES
+Convênio ICMS 58/99",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200037,SIM,,,SIM,,,,,,,SIM,,2012-02-01 00:00:00,,"Saídas interestaduais de carne e demais produtos comestíveis, resultantes do abate de aves, de leporídeos e de gado bovino, bufalino, caprino, ovino e suínos.","Art. 70, XLVIII do RICMS/ES
+Convênio ICMS 89/05",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200038,SIM,,,SIM,,,,,,,SIM,,2008-05-01 00:00:00,,Prestações de serviço de comunicação por meio de veiculação de mensagens de publicidade e propaganda na televisão por assinatura.,"Art. 70, LIV do RICMS/ES
+Convênio ICMS 09/08",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES230001,SIM,,,SIM,,,,,,,SIM,,2021-12-16 00:00:00,2026-04-30 00:00:00,Operações realizadas no âmbito do REPETRO.,"Art. 5º-C, I da Lei 7.000/01
+Art. 70, LV do RICMS/ES
+Convênio ICMS 03/18
+Convênio ICMS 130/07
+Convênio ICMS 226/23",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200039,SIM,,,SIM,,,,,,,SIM,,2008-08-15 00:00:00,,"Prestações onerosas de serviço de comunicação, na modalidade de monitoramento e rastreamento de veículo e carga.","Art. 70, LVII do RICMS/ES
+Convênio ICMS 139/06",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200040,SIM,,,SIM,,,,,,,SIM,,2009-12-01 00:00:00,,"Saídas internas e interestaduais com mercadorias adquiridas por órgãos da administração pública direta federal, estadual e municipal, para aplicação nas Unidades Modulares de Saúde – UMS.","Art. 70, LIX do RICMS/ES
+Convênio ICMS 114/09",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200041,SIM,,,SIM,,,,,,,SIM,,2011-06-01 00:00:00,,Operações com produtos para tratamento e controle de efluentes industriais e domésticos.,"Art. 70, LXIV do RICMS/ES
+Convênio ICMS 08/11",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200042,SIM,,,SIM,,,,,,,SIM,,2011-12-01 00:00:00,,Operações internas e interestaduais realizadas pelas cooperativas singulares de produtores agropecuários e extrativistas vegetais.,"Art. 70, LXVI do RICMS/ES
+Convênio ICMS 102/11",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200043,SIM,,,,,,,,,,,,2022-03-07 00:00:00,2026-04-30 00:00:00,"Operações de importação, efetuadas por microempresas optantes pelo Simples Nacional, previamente habilitadas a operar no Regime de Tributação Unificada – RTU.","Art. 70, LXVII do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 61/12
+Convênio ICMS 226/23",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200044,SIM,,,SIM,,,,,,,SIM,,2022-03-07 00:00:00,2026-04-30 00:00:00,Operações realizadas pelo estabelecimento industrial fabricante com destino ao Ministério da Defesa.,"Art. 70, LXVIII do RICMS/ES
+Anexo III, item 7 da Lei 7.000/01
+Convênio ICMS 95/12
+Convênio ICMS 226/23",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200045,SIM,,,SIM,,,,,,,SIM,,2024-01-01 00:00:00,,Operações de saídas internas de gás natural destinadas a estabelecimento industrial situado neste Estado.,Art. 5º-K da Lei 7.000/01,Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200046,SIM,,,SIM,,,,,,,SIM,,2024-12-23 00:00:00,,"Aquisição de imobilizado por consórcios ou empresas termelétricas no ES, que implementem novos projetos de geração de energia elétrica.",Lei 12.322/24,Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES200047,SIM,,,SIM,,,,,,,SIM,,2024-11-22 00:00:00,2025-10-31 00:00:00,"Saídas interestaduais de café conilon cru, em coco ou em grão.","Convênio ICMS 111/24
+Art. 70. LXXVI do RICMS/ES",Redução de BC do ICMS,,,,,,,,,,,,,,,
+ES999999,SIM,,,SIM,SIM,SIM,SIM,,,,SIM,,,,Situações não previstas nos cBenefs anteriores.,Benefício fiscal cujo cBenef não foi contemplado na lista. Informar capitulação legal nas informações complementares.,Outros,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

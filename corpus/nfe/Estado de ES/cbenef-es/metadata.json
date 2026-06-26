@@ -1,0 +1,31 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "cbenef-es",
+  "category": "geral",
+  "conversion": {
+    "image_export_mode": "none",
+    "output_format": "csv",
+    "target_type": "dir",
+    "tool": "openpyxl+xlrd"
+  },
+  "converted_at_utc": "2026-06-26T15:51:42.831718+00:00",
+  "original_filename": "cBenef ES V6.xlsx",
+  "original_sha256": "bb2b89a07b4e2c3f4380382aa8b18108b5ab76bf00121e3896311d6e964a94ac",
+  "public_paths": {
+    "document": "corpus/nfe/Estado de ES/cbenef-es/document.md",
+    "metadata": "corpus/nfe/Estado de ES/cbenef-es/metadata.json",
+    "csv": "corpus/nfe/Estado de ES/cbenef-es/csv/"
+  },
+  "slug": "cbenef-es",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "status": "converted",
+  "title": "cBenef Espírito Santo",
+  "validation": {
+    "asset_count": 0,
+    "sheets": [
+      "CBENEF"
+    ],
+    "total_rows": 417
+  }
+}

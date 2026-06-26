@@ -190,6 +190,15 @@
       "title": "Edital de Transação PGDF",
       "status": "published",
       "published_at": "2026-06-26T00:00:00+00:00"
+    },
+    {
+      "slug": "cbenef-es",
+      "category": "nfe",
+      "subdir": "Estado de ES",
+      "family": "portal_nacional_nfe",
+      "title": "cBenef ES V6",
+      "status": "published",
+      "published_at": "2026-06-26T00:00:00+00:00"
     }
   ],
   "schemas": {
