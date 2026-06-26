@@ -1,0 +1,35 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026",
+  "category": "informe_tecnico",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/nfe/informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026/document.md",
+    "corpus/nfe/informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026/metadata.json",
+    "corpus/nfe/informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026/assets/image_000000_b70516377e3077df5bb3360e0483e01c27b71fa42f20e2c54c151fac9b119ea3.png",
+    "corpus/nfe/informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026/assets/image_000001_a9b1d1601c4484180d757697cd0ab40d19f0c9cd9166651b416a83a8f25897bc.png",
+    "corpus/nfe/informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026/assets/image_000002_89ac9e10c39bcc107eaf99a097391fcf25821b6c11810f08fffbcbd272101ae9.png",
+    "corpus/nfe/informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026/assets/image_000003_4f9a488334e876a9d02c08445552814b5c3c359ee900e373fdddfea5bd3a9161.png",
+    "corpus/nfe/informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026/assets/image_000004_eee068619f41b32cad5be13f90075e7ea1e8520dd63ca6de94df4f6dc9ba180f.png",
+    "corpus/nfe/informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026/assets/image_000005_4f9a488334e876a9d02c08445552814b5c3c359ee900e373fdddfea5bd3a9161.png",
+    "sources/portal-nacional-nfe/nfe/informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026/source.json",
+    "normalized/nfe/informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026/normalized.json",
+    "changelog/nfe/informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026.md"
+  ],
+  "original_filename": "IT2024.002v1.11 - Atualiza Tabela Meios de Pagamento - 04032026.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Informes Técnicos/IT2024.002v1.11 - Atualiza Tabela Meios de Pagamento - 04032026.pdf",
+  "original_sha256": "19953feb5695e728cf15a91be144b7115b3079a31be5ba0fa6eb46af58db1172",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T20:44:27.185656+00:00",
+  "slug": "it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Sistema Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 6,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 6,
+    "missing_image_refs_count": 0
+  }
+}
