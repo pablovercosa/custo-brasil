@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024",
+  "category": "nota_tecnica",
+  "document_path": "corpus/nfe/notas-tecnicas/nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024/document.md",
+  "metadata_path": "corpus/nfe/notas-tecnicas/nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "NT 2016_003 v3.7 - Tabela NCM -  vigência 01-04-2024.pdf",
+  "original_sha256": "340059cdaf7c7b1335221588a0e62e3ffdce404956547a0a941c4ac708fdc9d5",
+  "published_at_utc": "2026-06-25T15:52:50.959971+00:00",
+  "slug": "nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024/source.json",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 12,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 12,
+    "missing_image_refs_count": 0
+  }
+}
