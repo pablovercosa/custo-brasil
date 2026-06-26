@@ -1,11 +1,12 @@
 {
   "category": "cbenef",
   "corpus_category": "nfe",
-  "derived_public_files": {
-    "document": "corpus/nfe/Estado de RS/validacoes-cbenef-rs/document.md",
-    "metadata": "corpus/nfe/Estado de RS/validacoes-cbenef-rs/metadata.json"
-  },
+  "derived_public_files": [
+    "corpus/nfe/Estado de RS/validacoes-cbenef-rs/document.md",
+    "corpus/nfe/Estado de RS/validacoes-cbenef-rs/metadata.json"
+  ],
   "original_filename": "27164413-validacoes-cbenef.docx",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Diversos/Tabela cBenef x CST - Relacionada a Nota T\u00e9cnica 2019.001/Estado do Rio Grande do Sul/27164413-validacoes-cbenef.docx",
   "original_sha256": "8ea7808360bac24468f3e907721324c3fa3dcb0bd01bb6e2c0eed21f504c25a0",
   "published_at": "2026-06-26T00:00:00+00:00",
   "slug": "validacoes-cbenef-rs",

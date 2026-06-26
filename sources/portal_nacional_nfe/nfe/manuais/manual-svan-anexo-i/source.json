@@ -1,11 +1,12 @@
 {
   "category": "manual",
   "corpus_category": "nfe",
-  "derived_public_files": {
-    "document": "corpus/nfe/manuais/manual-svan-anexo-i/document.md",
-    "metadata": "corpus/nfe/manuais/manual-svan-anexo-i/metadata.json"
-  },
+  "derived_public_files": [
+    "corpus/nfe/manuais/manual-svan-anexo-i/document.md",
+    "corpus/nfe/manuais/manual-svan-anexo-i/metadata.json"
+  ],
   "original_filename": "Anexo I.doc",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Manuais/ManualUtilizacaoSVAN/Anexo I.doc",
   "original_sha256": "3844f5b460e37ebf3fb3d3da4a64d50c15c4ff3861e58d6b7be98d930034416a",
   "published_at": "2026-06-26T00:00:00+00:00",
   "slug": "manual-svan-anexo-i",

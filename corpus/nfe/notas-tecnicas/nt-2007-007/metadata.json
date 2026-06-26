@@ -14,6 +14,8 @@
   "original_sha256": "c35c63d3905c2f16aa78e92e27c3d648111c687263d5e1204baf08d3e927d5af",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt-2007-007/assets/",
+    "changelog": "changelog/nfe/notas-tecnicas/nt-2007-007.md",
+    "current_status": "changelog/current-status/nfe/notas-tecnicas/nt-2007-007.json",
     "document": "corpus/nfe/notas-tecnicas/nt-2007-007/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt-2007-007/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 4,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 4,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

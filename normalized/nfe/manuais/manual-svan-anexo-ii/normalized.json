@@ -2,6 +2,8 @@
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
   "canonical_id": "manual-svan-anexo-ii",
   "category": "manual",
+  "corpus_category": "nfe",
+  "created_at": "2026-06-26T15:51:44.796377+00:00",
   "document_path": "corpus/nfe/manuais/manual-svan-anexo-ii/document.md",
   "metadata_path": "corpus/nfe/manuais/manual-svan-anexo-ii/metadata.json",
   "normalization_status": "manual_published",

@@ -14,6 +14,8 @@
   "original_sha256": "0c13be4ee23555d1d8c4ddd3ae5dc839bff3fb1ba8dd38e230f33c2dbfa55ec0",
   "public_paths": {
     "assets": "corpus/nfag/manuais/moc-nfag-anexo-ii-danfag-v1-01/assets/",
+    "changelog": "changelog/nfag/manuais/moc-nfag-anexo-ii-danfag-v1-01.md",
+    "current_status": "changelog/current-status/nfag/manuais/moc-nfag-anexo-ii-danfag-v1-01.json",
     "document": "corpus/nfag/manuais/moc-nfag-anexo-ii-danfag-v1-01/document.md",
     "metadata": "corpus/nfag/manuais/moc-nfag-anexo-ii-danfag-v1-01/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Controle de Vers\u00f5es",
   "validation": {
     "asset_count": 32,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 32,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

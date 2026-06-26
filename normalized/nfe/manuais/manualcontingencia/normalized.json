@@ -2,6 +2,8 @@
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
   "canonical_id": "manualcontingencia",
   "category": "manual",
+  "corpus_category": "nfe",
+  "created_at": "2026-06-25T19:34:17.328581+00:00",
   "document_path": "corpus/nfe/manuais/manualcontingencia/document.md",
   "metadata_path": "corpus/nfe/manuais/manualcontingencia/metadata.json",
   "normalization_status": "auto_batch_published",
@@ -12,7 +14,7 @@
   "source_family": "portal_nacional_nfe",
   "source_path": "sources/portal_nacional_nfe/nfe/manuais/manualcontingencia/source.json",
   "status": "published",
-  "title": "Projeto Nota Fiscal Eletrônica",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 81,
     "contains_base64_images": false,

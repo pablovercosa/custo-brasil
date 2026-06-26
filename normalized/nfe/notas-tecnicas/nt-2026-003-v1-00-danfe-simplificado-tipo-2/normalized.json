@@ -2,6 +2,8 @@
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
   "canonical_id": "nt-2026-003-v1-00-danfe-simplificado-tipo-2",
   "category": "nota_tecnica",
+  "corpus_category": "nfe",
+  "created_at": "2026-06-25T17:45:21.201069+00:00",
   "document_path": "corpus/nfe/notas-tecnicas/nt-2026-003-v1-00-danfe-simplificado-tipo-2/document.md",
   "metadata_path": "corpus/nfe/notas-tecnicas/nt-2026-003-v1-00-danfe-simplificado-tipo-2/metadata.json",
   "normalization_status": "auto_batch_published",

@@ -12,20 +12,26 @@
   "original_filename": "Tabela_Codigo_Produto_ANP-20241118.xlsx",
   "original_sha256": "8271a80007548b0151cc00b769d4b84359cc37429c1d26ce68402b48e7d00b1a",
   "public_paths": {
+    "changelog": "changelog/geral/tabelas-federais/tabela-cprodanp.md",
     "csv": "corpus/geral/tabelas-federais/tabela-cprodanp/csv/",
+    "current_status": "changelog/current-status/geral/tabelas-federais/tabela-cprodanp.json",
     "document": "corpus/geral/tabelas-federais/tabela-cprodanp/README.md",
     "metadata": "corpus/geral/tabelas-federais/tabela-cprodanp/metadata.json"
   },
   "slug": "tabela-cprodanp",
   "source_family": "portal_nacional_nfe",
-  "source_url": "",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
   "status": "published",
   "title": "C\u00f3digo de Produto ANP",
   "validation": {
     "asset_count": 0,
+    "assets_validated": false,
+    "links_validated": false,
+    "schema_validated": false,
     "sheets": [
       "cProdANP"
     ],
-    "total_rows": 1032
+    "total_rows": 1032,
+    "valid": false
   }
 }

@@ -2,6 +2,8 @@
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
   "canonical_id": "it2023-002v1-00-tabela-cfop-11-04-2023",
   "category": "informe_tecnico",
+  "corpus_category": "nfe",
+  "created_at": "2026-06-25T20:42:33.762797+00:00",
   "document_path": "corpus/nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/document.md",
   "metadata_path": "corpus/nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/metadata.json",
   "normalization_status": "auto_batch_published",
@@ -12,7 +14,7 @@
   "source_family": "portal_nacional_nfe",
   "source_path": "sources/portal_nacional_nfe/nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/source.json",
   "status": "published",
-  "title": "Sistema Nota Fiscal Eletrônica",
+  "title": "Sistema Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 5,
     "contains_base64_images": false,

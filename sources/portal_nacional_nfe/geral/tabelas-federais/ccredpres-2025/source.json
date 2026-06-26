@@ -1,11 +1,12 @@
 {
   "category": "tabela",
   "corpus_category": "geral",
-  "derived_public_files": {
-    "metadata": "corpus/geral/tabelas-federais/ccredpres-2025/metadata.json",
-    "readme": "corpus/geral/tabelas-federais/ccredpres-2025/README.md"
-  },
+  "derived_public_files": [
+    "corpus/geral/tabelas-federais/ccredpres-2025/metadata.json",
+    "corpus/geral/tabelas-federais/ccredpres-2025/README.md"
+  ],
   "original_filename": "cCredPres_2025-12-12Public.xlsx",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Diversos/cCredPres_2025-12-12Public.xlsx",
   "original_sha256": "8d547b5afed3e82a15a6f5f41897dd99dcb686ecb21de3c1be344c8f57109df9",
   "published_at": "2026-06-26T00:00:00+00:00",
   "slug": "ccredpres-2025",

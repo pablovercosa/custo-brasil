@@ -12,20 +12,26 @@
   "original_filename": "Tabela-cClass.xlsx",
   "original_sha256": "c2f1419188cf780c11dbd15a477ea8d6425b50e90d8f40a1cef7dfc2edd5309d",
   "public_paths": {
+    "changelog": "changelog/geral/tabelas-federais/tabela-cclass.md",
     "csv": "corpus/geral/tabelas-federais/tabela-cclass/csv/",
+    "current_status": "changelog/current-status/geral/tabelas-federais/tabela-cclass.json",
     "document": "corpus/geral/tabelas-federais/tabela-cclass/README.md",
     "metadata": "corpus/geral/tabelas-federais/tabela-cclass/metadata.json"
   },
   "slug": "tabela-cclass",
   "source_family": "portal_nacional_nfe",
-  "source_url": "",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
   "status": "published",
   "title": "Tabela cClass",
   "validation": {
     "asset_count": 0,
+    "assets_validated": false,
+    "links_validated": false,
+    "schema_validated": false,
     "sheets": [
       "Plan1"
     ],
-    "total_rows": 36
+    "total_rows": 36,
+    "valid": false
   }
 }

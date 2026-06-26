@@ -12,20 +12,26 @@
   "original_filename": "cBenef ES V6.xlsx",
   "original_sha256": "bb2b89a07b4e2c3f4380382aa8b18108b5ab76bf00121e3896311d6e964a94ac",
   "public_paths": {
+    "changelog": "changelog/nfe/Estado de ES/cbenef-es.md",
     "csv": "corpus/nfe/Estado de ES/cbenef-es/csv/",
+    "current_status": "changelog/current-status/nfe/Estado de ES/cbenef-es.json",
     "document": "corpus/nfe/Estado de ES/cbenef-es/README.md",
     "metadata": "corpus/nfe/Estado de ES/cbenef-es/metadata.json"
   },
   "slug": "cbenef-es",
   "source_family": "portal_nacional_nfe",
-  "source_url": "",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
   "status": "published",
   "title": "cBenef Esp\u00edrito Santo",
   "validation": {
     "asset_count": 0,
+    "assets_validated": false,
+    "links_validated": false,
+    "schema_validated": false,
     "sheets": [
       "CBENEF"
     ],
-    "total_rows": 417
+    "total_rows": 417,
+    "valid": false
   }
 }

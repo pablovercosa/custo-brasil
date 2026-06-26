@@ -14,6 +14,8 @@
   "original_sha256": "4fa4bb19dbedf7653f00768ed418216395ba3fd5a9cf189f473688556d6987f0",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt-2016-002-v1-61/assets/",
+    "changelog": "changelog/nfe/notas-tecnicas/nt-2016-002-v1-61.md",
+    "current_status": "changelog/current-status/nfe/notas-tecnicas/nt-2016-002-v1-61.json",
     "document": "corpus/nfe/notas-tecnicas/nt-2016-002-v1-61/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt-2016-002-v1-61/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 78,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 78,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

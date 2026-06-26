@@ -13,16 +13,22 @@
   "original_sha256": "b22555575763026a1318165447401f3efd64340d281600e79ef8dec55e09f647",
   "public_paths": {
     "assets": "corpus/nfe/manuais/manual-svan-v1-00/assets/",
+    "changelog": "changelog/nfe/manuais/manual-svan-v1-00.md",
+    "current_status": "changelog/current-status/nfe/manuais/manual-svan-v1-00.json",
     "document": "corpus/nfe/manuais/manual-svan-v1-00/document.md",
     "metadata": "corpus/nfe/manuais/manual-svan-v1-00/metadata.json"
   },
   "slug": "manual-svan-v1-00",
   "source_family": "portal_nacional_nfe",
-  "source_url": "",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
   "status": "published",
   "title": "Manual SEFAZ Virtual para Empresas",
   "validation": {
     "asset_count": 0,
-    "lines": 330
+    "assets_validated": false,
+    "lines": 330,
+    "links_validated": false,
+    "schema_validated": false,
+    "valid": false
   }
 }

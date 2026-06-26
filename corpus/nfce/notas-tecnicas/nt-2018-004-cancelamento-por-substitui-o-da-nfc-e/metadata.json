@@ -14,6 +14,8 @@
   "original_sha256": "793c8130e74192e5874970533c05d6c9c66626e0d24826d3a6494e1bddc9eb75",
   "public_paths": {
     "assets": "corpus/nfce/notas-tecnicas/nt-2018-004-cancelamento-por-substitui-o-da-nfc-e/assets/",
+    "changelog": "changelog/nfce/notas-tecnicas/nt-2018-004-cancelamento-por-substitui-o-da-nfc-e.md",
+    "current_status": "changelog/current-status/nfce/notas-tecnicas/nt-2018-004-cancelamento-por-substitui-o-da-nfc-e.json",
     "document": "corpus/nfce/notas-tecnicas/nt-2018-004-cancelamento-por-substitui-o-da-nfc-e/document.md",
     "metadata": "corpus/nfce/notas-tecnicas/nt-2018-004-cancelamento-por-substitui-o-da-nfc-e/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 17,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 17,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

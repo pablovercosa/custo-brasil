@@ -14,6 +14,8 @@
   "original_sha256": "1540944fec21c889bab21af41d931bb124af71d892126fe321962303f5179bff",
   "public_paths": {
     "assets": "corpus/combustiveis/informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica/assets/",
+    "changelog": "changelog/combustiveis/informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica.md",
+    "current_status": "changelog/current-status/combustiveis/informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica.json",
     "document": "corpus/combustiveis/informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica/document.md",
     "metadata": "corpus/combustiveis/informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Sistema Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 6,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 6,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

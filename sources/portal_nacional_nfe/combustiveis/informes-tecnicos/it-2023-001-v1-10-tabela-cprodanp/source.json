@@ -17,14 +17,14 @@
     "changelog/combustiveis/informes-tecnicos/it-2023-001-v1-10-tabela-cprodanp.md"
   ],
   "original_filename": "IT 2023.001_v1.10 - Tabela cProdANP.pdf",
-  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Informes Técnicos/IT 2023.001_v1.10 - Tabela cProdANP.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Informes T\u00e9cnicos/IT 2023.001_v1.10 - Tabela cProdANP.pdf",
   "original_sha256": "08b22fa3a28cf2c671e96cd74ecbb3495f0a7efc5c96cfbb57dec4f232ac51d4",
   "publication_stage": "published",
   "published_at_utc": "2026-06-25T20:43:20.243064+00:00",
   "slug": "it-2023-001-v1-10-tabela-cprodanp",
   "source_family": "portal_nacional_nfe",
   "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
-  "title": "Sistema Nota Fiscal Eletrônica",
+  "title": "Sistema Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 6,
     "contains_base64_images": false,

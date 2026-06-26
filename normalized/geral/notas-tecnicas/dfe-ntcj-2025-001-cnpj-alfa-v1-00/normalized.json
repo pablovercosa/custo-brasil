@@ -2,6 +2,8 @@
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
   "canonical_id": "dfe-ntcj-2025-001-cnpj-alfa-v1-00",
   "category": "nota_tecnica",
+  "corpus_category": "geral",
+  "created_at": "2026-06-25T17:00:25.799904+00:00",
   "document_path": "corpus/geral/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00/document.md",
   "metadata_path": "corpus/geral/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00/metadata.json",
   "normalization_status": "auto_batch_published",
@@ -12,7 +14,7 @@
   "source_family": "portal_nacional_nfe",
   "source_path": "sources/portal_nacional_nfe/geral/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00/source.json",
   "status": "published",
-  "title": "Nota Técnica Conjunta CNPJ Alfanumérico",
+  "title": "Nota T\u00e9cnica Conjunta CNPJ Alfanum\u00e9rico",
   "validation": {
     "asset_count": 7,
     "contains_base64_images": false,

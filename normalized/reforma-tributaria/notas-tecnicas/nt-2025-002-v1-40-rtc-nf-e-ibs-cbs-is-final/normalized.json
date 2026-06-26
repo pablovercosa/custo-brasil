@@ -2,6 +2,8 @@
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
   "canonical_id": "nt-2025-002-v1-40-rtc-nf-e-ibs-cbs-is-final",
   "category": "nota_tecnica",
+  "corpus_category": "reforma-tributaria",
+  "created_at": "2026-06-25T19:00:44.548346+00:00",
   "document_path": "corpus/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-40-rtc-nf-e-ibs-cbs-is-final/document.md",
   "metadata_path": "corpus/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-40-rtc-nf-e-ibs-cbs-is-final/metadata.json",
   "normalization_status": "auto_batch_published",
@@ -12,7 +14,7 @@
   "source_family": "portal_nacional_nfe",
   "source_path": "sources/portal_nacional_nfe/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-40-rtc-nf-e-ibs-cbs-is-final/source.json",
   "status": "published",
-  "title": "Reforma Tributária do Consumo -Adequações NF-e / NFC-e",
+  "title": "Reforma Tribut\u00e1ria do Consumo -Adequa\u00e7\u00f5es NF-e / NFC-e",
   "validation": {
     "asset_count": 91,
     "contains_base64_images": false,

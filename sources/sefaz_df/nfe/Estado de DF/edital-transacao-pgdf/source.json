@@ -1,11 +1,12 @@
 {
   "category": "cbenef",
   "corpus_category": "nfe",
-  "derived_public_files": {
-    "document": "corpus/nfe/Estado de DF/edital-transacao-pgdf/document.md",
-    "metadata": "corpus/nfe/Estado de DF/edital-transacao-pgdf/metadata.json"
-  },
+  "derived_public_files": [
+    "corpus/nfe/Estado de DF/edital-transacao-pgdf/document.md",
+    "corpus/nfe/Estado de DF/edital-transacao-pgdf/metadata.json"
+  ],
   "original_filename": "Edital de Transa\u00e7\u00e3o PGDF_SEEC n\u00ba 2_2025.html",
+  "original_public_path_hint": "",
   "original_sha256": "6ab21c337d42ae432d37326b536d829ef01b8ece615821a62bdc1fef0056d53f",
   "published_at": "2026-06-26T00:00:00+00:00",
   "slug": "edital-transacao-pgdf",

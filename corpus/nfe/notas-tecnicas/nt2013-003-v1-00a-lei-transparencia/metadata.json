@@ -14,6 +14,8 @@
   "original_sha256": "4a53e95d95a37e1bb8c7785ceea25116b110fcf7bddd28dd4378cac9bda3e68b",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt2013-003-v1-00a-lei-transparencia/assets/",
+    "changelog": "changelog/nfe/notas-tecnicas/nt2013-003-v1-00a-lei-transparencia.md",
+    "current_status": "changelog/current-status/nfe/notas-tecnicas/nt2013-003-v1-00a-lei-transparencia.json",
     "document": "corpus/nfe/notas-tecnicas/nt2013-003-v1-00a-lei-transparencia/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt2013-003-v1-00a-lei-transparencia/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 9,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 9,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

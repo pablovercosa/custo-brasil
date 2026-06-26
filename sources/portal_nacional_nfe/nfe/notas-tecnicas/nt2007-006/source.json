@@ -17,14 +17,14 @@
     "changelog/nfe/notas-tecnicas/nt2007-006.md"
   ],
   "original_filename": "NT2007.006.pdf",
-  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Técnicas/NT2007.006.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT2007.006.pdf",
   "original_sha256": "8e77b15c09a2012a1be4d6e7c8f85b1ffedfcb25d774579dc1c4e29a78cbeea1",
   "publication_stage": "published",
   "published_at_utc": "2026-06-25T14:58:07.208738+00:00",
   "slug": "nt2007-006",
   "source_family": "portal_nacional_nfe",
   "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
-  "title": "Projeto Nota Fiscal Eletrônica",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 6,
     "contains_base64_images": false,

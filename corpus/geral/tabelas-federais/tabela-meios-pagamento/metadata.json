@@ -12,20 +12,26 @@
   "original_filename": "Tabela_de_meios_de_pagamento - 04032026.xlsx",
   "original_sha256": "f85d4a6d50390f824921703d166d3f2f4ec637b7244fa922248ef14e782d8a2d",
   "public_paths": {
+    "changelog": "changelog/geral/tabelas-federais/tabela-meios-pagamento.md",
     "csv": "corpus/geral/tabelas-federais/tabela-meios-pagamento/csv/",
+    "current_status": "changelog/current-status/geral/tabelas-federais/tabela-meios-pagamento.json",
     "document": "corpus/geral/tabelas-federais/tabela-meios-pagamento/README.md",
     "metadata": "corpus/geral/tabelas-federais/tabela-meios-pagamento/metadata.json"
   },
   "slug": "tabela-meios-pagamento",
   "source_family": "portal_nacional_nfe",
-  "source_url": "",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
   "status": "published",
   "title": "Meios de Pagamento",
   "validation": {
     "asset_count": 0,
+    "assets_validated": false,
+    "links_validated": false,
+    "schema_validated": false,
     "sheets": [
       "Plan1"
     ],
-    "total_rows": 25
+    "total_rows": 25,
+    "valid": false
   }
 }

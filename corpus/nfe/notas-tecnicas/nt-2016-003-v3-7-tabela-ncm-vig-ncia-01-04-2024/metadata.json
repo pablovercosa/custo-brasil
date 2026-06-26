@@ -14,6 +14,8 @@
   "original_sha256": "340059cdaf7c7b1335221588a0e62e3ffdce404956547a0a941c4ac708fdc9d5",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024/assets/",
+    "changelog": "changelog/nfe/notas-tecnicas/nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024.md",
+    "current_status": "changelog/current-status/nfe/notas-tecnicas/nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024.json",
     "document": "corpus/nfe/notas-tecnicas/nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 12,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 12,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

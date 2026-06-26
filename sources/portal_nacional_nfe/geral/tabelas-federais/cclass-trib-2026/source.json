@@ -1,11 +1,12 @@
 {
   "category": "tabela",
   "corpus_category": "geral",
-  "derived_public_files": {
-    "metadata": "corpus/geral/tabelas-federais/cclass-trib-2026/metadata.json",
-    "readme": "corpus/geral/tabelas-federais/cclass-trib-2026/README.md"
-  },
+  "derived_public_files": [
+    "corpus/geral/tabelas-federais/cclass-trib-2026/metadata.json",
+    "corpus/geral/tabelas-federais/cclass-trib-2026/README.md"
+  ],
   "original_filename": "cClassTrib 2026_04_15.xlsx",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Diversos/cClassTrib 2026_04_15.xlsx",
   "original_sha256": "cc0242ed17ebf93e23ce892e3316850de2077fbc8cc7a82a54e0a553c045a71a",
   "published_at": "2026-06-26T00:00:00+00:00",
   "slug": "cclass-trib-2026",

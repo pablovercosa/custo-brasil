@@ -14,6 +14,8 @@
   "original_sha256": "b0cb9528bfaa6e0b5ac2986c879898eebcbb9457e97fcf0af985a00659649031",
   "public_paths": {
     "assets": "corpus/nfce/notas-tecnicas/nt2023-002-v1-01-emitente-cpf-nfce/assets/",
+    "changelog": "changelog/nfce/notas-tecnicas/nt2023-002-v1-01-emitente-cpf-nfce.md",
+    "current_status": "changelog/current-status/nfce/notas-tecnicas/nt2023-002-v1-01-emitente-cpf-nfce.json",
     "document": "corpus/nfce/notas-tecnicas/nt2023-002-v1-01-emitente-cpf-nfce/document.md",
     "metadata": "corpus/nfce/notas-tecnicas/nt2023-002-v1-01-emitente-cpf-nfce/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 17,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 17,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

@@ -14,6 +14,8 @@
   "original_sha256": "729c04fd1374188c29eb21ca60342741b24a014003d4c2ff1bbb455bb1a6a60e",
   "public_paths": {
     "assets": "corpus/nfe/manuais/anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras/assets/",
+    "changelog": "changelog/nfe/manuais/anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras.md",
+    "current_status": "changelog/current-status/nfe/manuais/anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras.json",
     "document": "corpus/nfe/manuais/anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras/document.md",
     "metadata": "corpus/nfe/manuais/anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Sistema Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 41,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 41,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

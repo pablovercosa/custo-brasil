@@ -14,6 +14,8 @@
   "original_sha256": "b7ba0636a2031996e4f6373b5579b43d16fe968e03fef7851096cbe0a22a0238",
   "public_paths": {
     "assets": "corpus/nfag/manuais/moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k/assets/",
+    "changelog": "changelog/nfag/manuais/moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k.md",
+    "current_status": "changelog/current-status/nfag/manuais/moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k.json",
     "document": "corpus/nfag/manuais/moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k/document.md",
     "metadata": "corpus/nfag/manuais/moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Nota Fiscal de \u00c1gua e Saneamento Eletr\u00f4nica",
   "validation": {
     "asset_count": 51,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 51,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

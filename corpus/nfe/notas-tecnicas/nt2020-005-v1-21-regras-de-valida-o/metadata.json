@@ -14,6 +14,8 @@
   "original_sha256": "3ce019a6ea73083d65a86123faa5ecb5ec4e76a32dd143e732079862682d7468",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt2020-005-v1-21-regras-de-valida-o/assets/",
+    "changelog": "changelog/nfe/notas-tecnicas/nt2020-005-v1-21-regras-de-valida-o.md",
+    "current_status": "changelog/current-status/nfe/notas-tecnicas/nt2020-005-v1-21-regras-de-valida-o.json",
     "document": "corpus/nfe/notas-tecnicas/nt2020-005-v1-21-regras-de-valida-o/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt2020-005-v1-21-regras-de-valida-o/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 21,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 21,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

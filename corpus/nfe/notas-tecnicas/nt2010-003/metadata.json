@@ -14,6 +14,8 @@
   "original_sha256": "47ffd5500c12892e81e57ec70f13736672404866640734ae021bb5cf053391cf",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt2010-003/assets/",
+    "changelog": "changelog/nfe/notas-tecnicas/nt2010-003.md",
+    "current_status": "changelog/current-status/nfe/notas-tecnicas/nt2010-003.json",
     "document": "corpus/nfe/notas-tecnicas/nt2010-003/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt2010-003/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 21,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 21,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

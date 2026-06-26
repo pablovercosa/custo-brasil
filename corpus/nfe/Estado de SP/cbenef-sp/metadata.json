@@ -12,20 +12,26 @@
   "original_filename": "Tabela-cBenef-SP-v20260610.xlsx",
   "original_sha256": "8b14dc147d2e5447a7ac81f6e57e1cc699c644dcb59ef162aae1835dd672cac7",
   "public_paths": {
+    "changelog": "changelog/nfe/Estado de SP/cbenef-sp.md",
     "csv": "corpus/nfe/Estado de SP/cbenef-sp/csv/",
+    "current_status": "changelog/current-status/nfe/Estado de SP/cbenef-sp.json",
     "document": "corpus/nfe/Estado de SP/cbenef-sp/README.md",
     "metadata": "corpus/nfe/Estado de SP/cbenef-sp/metadata.json"
   },
   "slug": "cbenef-sp",
   "source_family": "portal_nacional_nfe",
-  "source_url": "",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
   "status": "published",
   "title": "cBenef S\u00e3o Paulo",
   "validation": {
     "asset_count": 0,
+    "assets_validated": false,
+    "links_validated": false,
+    "schema_validated": false,
     "sheets": [
       "Tabela cBenef SP"
     ],
-    "total_rows": 314
+    "total_rows": 314,
+    "valid": false
   }
 }

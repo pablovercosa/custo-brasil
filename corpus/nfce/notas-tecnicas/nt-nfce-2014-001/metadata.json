@@ -14,6 +14,8 @@
   "original_sha256": "cbb68bf9ef3119ea631d85016d988f608998c85ff536cea0ede3f4a003a7c791",
   "public_paths": {
     "assets": "corpus/nfce/notas-tecnicas/nt-nfce-2014-001/assets/",
+    "changelog": "changelog/nfce/notas-tecnicas/nt-nfce-2014-001.md",
+    "current_status": "changelog/current-status/nfce/notas-tecnicas/nt-nfce-2014-001.json",
     "document": "corpus/nfce/notas-tecnicas/nt-nfce-2014-001/document.md",
     "metadata": "corpus/nfce/notas-tecnicas/nt-nfce-2014-001/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Nota Fiscal de Consumidor Eletr\u00f4nica",
   "validation": {
     "asset_count": 11,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 11,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

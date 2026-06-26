@@ -14,6 +14,8 @@
   "original_sha256": "912281ea3ad371ed0db74c91b50bf8c42c0f18837c9c41ca031ed67cfb6f70de",
   "public_paths": {
     "assets": "corpus/nfag/manuais/moc-nfag-visaogeral-v1-00k/assets/",
+    "changelog": "changelog/nfag/manuais/moc-nfag-visaogeral-v1-00k.md",
+    "current_status": "changelog/current-status/nfag/manuais/moc-nfag-visaogeral-v1-00k.json",
     "document": "corpus/nfag/manuais/moc-nfag-visaogeral-v1-00k/document.md",
     "metadata": "corpus/nfag/manuais/moc-nfag-visaogeral-v1-00k/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Nota Fiscal de \u00c1gua e Saneamento Eletr\u00f4nica",
   "validation": {
     "asset_count": 67,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 67,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

@@ -14,6 +14,8 @@
   "original_sha256": "8ca5bff382332103108f0e6ea52eb8be0f9a61030774077f09289391ba03b7e7",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt2024-002-v1-00-econf/assets/",
+    "changelog": "changelog/nfe/notas-tecnicas/nt2024-002-v1-00-econf.md",
+    "current_status": "changelog/current-status/nfe/notas-tecnicas/nt2024-002-v1-00-econf.json",
     "document": "corpus/nfe/notas-tecnicas/nt2024-002-v1-00-econf/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt2024-002-v1-00-econf/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Sistema Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 19,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 19,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

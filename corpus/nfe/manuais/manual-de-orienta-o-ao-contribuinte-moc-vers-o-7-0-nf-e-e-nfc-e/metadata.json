@@ -14,6 +14,8 @@
   "original_sha256": "f664dcf94b77cabb32311620d85a7eb02cdf86adb2d4632ce178af2572dd2ad1",
   "public_paths": {
     "assets": "corpus/nfe/manuais/manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e/assets/",
+    "changelog": "changelog/nfe/manuais/manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e.md",
+    "current_status": "changelog/current-status/nfe/manuais/manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e.json",
     "document": "corpus/nfe/manuais/manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e/document.md",
     "metadata": "corpus/nfe/manuais/manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Sistema Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 181,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 181,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

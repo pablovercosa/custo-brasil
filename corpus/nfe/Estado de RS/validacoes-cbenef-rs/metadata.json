@@ -12,16 +12,22 @@
   "original_filename": "27164413-validacoes-cbenef.docx",
   "original_sha256": "8ea7808360bac24468f3e907721324c3fa3dcb0bd01bb6e2c0eed21f504c25a0",
   "public_paths": {
+    "changelog": "changelog/nfe/Estado de RS/validacoes-cbenef-rs.md",
+    "current_status": "changelog/current-status/nfe/Estado de RS/validacoes-cbenef-rs.json",
     "document": "corpus/nfe/Estado de RS/validacoes-cbenef-rs/document.md",
     "metadata": "corpus/nfe/Estado de RS/validacoes-cbenef-rs/metadata.json"
   },
   "slug": "validacoes-cbenef-rs",
   "source_family": "portal_nacional_nfe",
-  "source_url": "",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
   "status": "published",
   "title": "Valida\u00e7\u00f5es cBenef Rio Grande do Sul",
   "validation": {
     "asset_count": 0,
-    "lines": 169
+    "assets_validated": false,
+    "lines": 169,
+    "links_validated": false,
+    "schema_validated": false,
+    "valid": false
   }
 }

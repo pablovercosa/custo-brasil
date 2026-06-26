@@ -1,11 +1,12 @@
 {
   "category": "tabela",
   "corpus_category": "geral",
-  "derived_public_files": {
-    "metadata": "corpus/geral/tabelas-federais/tabela-lista-servicos/metadata.json",
-    "readme": "corpus/geral/tabelas-federais/tabela-lista-servicos/README.md"
-  },
+  "derived_public_files": [
+    "corpus/geral/tabelas-federais/tabela-lista-servicos/metadata.json",
+    "corpus/geral/tabelas-federais/tabela-lista-servicos/README.md"
+  ],
   "original_filename": "Tabela de C\u00f3digos de Item da Lista de Servi\u00e7os.xlsx",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Diversos/Tabela de C\u00f3digos de Item da Lista de Servi\u00e7os.xlsx",
   "original_sha256": "152ff24ac7d1dd4854a25591c33b93e109ecee5dc159f4bf5fa85f27a7567a14",
   "published_at": "2026-06-26T00:00:00+00:00",
   "slug": "tabela-lista-servicos",

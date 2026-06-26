@@ -14,6 +14,8 @@
   "original_sha256": "390d08e8621843b43a80a9d1fd1a6b359676834b229f3bcefd0b59cbac7ab833",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt-2017-002-v1-40-tabela-cfop/assets/",
+    "changelog": "changelog/nfe/notas-tecnicas/nt-2017-002-v1-40-tabela-cfop.md",
+    "current_status": "changelog/current-status/nfe/notas-tecnicas/nt-2017-002-v1-40-tabela-cfop.json",
     "document": "corpus/nfe/notas-tecnicas/nt-2017-002-v1-40-tabela-cfop/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt-2017-002-v1-40-tabela-cfop/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 35,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 35,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

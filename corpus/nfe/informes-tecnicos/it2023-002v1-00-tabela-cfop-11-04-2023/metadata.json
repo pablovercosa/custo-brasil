@@ -14,6 +14,8 @@
   "original_sha256": "192525497bff47523505cafc9e70424b2cad8e1313f9e22d57f61b810dd7c4d3",
   "public_paths": {
     "assets": "corpus/nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/assets/",
+    "changelog": "changelog/nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023.md",
+    "current_status": "changelog/current-status/nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023.json",
     "document": "corpus/nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/document.md",
     "metadata": "corpus/nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Sistema Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 5,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 5,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

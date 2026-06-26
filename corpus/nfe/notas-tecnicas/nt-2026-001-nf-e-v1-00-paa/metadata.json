@@ -14,6 +14,8 @@
   "original_sha256": "b1514106678d8f3617266f92d3eadf98b8f10c6a7f240804fc1a9508d32aa65c",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt-2026-001-nf-e-v1-00-paa/assets/",
+    "changelog": "changelog/nfe/notas-tecnicas/nt-2026-001-nf-e-v1-00-paa.md",
+    "current_status": "changelog/current-status/nfe/notas-tecnicas/nt-2026-001-nf-e-v1-00-paa.json",
     "document": "corpus/nfe/notas-tecnicas/nt-2026-001-nf-e-v1-00-paa/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt-2026-001-nf-e-v1-00-paa/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Controle de Vers\u00f5es",
   "validation": {
     "asset_count": 23,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 23,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

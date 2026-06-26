@@ -12,17 +12,22 @@
   "original_filename": "Tabela de C\u00f3digos NFe ABI - v2.00 - Minuta.xlsx",
   "original_sha256": "e23d659c83bb8bb31129e7ee9d4fdbe0be820e6d4cc4ffe9bdc7bf53f9e3c783",
   "public_paths": {
+    "changelog": "changelog/geral/tabelas-federais/tabela-nfeabi-v2.md",
     "csv": "corpus/geral/tabelas-federais/tabela-nfeabi-v2/csv/",
+    "current_status": "changelog/current-status/geral/tabelas-federais/tabela-nfeabi-v2.json",
     "document": "corpus/geral/tabelas-federais/tabela-nfeabi-v2/README.md",
     "metadata": "corpus/geral/tabelas-federais/tabela-nfeabi-v2/metadata.json"
   },
   "slug": "tabela-nfeabi-v2",
   "source_family": "portal_nacional_nfe",
-  "source_url": "",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
   "status": "published",
   "title": "C\u00f3digos NFe ABI v2.00",
   "validation": {
     "asset_count": 0,
+    "assets_validated": false,
+    "links_validated": false,
+    "schema_validated": false,
     "sheets": [
       "modOper",
       "natOper",
@@ -38,6 +43,7 @@
       "vRedSocialIndiv",
       "vBC"
     ],
-    "total_rows": 218
+    "total_rows": 218,
+    "valid": false
   }
 }

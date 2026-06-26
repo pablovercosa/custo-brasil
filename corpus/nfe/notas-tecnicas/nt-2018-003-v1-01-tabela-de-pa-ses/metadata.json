@@ -14,6 +14,8 @@
   "original_sha256": "d10873751b86934180a25c0e8a91b0be1808ee0355f5fdb51fd98b22e6652d42",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt-2018-003-v1-01-tabela-de-pa-ses/assets/",
+    "changelog": "changelog/nfe/notas-tecnicas/nt-2018-003-v1-01-tabela-de-pa-ses.md",
+    "current_status": "changelog/current-status/nfe/notas-tecnicas/nt-2018-003-v1-01-tabela-de-pa-ses.json",
     "document": "corpus/nfe/notas-tecnicas/nt-2018-003-v1-01-tabela-de-pa-ses/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt-2018-003-v1-01-tabela-de-pa-ses/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 7,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 7,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

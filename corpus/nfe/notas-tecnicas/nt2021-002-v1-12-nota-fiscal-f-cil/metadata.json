@@ -14,6 +14,8 @@
   "original_sha256": "a67d9e70cff61bdf6a0913bb5c7ca6b30d82332c0204d443e4671a8dd293d64e",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt2021-002-v1-12-nota-fiscal-f-cil/assets/",
+    "changelog": "changelog/nfe/notas-tecnicas/nt2021-002-v1-12-nota-fiscal-f-cil.md",
+    "current_status": "changelog/current-status/nfe/notas-tecnicas/nt2021-002-v1-12-nota-fiscal-f-cil.json",
     "document": "corpus/nfe/notas-tecnicas/nt2021-002-v1-12-nota-fiscal-f-cil/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt2021-002-v1-12-nota-fiscal-f-cil/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 28,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 28,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

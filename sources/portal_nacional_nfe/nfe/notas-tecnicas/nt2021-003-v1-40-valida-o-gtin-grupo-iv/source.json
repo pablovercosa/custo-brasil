@@ -61,15 +61,15 @@
     "normalized/nfe/notas-tecnicas/nt2021-003-v1-40-valida-o-gtin-grupo-iv/normalized.json",
     "changelog/nfe/notas-tecnicas/nt2021-003-v1-40-valida-o-gtin-grupo-iv.md"
   ],
-  "original_filename": "NT2021.003_v1_40 - Validação GTIN Grupo IV.pdf",
-  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Técnicas/NT2021.003_v1_40 - Validação GTIN Grupo IV.pdf",
+  "original_filename": "NT2021.003_v1_40 - Valida\u00e7\u00e3o GTIN Grupo IV.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT2021.003_v1_40 - Valida\u00e7\u00e3o GTIN Grupo IV.pdf",
   "original_sha256": "d22fe9fabbc99c123c87133c9e149d57ecda0276f106f1f0374efb47372adc01",
   "publication_stage": "published",
   "published_at_utc": "2026-06-25T17:06:36.591784+00:00",
   "slug": "nt2021-003-v1-40-valida-o-gtin-grupo-iv",
   "source_family": "portal_nacional_nfe",
   "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
-  "title": "Sistema Nota Fiscal Eletrônica",
+  "title": "Sistema Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 51,
     "contains_base64_images": false,

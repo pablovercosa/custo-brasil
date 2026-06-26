@@ -14,6 +14,8 @@
   "original_sha256": "2b18d99fdb4989a12044cd491c176a2199ab19bb2462406a6ac03376b7701fe5",
   "public_paths": {
     "assets": "corpus/combustiveis/notas-tecnicas/nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis/assets/",
+    "changelog": "changelog/combustiveis/notas-tecnicas/nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis.md",
+    "current_status": "changelog/current-status/combustiveis/notas-tecnicas/nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis.json",
     "document": "corpus/combustiveis/notas-tecnicas/nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis/document.md",
     "metadata": "corpus/combustiveis/notas-tecnicas/nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 52,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 52,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

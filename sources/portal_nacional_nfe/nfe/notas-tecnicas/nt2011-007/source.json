@@ -1,14 +1,8 @@
 {
-  "canonical_id": "nt2011-007",
-  "slug": "nt2011-007",
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
-  "source_family": "portal_nacional_nfe",
+  "canonical_id": "nt2011-007",
   "category": "nota_tecnica",
-  "title": "Nota Tecnica 2011/007 - Prazo do Cancelamento da Nota Fiscal Eletronica",
-  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=04BIflQt1aY=",
-  "original_filename": "NT2011.007.pdf",
-  "original_sha256": "1969689ecdec7bc8826dd521836241b202d9d2ed76329eb69be63aa07c7b8751",
-  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Tecnicas/NT2011.007.pdf",
+  "conversion_tool": "docling-server",
   "derived_public_files": [
     "corpus/nfe/notas-tecnicas/nt2011-007/document.md",
     "corpus/nfe/notas-tecnicas/nt2011-007/metadata.json",
@@ -21,13 +15,19 @@
     "normalized/nfe/notas-tecnicas/nt2011-007/normalized.json",
     "changelog/nfe/notas-tecnicas/nt2011-007.md"
   ],
-  "conversion_tool": "docling-server",
+  "original_filename": "NT2011.007.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Tecnicas/NT2011.007.pdf",
+  "original_sha256": "1969689ecdec7bc8826dd521836241b202d9d2ed76329eb69be63aa07c7b8751",
+  "publication_stage": "prepared_without_commit",
+  "slug": "nt2011-007",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=04BIflQt1aY=",
+  "title": "Nota Tecnica 2011/007 - Prazo do Cancelamento da Nota Fiscal Eletronica",
   "validation": {
+    "asset_count": 5,
     "contains_base64_images": false,
     "contains_data_image": false,
-    "missing_image_refs_count": 0,
-    "asset_count": 5,
-    "image_refs_count": 5
-  },
-  "publication_stage": "prepared_without_commit"
+    "image_refs_count": 5,
+    "missing_image_refs_count": 0
+  }
 }

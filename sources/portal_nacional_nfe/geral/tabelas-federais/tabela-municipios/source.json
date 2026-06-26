@@ -1,11 +1,12 @@
 {
   "category": "tabela",
   "corpus_category": "geral",
-  "derived_public_files": {
-    "metadata": "corpus/geral/tabelas-federais/tabela-municipios/metadata.json",
-    "readme": "corpus/geral/tabelas-federais/tabela-municipios/README.md"
-  },
+  "derived_public_files": [
+    "corpus/geral/tabelas-federais/tabela-municipios/metadata.json",
+    "corpus/geral/tabelas-federais/tabela-municipios/README.md"
+  ],
   "original_filename": "250210_Tab_Municipios.xlsx",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Diversos/250210_Tab_Municipios.xlsx",
   "original_sha256": "768a59b4705df926ee3d09533d122ca056c7440e0a7be1be5247e70fdb8354f0",
   "published_at": "2026-06-26T00:00:00+00:00",
   "slug": "tabela-municipios",

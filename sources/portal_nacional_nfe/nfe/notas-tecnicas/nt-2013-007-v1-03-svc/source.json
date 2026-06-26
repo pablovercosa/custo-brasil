@@ -28,14 +28,14 @@
     "changelog/nfe/notas-tecnicas/nt-2013-007-v1-03-svc.md"
   ],
   "original_filename": "NT_2013_007_v1.03_SVC.pdf",
-  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Técnicas/NT_2013_007_v1.03_SVC.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT_2013_007_v1.03_SVC.pdf",
   "original_sha256": "e8d4e4f4b31a1e8c3d6b5ad33e94a387e22a78273009cdc8bceda70458d14d83",
   "publication_stage": "published",
   "published_at_utc": "2026-06-25T16:54:11.310052+00:00",
   "slug": "nt-2013-007-v1-03-svc",
   "source_family": "portal_nacional_nfe",
   "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
-  "title": "Sistema Nota Fiscal Eletrônica",
+  "title": "Sistema Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 17,
     "contains_base64_images": false,

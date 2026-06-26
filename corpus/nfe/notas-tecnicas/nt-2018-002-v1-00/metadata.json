@@ -14,6 +14,8 @@
   "original_sha256": "33bccb4e33729acc5af60778b6f764dc6aa4e0ab7ec0b63293b4b9963b146a5e",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt-2018-002-v1-00/assets/",
+    "changelog": "changelog/nfe/notas-tecnicas/nt-2018-002-v1-00.md",
+    "current_status": "changelog/current-status/nfe/notas-tecnicas/nt-2018-002-v1-00.json",
     "document": "corpus/nfe/notas-tecnicas/nt-2018-002-v1-00/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt-2018-002-v1-00/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 9,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 9,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

@@ -14,6 +14,8 @@
   "original_sha256": "e97da2101819cbf57a45e782f005c94efad8a0377296720f013ca76483289bd1",
   "public_paths": {
     "assets": "corpus/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta/assets/",
+    "changelog": "changelog/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta.md",
+    "current_status": "changelog/current-status/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta.json",
     "document": "corpus/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta/document.md",
     "metadata": "corpus/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Sistema Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 10,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 10,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

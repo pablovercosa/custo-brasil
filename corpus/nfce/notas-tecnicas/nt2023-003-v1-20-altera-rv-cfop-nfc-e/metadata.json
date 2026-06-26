@@ -14,6 +14,8 @@
   "original_sha256": "cba9a2750a6df08c4d2b54d28c1838e172e2a434b677fb52e909f7071579ba3b",
   "public_paths": {
     "assets": "corpus/nfce/notas-tecnicas/nt2023-003-v1-20-altera-rv-cfop-nfc-e/assets/",
+    "changelog": "changelog/nfce/notas-tecnicas/nt2023-003-v1-20-altera-rv-cfop-nfc-e.md",
+    "current_status": "changelog/current-status/nfce/notas-tecnicas/nt2023-003-v1-20-altera-rv-cfop-nfc-e.json",
     "document": "corpus/nfce/notas-tecnicas/nt2023-003-v1-20-altera-rv-cfop-nfc-e/document.md",
     "metadata": "corpus/nfce/notas-tecnicas/nt2023-003-v1-20-altera-rv-cfop-nfc-e/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 8,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 8,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

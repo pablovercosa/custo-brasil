@@ -1,11 +1,12 @@
 {
   "category": "cbenef",
   "corpus_category": "nfe",
-  "derived_public_files": {
-    "document": "corpus/nfe/Estado de SP/cbenef-sp-html/document.md",
-    "metadata": "corpus/nfe/Estado de SP/cbenef-sp-html/metadata.json"
-  },
+  "derived_public_files": [
+    "corpus/nfe/Estado de SP/cbenef-sp-html/document.md",
+    "corpus/nfe/Estado de SP/cbenef-sp-html/metadata.json"
+  ],
   "original_filename": "P\u00e1ginas - C\u00f3digos de Benef\u00edcios Fiscais - cBenef.html",
+  "original_public_path_hint": "",
   "original_sha256": "8f93aee658fa0648a3fb43119143b74e26a39e0424f30816813bcf290d7d3c10",
   "published_at": "2026-06-26T00:00:00+00:00",
   "slug": "cbenef-sp-html",

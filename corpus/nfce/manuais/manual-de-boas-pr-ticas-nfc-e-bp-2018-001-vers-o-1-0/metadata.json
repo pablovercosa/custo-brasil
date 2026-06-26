@@ -14,6 +14,8 @@
   "original_sha256": "2c67883620011685c8de0e34100c8f0b5e731cad8c7cc6ad02a383aad6873333",
   "public_paths": {
     "assets": "corpus/nfce/manuais/manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0/assets/",
+    "changelog": "changelog/nfce/manuais/manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0.md",
+    "current_status": "changelog/current-status/nfce/manuais/manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0.json",
     "document": "corpus/nfce/manuais/manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0/document.md",
     "metadata": "corpus/nfce/manuais/manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "CONTROLE DE VERS\u00d5ES",
   "validation": {
     "asset_count": 14,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 14,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

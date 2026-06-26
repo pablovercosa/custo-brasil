@@ -14,6 +14,8 @@
   "original_sha256": "5eda1dbc0be00922e46972836fc81fa605772298ca6f80a96bac5210ba134e31",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt2022-003v1-11-referenciamento/assets/",
+    "changelog": "changelog/nfe/notas-tecnicas/nt2022-003v1-11-referenciamento.md",
+    "current_status": "changelog/current-status/nfe/notas-tecnicas/nt2022-003v1-11-referenciamento.json",
     "document": "corpus/nfe/notas-tecnicas/nt2022-003v1-11-referenciamento/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt2022-003v1-11-referenciamento/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 18,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 18,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

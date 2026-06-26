@@ -14,6 +14,8 @@
   "original_sha256": "e1cfb9b6c5adc6a67062f66fd1699495fdec5dfdb93025768f87fe3782918dde",
   "public_paths": {
     "assets": "corpus/nfe/manuais/anexo-iii-manual-de-conting-ncia-nf-e/assets/",
+    "changelog": "changelog/nfe/manuais/anexo-iii-manual-de-conting-ncia-nf-e.md",
+    "current_status": "changelog/current-status/nfe/manuais/anexo-iii-manual-de-conting-ncia-nf-e.json",
     "document": "corpus/nfe/manuais/anexo-iii-manual-de-conting-ncia-nf-e/document.md",
     "metadata": "corpus/nfe/manuais/anexo-iii-manual-de-conting-ncia-nf-e/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Sistema Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 38,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 38,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

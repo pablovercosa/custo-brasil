@@ -18,14 +18,14 @@
     "changelog/nfe/notas-tecnicas/nt2008-002.md"
   ],
   "original_filename": "NT2008.002.pdf",
-  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Técnicas/NT2008.002.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT2008.002.pdf",
   "original_sha256": "e93954e307cab8b8cdc26ad85fb7a51a253c9b22d4d49778ce4905b015e45ef9",
   "publication_stage": "published",
   "published_at_utc": "2026-06-25T14:57:12.720361+00:00",
   "slug": "nt2008-002",
   "source_family": "portal_nacional_nfe",
   "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
-  "title": "Projeto Nota Fiscal Eletrônica",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 7,
     "contains_base64_images": false,

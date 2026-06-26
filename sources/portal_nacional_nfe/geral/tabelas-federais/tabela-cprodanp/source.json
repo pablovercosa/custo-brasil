@@ -1,11 +1,12 @@
 {
   "category": "tabela",
   "corpus_category": "geral",
-  "derived_public_files": {
-    "metadata": "corpus/geral/tabelas-federais/tabela-cprodanp/metadata.json",
-    "readme": "corpus/geral/tabelas-federais/tabela-cprodanp/README.md"
-  },
+  "derived_public_files": [
+    "corpus/geral/tabelas-federais/tabela-cprodanp/metadata.json",
+    "corpus/geral/tabelas-federais/tabela-cprodanp/README.md"
+  ],
   "original_filename": "Tabela_Codigo_Produto_ANP-20241118.xlsx",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Diversos/Tabela_Codigo_Produto_ANP-20241118.xlsx",
   "original_sha256": "8271a80007548b0151cc00b769d4b84359cc37429c1d26ce68402b48e7d00b1a",
   "published_at": "2026-06-26T00:00:00+00:00",
   "slug": "tabela-cprodanp",

@@ -14,6 +14,8 @@
   "original_sha256": "d99e74368add4f59b5f50c179d78e7038eded22181a3434bff9add7e7700688a",
   "public_paths": {
     "assets": "corpus/nfgas/manuais/moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f/assets/",
+    "changelog": "changelog/nfgas/manuais/moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f.md",
+    "current_status": "changelog/current-status/nfgas/manuais/moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f.json",
     "document": "corpus/nfgas/manuais/moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f/document.md",
     "metadata": "corpus/nfgas/manuais/moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Nota Fiscal Eletr\u00f4nica do G\u00e1s",
   "validation": {
     "asset_count": 52,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 52,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

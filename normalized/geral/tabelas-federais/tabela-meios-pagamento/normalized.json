@@ -2,6 +2,8 @@
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
   "canonical_id": "tabela-meios-pagamento",
   "category": "tabela",
+  "corpus_category": "geral",
+  "created_at": "2026-06-26T15:51:41.047981+00:00",
   "document_path": "corpus/geral/tabelas-federais/tabela-meios-pagamento/README.md",
   "metadata_path": "corpus/geral/tabelas-federais/tabela-meios-pagamento/metadata.json",
   "normalization_status": "manual_published",

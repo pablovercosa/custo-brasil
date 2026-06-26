@@ -14,6 +14,8 @@
   "original_sha256": "df63f8405a428c55d87276c616cf30e0aa04ce3ed8a7071d15ad80c59156760d",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt-2012-002/assets/",
+    "changelog": "changelog/nfe/notas-tecnicas/nt-2012-002.md",
+    "current_status": "changelog/current-status/nfe/notas-tecnicas/nt-2012-002.json",
     "document": "corpus/nfe/notas-tecnicas/nt-2012-002/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt-2012-002/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Nota Fiscal Eletr\u00f4nica Projeto Nota Fiscal Eletr\u00f4nica Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 29,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 29,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

@@ -2,6 +2,8 @@
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
   "canonical_id": "tabela-lista-servicos",
   "category": "tabela",
+  "corpus_category": "geral",
+  "created_at": "2026-06-26T15:51:40.963471+00:00",
   "document_path": "corpus/geral/tabelas-federais/tabela-lista-servicos/README.md",
   "metadata_path": "corpus/geral/tabelas-federais/tabela-lista-servicos/metadata.json",
   "normalization_status": "manual_published",

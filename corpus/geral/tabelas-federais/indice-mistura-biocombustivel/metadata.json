@@ -12,21 +12,27 @@
   "original_filename": "tbIndiceMisturaBioCombustivel_20260424.xlsx",
   "original_sha256": "940b812405355fecd258fa0cc0800a9dbec26bd3e9ef52362ca3e93cdbbbe578",
   "public_paths": {
+    "changelog": "changelog/geral/tabelas-federais/indice-mistura-biocombustivel.md",
     "csv": "corpus/geral/tabelas-federais/indice-mistura-biocombustivel/csv/",
+    "current_status": "changelog/current-status/geral/tabelas-federais/indice-mistura-biocombustivel.json",
     "document": "corpus/geral/tabelas-federais/indice-mistura-biocombustivel/README.md",
     "metadata": "corpus/geral/tabelas-federais/indice-mistura-biocombustivel/metadata.json"
   },
   "slug": "indice-mistura-biocombustivel",
   "source_family": "portal_nacional_nfe",
-  "source_url": "",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
   "status": "published",
   "title": "\u00cdndice de Mistura de Biocombust\u00edvel",
   "validation": {
     "asset_count": 0,
+    "assets_validated": false,
+    "links_validated": false,
+    "schema_validated": false,
     "sheets": [
       "pBioObrigatorio",
       "pBioObrigatorio_Historico"
     ],
-    "total_rows": 20
+    "total_rows": 20,
+    "valid": false
   }
 }

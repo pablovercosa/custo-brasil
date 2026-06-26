@@ -1,11 +1,12 @@
 {
   "category": "cbenef",
   "corpus_category": "nfe",
-  "derived_public_files": {
-    "metadata": "corpus/nfe/Estado de SP/cbenef-sp/metadata.json",
-    "readme": "corpus/nfe/Estado de SP/cbenef-sp/README.md"
-  },
+  "derived_public_files": [
+    "corpus/nfe/Estado de SP/cbenef-sp/metadata.json",
+    "corpus/nfe/Estado de SP/cbenef-sp/README.md"
+  ],
   "original_filename": "Tabela-cBenef-SP-v20260610.xlsx",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Diversos/Tabela cBenef x CST - Relacionada a Nota T\u00e9cnica 2019.001/Estado de Sao Paulo/Tabela-cBenef-SP-v20260610.xlsx",
   "original_sha256": "8b14dc147d2e5447a7ac81f6e57e1cc699c644dcb59ef162aae1835dd672cac7",
   "published_at": "2026-06-26T00:00:00+00:00",
   "slug": "cbenef-sp",

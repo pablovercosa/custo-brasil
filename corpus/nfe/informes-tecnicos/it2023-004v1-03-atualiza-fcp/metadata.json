@@ -14,6 +14,8 @@
   "original_sha256": "440a33ad31751980a96cbfc74d7a6a3c98961f484351254dc0f1a6385cd3de1f",
   "public_paths": {
     "assets": "corpus/nfe/informes-tecnicos/it2023-004v1-03-atualiza-fcp/assets/",
+    "changelog": "changelog/nfe/informes-tecnicos/it2023-004v1-03-atualiza-fcp.md",
+    "current_status": "changelog/current-status/nfe/informes-tecnicos/it2023-004v1-03-atualiza-fcp.json",
     "document": "corpus/nfe/informes-tecnicos/it2023-004v1-03-atualiza-fcp/document.md",
     "metadata": "corpus/nfe/informes-tecnicos/it2023-004v1-03-atualiza-fcp/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Sistema Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 5,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 5,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

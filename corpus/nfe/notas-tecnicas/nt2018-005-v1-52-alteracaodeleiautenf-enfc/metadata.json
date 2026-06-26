@@ -14,6 +14,8 @@
   "original_sha256": "c2c299ee59397a495c88b7b83826f39ca44e0d070bfeebbb9d9ff61d32a58ec7",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt2018-005-v1-52-alteracaodeleiautenf-enfc/assets/",
+    "changelog": "changelog/nfe/notas-tecnicas/nt2018-005-v1-52-alteracaodeleiautenf-enfc.md",
+    "current_status": "changelog/current-status/nfe/notas-tecnicas/nt2018-005-v1-52-alteracaodeleiautenf-enfc.json",
     "document": "corpus/nfe/notas-tecnicas/nt2018-005-v1-52-alteracaodeleiautenf-enfc/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt2018-005-v1-52-alteracaodeleiautenf-enfc/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 25,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 25,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

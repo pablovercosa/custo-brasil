@@ -30,3 +30,13 @@
 - Movido de: `corpus/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta`
 - Movido para: `corpus/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta`
 - metadata.json, normalized.json, source.json atualizados
+
+---
+
+## Correcao em massa de metadados (2026-06-26T16:43:21+00:00)
+
+- Adicionados campos `public_paths.changelog` e `public_paths.current_status` no metadata.json.
+- Adicionados `validation.assets_validated`, `validation.links_validated`, `validation.schema_validated`, `validation.valid` no metadata.json.
+- Adicionados `corpus_category` e `created_at` no normalized.json.
+- Adicionado `original_public_path_hint` no source.json (para documentos que nao possuiam).
+- Corrigida `source_url` em branco (33 documentos) e `authority` com placeholder SEFAZ (5 documentos).

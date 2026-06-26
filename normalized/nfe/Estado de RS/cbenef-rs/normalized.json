@@ -2,6 +2,8 @@
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
   "canonical_id": "cbenef-rs",
   "category": "cbenef",
+  "corpus_category": "nfe",
+  "created_at": "2026-06-26T15:51:43.001065+00:00",
   "document_path": "corpus/nfe/Estado de RS/cbenef-rs/README.md",
   "metadata_path": "corpus/nfe/Estado de RS/cbenef-rs/metadata.json",
   "normalization_status": "manual_published",

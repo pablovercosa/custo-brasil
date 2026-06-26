@@ -12,20 +12,26 @@
   "original_filename": "Tabela de Pa\u00edses - Ref. NT 2018.003. v1.01.ods",
   "original_sha256": "76386b536812e13baf5f09f49c057e78650be387a96c576377c3998f39358a9f",
   "public_paths": {
+    "changelog": "changelog/geral/tabelas-federais/tabela-paises.md",
     "csv": "corpus/geral/tabelas-federais/tabela-paises/csv/",
+    "current_status": "changelog/current-status/geral/tabelas-federais/tabela-paises.json",
     "document": "corpus/geral/tabelas-federais/tabela-paises/README.md",
     "metadata": "corpus/geral/tabelas-federais/tabela-paises/metadata.json"
   },
   "slug": "tabela-paises",
   "source_family": "portal_nacional_nfe",
-  "source_url": "",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
   "status": "published",
   "title": "Tabela de Pa\u00edses",
   "validation": {
     "asset_count": 0,
+    "assets_validated": false,
+    "links_validated": false,
+    "schema_validated": false,
     "sheets": [
       "Tabela de Pa\u00edses - Ref. NT 2018.003. v1.01"
     ],
-    "total_rows": 266
+    "total_rows": 266,
+    "valid": false
   }
 }

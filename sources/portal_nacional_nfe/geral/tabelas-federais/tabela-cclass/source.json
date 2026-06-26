@@ -1,11 +1,12 @@
 {
   "category": "tabela",
   "corpus_category": "geral",
-  "derived_public_files": {
-    "metadata": "corpus/geral/tabelas-federais/tabela-cclass/metadata.json",
-    "readme": "corpus/geral/tabelas-federais/tabela-cclass/README.md"
-  },
+  "derived_public_files": [
+    "corpus/geral/tabelas-federais/tabela-cclass/metadata.json",
+    "corpus/geral/tabelas-federais/tabela-cclass/README.md"
+  ],
   "original_filename": "Tabela-cClass.xlsx",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Diversos/Tabela-cClass.xlsx",
   "original_sha256": "c2f1419188cf780c11dbd15a477ea8d6425b50e90d8f40a1cef7dfc2edd5309d",
   "published_at": "2026-06-26T00:00:00+00:00",
   "slug": "tabela-cclass",

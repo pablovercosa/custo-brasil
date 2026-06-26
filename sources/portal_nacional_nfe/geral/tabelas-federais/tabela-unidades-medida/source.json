@@ -1,11 +1,12 @@
 {
   "category": "tabela",
   "corpus_category": "geral",
-  "derived_public_files": {
-    "metadata": "corpus/geral/tabelas-federais/tabela-unidades-medida/metadata.json",
-    "readme": "corpus/geral/tabelas-federais/tabela-unidades-medida/README.md"
-  },
+  "derived_public_files": [
+    "corpus/geral/tabelas-federais/tabela-unidades-medida/metadata.json",
+    "corpus/geral/tabelas-federais/tabela-unidades-medida/README.md"
+  ],
   "original_filename": "Tabela_Unidades_de_Medida_Comercial_05072016.xls",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Diversos/Tabela_Unidades_de_Medida_Comercial_05072016.xls",
   "original_sha256": "4bbee279990cfd9ba6be1038d4391e78c421e7d1e9388da738d0dec69344cb13",
   "published_at": "2026-06-26T00:00:00+00:00",
   "slug": "tabela-unidades-medida",

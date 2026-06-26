@@ -2,6 +2,8 @@
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
   "canonical_id": "nt2011-007",
   "category": "nota_tecnica",
+  "corpus_category": "nfe",
+  "created_at": "2026-06-26T16:42:32.183690+00:00",
   "document_path": "corpus/nfe/notas-tecnicas/nt2011-007/document.md",
   "metadata_path": "corpus/nfe/notas-tecnicas/nt2011-007/metadata.json",
   "normalization_status": "minimal_public_record",

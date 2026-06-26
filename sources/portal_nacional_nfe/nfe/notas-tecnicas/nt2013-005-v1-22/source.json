@@ -155,14 +155,14 @@
     "changelog/nfe/notas-tecnicas/nt2013-005-v1-22.md"
   ],
   "original_filename": "NT2013.005_v1.22.pdf",
-  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Técnicas/NT2013.005_v1.22.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT2013.005_v1.22.pdf",
   "original_sha256": "d215826fcbfd3b41abc5cb5e9098ef871c96618140051db2d3d041862349b44c",
   "publication_stage": "published",
   "published_at_utc": "2026-06-25T20:41:33.450210+00:00",
   "slug": "nt2013-005-v1-22",
   "source_family": "portal_nacional_nfe",
   "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
-  "title": "Projeto Nota Fiscal Eletrônica",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 144,
     "contains_base64_images": false,

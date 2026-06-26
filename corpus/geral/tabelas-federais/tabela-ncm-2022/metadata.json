@@ -12,20 +12,26 @@
   "original_filename": "Tabela NCM 2022 com Utrib_Com\u00e9rcio Exterior_vig\u00eancia 01.02.26.xlsx",
   "original_sha256": "b06ecddeb15e36688e6398c36f51ae29b7ef6dfc1eca765c1c37ee9416a64e7b",
   "public_paths": {
+    "changelog": "changelog/geral/tabelas-federais/tabela-ncm-2022.md",
     "csv": "corpus/geral/tabelas-federais/tabela-ncm-2022/csv/",
+    "current_status": "changelog/current-status/geral/tabelas-federais/tabela-ncm-2022.json",
     "document": "corpus/geral/tabelas-federais/tabela-ncm-2022/README.md",
     "metadata": "corpus/geral/tabelas-federais/tabela-ncm-2022/metadata.json"
   },
   "slug": "tabela-ncm-2022",
   "source_family": "portal_nacional_nfe",
-  "source_url": "",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
   "status": "published",
   "title": "Tabela NCM 2022",
   "validation": {
     "asset_count": 0,
+    "assets_validated": false,
+    "links_validated": false,
+    "schema_validated": false,
     "sheets": [
       "NCM X uTrib_Vig 1-02-2026"
     ],
-    "total_rows": 10521
+    "total_rows": 10521,
+    "valid": false
   }
 }

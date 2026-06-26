@@ -1,11 +1,12 @@
 {
   "category": "tabela",
   "corpus_category": "geral",
-  "derived_public_files": {
-    "metadata": "corpus/geral/tabelas-federais/indice-mistura-biocombustivel/metadata.json",
-    "readme": "corpus/geral/tabelas-federais/indice-mistura-biocombustivel/README.md"
-  },
+  "derived_public_files": [
+    "corpus/geral/tabelas-federais/indice-mistura-biocombustivel/metadata.json",
+    "corpus/geral/tabelas-federais/indice-mistura-biocombustivel/README.md"
+  ],
   "original_filename": "tbIndiceMisturaBioCombustivel_20260424.xlsx",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Diversos/tbIndiceMisturaBioCombustivel_20260424.xlsx",
   "original_sha256": "940b812405355fecd258fa0cc0800a9dbec26bd3e9ef52362ca3e93cdbbbe578",
   "published_at": "2026-06-26T00:00:00+00:00",
   "slug": "indice-mistura-biocombustivel",

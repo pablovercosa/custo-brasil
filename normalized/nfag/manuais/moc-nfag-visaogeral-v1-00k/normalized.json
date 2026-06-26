@@ -2,6 +2,8 @@
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
   "canonical_id": "moc-nfag-visaogeral-v1-00k",
   "category": "manual",
+  "corpus_category": "nfag",
+  "created_at": "2026-06-25T19:06:18.645000+00:00",
   "document_path": "corpus/nfag/manuais/moc-nfag-visaogeral-v1-00k/document.md",
   "metadata_path": "corpus/nfag/manuais/moc-nfag-visaogeral-v1-00k/metadata.json",
   "normalization_status": "auto_batch_published",
@@ -12,7 +14,7 @@
   "source_family": "portal_nacional_nfe",
   "source_path": "sources/portal_nacional_nfe/nfag/manuais/moc-nfag-visaogeral-v1-00k/source.json",
   "status": "published",
-  "title": "Projeto Nota Fiscal de Água e Saneamento Eletrônica",
+  "title": "Projeto Nota Fiscal de \u00c1gua e Saneamento Eletr\u00f4nica",
   "validation": {
     "asset_count": 67,
     "contains_base64_images": false,

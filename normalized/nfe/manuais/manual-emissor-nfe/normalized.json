@@ -2,6 +2,8 @@
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
   "canonical_id": "manual-emissor-nfe",
   "category": "manual",
+  "corpus_category": "nfe",
+  "created_at": "2026-06-25T15:08:56.120829+00:00",
   "document_path": "corpus/nfe/manuais/manual-emissor-nfe/document.md",
   "metadata_path": "corpus/nfe/manuais/manual-emissor-nfe/metadata.json",
   "normalization_status": "auto_batch_published",
@@ -12,7 +14,7 @@
   "source_family": "portal_nacional_nfe",
   "source_path": "sources/portal_nacional_nfe/nfe/manuais/manual-emissor-nfe/source.json",
   "status": "published",
-  "title": "Emissor de Nota Fiscal Eletrônica",
+  "title": "Emissor de Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 1,
     "contains_base64_images": false,

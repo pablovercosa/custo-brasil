@@ -2,6 +2,8 @@
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
   "canonical_id": "ccredpres-2025",
   "category": "tabela",
+  "corpus_category": "geral",
+  "created_at": "2026-06-26T15:51:38.780751+00:00",
   "document_path": "corpus/geral/tabelas-federais/ccredpres-2025/README.md",
   "metadata_path": "corpus/geral/tabelas-federais/ccredpres-2025/metadata.json",
   "normalization_status": "manual_published",

@@ -14,6 +14,8 @@
   "original_sha256": "e8ba4b9a75bff57fec768d8a52afb8ccd6b31f1d595541f7dced37757163e1c5",
   "public_paths": {
     "assets": "corpus/combustiveis/informes-tecnicos/it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel/assets/",
+    "changelog": "changelog/combustiveis/informes-tecnicos/it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel.md",
+    "current_status": "changelog/current-status/combustiveis/informes-tecnicos/it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel.json",
     "document": "corpus/combustiveis/informes-tecnicos/it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel/document.md",
     "metadata": "corpus/combustiveis/informes-tecnicos/it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Reforma Tribut\u00e1ria do Consumo",
   "validation": {
     "asset_count": 9,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 9,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

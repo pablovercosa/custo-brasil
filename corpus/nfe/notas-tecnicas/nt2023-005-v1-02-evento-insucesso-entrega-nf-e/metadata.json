@@ -14,6 +14,8 @@
   "original_sha256": "ada7c7e3b7bd5e8d7ee5e2fdc4f5b8adb9f11b6d0fe449b6f97dbb366ac72a92",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt2023-005-v1-02-evento-insucesso-entrega-nf-e/assets/",
+    "changelog": "changelog/nfe/notas-tecnicas/nt2023-005-v1-02-evento-insucesso-entrega-nf-e.md",
+    "current_status": "changelog/current-status/nfe/notas-tecnicas/nt2023-005-v1-02-evento-insucesso-entrega-nf-e.json",
     "document": "corpus/nfe/notas-tecnicas/nt2023-005-v1-02-evento-insucesso-entrega-nf-e/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt2023-005-v1-02-evento-insucesso-entrega-nf-e/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Sistema Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 21,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 21,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

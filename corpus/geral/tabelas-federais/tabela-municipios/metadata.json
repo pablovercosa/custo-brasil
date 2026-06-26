@@ -12,20 +12,26 @@
   "original_filename": "250210_Tab_Municipios.xlsx",
   "original_sha256": "768a59b4705df926ee3d09533d122ca056c7440e0a7be1be5247e70fdb8354f0",
   "public_paths": {
+    "changelog": "changelog/geral/tabelas-federais/tabela-municipios.md",
     "csv": "corpus/geral/tabelas-federais/tabela-municipios/csv/",
+    "current_status": "changelog/current-status/geral/tabelas-federais/tabela-municipios.json",
     "document": "corpus/geral/tabelas-federais/tabela-municipios/README.md",
     "metadata": "corpus/geral/tabelas-federais/tabela-municipios/metadata.json"
   },
   "slug": "tabela-municipios",
   "source_family": "portal_nacional_nfe",
-  "source_url": "",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
   "status": "published",
   "title": "Tabela de Munic\u00edpios",
   "validation": {
     "asset_count": 0,
+    "assets_validated": false,
+    "links_validated": false,
+    "schema_validated": false,
     "sheets": [
       "Mun"
     ],
-    "total_rows": 5572
+    "total_rows": 5572,
+    "valid": false
   }
 }

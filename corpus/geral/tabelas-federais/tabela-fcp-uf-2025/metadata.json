@@ -12,20 +12,26 @@
   "original_filename": "Tabela_Al\u00edquotas_FCP_por_UF_2025-02_07.xlsx",
   "original_sha256": "3079d088169003cf0ef0da5ab36de0930efd5e9cee27c567650b767736f9cb91",
   "public_paths": {
+    "changelog": "changelog/geral/tabelas-federais/tabela-fcp-uf-2025.md",
     "csv": "corpus/geral/tabelas-federais/tabela-fcp-uf-2025/csv/",
+    "current_status": "changelog/current-status/geral/tabelas-federais/tabela-fcp-uf-2025.json",
     "document": "corpus/geral/tabelas-federais/tabela-fcp-uf-2025/README.md",
     "metadata": "corpus/geral/tabelas-federais/tabela-fcp-uf-2025/metadata.json"
   },
   "slug": "tabela-fcp-uf-2025",
   "source_family": "portal_nacional_nfe",
-  "source_url": "",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
   "status": "published",
   "title": "Al\u00edquotas FCP por UF",
   "validation": {
     "asset_count": 0,
+    "assets_validated": false,
+    "links_validated": false,
+    "schema_validated": false,
     "sheets": [
       "FCP"
     ],
-    "total_rows": 31
+    "total_rows": 31,
+    "valid": false
   }
 }

@@ -14,6 +14,8 @@
   "original_sha256": "19953feb5695e728cf15a91be144b7115b3079a31be5ba0fa6eb46af58db1172",
   "public_paths": {
     "assets": "corpus/nfe/informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026/assets/",
+    "changelog": "changelog/nfe/informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026.md",
+    "current_status": "changelog/current-status/nfe/informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026.json",
     "document": "corpus/nfe/informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026/document.md",
     "metadata": "corpus/nfe/informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Sistema Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 6,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 6,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

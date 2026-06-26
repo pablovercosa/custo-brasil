@@ -12,20 +12,26 @@
   "original_filename": "Tabela de Padr\u00f5es de Regime Especial.xlsx",
   "original_sha256": "c10d2fdb149fd8cd82383d41d82db9a1acbd2b11714b549c3184549baec5dcd2",
   "public_paths": {
+    "changelog": "changelog/geral/tabelas-federais/tabela-regimes-especiais.md",
     "csv": "corpus/geral/tabelas-federais/tabela-regimes-especiais/csv/",
+    "current_status": "changelog/current-status/geral/tabelas-federais/tabela-regimes-especiais.json",
     "document": "corpus/geral/tabelas-federais/tabela-regimes-especiais/README.md",
     "metadata": "corpus/geral/tabelas-federais/tabela-regimes-especiais/metadata.json"
   },
   "slug": "tabela-regimes-especiais",
   "source_family": "portal_nacional_nfe",
-  "source_url": "",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
   "status": "published",
   "title": "Padr\u00f5es de Regime Especial",
   "validation": {
     "asset_count": 0,
+    "assets_validated": false,
+    "links_validated": false,
+    "schema_validated": false,
     "sheets": [
       "Plan1"
     ],
-    "total_rows": 3
+    "total_rows": 3,
+    "valid": false
   }
 }

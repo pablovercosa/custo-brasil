@@ -2,6 +2,8 @@
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
   "canonical_id": "it-2023-001-v1-10-tabela-cprodanp",
   "category": "informe_tecnico",
+  "corpus_category": "combustiveis",
+  "created_at": "2026-06-25T20:43:20.243064+00:00",
   "document_path": "corpus/combustiveis/informes-tecnicos/it-2023-001-v1-10-tabela-cprodanp/document.md",
   "metadata_path": "corpus/combustiveis/informes-tecnicos/it-2023-001-v1-10-tabela-cprodanp/metadata.json",
   "normalization_status": "auto_batch_published",
@@ -12,7 +14,7 @@
   "source_family": "portal_nacional_nfe",
   "source_path": "sources/portal_nacional_nfe/combustiveis/informes-tecnicos/it-2023-001-v1-10-tabela-cprodanp/source.json",
   "status": "published",
-  "title": "Sistema Nota Fiscal Eletrônica",
+  "title": "Sistema Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 6,
     "contains_base64_images": false,

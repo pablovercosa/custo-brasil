@@ -1,11 +1,12 @@
 {
   "category": "cbenef",
   "corpus_category": "nfe",
-  "derived_public_files": {
-    "metadata": "corpus/nfe/Estado de RS/cbenef-rs/metadata.json",
-    "readme": "corpus/nfe/Estado de RS/cbenef-rs/README.md"
-  },
+  "derived_public_files": [
+    "corpus/nfe/Estado de RS/cbenef-rs/metadata.json",
+    "corpus/nfe/Estado de RS/cbenef-rs/README.md"
+  ],
   "original_filename": "05151340-tabela-cbenef-x-cst-27-04-2026.xlsx",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Diversos/Tabela cBenef x CST - Relacionada a Nota T\u00e9cnica 2019.001/Estado do Rio Grande do Sul/05151340-tabela-cbenef-x-cst-27-04-2026.xlsx",
   "original_sha256": "c0876ac7d12abaf58129b8b506339fbb0365a7b0fe4f465c6217692e11552a25",
   "published_at": "2026-06-26T00:00:00+00:00",
   "slug": "cbenef-rs",

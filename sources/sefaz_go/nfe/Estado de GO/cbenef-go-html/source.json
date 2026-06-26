@@ -1,11 +1,12 @@
 {
   "category": "cbenef",
   "corpus_category": "nfe",
-  "derived_public_files": {
-    "document": "corpus/nfe/Estado de GO/cbenef-go-html/document.md",
-    "metadata": "corpus/nfe/Estado de GO/cbenef-go-html/metadata.json"
-  },
+  "derived_public_files": [
+    "corpus/nfe/Estado de GO/cbenef-go-html/document.md",
+    "corpus/nfe/Estado de GO/cbenef-go-html/metadata.json"
+  ],
   "original_filename": "C\u00f3digos de Benef\u00edcios Fiscais \u2013 Secretaria da Economia.html",
+  "original_public_path_hint": "",
   "original_sha256": "ae1219653489eb5f5e258eb1b388af6aac30724e833102db074c484171fcfd6d",
   "published_at": "2026-06-26T00:00:00+00:00",
   "slug": "cbenef-go-html",

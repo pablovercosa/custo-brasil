@@ -1,11 +1,12 @@
 {
   "category": "tabela",
   "corpus_category": "geral",
-  "derived_public_files": {
-    "metadata": "corpus/geral/tabelas-federais/tabela-tipos-veiculo/metadata.json",
-    "readme": "corpus/geral/tabelas-federais/tabela-tipos-veiculo/README.md"
-  },
+  "derived_public_files": [
+    "corpus/geral/tabelas-federais/tabela-tipos-veiculo/metadata.json",
+    "corpus/geral/tabelas-federais/tabela-tipos-veiculo/README.md"
+  ],
   "original_filename": "Tabela de Tipo e Especie de Ve\u00edculo.xlsx",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Diversos/Tabela de Tipo e Especie de Ve\u00edculo.xlsx",
   "original_sha256": "03c399be8a80fe0c2c99e0bb1dd04e2c23fc04890f070307d0bbd7d5077cb5d7",
   "published_at": "2026-06-26T00:00:00+00:00",
   "slug": "tabela-tipos-veiculo",

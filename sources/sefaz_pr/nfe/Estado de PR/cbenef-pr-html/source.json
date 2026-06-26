@@ -1,11 +1,12 @@
 {
   "category": "cbenef",
   "corpus_category": "nfe",
-  "derived_public_files": {
-    "document": "corpus/nfe/Estado de PR/cbenef-pr-html/document.md",
-    "metadata": "corpus/nfe/Estado de PR/cbenef-pr-html/metadata.json"
-  },
+  "derived_public_files": [
+    "corpus/nfe/Estado de PR/cbenef-pr-html/document.md",
+    "corpus/nfe/Estado de PR/cbenef-pr-html/metadata.json"
+  ],
   "original_filename": "C\u00d3DIGO DE BENEF\u00cdCIO FISCAL _ Sistema P\u00fablico de Escritura\u00e7\u00e3o Digital.html",
+  "original_public_path_hint": "",
   "original_sha256": "3af437cd3c4ef34e1e59890f41286c0a471a5b30d61635db98fa6da57816fa79",
   "published_at": "2026-06-26T00:00:00+00:00",
   "slug": "cbenef-pr-html",

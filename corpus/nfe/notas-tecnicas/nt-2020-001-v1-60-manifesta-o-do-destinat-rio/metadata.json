@@ -14,6 +14,8 @@
   "original_sha256": "f610878ad54708086aaa20dc668d714adf89cf109b8afbea687f69ef733efe46",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt-2020-001-v1-60-manifesta-o-do-destinat-rio/assets/",
+    "changelog": "changelog/nfe/notas-tecnicas/nt-2020-001-v1-60-manifesta-o-do-destinat-rio.md",
+    "current_status": "changelog/current-status/nfe/notas-tecnicas/nt-2020-001-v1-60-manifesta-o-do-destinat-rio.json",
     "document": "corpus/nfe/notas-tecnicas/nt-2020-001-v1-60-manifesta-o-do-destinat-rio/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt-2020-001-v1-60-manifesta-o-do-destinat-rio/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 33,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 33,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

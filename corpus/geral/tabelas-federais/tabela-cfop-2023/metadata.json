@@ -12,22 +12,28 @@
   "original_filename": "IT 2023.002-v1.00_Tabela_CFOP_Vig\u00eancia_20230424.xlsx",
   "original_sha256": "b9dfd271a4f11816df525cfde3818e1d7561ab951d5649f3654bda303041d02a",
   "public_paths": {
+    "changelog": "changelog/geral/tabelas-federais/tabela-cfop-2023.md",
     "csv": "corpus/geral/tabelas-federais/tabela-cfop-2023/csv/",
+    "current_status": "changelog/current-status/geral/tabelas-federais/tabela-cfop-2023.json",
     "document": "corpus/geral/tabelas-federais/tabela-cfop-2023/README.md",
     "metadata": "corpus/geral/tabelas-federais/tabela-cfop-2023/metadata.json"
   },
   "slug": "tabela-cfop-2023",
   "source_family": "portal_nacional_nfe",
-  "source_url": "",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
   "status": "published",
   "title": "Tabela CFOP",
   "validation": {
     "asset_count": 0,
+    "assets_validated": false,
+    "links_validated": false,
+    "schema_validated": false,
     "sheets": [
       "CFOP",
       "Plan2",
       "Plan3"
     ],
-    "total_rows": 622
+    "total_rows": 622,
+    "valid": false
   }
 }

@@ -14,6 +14,8 @@
   "original_sha256": "1b9f7d65e64df8f99c2f3636caf912943cb27c64f4f954ec2076a249bb71bc3e",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt2020-002v-1-01-espec-fica-para-ipi/assets/",
+    "changelog": "changelog/nfe/notas-tecnicas/nt2020-002v-1-01-espec-fica-para-ipi.md",
+    "current_status": "changelog/current-status/nfe/notas-tecnicas/nt2020-002v-1-01-espec-fica-para-ipi.json",
     "document": "corpus/nfe/notas-tecnicas/nt2020-002v-1-01-espec-fica-para-ipi/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt2020-002v-1-01-espec-fica-para-ipi/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 12,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 12,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

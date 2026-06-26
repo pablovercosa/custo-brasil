@@ -14,6 +14,8 @@
   "original_sha256": "d083c8afb0156aea66ac65ae4b6bf0621f6d7fbecbe569dcf9dfc36a05a094c9",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt2014-002-v1-30-wsnfedistribuicaodfe/assets/",
+    "changelog": "changelog/nfe/notas-tecnicas/nt2014-002-v1-30-wsnfedistribuicaodfe.md",
+    "current_status": "changelog/current-status/nfe/notas-tecnicas/nt2014-002-v1-30-wsnfedistribuicaodfe.json",
     "document": "corpus/nfe/notas-tecnicas/nt2014-002-v1-30-wsnfedistribuicaodfe/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt2014-002-v1-30-wsnfedistribuicaodfe/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 25,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 25,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

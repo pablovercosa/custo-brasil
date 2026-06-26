@@ -14,6 +14,8 @@
   "original_sha256": "d7609f48772db2ccbff6784b3e51a138433733ddff3deba84640622f82397966",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt-2024-003-produtos-agro-nf-e-v-1-10-rev/assets/",
+    "changelog": "changelog/nfe/notas-tecnicas/nt-2024-003-produtos-agro-nf-e-v-1-10-rev.md",
+    "current_status": "changelog/current-status/nfe/notas-tecnicas/nt-2024-003-produtos-agro-nf-e-v-1-10-rev.json",
     "document": "corpus/nfe/notas-tecnicas/nt-2024-003-produtos-agro-nf-e-v-1-10-rev/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt-2024-003-produtos-agro-nf-e-v-1-10-rev/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 16,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 16,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

@@ -14,6 +14,8 @@
   "original_sha256": "671d546b24ad4682e267fc76a9eeca8f14ad15ead2be20721ee2aec5438cf964",
   "public_paths": {
     "assets": "corpus/geral/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00/assets/",
+    "changelog": "changelog/geral/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00.md",
+    "current_status": "changelog/current-status/geral/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00.json",
     "document": "corpus/geral/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00/document.md",
     "metadata": "corpus/geral/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Nota T\u00e9cnica Conjunta CNPJ Alfanum\u00e9rico",
   "validation": {
     "asset_count": 7,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 7,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

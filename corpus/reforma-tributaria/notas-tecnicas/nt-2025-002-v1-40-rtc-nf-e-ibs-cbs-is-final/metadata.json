@@ -14,6 +14,8 @@
   "original_sha256": "4af56d5fae5eceaad63bb67f663dad4fd599f5bd9482d5474b419a97710193f0",
   "public_paths": {
     "assets": "corpus/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-40-rtc-nf-e-ibs-cbs-is-final/assets/",
+    "changelog": "changelog/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-40-rtc-nf-e-ibs-cbs-is-final.md",
+    "current_status": "changelog/current-status/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-40-rtc-nf-e-ibs-cbs-is-final.json",
     "document": "corpus/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-40-rtc-nf-e-ibs-cbs-is-final/document.md",
     "metadata": "corpus/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-40-rtc-nf-e-ibs-cbs-is-final/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Reforma Tribut\u00e1ria do Consumo -Adequa\u00e7\u00f5es NF-e / NFC-e",
   "validation": {
     "asset_count": 91,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 91,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

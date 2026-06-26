@@ -14,6 +14,8 @@
   "original_sha256": "e8d4e4f4b31a1e8c3d6b5ad33e94a387e22a78273009cdc8bceda70458d14d83",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt-2013-007-v1-03-svc/assets/",
+    "changelog": "changelog/nfe/notas-tecnicas/nt-2013-007-v1-03-svc.md",
+    "current_status": "changelog/current-status/nfe/notas-tecnicas/nt-2013-007-v1-03-svc.json",
     "document": "corpus/nfe/notas-tecnicas/nt-2013-007-v1-03-svc/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt-2013-007-v1-03-svc/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Sistema Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 17,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 17,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

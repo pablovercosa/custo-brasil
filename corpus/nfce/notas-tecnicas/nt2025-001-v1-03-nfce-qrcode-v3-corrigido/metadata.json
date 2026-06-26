@@ -14,6 +14,8 @@
   "original_sha256": "333b69f71debe5040585b677b574bb13b39362aa7934b904edc59cdf83cded02",
   "public_paths": {
     "assets": "corpus/nfce/notas-tecnicas/nt2025-001-v1-03-nfce-qrcode-v3-corrigido/assets/",
+    "changelog": "changelog/nfce/notas-tecnicas/nt2025-001-v1-03-nfce-qrcode-v3-corrigido.md",
+    "current_status": "changelog/current-status/nfce/notas-tecnicas/nt2025-001-v1-03-nfce-qrcode-v3-corrigido.json",
     "document": "corpus/nfce/notas-tecnicas/nt2025-001-v1-03-nfce-qrcode-v3-corrigido/document.md",
     "metadata": "corpus/nfce/notas-tecnicas/nt2025-001-v1-03-nfce-qrcode-v3-corrigido/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Sistema Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 11,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 11,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

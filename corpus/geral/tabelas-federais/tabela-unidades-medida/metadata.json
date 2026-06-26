@@ -12,20 +12,26 @@
   "original_filename": "Tabela_Unidades_de_Medida_Comercial_05072016.xls",
   "original_sha256": "4bbee279990cfd9ba6be1038d4391e78c421e7d1e9388da738d0dec69344cb13",
   "public_paths": {
+    "changelog": "changelog/geral/tabelas-federais/tabela-unidades-medida.md",
     "csv": "corpus/geral/tabelas-federais/tabela-unidades-medida/csv/",
+    "current_status": "changelog/current-status/geral/tabelas-federais/tabela-unidades-medida.json",
     "document": "corpus/geral/tabelas-federais/tabela-unidades-medida/README.md",
     "metadata": "corpus/geral/tabelas-federais/tabela-unidades-medida/metadata.json"
   },
   "slug": "tabela-unidades-medida",
   "source_family": "portal_nacional_nfe",
-  "source_url": "",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
   "status": "published",
   "title": "Unidades de Medida Comercial",
   "validation": {
     "asset_count": 0,
+    "assets_validated": false,
+    "links_validated": false,
+    "schema_validated": false,
     "sheets": [
       "Unidades"
     ],
-    "total_rows": 64
+    "total_rows": 64,
+    "valid": false
   }
 }

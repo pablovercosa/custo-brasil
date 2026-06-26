@@ -19,7 +19,7 @@
   "slug": "manual-emissor-nfe",
   "source_family": "portal_nacional_nfe",
   "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
-  "title": "Emissor de Nota Fiscal Eletrônica",
+  "title": "Emissor de Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 1,
     "contains_base64_images": false,

@@ -14,6 +14,8 @@
   "original_sha256": "5eb4cf2010b10b0b62f78197c4eb64025f24535d4c6e61158bc7806dd008f55d",
   "public_paths": {
     "assets": "corpus/nfe/manuais/anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e/assets/",
+    "changelog": "changelog/nfe/manuais/anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e.md",
+    "current_status": "changelog/current-status/nfe/manuais/anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e.json",
     "document": "corpus/nfe/manuais/anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e/document.md",
     "metadata": "corpus/nfe/manuais/anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Sistema Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 152,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 152,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

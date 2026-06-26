@@ -12,20 +12,26 @@
   "original_filename": "Tabela de C\u00f3digos de Item da Lista de Servi\u00e7os.xlsx",
   "original_sha256": "152ff24ac7d1dd4854a25591c33b93e109ecee5dc159f4bf5fa85f27a7567a14",
   "public_paths": {
+    "changelog": "changelog/geral/tabelas-federais/tabela-lista-servicos.md",
     "csv": "corpus/geral/tabelas-federais/tabela-lista-servicos/csv/",
+    "current_status": "changelog/current-status/geral/tabelas-federais/tabela-lista-servicos.json",
     "document": "corpus/geral/tabelas-federais/tabela-lista-servicos/README.md",
     "metadata": "corpus/geral/tabelas-federais/tabela-lista-servicos/metadata.json"
   },
   "slug": "tabela-lista-servicos",
   "source_family": "portal_nacional_nfe",
-  "source_url": "",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
   "status": "published",
   "title": "Lista de Servi\u00e7os",
   "validation": {
     "asset_count": 0,
+    "assets_validated": false,
+    "links_validated": false,
+    "schema_validated": false,
     "sheets": [
       "cListServ"
     ],
-    "total_rows": 202
+    "total_rows": 202,
+    "valid": false
   }
 }

@@ -2,6 +2,8 @@
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
   "canonical_id": "it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs",
   "category": "informe_tecnico",
+  "corpus_category": "reforma-tributaria",
+  "created_at": "2026-06-25T20:45:17.707909+00:00",
   "document_path": "corpus/reforma-tributaria/informes-tecnicos/it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs/document.md",
   "metadata_path": "corpus/reforma-tributaria/informes-tecnicos/it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs/metadata.json",
   "normalization_status": "auto_batch_published",
@@ -12,7 +14,7 @@
   "source_family": "portal_nacional_nfe",
   "source_path": "sources/portal_nacional_nfe/reforma-tributaria/informes-tecnicos/it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs/source.json",
   "status": "published",
-  "title": "Projeto Reforma Tributária do Consumo",
+  "title": "Projeto Reforma Tribut\u00e1ria do Consumo",
   "validation": {
     "asset_count": 14,
     "contains_base64_images": false,

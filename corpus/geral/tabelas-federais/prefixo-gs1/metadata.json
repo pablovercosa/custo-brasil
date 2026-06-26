@@ -12,21 +12,27 @@
   "original_filename": "Tabela_Prefixo_GS1.xlsx",
   "original_sha256": "6f75b924f7fc97a2b5c4b6483479c035304ec642b48eebc61bd2b1afb5b62606",
   "public_paths": {
+    "changelog": "changelog/geral/tabelas-federais/prefixo-gs1.md",
     "csv": "corpus/geral/tabelas-federais/prefixo-gs1/csv/",
+    "current_status": "changelog/current-status/geral/tabelas-federais/prefixo-gs1.json",
     "document": "corpus/geral/tabelas-federais/prefixo-gs1/README.md",
     "metadata": "corpus/geral/tabelas-federais/prefixo-gs1/metadata.json"
   },
   "slug": "prefixo-gs1",
   "source_family": "portal_nacional_nfe",
-  "source_url": "",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
   "status": "published",
   "title": "Prefixo GS1",
   "validation": {
     "asset_count": 0,
+    "assets_validated": false,
+    "links_validated": false,
+    "schema_validated": false,
     "sheets": [
       "Valida GTIN",
       "Prefixo GS1"
     ],
-    "total_rows": 164
+    "total_rows": 164,
+    "valid": false
   }
 }

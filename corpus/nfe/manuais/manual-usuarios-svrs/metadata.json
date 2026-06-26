@@ -14,6 +14,8 @@
   "original_sha256": "b1ec0f62f39965d245b302f7875d616faf8718aa26cf8e1bf653a4b4b4507970",
   "public_paths": {
     "assets": "corpus/nfe/manuais/manual-usuarios-svrs/assets/",
+    "changelog": "changelog/nfe/manuais/manual-usuarios-svrs.md",
+    "current_status": "changelog/current-status/nfe/manuais/manual-usuarios-svrs.json",
     "document": "corpus/nfe/manuais/manual-usuarios-svrs/document.md",
     "metadata": "corpus/nfe/manuais/manual-usuarios-svrs/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "- Manual Credenciamento como Emissor de Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 28,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 28,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

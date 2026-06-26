@@ -14,6 +14,8 @@
   "original_sha256": "45b96f11d192afafba1d061b4f08eb1047c2609a60b940217a8a37921348b54f",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es/assets/",
+    "changelog": "changelog/nfe/notas-tecnicas/nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es.md",
+    "current_status": "changelog/current-status/nfe/notas-tecnicas/nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es.json",
     "document": "corpus/nfe/notas-tecnicas/nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 13,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 13,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

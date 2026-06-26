@@ -2,6 +2,8 @@
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
   "canonical_id": "tabela-combustiveis-monofasica",
   "category": "tabela",
+  "corpus_category": "geral",
+  "created_at": "2026-06-26T15:52:06.606032+00:00",
   "document_path": "corpus/geral/tabelas-federais/tabela-combustiveis-monofasica/README.md",
   "metadata_path": "corpus/geral/tabelas-federais/tabela-combustiveis-monofasica/metadata.json",
   "normalization_status": "manual_published",

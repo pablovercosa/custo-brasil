@@ -14,6 +14,8 @@
   "original_sha256": "a8e55f351721068d340236c15bd284e6816a00405548c4aeb5932203a9e6400d",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt-2008-003/assets/",
+    "changelog": "changelog/nfe/notas-tecnicas/nt-2008-003.md",
+    "current_status": "changelog/current-status/nfe/notas-tecnicas/nt-2008-003.json",
     "document": "corpus/nfe/notas-tecnicas/nt-2008-003/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt-2008-003/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 5,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 5,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

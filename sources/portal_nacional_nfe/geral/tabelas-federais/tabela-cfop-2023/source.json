@@ -1,11 +1,12 @@
 {
   "category": "tabela",
   "corpus_category": "geral",
-  "derived_public_files": {
-    "metadata": "corpus/geral/tabelas-federais/tabela-cfop-2023/metadata.json",
-    "readme": "corpus/geral/tabelas-federais/tabela-cfop-2023/README.md"
-  },
+  "derived_public_files": [
+    "corpus/geral/tabelas-federais/tabela-cfop-2023/metadata.json",
+    "corpus/geral/tabelas-federais/tabela-cfop-2023/README.md"
+  ],
   "original_filename": "IT 2023.002-v1.00_Tabela_CFOP_Vig\u00eancia_20230424.xlsx",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Diversos/IT 2023.002-v1.00_Tabela_CFOP_Vig\u00eancia_20230424.xlsx",
   "original_sha256": "b9dfd271a4f11816df525cfde3818e1d7561ab951d5649f3654bda303041d02a",
   "published_at": "2026-06-26T00:00:00+00:00",
   "slug": "tabela-cfop-2023",

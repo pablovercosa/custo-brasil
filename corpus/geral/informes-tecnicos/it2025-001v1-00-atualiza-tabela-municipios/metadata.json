@@ -14,6 +14,8 @@
   "original_sha256": "ad5ea77d6a404481fc74b830dda3cf03dfa7ed0285893322a815bb7df20fb19c",
   "public_paths": {
     "assets": "corpus/geral/informes-tecnicos/it2025-001v1-00-atualiza-tabela-municipios/assets/",
+    "changelog": "changelog/geral/informes-tecnicos/it2025-001v1-00-atualiza-tabela-municipios.md",
+    "current_status": "changelog/current-status/geral/informes-tecnicos/it2025-001v1-00-atualiza-tabela-municipios.json",
     "document": "corpus/geral/informes-tecnicos/it2025-001v1-00-atualiza-tabela-municipios/document.md",
     "metadata": "corpus/geral/informes-tecnicos/it2025-001v1-00-atualiza-tabela-municipios/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Sistema Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 5,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 5,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

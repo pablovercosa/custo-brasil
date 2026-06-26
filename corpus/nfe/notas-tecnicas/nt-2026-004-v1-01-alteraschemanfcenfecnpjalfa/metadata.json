@@ -14,6 +14,8 @@
   "original_sha256": "5f24a25351e790692754b07bbefac42ac67e70167a62a7806395d880f56675be",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa/assets/",
+    "changelog": "changelog/nfe/notas-tecnicas/nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa.md",
+    "current_status": "changelog/current-status/nfe/notas-tecnicas/nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa.json",
     "document": "corpus/nfe/notas-tecnicas/nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "CNPJ Alfanum\u00e9rico -Atualiza\u00e7\u00f5es",
   "validation": {
     "asset_count": 30,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 30,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

@@ -14,6 +14,8 @@
   "original_sha256": "449c1816a67555082891be24f509c57b8e71096f3f8efaf9a71fcb79c2640600",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/assets/",
+    "changelog": "changelog/nfe/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace.md",
+    "current_status": "changelog/current-status/nfe/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace.json",
     "document": "corpus/nfe/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 14,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 14,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

@@ -14,6 +14,8 @@
   "original_sha256": "2ef826027e0e8423ba9dc2f53ee7197f8bfdcc399a30459b72da977528600f13",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt-2026-003-v1-00-danfe-simplificado-tipo-2/assets/",
+    "changelog": "changelog/nfe/notas-tecnicas/nt-2026-003-v1-00-danfe-simplificado-tipo-2.md",
+    "current_status": "changelog/current-status/nfe/notas-tecnicas/nt-2026-003-v1-00-danfe-simplificado-tipo-2.json",
     "document": "corpus/nfe/notas-tecnicas/nt-2026-003-v1-00-danfe-simplificado-tipo-2/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt-2026-003-v1-00-danfe-simplificado-tipo-2/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "DANFE Simplificado Tipo 2",
   "validation": {
     "asset_count": 45,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 45,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

@@ -14,6 +14,8 @@
   "original_sha256": "ad90f4247c0298a4abc3fd3e6df6b7b95b3afe9cd871161ff1711b915932344b",
   "public_paths": {
     "assets": "corpus/combustiveis/notas-tecnicas/nt-2023-01-perguntas-e-respostas/assets/",
+    "changelog": "changelog/combustiveis/notas-tecnicas/nt-2023-01-perguntas-e-respostas.md",
+    "current_status": "changelog/current-status/combustiveis/notas-tecnicas/nt-2023-01-perguntas-e-respostas.json",
     "document": "corpus/combustiveis/notas-tecnicas/nt-2023-01-perguntas-e-respostas/document.md",
     "metadata": "corpus/combustiveis/notas-tecnicas/nt-2023-01-perguntas-e-respostas/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "NT 2023.01 -PERGUNTAS E RESPOSTAS Vers\u00e3o 22/05/2023",
   "validation": {
     "asset_count": 0,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 0,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

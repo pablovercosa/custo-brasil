@@ -2,6 +2,8 @@
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
   "canonical_id": "moc-nfgas-visaogeral-v1-00f",
   "category": "manual",
+  "corpus_category": "nfgas",
+  "created_at": "2026-06-25T18:28:19.697142+00:00",
   "document_path": "corpus/nfgas/manuais/moc-nfgas-visaogeral-v1-00f/document.md",
   "metadata_path": "corpus/nfgas/manuais/moc-nfgas-visaogeral-v1-00f/metadata.json",
   "normalization_status": "auto_batch_published",
@@ -12,7 +14,7 @@
   "source_family": "portal_nacional_nfe",
   "source_path": "sources/portal_nacional_nfe/nfgas/manuais/moc-nfgas-visaogeral-v1-00f/source.json",
   "status": "published",
-  "title": "Projeto Nota Fiscal Eletrônica do Gás",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica do G\u00e1s",
   "validation": {
     "asset_count": 68,
     "contains_base64_images": false,

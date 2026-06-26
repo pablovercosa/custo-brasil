@@ -1,11 +1,12 @@
 {
   "category": "tabela",
   "corpus_category": "geral",
-  "derived_public_files": {
-    "metadata": "corpus/geral/tabelas-federais/tabela-regimes-especiais/metadata.json",
-    "readme": "corpus/geral/tabelas-federais/tabela-regimes-especiais/README.md"
-  },
+  "derived_public_files": [
+    "corpus/geral/tabelas-federais/tabela-regimes-especiais/metadata.json",
+    "corpus/geral/tabelas-federais/tabela-regimes-especiais/README.md"
+  ],
   "original_filename": "Tabela de Padr\u00f5es de Regime Especial.xlsx",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Diversos/Tabela de Padr\u00f5es de Regime Especial.xlsx",
   "original_sha256": "c10d2fdb149fd8cd82383d41d82db9a1acbd2b11714b549c3184549baec5dcd2",
   "published_at": "2026-06-26T00:00:00+00:00",
   "slug": "tabela-regimes-especiais",

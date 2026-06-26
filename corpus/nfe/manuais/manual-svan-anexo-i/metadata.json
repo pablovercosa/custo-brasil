@@ -12,16 +12,22 @@
   "original_filename": "Anexo I.doc",
   "original_sha256": "3844f5b460e37ebf3fb3d3da4a64d50c15c4ff3861e58d6b7be98d930034416a",
   "public_paths": {
+    "changelog": "changelog/nfe/manuais/manual-svan-anexo-i.md",
+    "current_status": "changelog/current-status/nfe/manuais/manual-svan-anexo-i.json",
     "document": "corpus/nfe/manuais/manual-svan-anexo-i/document.md",
     "metadata": "corpus/nfe/manuais/manual-svan-anexo-i/metadata.json"
   },
   "slug": "manual-svan-anexo-i",
   "source_family": "portal_nacional_nfe",
-  "source_url": "",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
   "status": "published",
   "title": "Manual SVAN - Anexo I",
   "validation": {
     "asset_count": 0,
-    "lines": 131
+    "assets_validated": false,
+    "lines": 131,
+    "links_validated": false,
+    "schema_validated": false,
+    "valid": false
   }
 }

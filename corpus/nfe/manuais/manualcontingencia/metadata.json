@@ -14,6 +14,8 @@
   "original_sha256": "f3fe45d83743b025a2779cc89c40056b151216b7eb73fed06cbdb2a9e963d040",
   "public_paths": {
     "assets": "corpus/nfe/manuais/manualcontingencia/assets/",
+    "changelog": "changelog/nfe/manuais/manualcontingencia.md",
+    "current_status": "changelog/current-status/nfe/manuais/manualcontingencia.json",
     "document": "corpus/nfe/manuais/manualcontingencia/document.md",
     "metadata": "corpus/nfe/manuais/manualcontingencia/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 81,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 81,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

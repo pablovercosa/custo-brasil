@@ -14,6 +14,8 @@
   "original_sha256": "0a60137242cc4c5cfdca07871f94fb1be257b74bc8c461caf893abab7ade39bf",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior/assets/",
+    "changelog": "changelog/nfe/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior.md",
+    "current_status": "changelog/current-status/nfe/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior.json",
     "document": "corpus/nfe/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 9,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 9,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

@@ -14,6 +14,8 @@
   "original_sha256": "d22fe9fabbc99c123c87133c9e149d57ecda0276f106f1f0374efb47372adc01",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt2021-003-v1-40-valida-o-gtin-grupo-iv/assets/",
+    "changelog": "changelog/nfe/notas-tecnicas/nt2021-003-v1-40-valida-o-gtin-grupo-iv.md",
+    "current_status": "changelog/current-status/nfe/notas-tecnicas/nt2021-003-v1-40-valida-o-gtin-grupo-iv.json",
     "document": "corpus/nfe/notas-tecnicas/nt2021-003-v1-40-valida-o-gtin-grupo-iv/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt2021-003-v1-40-valida-o-gtin-grupo-iv/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Sistema Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 51,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 51,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

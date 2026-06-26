@@ -14,6 +14,8 @@
   "original_sha256": "c1b849609693bb5e152311786aa8430218a6d98b43cc6be16b13a02049b2fb92",
   "public_paths": {
     "assets": "corpus/nfce/informes-tecnicos/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go/assets/",
+    "changelog": "changelog/nfce/informes-tecnicos/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go.md",
+    "current_status": "changelog/current-status/nfce/informes-tecnicos/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go.json",
     "document": "corpus/nfce/informes-tecnicos/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go/document.md",
     "metadata": "corpus/nfce/informes-tecnicos/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Nota Fiscal de Consumidor Eletr\u00f4nica",
   "validation": {
     "asset_count": 6,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 6,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

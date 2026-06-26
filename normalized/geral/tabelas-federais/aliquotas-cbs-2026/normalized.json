@@ -2,6 +2,8 @@
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
   "canonical_id": "aliquotas-cbs-2026",
   "category": "tabela",
+  "corpus_category": "geral",
+  "created_at": "2026-06-26T15:51:40.884014+00:00",
   "document_path": "corpus/geral/tabelas-federais/aliquotas-cbs-2026/README.md",
   "metadata_path": "corpus/geral/tabelas-federais/aliquotas-cbs-2026/metadata.json",
   "normalization_status": "manual_published",

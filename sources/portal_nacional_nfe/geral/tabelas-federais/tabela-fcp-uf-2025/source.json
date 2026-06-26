@@ -1,11 +1,12 @@
 {
   "category": "tabela",
   "corpus_category": "geral",
-  "derived_public_files": {
-    "metadata": "corpus/geral/tabelas-federais/tabela-fcp-uf-2025/metadata.json",
-    "readme": "corpus/geral/tabelas-federais/tabela-fcp-uf-2025/README.md"
-  },
+  "derived_public_files": [
+    "corpus/geral/tabelas-federais/tabela-fcp-uf-2025/metadata.json",
+    "corpus/geral/tabelas-federais/tabela-fcp-uf-2025/README.md"
+  ],
   "original_filename": "Tabela_Al\u00edquotas_FCP_por_UF_2025-02_07.xlsx",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Diversos/Tabela_Al\u00edquotas_FCP_por_UF_2025-02_07.xlsx",
   "original_sha256": "3079d088169003cf0ef0da5ab36de0930efd5e9cee27c567650b767736f9cb91",
   "published_at": "2026-06-26T00:00:00+00:00",
   "slug": "tabela-fcp-uf-2025",

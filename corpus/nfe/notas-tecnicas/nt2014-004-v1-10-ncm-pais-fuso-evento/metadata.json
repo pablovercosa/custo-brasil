@@ -14,6 +14,8 @@
   "original_sha256": "90fb4944e0b19a5404d184db81f468e2d251a3e004e8189ab231764dfd057b06",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt2014-004-v1-10-ncm-pais-fuso-evento/assets/",
+    "changelog": "changelog/nfe/notas-tecnicas/nt2014-004-v1-10-ncm-pais-fuso-evento.md",
+    "current_status": "changelog/current-status/nfe/notas-tecnicas/nt2014-004-v1-10-ncm-pais-fuso-evento.json",
     "document": "corpus/nfe/notas-tecnicas/nt2014-004-v1-10-ncm-pais-fuso-evento/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt2014-004-v1-10-ncm-pais-fuso-evento/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Projeto Nota Fiscal Eletr\u00f4nica - NF-e",
   "validation": {
     "asset_count": 9,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 9,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

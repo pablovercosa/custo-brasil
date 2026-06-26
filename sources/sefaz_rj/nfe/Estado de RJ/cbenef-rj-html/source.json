@@ -1,11 +1,12 @@
 {
   "category": "cbenef",
   "corpus_category": "nfe",
-  "derived_public_files": {
-    "document": "corpus/nfe/Estado de RJ/cbenef-rj-html/document.md",
-    "metadata": "corpus/nfe/Estado de RJ/cbenef-rj-html/metadata.json"
-  },
+  "derived_public_files": [
+    "corpus/nfe/Estado de RJ/cbenef-rj-html/document.md",
+    "corpus/nfe/Estado de RJ/cbenef-rj-html/metadata.json"
+  ],
   "original_filename": "Benef\u00edcios Fiscais \u2013 Documento Fiscal Eletr\u00f4nico - Secretaria de Estado de Fazenda do Rio de Ja.html",
+  "original_public_path_hint": "",
   "original_sha256": "42bbd26f51b97f08901824be05a2e6073822a8fb3ad630781bb5dbcc125ca423",
   "published_at": "2026-06-26T00:00:00+00:00",
   "slug": "cbenef-rj-html",

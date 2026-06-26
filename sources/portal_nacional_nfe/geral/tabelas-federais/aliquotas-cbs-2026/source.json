@@ -1,11 +1,12 @@
 {
   "category": "tabela",
   "corpus_category": "geral",
-  "derived_public_files": {
-    "metadata": "corpus/geral/tabelas-federais/aliquotas-cbs-2026/metadata.json",
-    "readme": "corpus/geral/tabelas-federais/aliquotas-cbs-2026/README.md"
-  },
+  "derived_public_files": [
+    "corpus/geral/tabelas-federais/aliquotas-cbs-2026/metadata.json",
+    "corpus/geral/tabelas-federais/aliquotas-cbs-2026/README.md"
+  ],
   "original_filename": "IT 2026.002 v.1.00 - Aliquotas da CBS.xlsx",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Diversos/IT 2026.002 v.1.00 - Aliquotas da CBS.xlsx",
   "original_sha256": "33f17aa3322de841c7cb7bd469a2785d34cea34fadd0571e18bd8f7c88872f3b",
   "published_at": "2026-06-26T00:00:00+00:00",
   "slug": "aliquotas-cbs-2026",

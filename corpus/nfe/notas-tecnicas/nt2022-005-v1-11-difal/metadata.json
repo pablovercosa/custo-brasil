@@ -14,6 +14,8 @@
   "original_sha256": "e6f12d52ceafb77d366769db9b59fbb15b1600c1b2ed58face5d6fa16a3295db",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt2022-005-v1-11-difal/assets/",
+    "changelog": "changelog/nfe/notas-tecnicas/nt2022-005-v1-11-difal.md",
+    "current_status": "changelog/current-status/nfe/notas-tecnicas/nt2022-005-v1-11-difal.json",
     "document": "corpus/nfe/notas-tecnicas/nt2022-005-v1-11-difal/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt2022-005-v1-11-difal/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Sistema Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 10,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 10,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

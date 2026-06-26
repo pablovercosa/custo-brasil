@@ -14,6 +14,8 @@
   "original_sha256": "c68e46cf667adfdfef73c40423beb884ae589016584d780eba83c5d70f71274a",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica/assets/",
+    "changelog": "changelog/nfe/notas-tecnicas/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica.md",
+    "current_status": "changelog/current-status/nfe/notas-tecnicas/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica.json",
     "document": "corpus/nfe/notas-tecnicas/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica/metadata.json"
   },
@@ -24,9 +26,13 @@
   "title": "Sistema Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 9,
+    "assets_validated": false,
     "contains_base64_images": false,
     "contains_data_image": false,
     "image_refs_count": 9,
-    "missing_image_refs_count": 0
+    "links_validated": false,
+    "missing_image_refs_count": 0,
+    "schema_validated": false,
+    "valid": false
   }
 }

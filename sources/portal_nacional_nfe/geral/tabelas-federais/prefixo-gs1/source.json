@@ -1,11 +1,12 @@
 {
   "category": "tabela",
   "corpus_category": "geral",
-  "derived_public_files": {
-    "metadata": "corpus/geral/tabelas-federais/prefixo-gs1/metadata.json",
-    "readme": "corpus/geral/tabelas-federais/prefixo-gs1/README.md"
-  },
+  "derived_public_files": [
+    "corpus/geral/tabelas-federais/prefixo-gs1/metadata.json",
+    "corpus/geral/tabelas-federais/prefixo-gs1/README.md"
+  ],
   "original_filename": "Tabela_Prefixo_GS1.xlsx",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Diversos/Tabela_Prefixo_GS1.xlsx",
   "original_sha256": "6f75b924f7fc97a2b5c4b6483479c035304ec642b48eebc61bd2b1afb5b62606",
   "published_at": "2026-06-26T00:00:00+00:00",
   "slug": "prefixo-gs1",

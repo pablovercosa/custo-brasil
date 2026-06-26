@@ -1,11 +1,12 @@
 {
   "category": "tabela",
   "corpus_category": "geral",
-  "derived_public_files": {
-    "metadata": "corpus/geral/tabelas-federais/tabela-paises/metadata.json",
-    "readme": "corpus/geral/tabelas-federais/tabela-paises/README.md"
-  },
+  "derived_public_files": [
+    "corpus/geral/tabelas-federais/tabela-paises/metadata.json",
+    "corpus/geral/tabelas-federais/tabela-paises/README.md"
+  ],
   "original_filename": "Tabela de Pa\u00edses - Ref. NT 2018.003. v1.01.ods",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Diversos/Tabela de Pa\u00edses - Ref. NT 2018.003. v1.01.ods",
   "original_sha256": "76386b536812e13baf5f09f49c057e78650be387a96c576377c3998f39358a9f",
   "published_at": "2026-06-26T00:00:00+00:00",
   "slug": "tabela-paises",

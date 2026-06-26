@@ -2,6 +2,8 @@
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
   "canonical_id": "tabela-regimes-especiais",
   "category": "tabela",
+  "corpus_category": "geral",
+  "created_at": "2026-06-26T15:51:41.053800+00:00",
   "document_path": "corpus/geral/tabelas-federais/tabela-regimes-especiais/README.md",
   "metadata_path": "corpus/geral/tabelas-federais/tabela-regimes-especiais/metadata.json",
   "normalization_status": "manual_published",

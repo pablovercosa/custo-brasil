@@ -2,6 +2,8 @@
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
   "canonical_id": "nt-2014-001-v1-30-evento-epec",
   "category": "nota_tecnica",
+  "corpus_category": "nfe",
+  "created_at": "2026-06-25T16:58:54.983211+00:00",
   "document_path": "corpus/nfe/notas-tecnicas/nt-2014-001-v1-30-evento-epec/document.md",
   "metadata_path": "corpus/nfe/notas-tecnicas/nt-2014-001-v1-30-evento-epec/metadata.json",
   "normalization_status": "auto_batch_published",
@@ -12,7 +14,7 @@
   "source_family": "portal_nacional_nfe",
   "source_path": "sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2014-001-v1-30-evento-epec/source.json",
   "status": "published",
-  "title": "Projeto Nota Fiscal Eletrônica",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 29,
     "contains_base64_images": false,

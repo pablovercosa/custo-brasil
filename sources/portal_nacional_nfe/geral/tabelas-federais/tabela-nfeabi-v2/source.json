@@ -1,11 +1,12 @@
 {
   "category": "tabela",
   "corpus_category": "geral",
-  "derived_public_files": {
-    "metadata": "corpus/geral/tabelas-federais/tabela-nfeabi-v2/metadata.json",
-    "readme": "corpus/geral/tabelas-federais/tabela-nfeabi-v2/README.md"
-  },
+  "derived_public_files": [
+    "corpus/geral/tabelas-federais/tabela-nfeabi-v2/metadata.json",
+    "corpus/geral/tabelas-federais/tabela-nfeabi-v2/README.md"
+  ],
   "original_filename": "Tabela de C\u00f3digos NFe ABI - v2.00 - Minuta.xlsx",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Diversos/Tabela de C\u00f3digos NFe ABI - v2.00 - Minuta.xlsx",
   "original_sha256": "e23d659c83bb8bb31129e7ee9d4fdbe0be820e6d4cc4ffe9bdc7bf53f9e3c783",
   "published_at": "2026-06-26T00:00:00+00:00",
   "slug": "tabela-nfeabi-v2",

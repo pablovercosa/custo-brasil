@@ -12,20 +12,26 @@
   "original_filename": "IT 2026.002 v.1.00 - Aliquotas da CBS.xlsx",
   "original_sha256": "33f17aa3322de841c7cb7bd469a2785d34cea34fadd0571e18bd8f7c88872f3b",
   "public_paths": {
+    "changelog": "changelog/geral/tabelas-federais/aliquotas-cbs-2026.md",
     "csv": "corpus/geral/tabelas-federais/aliquotas-cbs-2026/csv/",
+    "current_status": "changelog/current-status/geral/tabelas-federais/aliquotas-cbs-2026.json",
     "document": "corpus/geral/tabelas-federais/aliquotas-cbs-2026/README.md",
     "metadata": "corpus/geral/tabelas-federais/aliquotas-cbs-2026/metadata.json"
   },
   "slug": "aliquotas-cbs-2026",
   "source_family": "portal_nacional_nfe",
-  "source_url": "",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
   "status": "published",
   "title": "Al\u00edquotas da CBS",
   "validation": {
     "asset_count": 0,
+    "assets_validated": false,
+    "links_validated": false,
+    "schema_validated": false,
     "sheets": [
       "Planilha1"
     ],
-    "total_rows": 4
+    "total_rows": 4,
+    "valid": false
   }
 }
