@@ -1,0 +1,19 @@
+# nt2021-002-v1-12-nota-fiscal-f-cil
+
+## Publicacao automatica via batch-pdf
+
+- Documento: `nt2021-002-v1-12-nota-fiscal-f-cil`.
+- Categoria: `nota_tecnica`.
+- Titulo: Projeto Nota Fiscal Eletrônica.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Arquivo original: `NT2021.002 v1.12 Nota Fiscal Fácil.pdf`.
+- SHA-256 do original: `a67d9e70cff61bdf6a0913bb5c7ca6b30d82332c0204d443e4671a8dd293d64e`.
+- Conversao: Markdown via Docling Server, com imagens referenciadas em `assets/`.
+- Validacao: sem Base64, sem `data:image`, 28 referencia(s) de imagem, 28 asset(s) presentes.
+- Publicado em: 2026-06-25T17:31:12.934687+00:00.
+
+## Reorganizacao (2026-06-26T14:36:41.755707+00:00)
+
+- Movido de: `corpus/notas-tecnicas/nt2021-002-v1-12-nota-fiscal-f-cil`
+- Movido para: `corpus/nfe/notas-tecnicas/nt2021-002-v1-12-nota-fiscal-f-cil`
+- metadata.json, normalized.json, source.json atualizados
