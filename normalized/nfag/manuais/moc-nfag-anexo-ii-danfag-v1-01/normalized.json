@@ -10,9 +10,9 @@
   "published_at_utc": "2026-06-25T19:30:09.837089+00:00",
   "slug": "moc-nfag-anexo-ii-danfag-v1-01",
   "source_family": "portal_nacional_nfe",
-  "source_path": "sources/portal-nacional-nfe/manuais/moc-nfag-anexo-ii-danfag-v1-01/source.json",
+  "source_path": "sources/portal_nacional_nfe/nfag/manuais/moc-nfag-anexo-ii-danfag-v1-01/source.json",
   "status": "published",
-  "title": "Controle de Vers\u00f5es",
+  "title": "Controle de Versões",
   "validation": {
     "asset_count": 32,
     "contains_base64_images": false,

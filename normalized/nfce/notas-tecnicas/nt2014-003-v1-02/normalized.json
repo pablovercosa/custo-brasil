@@ -10,9 +10,9 @@
   "published_at_utc": "2026-06-25T15:12:32.853018+00:00",
   "slug": "nt2014-003-v1-02",
   "source_family": "portal_nacional_nfe",
-  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt2014-003-v1-02/source.json",
+  "source_path": "sources/portal_nacional_nfe/nfce/notas-tecnicas/nt2014-003-v1-02/source.json",
   "status": "published",
-  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
+  "title": "Projeto Nota Fiscal Eletrônica",
   "validation": {
     "asset_count": 24,
     "contains_base64_images": false,

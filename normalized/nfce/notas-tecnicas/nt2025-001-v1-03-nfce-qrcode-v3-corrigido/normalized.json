@@ -10,9 +10,9 @@
   "published_at_utc": "2026-06-25T17:10:26.648874+00:00",
   "slug": "nt2025-001-v1-03-nfce-qrcode-v3-corrigido",
   "source_family": "portal_nacional_nfe",
-  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt2025-001-v1-03-nfce-qrcode-v3-corrigido/source.json",
+  "source_path": "sources/portal_nacional_nfe/nfce/notas-tecnicas/nt2025-001-v1-03-nfce-qrcode-v3-corrigido/source.json",
   "status": "published",
-  "title": "Sistema Nota Fiscal Eletr\u00f4nica",
+  "title": "Sistema Nota Fiscal Eletrônica",
   "validation": {
     "asset_count": 11,
     "contains_base64_images": false,

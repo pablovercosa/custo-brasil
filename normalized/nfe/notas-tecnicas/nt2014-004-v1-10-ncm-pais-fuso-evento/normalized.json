@@ -10,9 +10,9 @@
   "published_at_utc": "2026-06-25T16:09:50.175690+00:00",
   "slug": "nt2014-004-v1-10-ncm-pais-fuso-evento",
   "source_family": "portal_nacional_nfe",
-  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt2014-004-v1-10-ncm-pais-fuso-evento/source.json",
+  "source_path": "sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2014-004-v1-10-ncm-pais-fuso-evento/source.json",
   "status": "published",
-  "title": "Projeto Nota Fiscal Eletr\u00f4nica - NF-e",
+  "title": "Projeto Nota Fiscal Eletrônica - NF-e",
   "validation": {
     "asset_count": 9,
     "contains_base64_images": false,

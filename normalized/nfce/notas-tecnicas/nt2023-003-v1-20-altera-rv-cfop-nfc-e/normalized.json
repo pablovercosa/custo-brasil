@@ -10,9 +10,9 @@
   "published_at_utc": "2026-06-25T16:09:17.946136+00:00",
   "slug": "nt2023-003-v1-20-altera-rv-cfop-nfc-e",
   "source_family": "portal_nacional_nfe",
-  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt2023-003-v1-20-altera-rv-cfop-nfc-e/source.json",
+  "source_path": "sources/portal_nacional_nfe/nfce/notas-tecnicas/nt2023-003-v1-20-altera-rv-cfop-nfc-e/source.json",
   "status": "published",
-  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
+  "title": "Projeto Nota Fiscal Eletrônica",
   "validation": {
     "asset_count": 8,
     "contains_base64_images": false,

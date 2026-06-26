@@ -10,9 +10,9 @@
   "published_at_utc": "2026-06-25T15:44:38.995556+00:00",
   "slug": "nt2023-002-v1-01-emitente-cpf-nfce",
   "source_family": "portal_nacional_nfe",
-  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt2023-002-v1-01-emitente-cpf-nfce/source.json",
+  "source_path": "sources/portal_nacional_nfe/nfce/notas-tecnicas/nt2023-002-v1-01-emitente-cpf-nfce/source.json",
   "status": "published",
-  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
+  "title": "Projeto Nota Fiscal Eletrônica",
   "validation": {
     "asset_count": 17,
     "contains_base64_images": false,

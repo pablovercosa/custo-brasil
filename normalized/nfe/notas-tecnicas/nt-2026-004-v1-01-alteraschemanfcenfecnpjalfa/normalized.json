@@ -10,9 +10,9 @@
   "published_at_utc": "2026-06-25T15:54:53.242329+00:00",
   "slug": "nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa",
   "source_family": "portal_nacional_nfe",
-  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa/source.json",
+  "source_path": "sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa/source.json",
   "status": "published",
-  "title": "CNPJ Alfanum\u00e9rico -Atualiza\u00e7\u00f5es",
+  "title": "CNPJ Alfanumérico -Atualizações",
   "validation": {
     "asset_count": 30,
     "contains_base64_images": false,

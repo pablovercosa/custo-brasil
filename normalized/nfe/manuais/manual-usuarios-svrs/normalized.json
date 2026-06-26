@@ -10,9 +10,9 @@
   "published_at_utc": "2026-06-25T15:27:02.761597+00:00",
   "slug": "manual-usuarios-svrs",
   "source_family": "portal_nacional_nfe",
-  "source_path": "sources/portal-nacional-nfe/manuais/manual-usuarios-svrs/source.json",
+  "source_path": "sources/portal_nacional_nfe/nfe/manuais/manual-usuarios-svrs/source.json",
   "status": "published",
-  "title": "- Manual Credenciamento como Emissor de Nota Fiscal Eletr\u00f4nica",
+  "title": "- Manual Credenciamento como Emissor de Nota Fiscal Eletrônica",
   "validation": {
     "asset_count": 28,
     "contains_base64_images": false,

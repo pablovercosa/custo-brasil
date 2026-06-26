@@ -10,9 +10,9 @@
   "published_at_utc": "2026-06-25T16:45:26.356565+00:00",
   "slug": "nt2018-005-v1-52-alteracaodeleiautenf-enfc",
   "source_family": "portal_nacional_nfe",
-  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt2018-005-v1-52-alteracaodeleiautenf-enfc/source.json",
+  "source_path": "sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2018-005-v1-52-alteracaodeleiautenf-enfc/source.json",
   "status": "published",
-  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
+  "title": "Projeto Nota Fiscal Eletrônica",
   "validation": {
     "asset_count": 25,
     "contains_base64_images": false,

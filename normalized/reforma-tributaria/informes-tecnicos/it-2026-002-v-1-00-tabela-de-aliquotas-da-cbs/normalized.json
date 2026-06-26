@@ -10,9 +10,9 @@
   "published_at_utc": "2026-06-25T20:45:17.707909+00:00",
   "slug": "it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs",
   "source_family": "portal_nacional_nfe",
-  "source_path": "sources/portal-nacional-nfe/informes-tecnicos/it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs/source.json",
+  "source_path": "sources/portal_nacional_nfe/reforma-tributaria/informes-tecnicos/it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs/source.json",
   "status": "published",
-  "title": "Projeto Reforma Tribut\u00e1ria do Consumo",
+  "title": "Projeto Reforma Tributária do Consumo",
   "validation": {
     "asset_count": 14,
     "contains_base64_images": false,

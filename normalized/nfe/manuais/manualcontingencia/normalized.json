@@ -10,9 +10,9 @@
   "published_at_utc": "2026-06-25T19:34:17.328581+00:00",
   "slug": "manualcontingencia",
   "source_family": "portal_nacional_nfe",
-  "source_path": "sources/portal-nacional-nfe/manuais/manualcontingencia/source.json",
+  "source_path": "sources/portal_nacional_nfe/nfe/manuais/manualcontingencia/source.json",
   "status": "published",
-  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
+  "title": "Projeto Nota Fiscal Eletrônica",
   "validation": {
     "asset_count": 81,
     "contains_base64_images": false,

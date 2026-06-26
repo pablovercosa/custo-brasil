@@ -10,9 +10,9 @@
   "published_at_utc": "2026-06-25T15:22:59.748274+00:00",
   "slug": "nt2020-004-danfe-simplificado-v1-10",
   "source_family": "portal_nacional_nfe",
-  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt2020-004-danfe-simplificado-v1-10/source.json",
+  "source_path": "sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2020-004-danfe-simplificado-v1-10/source.json",
   "status": "published",
-  "title": "Sistema Nota Fiscal Eletr\u00f4nica",
+  "title": "Sistema Nota Fiscal Eletrônica",
   "validation": {
     "asset_count": 10,
     "contains_base64_images": false,

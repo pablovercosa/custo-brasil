@@ -10,9 +10,9 @@
   "published_at_utc": "2026-06-25T16:29:14.576141+00:00",
   "slug": "nt2022-001-v1-00-ws-consulta-gtin",
   "source_family": "portal_nacional_nfe",
-  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt2022-001-v1-00-ws-consulta-gtin/source.json",
+  "source_path": "sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2022-001-v1-00-ws-consulta-gtin/source.json",
   "status": "published",
-  "title": "Sistema Nota Fiscal Eletr\u00f4nica",
+  "title": "Sistema Nota Fiscal Eletrônica",
   "validation": {
     "asset_count": 14,
     "contains_base64_images": false,

@@ -10,9 +10,9 @@
   "published_at_utc": "2026-06-25T15:51:50.790636+00:00",
   "slug": "nt2020-007-v1-40-evento-ator-nfe-transportador",
   "source_family": "portal_nacional_nfe",
-  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt2020-007-v1-40-evento-ator-nfe-transportador/source.json",
+  "source_path": "sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2020-007-v1-40-evento-ator-nfe-transportador/source.json",
   "status": "published",
-  "title": "Sistema Nota Fiscal Eletr\u00f4nica",
+  "title": "Sistema Nota Fiscal Eletrônica",
   "validation": {
     "asset_count": 15,
     "contains_base64_images": false,

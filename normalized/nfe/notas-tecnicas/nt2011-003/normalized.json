@@ -10,9 +10,9 @@
   "published_at_utc": "2026-06-25T15:22:29.285696+00:00",
   "slug": "nt2011-003",
   "source_family": "portal_nacional_nfe",
-  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt2011-003/source.json",
+  "source_path": "sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2011-003/source.json",
   "status": "published",
-  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
+  "title": "Projeto Nota Fiscal Eletrônica",
   "validation": {
     "asset_count": 23,
     "contains_base64_images": false,

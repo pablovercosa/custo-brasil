@@ -10,9 +10,9 @@
   "published_at_utc": "2026-06-25T15:35:07.918932+00:00",
   "slug": "nt-nfce-2014-001",
   "source_family": "portal_nacional_nfe",
-  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt-nfce-2014-001/source.json",
+  "source_path": "sources/portal_nacional_nfe/nfce/notas-tecnicas/nt-nfce-2014-001/source.json",
   "status": "published",
-  "title": "Projeto Nota Fiscal de Consumidor Eletr\u00f4nica",
+  "title": "Projeto Nota Fiscal de Consumidor Eletrônica",
   "validation": {
     "asset_count": 11,
     "contains_base64_images": false,

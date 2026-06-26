@@ -10,9 +10,9 @@
   "published_at_utc": "2026-06-25T15:48:55.902501+00:00",
   "slug": "nt2018-001-v1-10-emitente-cpf",
   "source_family": "portal_nacional_nfe",
-  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt2018-001-v1-10-emitente-cpf/source.json",
+  "source_path": "sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2018-001-v1-10-emitente-cpf/source.json",
   "status": "published",
-  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
+  "title": "Projeto Nota Fiscal Eletrônica",
   "validation": {
     "asset_count": 20,
     "contains_base64_images": false,

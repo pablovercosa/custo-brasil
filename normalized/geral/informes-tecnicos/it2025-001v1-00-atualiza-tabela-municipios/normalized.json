@@ -10,9 +10,9 @@
   "published_at_utc": "2026-06-25T20:41:53.448727+00:00",
   "slug": "it2025-001v1-00-atualiza-tabela-municipios",
   "source_family": "portal_nacional_nfe",
-  "source_path": "sources/portal-nacional-nfe/informes-tecnicos/it2025-001v1-00-atualiza-tabela-municipios/source.json",
+  "source_path": "sources/portal_nacional_nfe/geral/informes-tecnicos/it2025-001v1-00-atualiza-tabela-municipios/source.json",
   "status": "published",
-  "title": "Sistema Nota Fiscal Eletr\u00f4nica",
+  "title": "Sistema Nota Fiscal Eletrônica",
   "validation": {
     "asset_count": 5,
     "contains_base64_images": false,

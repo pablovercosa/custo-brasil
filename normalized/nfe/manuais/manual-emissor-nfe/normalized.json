@@ -10,9 +10,9 @@
   "published_at_utc": "2026-06-25T15:08:56.120829+00:00",
   "slug": "manual-emissor-nfe",
   "source_family": "portal_nacional_nfe",
-  "source_path": "sources/portal-nacional-nfe/manuais/manual-emissor-nfe/source.json",
+  "source_path": "sources/portal_nacional_nfe/nfe/manuais/manual-emissor-nfe/source.json",
   "status": "published",
-  "title": "Emissor de Nota Fiscal Eletr\u00f4nica",
+  "title": "Emissor de Nota Fiscal Eletrônica",
   "validation": {
     "asset_count": 1,
     "contains_base64_images": false,
