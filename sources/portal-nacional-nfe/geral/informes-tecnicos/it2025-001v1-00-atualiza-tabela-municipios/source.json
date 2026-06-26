@@ -1,0 +1,34 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "it2025-001v1-00-atualiza-tabela-municipios",
+  "category": "informe_tecnico",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/geral/informes-tecnicos/it2025-001v1-00-atualiza-tabela-municipios/document.md",
+    "corpus/geral/informes-tecnicos/it2025-001v1-00-atualiza-tabela-municipios/metadata.json",
+    "corpus/geral/informes-tecnicos/it2025-001v1-00-atualiza-tabela-municipios/assets/image_000000_34412184677f6902e7a8fccfb01520deb5206f4b9efacf78c09cca121428e422.png",
+    "corpus/geral/informes-tecnicos/it2025-001v1-00-atualiza-tabela-municipios/assets/image_000001_da1946a487b8e6731b1473267258bb83090aee84ab0c4bd6c7280208f9a55f4f.png",
+    "corpus/geral/informes-tecnicos/it2025-001v1-00-atualiza-tabela-municipios/assets/image_000002_66f20aadf2777d3f7057b2f8a1720a02adc750a892d85d2a51d6bbfc66ef9470.png",
+    "corpus/geral/informes-tecnicos/it2025-001v1-00-atualiza-tabela-municipios/assets/image_000003_93ec2db670d1fb245968aefe11b3c3692a4de014a6307aa1dccd9113fa6dba01.png",
+    "corpus/geral/informes-tecnicos/it2025-001v1-00-atualiza-tabela-municipios/assets/image_000004_320ce71d1eb081a7bf1cebc2fc95112e6fc933ea1e98d057f64948b9f529f73e.png",
+    "sources/portal-nacional-nfe/geral/informes-tecnicos/it2025-001v1-00-atualiza-tabela-municipios/source.json",
+    "normalized/geral/informes-tecnicos/it2025-001v1-00-atualiza-tabela-municipios/normalized.json",
+    "changelog/geral/informes-tecnicos/it2025-001v1-00-atualiza-tabela-municipios.md"
+  ],
+  "original_filename": "IT2025.001v1.00 - Atualiza Tabela Municipios.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Informes Técnicos/IT2025.001v1.00 - Atualiza Tabela Municipios.pdf",
+  "original_sha256": "ad5ea77d6a404481fc74b830dda3cf03dfa7ed0285893322a815bb7df20fb19c",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T20:41:53.448727+00:00",
+  "slug": "it2025-001v1-00-atualiza-tabela-municipios",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Sistema Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 5,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 5,
+    "missing_image_refs_count": 0
+  }
+}

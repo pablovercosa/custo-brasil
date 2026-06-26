@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "it2025-001v1-00-atualiza-tabela-municipios",
+  "category": "informe_tecnico",
+  "document_path": "corpus/geral/informes-tecnicos/it2025-001v1-00-atualiza-tabela-municipios/document.md",
+  "metadata_path": "corpus/geral/informes-tecnicos/it2025-001v1-00-atualiza-tabela-municipios/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "IT2025.001v1.00 - Atualiza Tabela Municipios.pdf",
+  "original_sha256": "ad5ea77d6a404481fc74b830dda3cf03dfa7ed0285893322a815bb7df20fb19c",
+  "published_at_utc": "2026-06-25T20:41:53.448727+00:00",
+  "slug": "it2025-001v1-00-atualiza-tabela-municipios",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal-nacional-nfe/informes-tecnicos/it2025-001v1-00-atualiza-tabela-municipios/source.json",
+  "status": "published",
+  "title": "Sistema Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 5,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 5,
+    "missing_image_refs_count": 0
+  }
+}
