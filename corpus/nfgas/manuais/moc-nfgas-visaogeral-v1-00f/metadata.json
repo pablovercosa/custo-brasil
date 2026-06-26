@@ -1,0 +1,32 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "moc-nfgas-visaogeral-v1-00f",
+  "category": "manual",
+  "conversion": {
+    "image_export_mode": "referenced",
+    "output_format": "md",
+    "target_type": "zip",
+    "tool": "docling-server"
+  },
+  "converted_at_utc": "2026-06-25T18:28:19.697142+00:00",
+  "original_filename": "MOC_NFGas_VisaoGeral_v1.00f.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Manuais/MOC_NFGas_VisaoGeral_v1.00f.pdf",
+  "original_sha256": "867177b8e797a17704ff65b31a99df930054e97f40c9cd18e1a52ef943805c35",
+  "public_paths": {
+    "assets": "corpus/nfgas/manuais/moc-nfgas-visaogeral-v1-00f/assets/",
+    "document": "corpus/nfgas/manuais/moc-nfgas-visaogeral-v1-00f/document.md",
+    "metadata": "corpus/nfgas/manuais/moc-nfgas-visaogeral-v1-00f/metadata.json"
+  },
+  "slug": "moc-nfgas-visaogeral-v1-00f",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletrônica do Gás",
+  "validation": {
+    "asset_count": 68,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 68,
+    "missing_image_refs_count": 0
+  }
+}
