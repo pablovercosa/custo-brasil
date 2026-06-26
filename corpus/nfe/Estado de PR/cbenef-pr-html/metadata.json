@@ -1,0 +1,28 @@
+{
+  "authority": "SEFAZ/{uf_sigla}",
+  "canonical_id": "cbenef-pr-html",
+  "category": "nfe",
+  "conversion": {
+    "image_export_mode": "referenced",
+    "output_format": "md",
+    "target_type": "dir",
+    "tool": "pandoc"
+  },
+  "converted_at_utc": "2026-06-26T15:56:26.276494+00:00",
+  "original_filename": "CÓDIGO DE BENEFÍCIO FISCAL _ Sistema Público de Escrituração Digital.html",
+  "original_sha256": "3af437cd3c4ef34e1e59890f41286c0a471a5b30d61635db98fa6da57816fa79",
+  "public_paths": {
+    "document": "corpus/nfe/Estado de PR/cbenef-pr-html/document.md",
+    "metadata": "corpus/nfe/Estado de PR/cbenef-pr-html/metadata.json",
+    "assets": "corpus/nfe/Estado de PR/cbenef-pr-html/assets/"
+  },
+  "slug": "cbenef-pr-html",
+  "source_family": "sefaz_pr",
+  "source_url": "",
+  "status": "converted",
+  "title": "CÓDIGO DE BENEFÍCIO FISCAL   Sistema Público de Escrituração Digital",
+  "validation": {
+    "asset_count": 3,
+    "lines": 108
+  }
+}
