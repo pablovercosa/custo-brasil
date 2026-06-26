@@ -1,0 +1,28 @@
+{
+  "authority": "SEFAZ/{uf_sigla}",
+  "canonical_id": "edital-transacao-pgdf",
+  "category": "nfe",
+  "conversion": {
+    "image_export_mode": "referenced",
+    "output_format": "md",
+    "target_type": "dir",
+    "tool": "pandoc"
+  },
+  "converted_at_utc": "2026-06-26T15:56:24.768619+00:00",
+  "original_filename": "Edital de Transação PGDF_SEEC nº 2_2025.html",
+  "original_sha256": "6ab21c337d42ae432d37326b536d829ef01b8ece615821a62bdc1fef0056d53f",
+  "public_paths": {
+    "document": "corpus/nfe/Estado de DF/edital-transacao-pgdf/document.md",
+    "metadata": "corpus/nfe/Estado de DF/edital-transacao-pgdf/metadata.json",
+    "assets": "corpus/nfe/Estado de DF/edital-transacao-pgdf/assets/"
+  },
+  "slug": "edital-transacao-pgdf",
+  "source_family": "sefaz_df",
+  "source_url": "",
+  "status": "converted",
+  "title": "Edital de Transação PGDF SEEC nº 2 2025",
+  "validation": {
+    "asset_count": 0,
+    "lines": 834
+  }
+}

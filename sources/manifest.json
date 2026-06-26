@@ -181,6 +181,15 @@
       "title": "Unidades de Medida",
       "status": "published",
       "published_at": "2026-06-26T00:00:00+00:00"
+    },
+    {
+      "slug": "edital-transacao-pgdf",
+      "category": "nfe",
+      "subdir": "Estado de DF",
+      "family": "sefaz_df",
+      "title": "Edital de Transação PGDF",
+      "status": "published",
+      "published_at": "2026-06-26T00:00:00+00:00"
     }
   ],
   "schemas": {

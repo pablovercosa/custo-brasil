@@ -1,0 +1,15 @@
+{
+  "slug": "edital-transacao-pgdf",
+  "corpus_category": "nfe",
+  "source_family": "sefaz_df",
+  "source_url": "",
+  "original_sha256": "6ab21c337d42ae432d37326b536d829ef01b8ece615821a62bdc1fef0056d53f",
+  "original_filename": "Edital de Transação PGDF_SEEC nº 2_2025.html",
+  "title": "Edital de Transação PGDF",
+  "status": "published",
+  "derived_public_files": {
+    "metadata": "corpus/nfe/Estado de DF/edital-transacao-pgdf/metadata.json",
+    "document": "corpus/nfe/Estado de DF/edital-transacao-pgdf/document.md"
+  },
+  "published_at": "2026-06-26T00:00:00+00:00"
+}
