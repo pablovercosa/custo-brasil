@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2013-001-manifestacao-combustivel",
+  "category": "nota_tecnica",
+  "document_path": "corpus/nfe/notas-tecnicas/nt2013-001-manifestacao-combustivel/document.md",
+  "metadata_path": "corpus/nfe/notas-tecnicas/nt2013-001-manifestacao-combustivel/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "NT2013.001_Manifestacao_Combustivel.pdf",
+  "original_sha256": "48d8c67a763270261b4c9e681bff1cf10d8a16b90f338cc8c1a3923ce9fa42c1",
+  "published_at_utc": "2026-06-25T15:00:47.754132+00:00",
+  "slug": "nt2013-001-manifestacao-combustivel",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt2013-001-manifestacao-combustivel/source.json",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 8,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 8,
+    "missing_image_refs_count": 0
+  }
+}
