@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2022-005-v1-11-difal",
+  "category": "nota_tecnica",
+  "document_path": "corpus/nfe/notas-tecnicas/nt2022-005-v1-11-difal/document.md",
+  "metadata_path": "corpus/nfe/notas-tecnicas/nt2022-005-v1-11-difal/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "NT2022.005_v1.11 - DIFAL.pdf",
+  "original_sha256": "e6f12d52ceafb77d366769db9b59fbb15b1600c1b2ed58face5d6fa16a3295db",
+  "published_at_utc": "2026-06-25T15:36:00.323632+00:00",
+  "slug": "nt2022-005-v1-11-difal",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt2022-005-v1-11-difal/source.json",
+  "status": "published",
+  "title": "Sistema Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 10,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 10,
+    "missing_image_refs_count": 0
+  }
+}
