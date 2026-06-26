@@ -7,13 +7,20 @@ Fórmulas para cálculo tributário referenciadas aos documentos normativos do c
 ```
 formulas/
 ├── icms/
-│   ├── icms-proprio.md     # ICMS próprio (cálculo "por dentro")
-│   ├── icms-st.md          # ICMS substituição tributária
-│   └── aliquotas-icms-uf.md # Tabela de alíquotas por UF
-├── pis-cofins/             # PIS/COFINS não cumulativo
-├── reforma-tributaria/     # IBS e CBS
-├── ipi/                    # IPI (reservado)
-└── iss/                    # ISS (reservado)
+│   ├── aliquotas-icms-uf.md  # Tabela de alíquotas por UF
+│   ├── difal.md              # DIFAL ICMS (EC 87/2015)
+│   ├── icms-proprio.md       # ICMS próprio (cálculo "por dentro")
+│   └── icms-st.md            # ICMS substituição tributária
+├── pis-cofins/
+│   └── pis-cofins-nao-cumulativo.md  # PIS/COFINS não cumulativo
+├── reforma-tributaria/
+│   ├── ibs-cbs.md            # IBS e CBS (base, efetiva, diferimento, cashback)
+│   └── is.md                 # Imposto Seletivo
+├── combustiveis/
+│   └── icms-monofasico.md    # ICMS monofásico (ad rem, diferimento)
+├── ipi/
+│   └── ipi.md                # IPI (alíquota ou valor por unidade)
+└── iss/                      # ISS (reservado)
 ```
 
 ## Convenções

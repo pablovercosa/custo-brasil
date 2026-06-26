@@ -69,13 +69,65 @@ CBS = BC_IBS_CBS × pCBS / 100
 
 Total_IBS_CBS = IBS + CBS
 
+### Alíquota efetiva
+
+Quando há redução de alíquota, aplica-se a alíquota efetiva:
+
+pAliqEfet = pIBS × (1 - pRedAliq / 100)
+
+Quando o adquirente é órgão público (compra governamental), aplica-se redutor adicional:
+
+pAliqEfet = pIBS × (1 - pRedAliq / 100) × (1 - pRedutor / 100)
+
+**Exemplo:** pIBS = 26,5%, pRedAliq = 40%, pRedutor = 5% (governo)
+
+pAliqEfet = 26,5 × (1 - 0,40) × (1 - 0,05) = 26,5 × 0,60 × 0,95 = 15,105%
+
+### IBS por esfera (UF e município)
+
+O IBS é splitado entre estado (IBS UF) e município (IBS Municipal) conforme as alíquotas de cada ente:
+
+vIBSUF = (vBC × pIBSUF / 100) - vDif - vDevTrib
+
+vIBSMun = (vBC × pIBSMun / 100) - vDif - vDevTrib
+
+vIBS = vIBSUF + vIBSMun - vCredPres
+
+Onde `vCredPres` é o crédito presumido (aplicável quando `indDeduzCredPres = 1`).
+
+### Diferimento (IBS e CBS)
+
+Parte do IBS ou CBS pode ser diferido para etapa posterior:
+
+vDif_IBS = vBC × (pIBS / 100) × (pDif / 100)
+
+vDif_CBS = vBC × (pCBS / 100) × (pDif / 100)
+
+### Devolução / Cashback
+
+O valor a ser devolvido ao consumidor (cashback) é calculado como percentual sobre o imposto:
+
+vDevTrib_IBS = vBC × (pIBS / 100) × (pDevTrib / 100)
+
+vDevTrib_CBS = vBC × (pCBS / 100) × (pDevTrib / 100)
+
+### IBS e CBS monofásico
+
+Para produtos sujeitos a tributação monofásica (alíquota ad rem):
+
+vIBSMono = adRem × quantidade
+
+vCBSMono = adRem × quantidade
+
 ## Passo a passo
 
 1. **Calcular a base comum:** partindo do valor total da operação, somar produto, serviço, frete, seguro, outras despesas e II
 2. **Excluir da base:** descontos incondicionais, PIS, COFINS e ICMS
-3. **Aplicar alíquotas:** multiplicar a BC pelas alíquotas de IBS e CBS
-4. **Apurar créditos:** o contribuinte pode creditar o IBS e a CBS pagos nas aquisições
-5. **Split payment:** no pagamento, o valor do IBS+CBS é segregado e recolhido diretamente ao fisco
+3. **Calcular IBS por esfera:** aplicar alíquotas UF e municipal separadamente; subtrair diferimento e cashback
+4. **Calcular CBS:** aplicar alíquota federal; subtrair diferimento e cashback
+5. **Aplicar crédito presumido:** deduzir do IBS se aplicável
+6. **Apurar créditos:** o contribuinte pode creditar o IBS e a CBS pagos nas aquisições
+7. **Split payment:** no pagamento, o valor do IBS+CBS é segregado e recolhido diretamente ao fisco
 
 ## Exemplo
 
