@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2010-002",
+  "category": "nota_tecnica",
+  "document_path": "corpus/nfe/notas-tecnicas/nt2010-002/document.md",
+  "metadata_path": "corpus/nfe/notas-tecnicas/nt2010-002/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "NT2010.002.pdf",
+  "original_sha256": "03b253b56ad95ca676ba04ae2e483447349c7e60ac325ab14d89f51c99742549",
+  "published_at_utc": "2026-06-25T14:51:28.690644+00:00",
+  "slug": "nt2010-002",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt2010-002/source.json",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 5,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 5,
+    "missing_image_refs_count": 0
+  }
+}
