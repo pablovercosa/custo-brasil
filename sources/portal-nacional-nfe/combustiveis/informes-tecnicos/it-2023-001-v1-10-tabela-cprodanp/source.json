@@ -1,0 +1,35 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "it-2023-001-v1-10-tabela-cprodanp",
+  "category": "informe_tecnico",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/combustiveis/informes-tecnicos/it-2023-001-v1-10-tabela-cprodanp/document.md",
+    "corpus/combustiveis/informes-tecnicos/it-2023-001-v1-10-tabela-cprodanp/metadata.json",
+    "corpus/combustiveis/informes-tecnicos/it-2023-001-v1-10-tabela-cprodanp/assets/image_000000_f4fe5a9b76c8defab871426be314dc2f911cb40812e313304fe06f9fc9315b02.png",
+    "corpus/combustiveis/informes-tecnicos/it-2023-001-v1-10-tabela-cprodanp/assets/image_000001_da1946a487b8e6731b1473267258bb83090aee84ab0c4bd6c7280208f9a55f4f.png",
+    "corpus/combustiveis/informes-tecnicos/it-2023-001-v1-10-tabela-cprodanp/assets/image_000002_c92f2977ac3c2c585cb1626e29c281335a56975c84e39aababb84aee0ab006a3.png",
+    "corpus/combustiveis/informes-tecnicos/it-2023-001-v1-10-tabela-cprodanp/assets/image_000003_953715da7473e6ed596a85d8a8be4262ab5662824560f08e968d9cc1c9a1a773.png",
+    "corpus/combustiveis/informes-tecnicos/it-2023-001-v1-10-tabela-cprodanp/assets/image_000004_93ec2db670d1fb245968aefe11b3c3692a4de014a6307aa1dccd9113fa6dba01.png",
+    "corpus/combustiveis/informes-tecnicos/it-2023-001-v1-10-tabela-cprodanp/assets/image_000005_320ce71d1eb081a7bf1cebc2fc95112e6fc933ea1e98d057f64948b9f529f73e.png",
+    "sources/portal-nacional-nfe/combustiveis/informes-tecnicos/it-2023-001-v1-10-tabela-cprodanp/source.json",
+    "normalized/combustiveis/informes-tecnicos/it-2023-001-v1-10-tabela-cprodanp/normalized.json",
+    "changelog/combustiveis/informes-tecnicos/it-2023-001-v1-10-tabela-cprodanp.md"
+  ],
+  "original_filename": "IT 2023.001_v1.10 - Tabela cProdANP.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Informes Técnicos/IT 2023.001_v1.10 - Tabela cProdANP.pdf",
+  "original_sha256": "08b22fa3a28cf2c671e96cd74ecbb3495f0a7efc5c96cfbb57dec4f232ac51d4",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T20:43:20.243064+00:00",
+  "slug": "it-2023-001-v1-10-tabela-cprodanp",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Sistema Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 6,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 6,
+    "missing_image_refs_count": 0
+  }
+}
