@@ -217,6 +217,15 @@
       "title": "Código de Benefício Fiscal PR",
       "status": "published",
       "published_at": "2026-06-26T00:00:00+00:00"
+    },
+    {
+      "slug": "cbenef-rj-html",
+      "category": "nfe",
+      "subdir": "Estado de RJ",
+      "family": "sefaz_rj",
+      "title": "Benefícios Fiscais RJ",
+      "status": "published",
+      "published_at": "2026-06-26T00:00:00+00:00"
     }
   ],
   "schemas": {

@@ -1,0 +1,15 @@
+{
+  "slug": "cbenef-rj-html",
+  "corpus_category": "nfe",
+  "source_family": "sefaz_rj",
+  "source_url": "",
+  "original_sha256": "42bbd26f51b97f08901824be05a2e6073822a8fb3ad630781bb5dbcc125ca423",
+  "original_filename": "Benefícios Fiscais – Documento Fiscal Eletrônico - Secretaria de Estado de Fazenda do Rio de Ja.html",
+  "title": "Benefícios Fiscais RJ",
+  "status": "published",
+  "derived_public_files": {
+    "metadata": "corpus/nfe/Estado de RJ/cbenef-rj-html/metadata.json",
+    "document": "corpus/nfe/Estado de RJ/cbenef-rj-html/document.md"
+  },
+  "published_at": "2026-06-26T00:00:00+00:00"
+}
