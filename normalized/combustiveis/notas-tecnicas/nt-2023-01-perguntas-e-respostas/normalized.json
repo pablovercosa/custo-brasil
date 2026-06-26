@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt-2023-01-perguntas-e-respostas",
+  "category": "nota_tecnica",
+  "document_path": "corpus/combustiveis/notas-tecnicas/nt-2023-01-perguntas-e-respostas/document.md",
+  "metadata_path": "corpus/combustiveis/notas-tecnicas/nt-2023-01-perguntas-e-respostas/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "nt-2023-01-perguntas-e-respostas.pdf",
+  "original_sha256": "ad90f4247c0298a4abc3fd3e6df6b7b95b3afe9cd871161ff1711b915932344b",
+  "published_at_utc": "2026-06-25T15:10:30.771820+00:00",
+  "slug": "nt-2023-01-perguntas-e-respostas",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt-2023-01-perguntas-e-respostas/source.json",
+  "status": "published",
+  "title": "NT 2023.01 -PERGUNTAS E RESPOSTAS Versão 22/05/2023",
+  "validation": {
+    "asset_count": 0,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 0,
+    "missing_image_refs_count": 0
+  }
+}
