@@ -1,5 +1,18 @@
 # nt2020-006-v1-31-intermediador-e-marketplace
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `nt2020-006-v1-31-intermediador-e-marketplace`.
+- Categoria: `nota_tecnica`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# nt2020-006-v1-31-intermediador-e-marketplace
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `nt2020-006-v1-31-intermediador-e-marketplace`.

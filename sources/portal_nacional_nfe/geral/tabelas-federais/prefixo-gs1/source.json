@@ -1,15 +1,16 @@
 {
-  "slug": "prefixo-gs1",
+  "category": "tabela",
   "corpus_category": "geral",
-  "source_family": "portal_nacional_nfe",
-  "source_url": "",
-  "original_sha256": "6f75b924f7fc97a2b5c4b6483479c035304ec642b48eebc61bd2b1afb5b62606",
-  "original_filename": "Tabela_Prefixo_GS1.xlsx",
-  "title": "Prefixo GS1",
-  "status": "published",
   "derived_public_files": {
     "metadata": "corpus/geral/tabelas-federais/prefixo-gs1/metadata.json",
     "readme": "corpus/geral/tabelas-federais/prefixo-gs1/README.md"
   },
-  "published_at": "2026-06-26T00:00:00+00:00"
+  "original_filename": "Tabela_Prefixo_GS1.xlsx",
+  "original_sha256": "6f75b924f7fc97a2b5c4b6483479c035304ec642b48eebc61bd2b1afb5b62606",
+  "published_at": "2026-06-26T00:00:00+00:00",
+  "slug": "prefixo-gs1",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "status": "published",
+  "title": "Prefixo GS1"
 }

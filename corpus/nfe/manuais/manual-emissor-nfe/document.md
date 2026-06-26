@@ -1,3 +1,13 @@
+---
+title: "Emissor de Nota Fiscal Eletrônica"
+slug: "manual-emissor-nfe"
+category: "manual"
+source_family: "portal_nacional_nfe"
+original_sha256: "12b707c1c8b2de2a70699a64186f2709b2253e87f986242b571b1547cf534762"
+converted_at_utc: "2026-06-25T15:08:56.120829+00:00"
+status: "published"
+type: "manual"
+---
 ![Image](assets/image_000000_02abc7e384e65d1e7abe2ca0411d762b80b701462c2846d54f4d2d004c597ad7.png)
 
 ## Emissor de Nota Fiscal Eletrônica

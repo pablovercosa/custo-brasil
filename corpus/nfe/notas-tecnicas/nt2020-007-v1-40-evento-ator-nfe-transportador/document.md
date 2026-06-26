@@ -1,3 +1,13 @@
+---
+title: "Sistema Nota Fiscal Eletrônica"
+slug: "nt2020-007-v1-40-evento-ator-nfe-transportador"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "9394c3d8cef55c1a2e6e05b7811bc05cc1f4e66f5190308a1bc6f9c92792bf1f"
+converted_at_utc: "2026-06-25T15:51:50.790636+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_4f9898c530d8bf82e36dfb5fd14a054dff0ddfd8c9cdd867d989d833a12c8c33.png)
 
 ## Sistema Nota Fiscal Eletrônica

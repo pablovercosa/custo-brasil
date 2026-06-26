@@ -1,5 +1,18 @@
 # moc-nfeabi-anexo-i-leiaute-e-rv-v2-00
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `moc-nfeabi-anexo-i-leiaute-e-rv-v2-00`.
+- Categoria: `manual`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# moc-nfeabi-anexo-i-leiaute-e-rv-v2-00
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `moc-nfeabi-anexo-i-leiaute-e-rv-v2-00`.

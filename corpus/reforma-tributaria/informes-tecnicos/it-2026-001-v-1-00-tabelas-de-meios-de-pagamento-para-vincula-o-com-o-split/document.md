@@ -1,3 +1,13 @@
+---
+title: "Reforma Tributária do Consumo"
+slug: "it-2026-001-v-1-00-tabelas-de-meios-de-pagamento-para-vincula-o-com-o-split"
+category: "informe_tecnico"
+source_family: "portal_nacional_nfe"
+original_sha256: "3ac4d1155460d30f10e8ed30b03fce409ae17deee58f6a20183518b17a1c2580"
+converted_at_utc: "2026-06-25T20:45:38.328633+00:00"
+status: "published"
+type: "informe_tecnico"
+---
 ![Image](assets/image_000000_02c6f6fbe08d4b0c039bcf29056b212fb927b5ac422140180a55d6a0c993dca6.png)
 
 ## Reforma Tributária do Consumo

@@ -1,15 +1,16 @@
 {
-  "slug": "tabela-tipos-veiculo",
+  "category": "tabela",
   "corpus_category": "geral",
-  "source_family": "portal_nacional_nfe",
-  "source_url": "",
-  "original_sha256": "03c399be8a80fe0c2c99e0bb1dd04e2c23fc04890f070307d0bbd7d5077cb5d7",
-  "original_filename": "Tabela de Tipo e Especie de Veículo.xlsx",
-  "title": "Tipo e Espécie de Veículo",
-  "status": "published",
   "derived_public_files": {
     "metadata": "corpus/geral/tabelas-federais/tabela-tipos-veiculo/metadata.json",
     "readme": "corpus/geral/tabelas-federais/tabela-tipos-veiculo/README.md"
   },
-  "published_at": "2026-06-26T00:00:00+00:00"
+  "original_filename": "Tabela de Tipo e Especie de Ve\u00edculo.xlsx",
+  "original_sha256": "03c399be8a80fe0c2c99e0bb1dd04e2c23fc04890f070307d0bbd7d5077cb5d7",
+  "published_at": "2026-06-26T00:00:00+00:00",
+  "slug": "tabela-tipos-veiculo",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "status": "published",
+  "title": "Tipo e Esp\u00e9cie de Ve\u00edculo"
 }

@@ -9,8 +9,8 @@
     "tool": "docling-server"
   },
   "converted_at_utc": "2026-06-25T20:00:33.016115+00:00",
-  "original_filename": "ANEXO I - Leiaute e Regra de Validação - NF-e e NFC-e.pdf",
-  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Manuais/ANEXO I - Leiaute e Regra de Validação - NF-e e NFC-e.pdf",
+  "original_filename": "ANEXO I - Leiaute e Regra de Valida\u00e7\u00e3o - NF-e e NFC-e.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Manuais/ANEXO I - Leiaute e Regra de Valida\u00e7\u00e3o - NF-e e NFC-e.pdf",
   "original_sha256": "5eb4cf2010b10b0b62f78197c4eb64025f24535d4c6e61158bc7806dd008f55d",
   "public_paths": {
     "assets": "corpus/nfe/manuais/anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e/assets/",
@@ -21,7 +21,7 @@
   "source_family": "portal_nacional_nfe",
   "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
   "status": "published",
-  "title": "Sistema Nota Fiscal Eletrônica",
+  "title": "Sistema Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 152,
     "contains_base64_images": false,

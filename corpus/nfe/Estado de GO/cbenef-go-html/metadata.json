@@ -1,7 +1,7 @@
 {
   "authority": "SEFAZ/{uf_sigla}",
   "canonical_id": "cbenef-go-html",
-  "category": "nfe",
+  "category": "cbenef",
   "conversion": {
     "image_export_mode": "referenced",
     "output_format": "md",
@@ -9,18 +9,18 @@
     "tool": "pandoc"
   },
   "converted_at_utc": "2026-06-26T15:56:25.480226+00:00",
-  "original_filename": "Códigos de Benefícios Fiscais – Secretaria da Economia.html",
+  "original_filename": "C\u00f3digos de Benef\u00edcios Fiscais \u2013 Secretaria da Economia.html",
   "original_sha256": "ae1219653489eb5f5e258eb1b388af6aac30724e833102db074c484171fcfd6d",
   "public_paths": {
+    "assets": "corpus/nfe/Estado de GO/cbenef-go-html/assets/",
     "document": "corpus/nfe/Estado de GO/cbenef-go-html/document.md",
-    "metadata": "corpus/nfe/Estado de GO/cbenef-go-html/metadata.json",
-    "assets": "corpus/nfe/Estado de GO/cbenef-go-html/assets/"
+    "metadata": "corpus/nfe/Estado de GO/cbenef-go-html/metadata.json"
   },
   "slug": "cbenef-go-html",
   "source_family": "sefaz_go",
   "source_url": "",
-  "status": "converted",
-  "title": "Códigos de Benefícios Fiscais – Secretaria da Economia",
+  "status": "published",
+  "title": "C\u00f3digos de Benef\u00edcios Fiscais \u2013 Secretaria da Economia",
   "validation": {
     "asset_count": 0,
     "lines": 79

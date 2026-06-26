@@ -1,3 +1,13 @@
+---
+title: "Sistema Nota Fiscal Eletrônica"
+slug: "nt2024-002-v1-00-econf"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "8ca5bff382332103108f0e6ea52eb8be0f9a61030774077f09289391ba03b7e7"
+converted_at_utc: "2026-06-25T16:28:02.165522+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_b99ce6ecd4c1d044f602fecc97027f67c2f6c0878f6ceb8c7b5be4212d027840.png)
 
 ![Image](assets/image_000001_55843cdb6e86ec03a0e8303faaa9c88b0581d763d1c0e592d943e0d68c25d2fa.png)

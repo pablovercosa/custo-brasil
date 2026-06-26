@@ -1,3 +1,13 @@
+---
+title: "Lista de Serviços"
+slug: "tabela-lista-servicos"
+category: "tabela"
+source_family: "portal_nacional_nfe"
+original_sha256: "152ff24ac7d1dd4854a25591c33b93e109ecee5dc159f4bf5fa85f27a7567a14"
+converted_at_utc: "2026-06-26T15:51:40.963471+00:00"
+status: "published"
+type: "tabular_data"
+---
 # Lista de Serviços
 
 ## Origem

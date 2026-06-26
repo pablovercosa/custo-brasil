@@ -10,7 +10,7 @@
   },
   "converted_at_utc": "2026-06-25T15:06:44.762482+00:00",
   "original_filename": "NT2011.006c_Evento_Cancelamento.pdf",
-  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Técnicas/NT2011.006c_Evento_Cancelamento.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT2011.006c_Evento_Cancelamento.pdf",
   "original_sha256": "d5488798a25b76b04038af7e6dd7cd8c766426a1a9601cab76d1280da7a0b0f1",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt2011-006c-evento-cancelamento/assets/",
@@ -21,7 +21,7 @@
   "source_family": "portal_nacional_nfe",
   "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
   "status": "published",
-  "title": "Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica Projeto Nota Fiscal Eletr\u00f4nica Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 12,
     "contains_base64_images": false,

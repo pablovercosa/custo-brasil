@@ -1,3 +1,13 @@
+---
+title: "NT 2023.01 -PERGUNTAS E RESPOSTAS Versão 22/05/2023"
+slug: "nt-2023-01-perguntas-e-respostas"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "ad90f4247c0298a4abc3fd3e6df6b7b95b3afe9cd871161ff1711b915932344b"
+converted_at_utc: "2026-06-25T15:10:30.771820+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ## NT 2023.01 -PERGUNTAS E RESPOSTAS Versão 22/05/2023
 
 ## (Trechos alterados e incluídos nesta versão estarão destacados em verde) Alertamos que as menções ao Convênio ICMS 15/23, no que se refere à Gasolina e Etanol

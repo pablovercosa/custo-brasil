@@ -1,3 +1,13 @@
+---
+title: "Sistema Nota Fiscal Eletrônica"
+slug: "it-2023-001-v1-10-tabela-cprodanp"
+category: "informe_tecnico"
+source_family: "portal_nacional_nfe"
+original_sha256: "08b22fa3a28cf2c671e96cd74ecbb3495f0a7efc5c96cfbb57dec4f232ac51d4"
+converted_at_utc: "2026-06-25T20:43:20.243064+00:00"
+status: "published"
+type: "informe_tecnico"
+---
 ![Image](assets/image_000000_f4fe5a9b76c8defab871426be314dc2f911cb40812e313304fe06f9fc9315b02.png)
 
 ![Image](assets/image_000001_da1946a487b8e6731b1473267258bb83090aee84ab0c4bd6c7280208f9a55f4f.png)

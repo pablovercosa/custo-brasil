@@ -1,5 +1,18 @@
 # it2024-001v2-30-atualiza-tabela-de-ncm
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `it2024-001v2-30-atualiza-tabela-de-ncm`.
+- Categoria: `informe_tecnico`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# it2024-001v2-30-atualiza-tabela-de-ncm
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `it2024-001v2-30-atualiza-tabela-de-ncm`.

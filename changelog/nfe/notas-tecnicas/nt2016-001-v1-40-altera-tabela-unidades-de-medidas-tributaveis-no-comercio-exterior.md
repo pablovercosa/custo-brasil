@@ -1,5 +1,18 @@
 # nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior`.
+- Categoria: `nota_tecnica`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior`.

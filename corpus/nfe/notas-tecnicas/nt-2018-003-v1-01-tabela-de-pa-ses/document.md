@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt-2018-003-v1-01-tabela-de-pa-ses"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "d10873751b86934180a25c0e8a91b0be1808ee0355f5fdb51fd98b22e6652d42"
+converted_at_utc: "2026-06-25T15:09:54.578267+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_6172778e5ef24aa6ff5019009153ec7792c600dee64bc7b8fd6dcaae50e95141.png)
 
 ![Image](assets/image_000001_c16c7c891244ca695ff5d7180c63e4d273f2f297911980318bf5ec7981dce8ad.png)

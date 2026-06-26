@@ -1,3 +1,13 @@
+---
+title: "Sistema Nota Fiscal Eletrônica"
+slug: "manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e"
+category: "manual"
+source_family: "portal_nacional_nfe"
+original_sha256: "f664dcf94b77cabb32311620d85a7eb02cdf86adb2d4632ce178af2572dd2ad1"
+converted_at_utc: "2026-06-25T20:18:24.495650+00:00"
+status: "published"
+type: "manual"
+---
 ![Image](assets/image_000000_36de4b40953a7d814cbea46d98f9af340b8c11cd9e8ed4211542ec4d4b16b4ba.png)
 
 ![Image](assets/image_000001_00ac4fd7cb8a53cab809688fec71d68117f9004a905b4d4bf606eb75b18d96ee.png)

@@ -1,15 +1,23 @@
 {
-  "slug": "cbenef-es",
-  "corpus_category": "nfe",
-  "source_family": "portal_nacional_nfe",
-  "status": "published",
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "cbenef-es",
+  "category": "cbenef",
   "document_path": "corpus/nfe/Estado de ES/cbenef-es/README.md",
   "metadata_path": "corpus/nfe/Estado de ES/cbenef-es/metadata.json",
-  "created_at": "2026-06-26T15:56:26.302926+00:00",
-  "updated_at": null,
-  "fields": null,
-  "rules": null,
-  "tables": null,
-  "validation": null,
-  "published_at": "2026-06-26T00:00:00+00:00"
+  "normalization_status": "manual_published",
+  "original_filename": "cBenef ES V6.xlsx",
+  "original_sha256": "bb2b89a07b4e2c3f4380382aa8b18108b5ab76bf00121e3896311d6e964a94ac",
+  "published_at_utc": "2026-06-26T15:51:42.831718+00:00",
+  "slug": "cbenef-es",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal_nacional_nfe/nfe/Estado de ES/cbenef-es/source.json",
+  "status": "published",
+  "title": "cBenef Esp\u00edrito Santo",
+  "validation": {
+    "asset_count": 0,
+    "sheets": [
+      "CBENEF"
+    ],
+    "total_rows": 417
+  }
 }

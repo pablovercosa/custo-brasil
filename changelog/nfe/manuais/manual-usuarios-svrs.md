@@ -1,5 +1,18 @@
 # manual-usuarios-svrs
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `manual-usuarios-svrs`.
+- Categoria: `manual`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# manual-usuarios-svrs
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `manual-usuarios-svrs`.

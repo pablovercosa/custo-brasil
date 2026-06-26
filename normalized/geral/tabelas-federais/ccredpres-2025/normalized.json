@@ -1,15 +1,24 @@
 {
-  "slug": "ccredpres-2025",
-  "corpus_category": "geral",
-  "source_family": "portal_nacional_nfe",
-  "status": "published",
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "ccredpres-2025",
+  "category": "tabela",
   "document_path": "corpus/geral/tabelas-federais/ccredpres-2025/README.md",
   "metadata_path": "corpus/geral/tabelas-federais/ccredpres-2025/metadata.json",
-  "created_at": "2026-06-26T15:56:26.278289+00:00",
-  "updated_at": null,
-  "fields": null,
-  "rules": null,
-  "tables": null,
-  "validation": null,
-  "published_at": "2026-06-26T00:00:00+00:00"
+  "normalization_status": "manual_published",
+  "original_filename": "cCredPres_2025-12-12Public.xlsx",
+  "original_sha256": "8d547b5afed3e82a15a6f5f41897dd99dcb686ecb21de3c1be344c8f57109df9",
+  "published_at_utc": "2026-06-26T15:51:38.780751+00:00",
+  "slug": "ccredpres-2025",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal_nacional_nfe/geral/tabelas-federais/ccredpres-2025/source.json",
+  "status": "published",
+  "title": "Cr\u00e9dito Presumido (cCredPres)",
+  "validation": {
+    "asset_count": 0,
+    "sheets": [
+      "cCredPres",
+      "Planilha2"
+    ],
+    "total_rows": 28
+  }
 }

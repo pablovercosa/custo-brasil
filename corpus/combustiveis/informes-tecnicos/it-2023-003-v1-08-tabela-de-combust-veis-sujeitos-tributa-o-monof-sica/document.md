@@ -1,3 +1,13 @@
+---
+title: "Sistema Nota Fiscal Eletrônica"
+slug: "it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica"
+category: "informe_tecnico"
+source_family: "portal_nacional_nfe"
+original_sha256: "1540944fec21c889bab21af41d931bb124af71d892126fe321962303f5179bff"
+converted_at_utc: "2026-06-25T20:42:59.884218+00:00"
+status: "published"
+type: "informe_tecnico"
+---
 ![Image](assets/image_000000_a9de4cc7f57563311b8b3912d3fbf9959e734040d075a1d2a78bc86db67ec3df.png)
 
 ![Image](assets/image_000001_050dd047183368c3224146f5a1711f1741aa657b5ef86eb0ef3aefb71b049c24.png)

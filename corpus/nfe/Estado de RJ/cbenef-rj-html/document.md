@@ -1,3 +1,13 @@
+---
+title: "Benefícios Fiscais – Documento Fiscal Eletrônico - Secretaria de Estado de Fazenda do Rio de Ja"
+slug: "cbenef-rj-html"
+category: "cbenef"
+source_family: "sefaz_rj"
+original_sha256: "42bbd26f51b97f08901824be05a2e6073822a8fb3ad630781bb5dbcc125ca423"
+converted_at_utc: "2026-06-26T15:56:25.035222+00:00"
+status: "published"
+type: "tax_benefit_table"
+---
 ::::::::::::: {.main .flex-shrink-0 role="main"}
 :::::::::::: my
 ::::::::::: {.container .content-wp .content-page .fw-normal .lh-base .fs-xlg}

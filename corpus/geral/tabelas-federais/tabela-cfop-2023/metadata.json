@@ -1,7 +1,7 @@
 {
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
   "canonical_id": "tabela-cfop-2023",
-  "category": "geral",
+  "category": "tabela",
   "conversion": {
     "image_export_mode": "none",
     "output_format": "csv",
@@ -9,17 +9,17 @@
     "tool": "openpyxl+xlrd"
   },
   "converted_at_utc": "2026-06-26T15:51:40.876985+00:00",
-  "original_filename": "IT 2023.002-v1.00_Tabela_CFOP_Vigência_20230424.xlsx",
+  "original_filename": "IT 2023.002-v1.00_Tabela_CFOP_Vig\u00eancia_20230424.xlsx",
   "original_sha256": "b9dfd271a4f11816df525cfde3818e1d7561ab951d5649f3654bda303041d02a",
   "public_paths": {
-    "document": "corpus/geral/tabelas-federais/tabela-cfop-2023/document.md",
-    "metadata": "corpus/geral/tabelas-federais/tabela-cfop-2023/metadata.json",
-    "csv": "corpus/geral/tabelas-federais/tabela-cfop-2023/csv/"
+    "csv": "corpus/geral/tabelas-federais/tabela-cfop-2023/csv/",
+    "document": "corpus/geral/tabelas-federais/tabela-cfop-2023/README.md",
+    "metadata": "corpus/geral/tabelas-federais/tabela-cfop-2023/metadata.json"
   },
   "slug": "tabela-cfop-2023",
   "source_family": "portal_nacional_nfe",
   "source_url": "",
-  "status": "converted",
+  "status": "published",
   "title": "Tabela CFOP",
   "validation": {
     "asset_count": 0,

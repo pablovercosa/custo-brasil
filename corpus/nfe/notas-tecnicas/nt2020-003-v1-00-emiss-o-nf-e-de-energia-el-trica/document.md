@@ -1,3 +1,13 @@
+---
+title: "Sistema Nota Fiscal Eletrônica"
+slug: "nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "c68e46cf667adfdfef73c40423beb884ae589016584d780eba83c5d70f71274a"
+converted_at_utc: "2026-06-25T15:40:55.811669+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_6c545e385dc554d4f2538dc5f2f8e123229188ad3a37c64853552479f699396f.png)
 
 ![Image](assets/image_000001_5dd5d5e16748c7abcded3a0035d3a12ebd8073cdc66cfc62ca495386dd8ab477.png)

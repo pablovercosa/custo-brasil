@@ -1,3 +1,18 @@
+# manual-svan-anexo-ii
+
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `manual-svan-anexo-ii`.
+- Categoria: `manual`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - metadata:status converted->published
+  - metadata:category nfe->manual
+  - normalized:expanded-from-minimal
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
 # Manual SVAN Anexo II
 
 - **Slug:** `manual-svan-anexo-ii`

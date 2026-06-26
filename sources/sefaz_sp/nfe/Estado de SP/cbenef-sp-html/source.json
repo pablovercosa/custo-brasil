@@ -1,15 +1,16 @@
 {
-  "slug": "cbenef-sp-html",
+  "category": "cbenef",
   "corpus_category": "nfe",
+  "derived_public_files": {
+    "document": "corpus/nfe/Estado de SP/cbenef-sp-html/document.md",
+    "metadata": "corpus/nfe/Estado de SP/cbenef-sp-html/metadata.json"
+  },
+  "original_filename": "P\u00e1ginas - C\u00f3digos de Benef\u00edcios Fiscais - cBenef.html",
+  "original_sha256": "8f93aee658fa0648a3fb43119143b74e26a39e0424f30816813bcf290d7d3c10",
+  "published_at": "2026-06-26T00:00:00+00:00",
+  "slug": "cbenef-sp-html",
   "source_family": "sefaz_sp",
   "source_url": "",
-  "original_sha256": "8f93aee658fa0648a3fb43119143b74e26a39e0424f30816813bcf290d7d3c10",
-  "original_filename": "Páginas - Códigos de Benefícios Fiscais - cBenef.html",
-  "title": "Códigos de Benefícios Fiscais SP",
   "status": "published",
-  "derived_public_files": {
-    "metadata": "corpus/nfe/Estado de SP/cbenef-sp-html/metadata.json",
-    "document": "corpus/nfe/Estado de SP/cbenef-sp-html/document.md"
-  },
-  "published_at": "2026-06-26T00:00:00+00:00"
+  "title": "C\u00f3digos de Benef\u00edcios Fiscais SP"
 }

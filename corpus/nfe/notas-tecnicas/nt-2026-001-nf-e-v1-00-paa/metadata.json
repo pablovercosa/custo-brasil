@@ -10,7 +10,7 @@
   },
   "converted_at_utc": "2026-06-25T20:20:43.525089+00:00",
   "original_filename": "NT_2026.001 - NF-e v1.00 - PAA.pdf",
-  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Técnicas/NT_2026.001 - NF-e v1.00 - PAA.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT_2026.001 - NF-e v1.00 - PAA.pdf",
   "original_sha256": "b1514106678d8f3617266f92d3eadf98b8f10c6a7f240804fc1a9508d32aa65c",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt-2026-001-nf-e-v1-00-paa/assets/",
@@ -21,7 +21,7 @@
   "source_family": "portal_nacional_nfe",
   "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
   "status": "published",
-  "title": "Controle de Versões",
+  "title": "Controle de Vers\u00f5es",
   "validation": {
     "asset_count": 23,
     "contains_base64_images": false,

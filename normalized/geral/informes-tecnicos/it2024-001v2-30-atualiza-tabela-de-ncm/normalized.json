@@ -12,7 +12,7 @@
   "source_family": "portal_nacional_nfe",
   "source_path": "sources/portal-nacional-nfe/informes-tecnicos/it2024-001v2-30-atualiza-tabela-de-ncm/source.json",
   "status": "published",
-  "title": "Sistema Nota Fiscal Eletrônica",
+  "title": "Sistema Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 8,
     "contains_base64_images": false,

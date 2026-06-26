@@ -1,5 +1,18 @@
 # nt-2017-002-v1-40-tabela-cfop
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `nt-2017-002-v1-40-tabela-cfop`.
+- Categoria: `nota_tecnica`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# nt-2017-002-v1-40-tabela-cfop
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `nt-2017-002-v1-40-tabela-cfop`.

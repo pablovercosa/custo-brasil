@@ -1,5 +1,18 @@
 # it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs`.
+- Categoria: `informe_tecnico`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs`.

@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt2020-005-v1-21-regras-de-valida-o"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "3ce019a6ea73083d65a86123faa5ecb5ec4e76a32dd143e732079862682d7468"
+converted_at_utc: "2026-06-25T15:58:37.630039+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_6daa97324876d6122a4ba0d1bd2d5adc8a09506fdc167875f390a1f41f484559.png)
 
 ![Image](assets/image_000001_2efc5748dc0f77ec9046671b1b2403431a28fb43c7d9c1abdfcd080623ee2006.png)

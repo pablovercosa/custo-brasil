@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt2012-001"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "8b1c5dedddb16db017ba4f85f2e9c5fa0e350dd4a3e6c814a2e8d22d5784559e"
+converted_at_utc: "2026-06-25T15:02:48.944679+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_75d3f6ddb229b1c1c190f5fa00db01cb8b4e9179cc4d970d788308e3748e029d.png)
 
 Nota Fiscal eletrônica Manual de Integração - Contribuinte

@@ -12,7 +12,7 @@
   "source_family": "portal_nacional_nfe",
   "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt2023-005-v1-02-evento-insucesso-entrega-nf-e/source.json",
   "status": "published",
-  "title": "Sistema Nota Fiscal Eletrônica",
+  "title": "Sistema Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 21,
     "contains_base64_images": false,

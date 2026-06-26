@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica do Gás"
+slug: "moc-nfgas-visaogeral-v1-00f"
+category: "manual"
+source_family: "portal_nacional_nfe"
+original_sha256: "867177b8e797a17704ff65b31a99df930054e97f40c9cd18e1a52ef943805c35"
+converted_at_utc: "2026-06-25T18:28:19.697142+00:00"
+status: "published"
+type: "manual"
+---
 ![Image](assets/image_000000_91110503bf2bc3286dd54a21b0db1cbdd371820c9eb37c10a6f0a4f740fdb9f0.png)
 
 ## Projeto Nota Fiscal Eletrônica do Gás

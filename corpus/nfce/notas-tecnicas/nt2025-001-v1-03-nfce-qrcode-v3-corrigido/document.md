@@ -1,3 +1,13 @@
+---
+title: "Sistema Nota Fiscal Eletrônica"
+slug: "nt2025-001-v1-03-nfce-qrcode-v3-corrigido"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "333b69f71debe5040585b677b574bb13b39362aa7934b904edc59cdf83cded02"
+converted_at_utc: "2026-06-25T17:10:26.648874+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_2ffa9829039706d346449576c0d43738b8d8cdaa1c5e943851e4608ba6e88ede.png)
 
 ![Image](assets/image_000001_5d52ff68d4dd82bac7a614536ed8068823bdcca291c40e090ec4b6d1069316d5.png)

@@ -1,3 +1,13 @@
+---
+title: "Projeto Reforma Tributária do Consumo"
+slug: "it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel"
+category: "informe_tecnico"
+source_family: "portal_nacional_nfe"
+original_sha256: "e8ba4b9a75bff57fec768d8a52afb8ccd6b31f1d595541f7dced37757163e1c5"
+converted_at_utc: "2026-06-25T20:43:40.568497+00:00"
+status: "published"
+type: "informe_tecnico"
+---
 IT 2025.004 v.1.10
 
 Versão 1.00

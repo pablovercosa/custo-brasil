@@ -1,7 +1,7 @@
 {
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
   "canonical_id": "aliquotas-cbs-2026",
-  "category": "geral",
+  "category": "tabela",
   "conversion": {
     "image_export_mode": "none",
     "output_format": "csv",
@@ -12,15 +12,15 @@
   "original_filename": "IT 2026.002 v.1.00 - Aliquotas da CBS.xlsx",
   "original_sha256": "33f17aa3322de841c7cb7bd469a2785d34cea34fadd0571e18bd8f7c88872f3b",
   "public_paths": {
-    "document": "corpus/geral/tabelas-federais/aliquotas-cbs-2026/document.md",
-    "metadata": "corpus/geral/tabelas-federais/aliquotas-cbs-2026/metadata.json",
-    "csv": "corpus/geral/tabelas-federais/aliquotas-cbs-2026/csv/"
+    "csv": "corpus/geral/tabelas-federais/aliquotas-cbs-2026/csv/",
+    "document": "corpus/geral/tabelas-federais/aliquotas-cbs-2026/README.md",
+    "metadata": "corpus/geral/tabelas-federais/aliquotas-cbs-2026/metadata.json"
   },
   "slug": "aliquotas-cbs-2026",
   "source_family": "portal_nacional_nfe",
   "source_url": "",
-  "status": "converted",
-  "title": "Alíquotas da CBS",
+  "status": "published",
+  "title": "Al\u00edquotas da CBS",
   "validation": {
     "asset_count": 0,
     "sheets": [

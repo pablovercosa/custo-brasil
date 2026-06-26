@@ -1,3 +1,13 @@
+---
+title: "Tabela NCM 2022"
+slug: "tabela-ncm-2022"
+category: "tabela"
+source_family: "portal_nacional_nfe"
+original_sha256: "b06ecddeb15e36688e6398c36f51ae29b7ef6dfc1eca765c1c37ee9416a64e7b"
+converted_at_utc: "2026-06-26T15:51:42.253159+00:00"
+status: "published"
+type: "tabular_data"
+---
 # Tabela NCM 2022
 
 ## Origem

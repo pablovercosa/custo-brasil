@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt2022-003v1-11-referenciamento"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "5eda1dbc0be00922e46972836fc81fa605772298ca6f80a96bac5210ba134e31"
+converted_at_utc: "2026-06-25T16:25:45.816641+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_8afe677f9dd113448e8dd3ae683f6aa665a8f4dcd640aad1ef968bf963da8286.png)
 
 ![Image](assets/image_000001_5dd5d5e16748c7abcded3a0035d3a12ebd8073cdc66cfc62ca495386dd8ab477.png)

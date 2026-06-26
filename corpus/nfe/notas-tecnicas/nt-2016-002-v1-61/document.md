@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt-2016-002-v1-61"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "4fa4bb19dbedf7653f00768ed418216395ba3fd5a9cf189f473688556d6987f0"
+converted_at_utc: "2026-06-25T18:48:14.390125+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_8d9a866ce70f1b9116ef30d9b144d8ad6b3ea40a87fc0900663545ded9c5bf15.png)
 
 ## Projeto Nota Fiscal Eletrônica

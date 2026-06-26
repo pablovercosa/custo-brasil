@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt2021-002-v1-12-nota-fiscal-f-cil"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "a67d9e70cff61bdf6a0913bb5c7ca6b30d82332c0204d443e4671a8dd293d64e"
+converted_at_utc: "2026-06-25T17:31:12.934687+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_5dafc6dacf339d0898419121ecc67593f84ea9eb3d4647b7115424647f35ede1.png)
 
 ![Image](assets/image_000001_50a623d04f8c785dc94fdb8146ee1eef52f663cae4e699b5f5fa55c29873090b.png)

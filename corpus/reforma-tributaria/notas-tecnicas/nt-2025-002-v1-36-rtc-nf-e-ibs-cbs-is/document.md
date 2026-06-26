@@ -1,3 +1,13 @@
+---
+title: "Reforma Tributária do Consumo -Adequações NF-e / NFC-e"
+slug: "nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "5a11a96dccb7ee0cc7c3f71f5b05863b9f2c2a0b77d64ab831381da5bbe317da"
+converted_at_utc: "2026-06-25T18:07:26.730536+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_2c2fdbc82621e294ed9458776366c243b1fbc618366357dd19c8553f37f7c57b.png)
 
 ![Image](assets/image_000001_cca4114012a700ed739c1e324a50c35ecd8cef09ece6ce6632205db557158d60.png)

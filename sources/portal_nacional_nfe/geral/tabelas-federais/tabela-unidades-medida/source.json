@@ -1,15 +1,16 @@
 {
-  "slug": "tabela-unidades-medida",
+  "category": "tabela",
   "corpus_category": "geral",
-  "source_family": "portal_nacional_nfe",
-  "source_url": "",
-  "original_sha256": "4bbee279990cfd9ba6be1038d4391e78c421e7d1e9388da738d0dec69344cb13",
-  "original_filename": "Tabela_Unidades_de_Medida_Comercial_05072016.xls",
-  "title": "Unidades de Medida",
-  "status": "published",
   "derived_public_files": {
     "metadata": "corpus/geral/tabelas-federais/tabela-unidades-medida/metadata.json",
     "readme": "corpus/geral/tabelas-federais/tabela-unidades-medida/README.md"
   },
-  "published_at": "2026-06-26T00:00:00+00:00"
+  "original_filename": "Tabela_Unidades_de_Medida_Comercial_05072016.xls",
+  "original_sha256": "4bbee279990cfd9ba6be1038d4391e78c421e7d1e9388da738d0dec69344cb13",
+  "published_at": "2026-06-26T00:00:00+00:00",
+  "slug": "tabela-unidades-medida",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "status": "published",
+  "title": "Unidades de Medida"
 }

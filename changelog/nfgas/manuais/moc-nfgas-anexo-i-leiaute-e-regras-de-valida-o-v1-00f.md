@@ -1,5 +1,18 @@
 # moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f`.
+- Categoria: `manual`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f`.

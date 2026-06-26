@@ -10,7 +10,7 @@
   },
   "converted_at_utc": "2026-06-25T15:48:55.902501+00:00",
   "original_filename": "NT2018.001_v1_10 - Emitente_CPF.pdf",
-  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Técnicas/NT2018.001_v1_10 - Emitente_CPF.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT2018.001_v1_10 - Emitente_CPF.pdf",
   "original_sha256": "68cddfe35273cbe0385497d5f2f6adca3b332c8da71dade66aa4836a936a14d1",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt2018-001-v1-10-emitente-cpf/assets/",
@@ -21,7 +21,7 @@
   "source_family": "portal_nacional_nfe",
   "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
   "status": "published",
-  "title": "Projeto Nota Fiscal Eletrônica",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 20,
     "contains_base64_images": false,

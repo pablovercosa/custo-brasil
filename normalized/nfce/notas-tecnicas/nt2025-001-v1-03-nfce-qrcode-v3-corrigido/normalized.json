@@ -12,7 +12,7 @@
   "source_family": "portal_nacional_nfe",
   "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt2025-001-v1-03-nfce-qrcode-v3-corrigido/source.json",
   "status": "published",
-  "title": "Sistema Nota Fiscal Eletrônica",
+  "title": "Sistema Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 11,
     "contains_base64_images": false,

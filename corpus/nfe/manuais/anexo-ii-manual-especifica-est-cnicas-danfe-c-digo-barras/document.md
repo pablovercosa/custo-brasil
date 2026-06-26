@@ -1,3 +1,13 @@
+---
+title: "Sistema Nota Fiscal Eletrônica"
+slug: "anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras"
+category: "manual"
+source_family: "portal_nacional_nfe"
+original_sha256: "729c04fd1374188c29eb21ca60342741b24a014003d4c2ff1bbb455bb1a6a60e"
+converted_at_utc: "2026-06-25T17:23:17.308783+00:00"
+status: "published"
+type: "manual"
+---
 ![Image](assets/image_000000_d86b67ef9063841d72b1bdaa4397ed28a1077d316e08e6f59b467768b3e04e62.png)
 
 ## Sistema Nota Fiscal Eletrônica

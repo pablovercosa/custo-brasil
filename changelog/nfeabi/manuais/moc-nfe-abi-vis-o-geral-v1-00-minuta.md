@@ -1,5 +1,18 @@
 # moc-nfe-abi-vis-o-geral-v1-00-minuta
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `moc-nfe-abi-vis-o-geral-v1-00-minuta`.
+- Categoria: `manual`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# moc-nfe-abi-vis-o-geral-v1-00-minuta
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `moc-nfe-abi-vis-o-geral-v1-00-minuta`.

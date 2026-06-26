@@ -1,15 +1,24 @@
 {
-  "slug": "cclass-trib-2026",
-  "corpus_category": "geral",
-  "source_family": "portal_nacional_nfe",
-  "status": "published",
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "cclass-trib-2026",
+  "category": "tabela",
   "document_path": "corpus/geral/tabelas-federais/cclass-trib-2026/README.md",
   "metadata_path": "corpus/geral/tabelas-federais/cclass-trib-2026/metadata.json",
-  "created_at": "2026-06-26T15:56:26.277720+00:00",
-  "updated_at": null,
-  "fields": null,
-  "rules": null,
-  "tables": null,
-  "validation": null,
-  "published_at": "2026-06-26T00:00:00+00:00"
+  "normalization_status": "manual_published",
+  "original_filename": "cClassTrib 2026_04_15.xlsx",
+  "original_sha256": "cc0242ed17ebf93e23ce892e3316850de2077fbc8cc7a82a54e0a553c045a71a",
+  "published_at_utc": "2026-06-26T15:51:38.766291+00:00",
+  "slug": "cclass-trib-2026",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal_nacional_nfe/geral/tabelas-federais/cclass-trib-2026/source.json",
+  "status": "published",
+  "title": "Classifica\u00e7\u00e3o Tribut\u00e1ria (cClassTrib)",
+  "validation": {
+    "asset_count": 0,
+    "sheets": [
+      "cClass 15-04-2026",
+      "CST 15-04-2026"
+    ],
+    "total_rows": 1157
+  }
 }

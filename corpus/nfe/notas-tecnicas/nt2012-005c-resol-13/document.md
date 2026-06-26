@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt2012-005c-resol-13"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "abbd99bb7624679484bf3d63e3cc81a71a39235d15361289c8cd49964c975163"
+converted_at_utc: "2026-06-25T15:03:09.141195+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_03ca96dd47c3c944f1e1f5e8116e5ec97276920c675b8587f83e37ae1cc6fe3d.png)
 
 ## Projeto Nota Fiscal Eletrônica

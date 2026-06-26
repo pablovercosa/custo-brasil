@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt2013-002-b2b-v1-00b"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "e7532810920ef074e1003d3bb2dcd6cebdeca51ec839ec6b001558880ddcb406"
+converted_at_utc: "2026-06-25T15:09:36.305626+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_29ce088f7b0be9100e51d6f6feab07a958b959809e0cf990dc387b6c7e7f3462.png)
 
 ## Projeto Nota Fiscal Eletrônica

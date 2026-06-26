@@ -1,3 +1,13 @@
+---
+title: "Sistema Nota Fiscal Eletrônica"
+slug: "nt-2021-001-v1-01-evento-comprovante-entrega-nfe"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "7a179b6af37e2cde32156ed30edf6d387447182daac2d06fe11687bc9b29be9b"
+converted_at_utc: "2026-06-25T16:13:03.531070+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_74d7dc7fbbeb8795d68605ce408032982b1d8e5e3cd6fd1529b1345ad23db09a.png)
 
 ## Sistema Nota Fiscal Eletrônica

@@ -1,3 +1,13 @@
+---
+title: "Sistema Nota Fiscal Eletrônica"
+slug: "anexo-iii-manual-de-conting-ncia-nf-e"
+category: "manual"
+source_family: "portal_nacional_nfe"
+original_sha256: "e1cfb9b6c5adc6a67062f66fd1699495fdec5dfdb93025768f87fe3782918dde"
+converted_at_utc: "2026-06-25T17:24:40.540665+00:00"
+status: "published"
+type: "manual"
+---
 ![Image](assets/image_000000_8443a42388208107c63034efcae387547c17f02bb82839f29632cc8d07cd4401.png)
 
 ## Sistema Nota Fiscal Eletrônica

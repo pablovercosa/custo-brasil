@@ -1,3 +1,13 @@
+---
+title: "1.  Conceito e Modelo Operacional da Contingência Off-line para NFC-e"
+slug: "manual-de-especificacoes-tecnicas-da-contingencia-off-line-versao-2-0"
+category: "manual"
+source_family: "portal_nacional_nfe"
+original_sha256: "5ff5c8fdc8a55ae91f2f6e7c29566a45ca7e3867c7b76877deb48911071cf06c"
+converted_at_utc: "2026-06-25T16:10:38.534665+00:00"
+status: "published"
+type: "manual"
+---
 ![Image](assets/image_000000_75b2f4c4210bcd206dd6471c28bdb2805e15fb9025d74b38f8be6844eb1edbd3.png)
 
 ![Image](assets/image_000001_4abb77f01f4bf7166dc05c8751d8ff165d4f8733ca361656639b1672600a4142.png)

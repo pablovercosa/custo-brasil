@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt2012-004-v1-2-nfce"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "782d0b48059b40acaf6c1cfa3d64de5605408d949b1ab29425a7c9dc6dc16a22"
+converted_at_utc: "2026-06-25T18:19:51.390009+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_85652b6dafdb005d7361389f9d125d29556ae83772265c9493d2225123b90582.png)
 
 ## Projeto Nota Fiscal Eletrônica

@@ -1,3 +1,13 @@
+---
+title: "CNPJ Alfanumérico -Atualizações"
+slug: "nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "5f24a25351e790692754b07bbefac42ac67e70167a62a7806395d880f56675be"
+converted_at_utc: "2026-06-25T15:54:53.242329+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_756af5b28522e39d582185de7860b058ad0d10e855f9e49ea90ca289a3a596f3.png)
 
 ![Image](assets/image_000001_929e5036105a5548862ca89ea1a8b5d03974f9b9e77128e8b70590711a5e4f54.png)

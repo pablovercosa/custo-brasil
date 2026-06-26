@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt-2008-004"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "ecf7d55133b6c29df329b8f965b105c3e996a3ad037513fd62cfb6b1f68c02bb"
+converted_at_utc: "2026-06-25T15:01:34.235671+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_fe6be84161521e88755b2fcf6266ac33af92377ba5aa975f460bc794e3ba9dba.png)
 
 ## Projeto Nota Fiscal Eletrônica

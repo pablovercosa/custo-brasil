@@ -1,7 +1,7 @@
 {
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
   "canonical_id": "manual-svan-anexo-ii",
-  "category": "nfe",
+  "category": "manual",
   "conversion": {
     "image_export_mode": "referenced",
     "output_format": "md",
@@ -12,14 +12,14 @@
   "original_filename": "Anexo II.doc",
   "original_sha256": "6f514b60d58c92e804da4b943bc31c06efd71cabe57a2dfca03a0d0e2b116c04",
   "public_paths": {
+    "assets": "corpus/nfe/manuais/manual-svan-anexo-ii/assets/",
     "document": "corpus/nfe/manuais/manual-svan-anexo-ii/document.md",
-    "metadata": "corpus/nfe/manuais/manual-svan-anexo-ii/metadata.json",
-    "assets": "corpus/nfe/manuais/manual-svan-anexo-ii/assets/"
+    "metadata": "corpus/nfe/manuais/manual-svan-anexo-ii/metadata.json"
   },
   "slug": "manual-svan-anexo-ii",
   "source_family": "portal_nacional_nfe",
   "source_url": "",
-  "status": "converted",
+  "status": "published",
   "title": "Manual SVAN - Anexo II",
   "validation": {
     "asset_count": 0,

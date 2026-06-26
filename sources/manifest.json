@@ -1,303 +1,1527 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-06-26T00:00:00+00:00",
+  "generated_at": "2026-06-25T19:21:03.658827+00:00",
   "documents": [
     {
+      "slug": "it-2023-001-v1-10-tabela-cprodanp",
+      "category": "informe_tecnico",
+      "subdir": "informes-tecnicos",
+      "family": "portal_nacional_nfe",
+      "title": "Sistema Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T20:43:20.243064+00:00"
+    },
+    {
+      "slug": "it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica",
+      "category": "informe_tecnico",
+      "subdir": "informes-tecnicos",
+      "family": "portal_nacional_nfe",
+      "title": "Sistema Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T20:42:59.884218+00:00"
+    },
+    {
+      "slug": "it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel",
+      "category": "informe_tecnico",
+      "subdir": "informes-tecnicos",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Reforma Tributária do Consumo",
+      "status": "published",
+      "published_at": "2026-06-25T20:43:40.568497+00:00"
+    },
+    {
+      "slug": "nt-2023-01-perguntas-e-respostas",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "NT 2023.01 -PERGUNTAS E RESPOSTAS Versão 22/05/2023",
+      "status": "published",
+      "published_at": "2026-06-25T15:10:30.771820+00:00"
+    },
+    {
+      "slug": "nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T18:14:14.247381+00:00"
+    },
+    {
+      "slug": "it2024-001v2-30-atualiza-tabela-de-ncm",
+      "category": "informe_tecnico",
+      "subdir": "informes-tecnicos",
+      "family": "portal_nacional_nfe",
+      "title": "Sistema Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T20:44:04.870707+00:00"
+    },
+    {
+      "slug": "it2025-001v1-00-atualiza-tabela-municipios",
+      "category": "informe_tecnico",
+      "subdir": "informes-tecnicos",
+      "family": "portal_nacional_nfe",
+      "title": "Sistema Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T20:41:53.448727+00:00"
+    },
+    {
+      "slug": "dfe-ntcj-2025-001-cnpj-alfa-v1-00",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Nota Técnica Conjunta CNPJ Alfanumérico",
+      "status": "published",
+      "published_at": "2026-06-25T17:00:25.799904+00:00"
+    },
+    {
       "slug": "aliquotas-cbs-2026",
-      "category": "geral",
+      "category": "tabela",
       "subdir": "tabelas-federais",
       "family": "portal_nacional_nfe",
-      "title": "Alíquotas da CBS 2026",
+      "title": "Alíquotas da CBS",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:51:40.884014+00:00"
     },
     {
       "slug": "cclass-trib-2026",
-      "category": "geral",
+      "category": "tabela",
       "subdir": "tabelas-federais",
       "family": "portal_nacional_nfe",
-      "title": "Classificação Tributária 2026",
+      "title": "Classificação Tributária (cClassTrib)",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:51:38.766291+00:00"
     },
     {
       "slug": "ccredpres-2025",
-      "category": "geral",
+      "category": "tabela",
       "subdir": "tabelas-federais",
       "family": "portal_nacional_nfe",
-      "title": "Crédito Presumido 2025",
+      "title": "Crédito Presumido (cCredPres)",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:51:38.780751+00:00"
     },
     {
       "slug": "indice-mistura-biocombustivel",
-      "category": "geral",
+      "category": "tabela",
       "subdir": "tabelas-federais",
       "family": "portal_nacional_nfe",
       "title": "Índice de Mistura de Biocombustível",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:51:42.273777+00:00"
     },
     {
       "slug": "prefixo-gs1",
-      "category": "geral",
+      "category": "tabela",
       "subdir": "tabelas-federais",
       "family": "portal_nacional_nfe",
       "title": "Prefixo GS1",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:50:44.187079+00:00"
     },
     {
       "slug": "tabela-bandeiras-cartao",
-      "category": "geral",
+      "category": "tabela",
       "subdir": "tabelas-federais",
       "family": "portal_nacional_nfe",
       "title": "Bandeiras de Cartão de Crédito/Débito",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:51:40.941917+00:00"
     },
     {
       "slug": "tabela-cclass",
-      "category": "geral",
+      "category": "tabela",
       "subdir": "tabelas-federais",
       "family": "portal_nacional_nfe",
-      "title": "Código de Classificação",
+      "title": "Tabela cClass",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:51:40.902774+00:00"
     },
     {
       "slug": "tabela-cfop-2023",
-      "category": "geral",
+      "category": "tabela",
       "subdir": "tabelas-federais",
       "family": "portal_nacional_nfe",
-      "title": "Tabela CFOP 2023",
+      "title": "Tabela CFOP",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:51:40.876985+00:00"
     },
     {
       "slug": "tabela-combustiveis-monofasica",
-      "category": "geral",
+      "category": "tabela",
       "subdir": "tabelas-federais",
       "family": "portal_nacional_nfe",
-      "title": "Combustíveis Monofásica",
+      "title": "Combustíveis - Tributação Monofásica",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:52:06.606032+00:00"
     },
     {
       "slug": "tabela-cprodanp",
-      "category": "geral",
+      "category": "tabela",
       "subdir": "tabelas-federais",
       "family": "portal_nacional_nfe",
-      "title": "Código Produto ANP",
+      "title": "Código de Produto ANP",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:51:40.934020+00:00"
     },
     {
       "slug": "tabela-fcp-uf-2025",
-      "category": "geral",
+      "category": "tabela",
       "subdir": "tabelas-federais",
       "family": "portal_nacional_nfe",
-      "title": "Alíquotas FCP por UF 2025",
+      "title": "Alíquotas FCP por UF",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:51:40.894816+00:00"
     },
     {
       "slug": "tabela-lista-servicos",
-      "category": "geral",
+      "category": "tabela",
       "subdir": "tabelas-federais",
       "family": "portal_nacional_nfe",
       "title": "Lista de Serviços",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:51:40.963471+00:00"
     },
     {
       "slug": "tabela-meios-pagamento",
-      "category": "geral",
+      "category": "tabela",
       "subdir": "tabelas-federais",
       "family": "portal_nacional_nfe",
       "title": "Meios de Pagamento",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:51:41.047981+00:00"
     },
     {
       "slug": "tabela-municipios",
-      "category": "geral",
+      "category": "tabela",
       "subdir": "tabelas-federais",
       "family": "portal_nacional_nfe",
       "title": "Tabela de Municípios",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:51:38.574849+00:00"
     },
     {
       "slug": "tabela-ncm-2022",
-      "category": "geral",
+      "category": "tabela",
       "subdir": "tabelas-federais",
       "family": "portal_nacional_nfe",
       "title": "Tabela NCM 2022",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:51:42.253159+00:00"
     },
     {
       "slug": "tabela-nfeabi-v2",
-      "category": "geral",
+      "category": "tabela",
       "subdir": "tabelas-federais",
       "family": "portal_nacional_nfe",
       "title": "Códigos NFe ABI v2.00",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:51:41.033797+00:00"
     },
     {
       "slug": "tabela-paises",
-      "category": "geral",
+      "category": "tabela",
       "subdir": "tabelas-federais",
       "family": "portal_nacional_nfe",
       "title": "Tabela de Países",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:51:41.588165+00:00"
     },
     {
       "slug": "tabela-regimes-especiais",
-      "category": "geral",
+      "category": "tabela",
       "subdir": "tabelas-federais",
       "family": "portal_nacional_nfe",
       "title": "Padrões de Regime Especial",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:51:41.053800+00:00"
     },
     {
       "slug": "tabela-tipos-veiculo",
-      "category": "geral",
+      "category": "tabela",
       "subdir": "tabelas-federais",
       "family": "portal_nacional_nfe",
       "title": "Tipo e Espécie de Veículo",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:51:41.597803+00:00"
     },
     {
       "slug": "tabela-unidades-medida",
-      "category": "geral",
+      "category": "tabela",
       "subdir": "tabelas-federais",
       "family": "portal_nacional_nfe",
-      "title": "Unidades de Medida",
+      "title": "Unidades de Medida Comercial",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:51:42.264848+00:00"
+    },
+    {
+      "slug": "moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k",
+      "category": "manual",
+      "subdir": "manuais",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal de Água e Saneamento Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T17:43:14.376121+00:00"
+    },
+    {
+      "slug": "moc-nfag-anexo-ii-danfag-v1-01",
+      "category": "manual",
+      "subdir": "manuais",
+      "family": "portal_nacional_nfe",
+      "title": "Controle de Versões",
+      "status": "published",
+      "published_at": "2026-06-25T19:30:09.837089+00:00"
+    },
+    {
+      "slug": "moc-nfag-visaogeral-v1-00k",
+      "category": "manual",
+      "subdir": "manuais",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal de Água e Saneamento Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T19:06:18.645000+00:00"
+    },
+    {
+      "slug": "it-2025-003-altera-o-endere-o-qrcode-nfc-e-go",
+      "category": "informe_tecnico",
+      "subdir": "informes-tecnicos",
+      "family": "portal_nacional_nfe",
+      "title": "Nota Fiscal de Consumidor Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T20:44:53.350585+00:00"
+    },
+    {
+      "slug": "20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code",
+      "category": "manual",
+      "subdir": "manuais",
+      "family": "portal_nacional_nfe",
+      "title": "CONTROLE DE VERSÕES",
+      "status": "published",
+      "published_at": "2026-06-25T18:31:12.793996+00:00"
+    },
+    {
+      "slug": "anexo-iv-manual-de-conting-ncia-nfc-e",
+      "category": "manual",
+      "subdir": "manuais",
+      "family": "portal_nacional_nfe",
+      "title": "Sistema Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T16:53:10.362154+00:00"
+    },
+    {
+      "slug": "manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0",
+      "category": "manual",
+      "subdir": "manuais",
+      "family": "portal_nacional_nfe",
+      "title": "CONTROLE DE VERSÕES",
+      "status": "published",
+      "published_at": "2026-06-25T15:49:46.348710+00:00"
+    },
+    {
+      "slug": "manual-de-especificacoes-tecnicas-da-contingencia-off-line-versao-2-0",
+      "category": "manual",
+      "subdir": "manuais",
+      "family": "portal_nacional_nfe",
+      "title": "1.  Conceito e Modelo Operacional da Contingência Off-line para NFC-e",
+      "status": "published",
+      "published_at": "2026-06-25T16:10:38.534665+00:00"
+    },
+    {
+      "slug": "nt-2018-004-cancelamento-por-substitui-o-da-nfc-e",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T16:30:51.026763+00:00"
+    },
+    {
+      "slug": "nt-nfce-2014-001",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal de Consumidor Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:35:07.918932+00:00"
+    },
+    {
+      "slug": "nt2012-004-v1-2-nfce",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T18:19:51.390009+00:00"
+    },
+    {
+      "slug": "nt2014-003-v1-02",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:12:32.853018+00:00"
+    },
+    {
+      "slug": "nt2023-002-v1-01-emitente-cpf-nfce",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:44:38.995556+00:00"
+    },
+    {
+      "slug": "nt2023-003-v1-20-altera-rv-cfop-nfc-e",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T16:09:17.946136+00:00"
+    },
+    {
+      "slug": "nt2025-001-v1-03-nfce-qrcode-v3-corrigido",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Sistema Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T17:10:26.648874+00:00"
     },
     {
       "slug": "edital-transacao-pgdf",
-      "category": "nfe",
+      "category": "cbenef",
       "subdir": "Estado de DF",
       "family": "sefaz_df",
-      "title": "Edital de Transação PGDF",
+      "title": "Edital de Transação PGDF SEEC nº 2 2025",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:56:24.768619+00:00"
     },
     {
       "slug": "cbenef-es",
-      "category": "nfe",
+      "category": "cbenef",
       "subdir": "Estado de ES",
       "family": "portal_nacional_nfe",
-      "title": "cBenef ES V6",
+      "title": "cBenef Espírito Santo",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:51:42.831718+00:00"
     },
     {
       "slug": "cbenef-go-html",
-      "category": "nfe",
+      "category": "cbenef",
       "subdir": "Estado de GO",
       "family": "sefaz_go",
-      "title": "Códigos de Benefícios Fiscais GO",
+      "title": "Códigos de Benefícios Fiscais – Secretaria da Economia",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:56:25.480226+00:00"
     },
     {
       "slug": "cbenef-pr-html",
-      "category": "nfe",
+      "category": "cbenef",
       "subdir": "Estado de PR",
       "family": "sefaz_pr",
-      "title": "Código de Benefício Fiscal PR",
+      "title": "CÓDIGO DE BENEFÍCIO FISCAL   Sistema Público de Escrituração Digital",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:56:26.276494+00:00"
     },
     {
       "slug": "cbenef-rj-html",
-      "category": "nfe",
+      "category": "cbenef",
       "subdir": "Estado de RJ",
       "family": "sefaz_rj",
-      "title": "Benefícios Fiscais RJ",
+      "title": "Benefícios Fiscais – Documento Fiscal Eletrônico - Secretaria de Estado de Fazenda do Rio de Ja",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:56:25.035222+00:00"
     },
     {
       "slug": "cbenef-rs",
-      "category": "nfe",
+      "category": "cbenef",
       "subdir": "Estado de RS",
       "family": "portal_nacional_nfe",
-      "title": "cBenef RS",
+      "title": "cBenef Rio Grande do Sul",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:51:43.001065+00:00"
     },
     {
       "slug": "validacoes-cbenef-rs",
-      "category": "nfe",
+      "category": "cbenef",
       "subdir": "Estado de RS",
       "family": "portal_nacional_nfe",
-      "title": "Validações cBenef RS",
+      "title": "Validações cBenef Rio Grande do Sul",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:51:43.123370+00:00"
     },
     {
       "slug": "cbenef-sp",
-      "category": "nfe",
+      "category": "cbenef",
       "subdir": "Estado de SP",
       "family": "portal_nacional_nfe",
-      "title": "cBenef SP",
+      "title": "cBenef São Paulo",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:51:42.341488+00:00"
     },
     {
       "slug": "cbenef-sp-html",
-      "category": "nfe",
+      "category": "cbenef",
       "subdir": "Estado de SP",
       "family": "sefaz_sp",
-      "title": "Códigos de Benefícios Fiscais SP",
+      "title": "Páginas - Códigos de Benefícios Fiscais - cBenef",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:56:20.727870+00:00"
     },
     {
       "slug": "cbenef-sp-ods",
-      "category": "nfe",
+      "category": "cbenef",
       "subdir": "Estado de SP",
       "family": "portal_nacional_nfe",
-      "title": "cBenef SP (ODS)",
+      "title": "cBenef São Paulo (ODS)",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:51:42.761213+00:00"
+    },
+    {
+      "slug": "it2023-002v1-00-tabela-cfop-11-04-2023",
+      "category": "informe_tecnico",
+      "subdir": "informes-tecnicos",
+      "family": "portal_nacional_nfe",
+      "title": "Sistema Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T20:42:33.762797+00:00"
+    },
+    {
+      "slug": "it2023-004v1-03-atualiza-fcp",
+      "category": "informe_tecnico",
+      "subdir": "informes-tecnicos",
+      "family": "portal_nacional_nfe",
+      "title": "Sistema Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T20:42:13.606445+00:00"
+    },
+    {
+      "slug": "it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026",
+      "category": "informe_tecnico",
+      "subdir": "informes-tecnicos",
+      "family": "portal_nacional_nfe",
+      "title": "Sistema Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T20:44:27.185656+00:00"
+    },
+    {
+      "slug": "anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e",
+      "category": "manual",
+      "subdir": "manuais",
+      "family": "portal_nacional_nfe",
+      "title": "Sistema Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T20:00:33.016115+00:00"
+    },
+    {
+      "slug": "anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras",
+      "category": "manual",
+      "subdir": "manuais",
+      "family": "portal_nacional_nfe",
+      "title": "Sistema Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T17:23:17.308783+00:00"
+    },
+    {
+      "slug": "anexo-iii-manual-de-conting-ncia-nf-e",
+      "category": "manual",
+      "subdir": "manuais",
+      "family": "portal_nacional_nfe",
+      "title": "Sistema Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T17:24:40.540665+00:00"
+    },
+    {
+      "slug": "manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e",
+      "category": "manual",
+      "subdir": "manuais",
+      "family": "portal_nacional_nfe",
+      "title": "Sistema Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T20:18:24.495650+00:00"
+    },
+    {
+      "slug": "manual-emissor-nfe",
+      "category": "manual",
+      "subdir": "manuais",
+      "family": "portal_nacional_nfe",
+      "title": "Emissor de Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:08:56.120829+00:00"
     },
     {
       "slug": "manual-svan-anexo-i",
-      "category": "nfe",
+      "category": "manual",
       "subdir": "manuais",
       "family": "portal_nacional_nfe",
-      "title": "Manual SVAN Anexo I",
+      "title": "Manual SVAN - Anexo I",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:51:44.213295+00:00"
     },
     {
       "slug": "manual-svan-anexo-ii",
-      "category": "nfe",
+      "category": "manual",
       "subdir": "manuais",
       "family": "portal_nacional_nfe",
-      "title": "Manual SVAN Anexo II",
+      "title": "Manual SVAN - Anexo II",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:51:44.796377+00:00"
     },
     {
       "slug": "manual-svan-v1-00",
-      "category": "nfe",
+      "category": "manual",
       "subdir": "manuais",
       "family": "portal_nacional_nfe",
-      "title": "Manual SVAN v1.00",
+      "title": "Manual SEFAZ Virtual para Empresas",
       "status": "published",
-      "published_at": "2026-06-26T00:00:00+00:00"
+      "published_at": "2026-06-26T15:51:43.776024+00:00"
+    },
+    {
+      "slug": "manual-usuarios-svrs",
+      "category": "manual",
+      "subdir": "manuais",
+      "family": "portal_nacional_nfe",
+      "title": "- Manual Credenciamento como Emissor de Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:27:02.761597+00:00"
+    },
+    {
+      "slug": "manualcontingencia",
+      "category": "manual",
+      "subdir": "manuais",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T19:34:17.328581+00:00"
+    },
+    {
+      "slug": "nt-2007-001",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T14:55:03.434282+00:00"
+    },
+    {
+      "slug": "nt-2007-002",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:01:13.982268+00:00"
+    },
+    {
+      "slug": "nt-2007-003",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:03:39.413591+00:00"
+    },
+    {
+      "slug": "nt-2007-004",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T14:51:08.329682+00:00"
+    },
+    {
+      "slug": "nt-2007-007",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T14:52:45.727414+00:00"
+    },
+    {
+      "slug": "nt-2007-008",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:29:49.842809+00:00"
+    },
+    {
+      "slug": "nt-2007-009",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T14:57:38.997257+00:00"
+    },
+    {
+      "slug": "nt-2008-001",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T14:52:58.324636+00:00"
+    },
+    {
+      "slug": "nt-2008-003",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T14:54:45.274312+00:00"
+    },
+    {
+      "slug": "nt-2008-004",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:01:34.235671+00:00"
+    },
+    {
+      "slug": "nt-2008-005",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T14:53:38.608460+00:00"
+    },
+    {
+      "slug": "nt-2008-006",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:07:47.894623+00:00"
+    },
+    {
+      "slug": "nt-2009-003",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T14:56:26.177866+00:00"
+    },
+    {
+      "slug": "nt-2012-002",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:33:29.054870+00:00"
+    },
+    {
+      "slug": "nt-2013-007-v1-03-svc",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Sistema Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T16:54:11.310052+00:00"
+    },
+    {
+      "slug": "nt-2014-001-v1-30-evento-epec",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T16:58:54.983211+00:00"
+    },
+    {
+      "slug": "nt-2015-001-v-1-30",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T19:27:21.883056+00:00"
+    },
+    {
+      "slug": "nt-2015-002-v141-23-08-2016",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T17:16:53.355939+00:00"
+    },
+    {
+      "slug": "nt-2015-003-v194",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T17:34:03.614832+00:00"
+    },
+    {
+      "slug": "nt-2016-002-v1-61",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T18:48:14.390125+00:00"
+    },
+    {
+      "slug": "nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:45:09.283230+00:00"
+    },
+    {
+      "slug": "nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:52:50.959971+00:00"
+    },
+    {
+      "slug": "nt-2017-001-v1-50",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T16:34:41.846160+00:00"
+    },
+    {
+      "slug": "nt-2017-002-v1-40-tabela-cfop",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T16:46:44.927587+00:00"
+    },
+    {
+      "slug": "nt-2018-002-v1-00",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:27:41.624740+00:00"
+    },
+    {
+      "slug": "nt-2018-003-v1-01-tabela-de-pa-ses",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:09:54.578267+00:00"
+    },
+    {
+      "slug": "nt-2020-001-v1-60-manifesta-o-do-destinat-rio",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T17:08:41.813769+00:00"
+    },
+    {
+      "slug": "nt-2021-001-v1-01-evento-comprovante-entrega-nfe",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Sistema Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T16:13:03.531070+00:00"
+    },
+    {
+      "slug": "nt-2024-003-produtos-agro-nf-e-v-1-10-rev",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:46:41.464919+00:00"
+    },
+    {
+      "slug": "nt-2026-001-nf-e-v1-00-paa",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Controle de Versões",
+      "status": "published",
+      "published_at": "2026-06-25T20:20:43.525089+00:00"
+    },
+    {
+      "slug": "nt-2026-002-v1-00",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Controle de Versões",
+      "status": "published",
+      "published_at": "2026-06-25T16:37:36.616122+00:00"
+    },
+    {
+      "slug": "nt-2026-003-v1-00-danfe-simplificado-tipo-2",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "DANFE Simplificado Tipo 2",
+      "status": "published",
+      "published_at": "2026-06-25T17:45:21.201069+00:00"
+    },
+    {
+      "slug": "nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "CNPJ Alfanumérico -Atualizações",
+      "status": "published",
+      "published_at": "2026-06-25T15:54:53.242329+00:00"
+    },
+    {
+      "slug": "nt2007-005",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:40:13.074795+00:00"
+    },
+    {
+      "slug": "nt2007-006",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T14:58:07.208738+00:00"
+    },
+    {
+      "slug": "nt2008-002",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T14:57:12.720361+00:00"
+    },
+    {
+      "slug": "nt2009-001",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T14:53:16.478814+00:00"
+    },
+    {
+      "slug": "nt2009-002",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T14:51:44.950298+00:00"
+    },
+    {
+      "slug": "nt2009-004",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T14:54:25.066514+00:00"
+    },
+    {
+      "slug": "nt2009-005",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T16:06:46.176316+00:00"
+    },
+    {
+      "slug": "nt2009-006",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T16:22:56.193702+00:00"
+    },
+    {
+      "slug": "nt2010-001",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:02:12.507066+00:00"
+    },
+    {
+      "slug": "nt2010-002",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T14:51:28.690644+00:00"
+    },
+    {
+      "slug": "nt2010-003",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:15:09.775253+00:00"
+    },
+    {
+      "slug": "nt2010-004",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:13:51.338107+00:00"
+    },
+    {
+      "slug": "nt2010-005",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T14:52:03.150571+00:00"
+    },
+    {
+      "slug": "nt2010-006",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:04:07.723577+00:00"
+    },
+    {
+      "slug": "nt2010-007",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T14:55:55.967854+00:00"
+    },
+    {
+      "slug": "nt2010-008",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:19:54.737622+00:00"
+    },
+    {
+      "slug": "nt2010-009",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T14:50:20.112871+00:00"
+    },
+    {
+      "slug": "nt2010-010",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:17:34.318993+00:00"
+    },
+    {
+      "slug": "nt2011-001",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T14:50:44.499894+00:00"
+    },
+    {
+      "slug": "nt2011-002",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T14:55:29.654339+00:00"
+    },
+    {
+      "slug": "nt2011-003",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:22:29.285696+00:00"
+    },
+    {
+      "slug": "nt2011-004",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:25:44.298914+00:00"
+    },
+    {
+      "slug": "nt2011-005",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T14:54:06.827178+00:00"
+    },
+    {
+      "slug": "nt2011-006c-evento-cancelamento",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:06:44.762482+00:00"
+    },
+    {
+      "slug": "nt2011-007",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Nota Tecnica 2011/007 - Prazo do Cancelamento da Nota Fiscal Eletronica",
+      "status": "published",
+      "published_at": "2026-06-25T14:55:07.000000+00:00"
+    },
+    {
+      "slug": "nt2012-001",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:02:48.944679+00:00"
+    },
+    {
+      "slug": "nt2012-003d",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:00:15.457939+00:00"
+    },
+    {
+      "slug": "nt2012-005c-resol-13",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:03:09.141195+00:00"
+    },
+    {
+      "slug": "nt2013-001-manifestacao-combustivel",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:00:47.754132+00:00"
+    },
+    {
+      "slug": "nt2013-002-b2b-v1-00b",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:09:36.305626+00:00"
+    },
+    {
+      "slug": "nt2013-003-v1-00a-lei-transparencia",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:07:31.227144+00:00"
+    },
+    {
+      "slug": "nt2013-004-v1-00-resol-13",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:02:32.731192+00:00"
+    },
+    {
+      "slug": "nt2013-005-v1-22",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T20:41:33.450210+00:00"
+    },
+    {
+      "slug": "nt2013-006-v1-00-resol-13-fci",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:05:00.372583+00:00"
+    },
+    {
+      "slug": "nt2013-008-v1-00-cancelamento-nfe",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:04:32.157794+00:00"
+    },
+    {
+      "slug": "nt2014-002-v1-30-wsnfedistribuicaodfe",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T16:56:24.139954+00:00"
+    },
+    {
+      "slug": "nt2014-004-v1-10-ncm-pais-fuso-evento",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica - NF-e",
+      "status": "published",
+      "published_at": "2026-06-25T16:09:50.175690+00:00"
+    },
+    {
+      "slug": "nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T14:52:33.319707+00:00"
+    },
+    {
+      "slug": "nt2018-001-v1-10-emitente-cpf",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:48:55.902501+00:00"
+    },
+    {
+      "slug": "nt2018-005-v1-52-alteracaodeleiautenf-enfc",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T16:45:26.356565+00:00"
+    },
+    {
+      "slug": "nt2019-001-v1-70-regras-de-valida-o",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Sistema Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T16:41:39.698049+00:00"
+    },
+    {
+      "slug": "nt2020-002v-1-01-espec-fica-para-ipi",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T16:08:33.389283+00:00"
+    },
+    {
+      "slug": "nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Sistema Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:40:55.811669+00:00"
+    },
+    {
+      "slug": "nt2020-004-danfe-simplificado-v1-10",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Sistema Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:22:59.748274+00:00"
+    },
+    {
+      "slug": "nt2020-005-v1-21-regras-de-valida-o",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:58:37.630039+00:00"
+    },
+    {
+      "slug": "nt2020-006-v1-31-intermediador-e-marketplace",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T16:24:15.493579+00:00"
+    },
+    {
+      "slug": "nt2020-007-v1-40-evento-ator-nfe-transportador",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Sistema Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:51:50.790636+00:00"
+    },
+    {
+      "slug": "nt2021-002-v1-12-nota-fiscal-f-cil",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T17:31:12.934687+00:00"
+    },
+    {
+      "slug": "nt2021-003-v1-40-valida-o-gtin-grupo-iv",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Sistema Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T17:06:36.591784+00:00"
+    },
+    {
+      "slug": "nt2021-004v1-35-novos-campos-e-regras",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T16:52:09.975861+00:00"
+    },
+    {
+      "slug": "nt2022-001-v1-00-ws-consulta-gtin",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Sistema Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T16:29:14.576141+00:00"
+    },
+    {
+      "slug": "nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T16:49:55.429098+00:00"
+    },
+    {
+      "slug": "nt2022-003v1-11-referenciamento",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T16:25:45.816641+00:00"
+    },
+    {
+      "slug": "nt2022-004-v1-10-regras-de-valida-o-issqn",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Sistema Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:33:57.727441+00:00"
+    },
+    {
+      "slug": "nt2022-005-v1-11-difal",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Sistema Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:36:00.323632+00:00"
+    },
+    {
+      "slug": "nt2023-004-v1-20-campos-e-regras",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Sistema Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T16:33:13.364631+00:00"
+    },
+    {
+      "slug": "nt2023-005-v1-02-evento-insucesso-entrega-nf-e",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Sistema Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T15:43:46.524758+00:00"
+    },
+    {
+      "slug": "nt2024-001-v1-20",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T17:18:34.656967+00:00"
+    },
+    {
+      "slug": "nt2024-002-v1-00-econf",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Sistema Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T16:28:02.165522+00:00"
+    },
+    {
+      "slug": "moc-nfe-abi-vis-o-geral-v1-00-minuta",
+      "category": "manual",
+      "subdir": "manuais",
+      "family": "portal_nacional_nfe",
+      "title": "Sistema Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T17:28:42.202158+00:00"
+    },
+    {
+      "slug": "moc-nfeabi-anexo-i-leiaute-e-rv-v2-00",
+      "category": "manual",
+      "subdir": "manuais",
+      "family": "portal_nacional_nfe",
+      "title": "Sistema Nota Fiscal Eletrônica",
+      "status": "published",
+      "published_at": "2026-06-25T18:38:14.911759+00:00"
+    },
+    {
+      "slug": "moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f",
+      "category": "manual",
+      "subdir": "manuais",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica do Gás",
+      "status": "published",
+      "published_at": "2026-06-25T17:56:10.924642+00:00"
+    },
+    {
+      "slug": "moc-nfgas-anexo-ii-danfgas-v1-00",
+      "category": "manual",
+      "subdir": "manuais",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica do Gás",
+      "status": "published",
+      "published_at": "2026-06-25T18:21:38.186957+00:00"
+    },
+    {
+      "slug": "moc-nfgas-visaogeral-v1-00f",
+      "category": "manual",
+      "subdir": "manuais",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Nota Fiscal Eletrônica do Gás",
+      "status": "published",
+      "published_at": "2026-06-25T18:28:19.697142+00:00"
+    },
+    {
+      "slug": "it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15",
+      "category": "informe_tecnico",
+      "subdir": "informes-tecnicos",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Reforma Tributária do Consumo",
+      "status": "published",
+      "published_at": "2026-06-25T20:46:20.717379+00:00"
+    },
+    {
+      "slug": "it-2026-001-v-1-00-tabelas-de-meios-de-pagamento-para-vincula-o-com-o-split",
+      "category": "informe_tecnico",
+      "subdir": "informes-tecnicos",
+      "family": "portal_nacional_nfe",
+      "title": "Reforma Tributária do Consumo",
+      "status": "published",
+      "published_at": "2026-06-25T20:45:38.328633+00:00"
+    },
+    {
+      "slug": "it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs",
+      "category": "informe_tecnico",
+      "subdir": "informes-tecnicos",
+      "family": "portal_nacional_nfe",
+      "title": "Projeto Reforma Tributária do Consumo",
+      "status": "published",
+      "published_at": "2026-06-25T20:45:17.707909+00:00"
+    },
+    {
+      "slug": "nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Reforma Tributária do Consumo -Adequações NF-e / NFC-e",
+      "status": "published",
+      "published_at": "2026-06-25T18:07:26.730536+00:00"
+    },
+    {
+      "slug": "nt-2025-002-v1-40-rtc-nf-e-ibs-cbs-is-final",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Reforma Tributária do Consumo -Adequações NF-e / NFC-e",
+      "status": "published",
+      "published_at": "2026-06-25T19:00:44.548346+00:00"
+    },
+    {
+      "slug": "nt-2025-002-v1-50-rtc-nf-e-ibs-cbs-is",
+      "category": "nota_tecnica",
+      "subdir": "notas-tecnicas",
+      "family": "portal_nacional_nfe",
+      "title": "Reforma Tributária do Consumo -Adequações NF-e / NFC-e",
+      "status": "published",
+      "published_at": "2026-06-25T19:21:03.658827+00:00"
     }
   ],
   "schemas": {

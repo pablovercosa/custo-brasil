@@ -1,15 +1,25 @@
 {
-  "slug": "tabela-cfop-2023",
-  "corpus_category": "geral",
-  "source_family": "portal_nacional_nfe",
-  "status": "published",
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "tabela-cfop-2023",
+  "category": "tabela",
   "document_path": "corpus/geral/tabelas-federais/tabela-cfop-2023/README.md",
   "metadata_path": "corpus/geral/tabelas-federais/tabela-cfop-2023/metadata.json",
-  "created_at": "2026-06-26T15:56:26.279466+00:00",
-  "updated_at": null,
-  "fields": null,
-  "rules": null,
-  "tables": null,
-  "validation": null,
-  "published_at": "2026-06-26T00:00:00+00:00"
+  "normalization_status": "manual_published",
+  "original_filename": "IT 2023.002-v1.00_Tabela_CFOP_Vig\u00eancia_20230424.xlsx",
+  "original_sha256": "b9dfd271a4f11816df525cfde3818e1d7561ab951d5649f3654bda303041d02a",
+  "published_at_utc": "2026-06-26T15:51:40.876985+00:00",
+  "slug": "tabela-cfop-2023",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal_nacional_nfe/geral/tabelas-federais/tabela-cfop-2023/source.json",
+  "status": "published",
+  "title": "Tabela CFOP",
+  "validation": {
+    "asset_count": 0,
+    "sheets": [
+      "CFOP",
+      "Plan2",
+      "Plan3"
+    ],
+    "total_rows": 622
+  }
 }

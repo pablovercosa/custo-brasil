@@ -1,3 +1,13 @@
+---
+title: "Páginas - Códigos de Benefícios Fiscais - cBenef"
+slug: "cbenef-sp-html"
+category: "cbenef"
+source_family: "sefaz_sp"
+original_sha256: "8f93aee658fa0648a3fb43119143b74e26a39e0424f30816813bcf290d7d3c10"
+converted_at_utc: "2026-06-26T15:56:20.727870+00:00"
+status: "published"
+type: "tax_benefit_table"
+---
 ::: aspNetHidden
 :::
 

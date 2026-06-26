@@ -1,3 +1,13 @@
+---
+title: "Sistema Nota Fiscal Eletrônica"
+slug: "moc-nfeabi-anexo-i-leiaute-e-rv-v2-00"
+category: "manual"
+source_family: "portal_nacional_nfe"
+original_sha256: "df4766455ab4119cbe9cf37c98f66084b6e21bd6e2a787affd1db941df763d80"
+converted_at_utc: "2026-06-25T18:38:14.911759+00:00"
+status: "published"
+type: "manual"
+---
 ![Image](assets/image_000000_e9702de4a65d4d6a9840853a44d20fe534506297b05600242359dad2c3463dd6.png)
 
 ## Sistema Nota Fiscal Eletrônica

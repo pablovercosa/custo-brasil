@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica"
+slug: "nt2011-006c-evento-cancelamento"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "d5488798a25b76b04038af7e6dd7cd8c766426a1a9601cab76d1280da7a0b0f1"
+converted_at_utc: "2026-06-25T15:06:44.762482+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_aa77a73dce736579763dabfa681af2bd92b9bd9e1e4d45804be1c704cbe49cc5.png)
 
 ## Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica

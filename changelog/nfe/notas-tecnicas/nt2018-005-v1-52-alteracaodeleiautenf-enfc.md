@@ -1,5 +1,18 @@
 # nt2018-005-v1-52-alteracaodeleiautenf-enfc
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `nt2018-005-v1-52-alteracaodeleiautenf-enfc`.
+- Categoria: `nota_tecnica`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# nt2018-005-v1-52-alteracaodeleiautenf-enfc
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `nt2018-005-v1-52-alteracaodeleiautenf-enfc`.

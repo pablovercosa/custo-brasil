@@ -1,3 +1,13 @@
+---
+title: "Sistema Nota Fiscal Eletrônica"
+slug: "it2023-002v1-00-tabela-cfop-11-04-2023"
+category: "informe_tecnico"
+source_family: "portal_nacional_nfe"
+original_sha256: "192525497bff47523505cafc9e70424b2cad8e1313f9e22d57f61b810dd7c4d3"
+converted_at_utc: "2026-06-25T20:42:33.762797+00:00"
+status: "published"
+type: "informe_tecnico"
+---
 ![Image](assets/image_000000_f4fe5a9b76c8defab871426be314dc2f911cb40812e313304fe06f9fc9315b02.png)
 
 ![Image](assets/image_000001_da1946a487b8e6731b1473267258bb83090aee84ab0c4bd6c7280208f9a55f4f.png)

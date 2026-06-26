@@ -10,7 +10,7 @@
   },
   "converted_at_utc": "2026-06-25T14:54:06.827178+00:00",
   "original_filename": "NT2011.005.pdf",
-  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Técnicas/NT2011.005.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT2011.005.pdf",
   "original_sha256": "a232d8ed462e67080446bb74797e25f49abbf556cd230f774ce7e2e1a2b4f12d",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt2011-005/assets/",
@@ -21,7 +21,7 @@
   "source_family": "portal_nacional_nfe",
   "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
   "status": "published",
-  "title": "Projeto Nota Fiscal Eletrônica",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 8,
     "contains_base64_images": false,

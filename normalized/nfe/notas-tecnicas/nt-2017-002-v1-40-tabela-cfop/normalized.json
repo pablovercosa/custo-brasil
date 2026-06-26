@@ -12,7 +12,7 @@
   "source_family": "portal_nacional_nfe",
   "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt-2017-002-v1-40-tabela-cfop/source.json",
   "status": "published",
-  "title": "Projeto Nota Fiscal Eletrônica",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 35,
     "contains_base64_images": false,

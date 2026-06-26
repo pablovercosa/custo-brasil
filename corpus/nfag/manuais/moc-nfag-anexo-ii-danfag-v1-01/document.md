@@ -1,3 +1,13 @@
+---
+title: "Controle de Versões"
+slug: "moc-nfag-anexo-ii-danfag-v1-01"
+category: "manual"
+source_family: "portal_nacional_nfe"
+original_sha256: "0c13be4ee23555d1d8c4ddd3ae5dc839bff3fb1ba8dd38e230f33c2dbfa55ec0"
+converted_at_utc: "2026-06-25T19:30:09.837089+00:00"
+status: "published"
+type: "manual"
+---
 ![Image](assets/image_000000_0cdc0c4a9d695a094e9e7f1071a36f09e2ed4199fe5b93f66d809561d5819202.png)
 
 MINUTA Projeto Nota Fiscal da Água e Saneamento Eletrônica Manual de Orientação do Contribuinte Anexo II - DANFAG Versão 1.01 - Janeiro 2026

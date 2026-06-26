@@ -1,3 +1,13 @@
+---
+title: "CONTROLE DE VERSÕES"
+slug: "manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0"
+category: "manual"
+source_family: "portal_nacional_nfe"
+original_sha256: "2c67883620011685c8de0e34100c8f0b5e731cad8c7cc6ad02a383aad6873333"
+converted_at_utc: "2026-06-25T15:49:46.348710+00:00"
+status: "published"
+type: "manual"
+---
 ![Image](assets/image_000000_8698f55a41bd20ea8d5afa2aef810249b52961a7d653230c9a3835e9e7133823.png)
 
 ![Image](assets/image_000001_de33c37f15fd7eaf65ab0fb13fb324ba7e96c361808c8f8437b5a202f3c7f878.png)

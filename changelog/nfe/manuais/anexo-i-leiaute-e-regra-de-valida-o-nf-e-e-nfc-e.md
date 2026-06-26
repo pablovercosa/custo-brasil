@@ -1,5 +1,18 @@
 # anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e`.
+- Categoria: `manual`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e`.

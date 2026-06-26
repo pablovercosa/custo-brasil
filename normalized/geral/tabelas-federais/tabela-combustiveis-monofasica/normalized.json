@@ -1,15 +1,24 @@
 {
-  "slug": "tabela-combustiveis-monofasica",
-  "corpus_category": "geral",
-  "source_family": "portal_nacional_nfe",
-  "status": "published",
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "tabela-combustiveis-monofasica",
+  "category": "tabela",
   "document_path": "corpus/geral/tabelas-federais/tabela-combustiveis-monofasica/README.md",
   "metadata_path": "corpus/geral/tabelas-federais/tabela-combustiveis-monofasica/metadata.json",
-  "created_at": "2026-06-26T15:56:26.287477+00:00",
-  "updated_at": null,
-  "fields": null,
-  "rules": null,
-  "tables": null,
-  "validation": null,
-  "published_at": "2026-06-26T00:00:00+00:00"
+  "normalization_status": "manual_published",
+  "original_filename": "Tabela de Combust\u00edveis Sujeitos \u00e0 Tributa\u00e7\u00e3o Monof\u00e1sica-20251202 (vig\u00eancia a partir de 01-01-2026).xlsx",
+  "original_sha256": "be7cdb342e95eb15990070bf17105a25e38aba28af8d3eebdb4ea7fe96773460",
+  "published_at_utc": "2026-06-26T15:52:06.606032+00:00",
+  "slug": "tabela-combustiveis-monofasica",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal_nacional_nfe/geral/tabelas-federais/tabela-combustiveis-monofasica/source.json",
+  "status": "published",
+  "title": "Combust\u00edveis - Tributa\u00e7\u00e3o Monof\u00e1sica",
+  "validation": {
+    "asset_count": 0,
+    "sheets": [
+      "Dados atuais",
+      "Dados hist\u00f3ricos"
+    ],
+    "total_rows": 193
+  }
 }

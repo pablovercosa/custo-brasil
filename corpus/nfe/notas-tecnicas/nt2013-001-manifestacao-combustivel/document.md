@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt2013-001-manifestacao-combustivel"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "48d8c67a763270261b4c9e681bff1cf10d8a16b90f338cc8c1a3923ce9fa42c1"
+converted_at_utc: "2026-06-25T15:00:47.754132+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ## Projeto Nota Fiscal Eletrônica
 
 ![Image](assets/image_000000_0df586485bb7c1a0619b339846f8d57ac14af62aa549eb3409d229bddc35805c.png)

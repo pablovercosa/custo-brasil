@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt-2014-001-v1-30-evento-epec"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "bb9e681664ca088c60c4cefc5c4ee02fb2b9eb00e4134ea08fc7a842bb4ec3c1"
+converted_at_utc: "2026-06-25T16:58:54.983211+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_98f40fab88e0166dedc6d5c273be77832c78a7f23151e6c34ada44224a5e0987.png)
 
 ## Projeto Nota Fiscal Eletrônica

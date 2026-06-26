@@ -1,3 +1,13 @@
+---
+title: "Nota Tecnica 2011/007 - Prazo do Cancelamento da Nota Fiscal Eletronica"
+slug: "nt2011-007"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "1969689ecdec7bc8826dd521836241b202d9d2ed76329eb69be63aa07c7b8751"
+converted_at_utc: "2026-06-25T14:55:07.000000+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_181538cba8008b7211d15e5cd978d6d0c2bf11226028da3c4f63e632b4682dd6.png)
 
 ## Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica

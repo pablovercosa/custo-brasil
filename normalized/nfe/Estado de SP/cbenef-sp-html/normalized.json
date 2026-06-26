@@ -1,15 +1,20 @@
 {
-  "slug": "cbenef-sp-html",
-  "corpus_category": "nfe",
-  "source_family": "sefaz_sp",
-  "status": "published",
+  "authority": "SEFAZ/{uf_sigla}",
+  "canonical_id": "cbenef-sp-html",
+  "category": "cbenef",
   "document_path": "corpus/nfe/Estado de SP/cbenef-sp-html/document.md",
   "metadata_path": "corpus/nfe/Estado de SP/cbenef-sp-html/metadata.json",
-  "created_at": "2026-06-26T15:56:26.306976+00:00",
-  "updated_at": null,
-  "fields": null,
-  "rules": null,
-  "tables": null,
-  "validation": null,
-  "published_at": "2026-06-26T00:00:00+00:00"
+  "normalization_status": "manual_published",
+  "original_filename": "P\u00e1ginas - C\u00f3digos de Benef\u00edcios Fiscais - cBenef.html",
+  "original_sha256": "8f93aee658fa0648a3fb43119143b74e26a39e0424f30816813bcf290d7d3c10",
+  "published_at_utc": "2026-06-26T15:56:20.727870+00:00",
+  "slug": "cbenef-sp-html",
+  "source_family": "sefaz_sp",
+  "source_path": "sources/sefaz_sp/nfe/Estado de SP/cbenef-sp-html/source.json",
+  "status": "published",
+  "title": "P\u00e1ginas - C\u00f3digos de Benef\u00edcios Fiscais - cBenef",
+  "validation": {
+    "asset_count": 1,
+    "lines": 1440
+  }
 }

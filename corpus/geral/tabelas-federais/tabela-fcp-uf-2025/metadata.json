@@ -1,7 +1,7 @@
 {
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
   "canonical_id": "tabela-fcp-uf-2025",
-  "category": "geral",
+  "category": "tabela",
   "conversion": {
     "image_export_mode": "none",
     "output_format": "csv",
@@ -9,18 +9,18 @@
     "tool": "openpyxl+xlrd"
   },
   "converted_at_utc": "2026-06-26T15:51:40.894816+00:00",
-  "original_filename": "Tabela_Alíquotas_FCP_por_UF_2025-02_07.xlsx",
+  "original_filename": "Tabela_Al\u00edquotas_FCP_por_UF_2025-02_07.xlsx",
   "original_sha256": "3079d088169003cf0ef0da5ab36de0930efd5e9cee27c567650b767736f9cb91",
   "public_paths": {
-    "document": "corpus/geral/tabelas-federais/tabela-fcp-uf-2025/document.md",
-    "metadata": "corpus/geral/tabelas-federais/tabela-fcp-uf-2025/metadata.json",
-    "csv": "corpus/geral/tabelas-federais/tabela-fcp-uf-2025/csv/"
+    "csv": "corpus/geral/tabelas-federais/tabela-fcp-uf-2025/csv/",
+    "document": "corpus/geral/tabelas-federais/tabela-fcp-uf-2025/README.md",
+    "metadata": "corpus/geral/tabelas-federais/tabela-fcp-uf-2025/metadata.json"
   },
   "slug": "tabela-fcp-uf-2025",
   "source_family": "portal_nacional_nfe",
   "source_url": "",
-  "status": "converted",
-  "title": "Alíquotas FCP por UF",
+  "status": "published",
+  "title": "Al\u00edquotas FCP por UF",
   "validation": {
     "asset_count": 0,
     "sheets": [

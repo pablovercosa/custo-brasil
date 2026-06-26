@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt2014-002-v1-30-wsnfedistribuicaodfe"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "d083c8afb0156aea66ac65ae4b6bf0621f6d7fbecbe569dcf9dfc36a05a094c9"
+converted_at_utc: "2026-06-25T16:56:24.139954+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_3c52304dd806d02a893bd6d630e2e6dc80b9f75d41b35fe5b4d15d9212eb8851.png)
 
 ## Projeto Nota Fiscal Eletrônica

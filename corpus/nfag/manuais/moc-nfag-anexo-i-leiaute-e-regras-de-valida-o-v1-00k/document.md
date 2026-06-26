@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal de Água e Saneamento Eletrônica"
+slug: "moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k"
+category: "manual"
+source_family: "portal_nacional_nfe"
+original_sha256: "b7ba0636a2031996e4f6373b5579b43d16fe968e03fef7851096cbe0a22a0238"
+converted_at_utc: "2026-06-25T17:43:14.376121+00:00"
+status: "published"
+type: "manual"
+---
 ![Image](assets/image_000000_759e2857e2bf3e6161408a3f5893e6498d4c763b22bb2f19229c98c610a0909d.png)
 
 ## Projeto Nota Fiscal de Água e Saneamento Eletrônica

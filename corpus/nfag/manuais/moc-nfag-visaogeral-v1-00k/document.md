@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal de Água e Saneamento Eletrônica"
+slug: "moc-nfag-visaogeral-v1-00k"
+category: "manual"
+source_family: "portal_nacional_nfe"
+original_sha256: "912281ea3ad371ed0db74c91b50bf8c42c0f18837c9c41ca031ed67cfb6f70de"
+converted_at_utc: "2026-06-25T19:06:18.645000+00:00"
+status: "published"
+type: "manual"
+---
 ![Image](assets/image_000000_729498cc8e4ab5c1aff14d84f3d8281957391d906cb5a0826dd3d46d1ca0fd4b.png)
 
 ## Projeto Nota Fiscal de Água e Saneamento Eletrônica

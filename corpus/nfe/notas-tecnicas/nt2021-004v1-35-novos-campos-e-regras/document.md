@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt2021-004v1-35-novos-campos-e-regras"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "e33f067c25a024e3cddd99162baa337eaa7c090f4476c44af394059de3e3ae16"
+converted_at_utc: "2026-06-25T16:52:09.975861+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_6c545e385dc554d4f2538dc5f2f8e123229188ad3a37c64853552479f699396f.png)
 
 ![Image](assets/image_000001_5dd5d5e16748c7abcded3a0035d3a12ebd8073cdc66cfc62ca495386dd8ab477.png)

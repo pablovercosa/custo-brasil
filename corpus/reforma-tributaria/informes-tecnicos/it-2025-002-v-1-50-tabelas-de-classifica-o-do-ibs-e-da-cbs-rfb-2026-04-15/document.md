@@ -1,3 +1,13 @@
+---
+title: "Projeto Reforma Tributária do Consumo"
+slug: "it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15"
+category: "informe_tecnico"
+source_family: "portal_nacional_nfe"
+original_sha256: "d7efc771c2308ba7299e0ed991dfea843afb09d6cc6164213fd6b736c3cb61bd"
+converted_at_utc: "2026-06-25T20:46:20.717379+00:00"
+status: "published"
+type: "informe_tecnico"
+---
 Versão 1.00
 
 ![Image](assets/image_000000_7011b941c0f20935accad7ffb4bf5a8b96ca039ef8c979f5da3caf6c0c9a3ae4.png)

@@ -1,7 +1,7 @@
 {
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
   "canonical_id": "cbenef-rs",
-  "category": "geral",
+  "category": "cbenef",
   "conversion": {
     "image_export_mode": "none",
     "output_format": "csv",
@@ -12,14 +12,14 @@
   "original_filename": "05151340-tabela-cbenef-x-cst-27-04-2026.xlsx",
   "original_sha256": "c0876ac7d12abaf58129b8b506339fbb0365a7b0fe4f465c6217692e11552a25",
   "public_paths": {
-    "document": "corpus/nfe/Estado de RS/cbenef-rs/document.md",
-    "metadata": "corpus/nfe/Estado de RS/cbenef-rs/metadata.json",
-    "csv": "corpus/nfe/Estado de RS/cbenef-rs/csv/"
+    "csv": "corpus/nfe/Estado de RS/cbenef-rs/csv/",
+    "document": "corpus/nfe/Estado de RS/cbenef-rs/README.md",
+    "metadata": "corpus/nfe/Estado de RS/cbenef-rs/metadata.json"
   },
   "slug": "cbenef-rs",
   "source_family": "portal_nacional_nfe",
   "source_url": "",
-  "status": "converted",
+  "status": "published",
   "title": "cBenef Rio Grande do Sul",
   "validation": {
     "asset_count": 0,

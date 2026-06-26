@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt2013-008-v1-00-cancelamento-nfe"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "a8ea72ccfa5d8266c61f1b2911b88befd1c6a08ed56c0627713af210f624b439"
+converted_at_utc: "2026-06-25T15:04:32.157794+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_800a4b8a63597a6bb63fdd06a6d16b80b3898d87148b745aa839a7997426426d.png)
 
 ## Projeto Nota Fiscal Eletrônica

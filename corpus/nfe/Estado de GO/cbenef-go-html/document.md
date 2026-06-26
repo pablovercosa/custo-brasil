@@ -1,3 +1,13 @@
+---
+title: "Códigos de Benefícios Fiscais – Secretaria da Economia"
+slug: "cbenef-go-html"
+category: "cbenef"
+source_family: "sefaz_go"
+original_sha256: "ae1219653489eb5f5e258eb1b388af6aac30724e833102db074c484171fcfd6d"
+converted_at_utc: "2026-06-26T15:56:25.480226+00:00"
+status: "published"
+type: "tax_benefit_table"
+---
 ::::::::::::::::::::::::: {#g-main role="main"}
 :::::::::::::::::::::::: g-container
 ::::::: g-grid

@@ -12,7 +12,7 @@
   "source_family": "portal_nacional_nfe",
   "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt-2026-001-nf-e-v1-00-paa/source.json",
   "status": "published",
-  "title": "Controle de Versões",
+  "title": "Controle de Vers\u00f5es",
   "validation": {
     "asset_count": 23,
     "contains_base64_images": false,

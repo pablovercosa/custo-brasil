@@ -1,3 +1,13 @@
+---
+title: "- Manual Credenciamento como Emissor de Nota Fiscal Eletrônica"
+slug: "manual-usuarios-svrs"
+category: "manual"
+source_family: "portal_nacional_nfe"
+original_sha256: "b1ec0f62f39965d245b302f7875d616faf8718aa26cf8e1bf653a4b4b4507970"
+converted_at_utc: "2026-06-25T15:27:02.761597+00:00"
+status: "published"
+type: "manual"
+---
 ![Image](assets/image_000000_aadd87daa1e67b452d0d3e4df3c8dd4320d0094a5b927ae9931ead3110239bec.png)
 
 ## - Manual Credenciamento como Emissor de Nota Fiscal Eletrônica

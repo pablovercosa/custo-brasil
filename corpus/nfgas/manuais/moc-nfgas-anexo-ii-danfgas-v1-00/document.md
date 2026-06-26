@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica do Gás"
+slug: "moc-nfgas-anexo-ii-danfgas-v1-00"
+category: "manual"
+source_family: "portal_nacional_nfe"
+original_sha256: "ed91d2c9b16e63a6221cfcbd4ce64dba217ef6c7c95396ec001613ae3d05ab21"
+converted_at_utc: "2026-06-25T18:21:38.186957+00:00"
+status: "published"
+type: "manual"
+---
 ![Image](assets/image_000000_c841b36497e78d3e107a3395ae08d0609c747a7dd7c38129acb35071bd1268ab.png)
 
 ## Projeto Nota Fiscal Eletrônica do Gás

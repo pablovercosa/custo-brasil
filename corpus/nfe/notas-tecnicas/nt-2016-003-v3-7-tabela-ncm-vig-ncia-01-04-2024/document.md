@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "340059cdaf7c7b1335221588a0e62e3ffdce404956547a0a941c4ac708fdc9d5"
+converted_at_utc: "2026-06-25T15:52:50.959971+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_71f191a8fc4a9a19897668052c6800a63bfb860f3c534c192b24ca5065832043.png)
 
 ![Image](assets/image_000001_b80903ed1b93a07698a88ee32b6fd1f2b82afd156cb68fe5ddb7421247e7f2cb.png)

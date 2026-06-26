@@ -1,5 +1,18 @@
 # it2025-001v1-00-atualiza-tabela-municipios
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `it2025-001v1-00-atualiza-tabela-municipios`.
+- Categoria: `informe_tecnico`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# it2025-001v1-00-atualiza-tabela-municipios
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `it2025-001v1-00-atualiza-tabela-municipios`.

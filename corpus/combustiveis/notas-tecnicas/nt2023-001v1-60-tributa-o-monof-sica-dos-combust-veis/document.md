@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "2b18d99fdb4989a12044cd491c176a2199ab19bb2462406a6ac03376b7701fe5"
+converted_at_utc: "2026-06-25T18:14:14.247381+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_17346d81da5c0919e05ba0ed7575379e15aa9519ade0f1a3b7c723d630971d6e.png)
 
 ![Image](assets/image_000001_6b8b03dfbaac104c1dc5fcfbd16d5261ae2da9148b958790fd72191c069e9b0c.png)

@@ -1,15 +1,16 @@
 {
-  "slug": "aliquotas-cbs-2026",
+  "category": "tabela",
   "corpus_category": "geral",
-  "source_family": "portal_nacional_nfe",
-  "source_url": "",
-  "original_sha256": "33f17aa3322de841c7cb7bd469a2785d34cea34fadd0571e18bd8f7c88872f3b",
-  "original_filename": "IT 2026.002 v.1.00 - Aliquotas da CBS.xlsx",
-  "title": "Alíquotas da CBS 2026",
-  "status": "published",
   "derived_public_files": {
     "metadata": "corpus/geral/tabelas-federais/aliquotas-cbs-2026/metadata.json",
     "readme": "corpus/geral/tabelas-federais/aliquotas-cbs-2026/README.md"
   },
-  "published_at": "2026-06-26T00:00:00+00:00"
+  "original_filename": "IT 2026.002 v.1.00 - Aliquotas da CBS.xlsx",
+  "original_sha256": "33f17aa3322de841c7cb7bd469a2785d34cea34fadd0571e18bd8f7c88872f3b",
+  "published_at": "2026-06-26T00:00:00+00:00",
+  "slug": "aliquotas-cbs-2026",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "status": "published",
+  "title": "Al\u00edquotas da CBS 2026"
 }

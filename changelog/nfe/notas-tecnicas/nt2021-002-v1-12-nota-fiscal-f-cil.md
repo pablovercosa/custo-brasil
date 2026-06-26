@@ -1,5 +1,18 @@
 # nt2021-002-v1-12-nota-fiscal-f-cil
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `nt2021-002-v1-12-nota-fiscal-f-cil`.
+- Categoria: `nota_tecnica`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# nt2021-002-v1-12-nota-fiscal-f-cil
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `nt2021-002-v1-12-nota-fiscal-f-cil`.

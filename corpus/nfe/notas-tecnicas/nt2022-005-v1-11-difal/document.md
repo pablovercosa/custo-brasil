@@ -1,3 +1,13 @@
+---
+title: "Sistema Nota Fiscal Eletrônica"
+slug: "nt2022-005-v1-11-difal"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "e6f12d52ceafb77d366769db9b59fbb15b1600c1b2ed58face5d6fa16a3295db"
+converted_at_utc: "2026-06-25T15:36:00.323632+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_98f3651deb3779045a3d05955a12dcae77e60f44ee54773b092ff854d875d1d5.png)
 
 ![Image](assets/image_000001_a9b1d1601c4484180d757697cd0ab40d19f0c9cd9166651b416a83a8f25897bc.png)

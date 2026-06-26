@@ -1,3 +1,13 @@
+---
+title: "Sistema Nota Fiscal Eletrônica"
+slug: "nt2023-004-v1-20-campos-e-regras"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "1c6db64a5c32b176f8e60baf2ebbfed24632169ddfcd80632c1b5cc65b9ac71d"
+converted_at_utc: "2026-06-25T16:33:13.364631+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_12abad640688560b87aa138dc2b5c3723be4e6072054c37416ad32f18d363724.png)
 
 ![Image](assets/image_000001_1a476f9ce664e712b3ca549b66575e1f9362576b665691bd79632997d97b6db2.png)

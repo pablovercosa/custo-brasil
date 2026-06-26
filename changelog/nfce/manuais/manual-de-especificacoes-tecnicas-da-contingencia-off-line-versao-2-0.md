@@ -1,5 +1,18 @@
 # manual-de-especificacoes-tecnicas-da-contingencia-off-line-versao-2-0
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `manual-de-especificacoes-tecnicas-da-contingencia-off-line-versao-2-0`.
+- Categoria: `manual`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# manual-de-especificacoes-tecnicas-da-contingencia-off-line-versao-2-0
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `manual-de-especificacoes-tecnicas-da-contingencia-off-line-versao-2-0`.

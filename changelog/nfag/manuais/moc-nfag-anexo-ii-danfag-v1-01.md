@@ -1,5 +1,18 @@
 # moc-nfag-anexo-ii-danfag-v1-01
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `moc-nfag-anexo-ii-danfag-v1-01`.
+- Categoria: `manual`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# moc-nfag-anexo-ii-danfag-v1-01
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `moc-nfag-anexo-ii-danfag-v1-01`.

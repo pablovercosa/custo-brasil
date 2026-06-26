@@ -1,7 +1,7 @@
 {
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
   "canonical_id": "tabela-nfeabi-v2",
-  "category": "geral",
+  "category": "tabela",
   "conversion": {
     "image_export_mode": "none",
     "output_format": "csv",
@@ -9,18 +9,18 @@
     "tool": "openpyxl+xlrd"
   },
   "converted_at_utc": "2026-06-26T15:51:41.033797+00:00",
-  "original_filename": "Tabela de Códigos NFe ABI - v2.00 - Minuta.xlsx",
+  "original_filename": "Tabela de C\u00f3digos NFe ABI - v2.00 - Minuta.xlsx",
   "original_sha256": "e23d659c83bb8bb31129e7ee9d4fdbe0be820e6d4cc4ffe9bdc7bf53f9e3c783",
   "public_paths": {
-    "document": "corpus/geral/tabelas-federais/tabela-nfeabi-v2/document.md",
-    "metadata": "corpus/geral/tabelas-federais/tabela-nfeabi-v2/metadata.json",
-    "csv": "corpus/geral/tabelas-federais/tabela-nfeabi-v2/csv/"
+    "csv": "corpus/geral/tabelas-federais/tabela-nfeabi-v2/csv/",
+    "document": "corpus/geral/tabelas-federais/tabela-nfeabi-v2/README.md",
+    "metadata": "corpus/geral/tabelas-federais/tabela-nfeabi-v2/metadata.json"
   },
   "slug": "tabela-nfeabi-v2",
   "source_family": "portal_nacional_nfe",
   "source_url": "",
-  "status": "converted",
-  "title": "Códigos NFe ABI v2.00",
+  "status": "published",
+  "title": "C\u00f3digos NFe ABI v2.00",
   "validation": {
     "asset_count": 0,
     "sheets": [

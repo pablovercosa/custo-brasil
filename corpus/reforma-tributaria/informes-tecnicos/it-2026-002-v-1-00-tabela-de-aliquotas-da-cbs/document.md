@@ -1,3 +1,13 @@
+---
+title: "Projeto Reforma Tributária do Consumo"
+slug: "it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs"
+category: "informe_tecnico"
+source_family: "portal_nacional_nfe"
+original_sha256: "80a40a1a5fac20f0e798467eab4e5a3a68732211e5db850469a64bac75fd07ca"
+converted_at_utc: "2026-06-25T20:45:17.707909+00:00"
+status: "published"
+type: "informe_tecnico"
+---
 ![Image](assets/image_000000_757ca770c33c0f64438a32db5f42c3ff07c04033bf2607ac24dcb9758d7e1de1.png)
 
 Versão 1.00

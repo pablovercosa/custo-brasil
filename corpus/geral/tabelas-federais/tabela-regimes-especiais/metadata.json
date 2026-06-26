@@ -1,7 +1,7 @@
 {
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
   "canonical_id": "tabela-regimes-especiais",
-  "category": "geral",
+  "category": "tabela",
   "conversion": {
     "image_export_mode": "none",
     "output_format": "csv",
@@ -9,18 +9,18 @@
     "tool": "openpyxl+xlrd"
   },
   "converted_at_utc": "2026-06-26T15:51:41.053800+00:00",
-  "original_filename": "Tabela de Padrões de Regime Especial.xlsx",
+  "original_filename": "Tabela de Padr\u00f5es de Regime Especial.xlsx",
   "original_sha256": "c10d2fdb149fd8cd82383d41d82db9a1acbd2b11714b549c3184549baec5dcd2",
   "public_paths": {
-    "document": "corpus/geral/tabelas-federais/tabela-regimes-especiais/document.md",
-    "metadata": "corpus/geral/tabelas-federais/tabela-regimes-especiais/metadata.json",
-    "csv": "corpus/geral/tabelas-federais/tabela-regimes-especiais/csv/"
+    "csv": "corpus/geral/tabelas-federais/tabela-regimes-especiais/csv/",
+    "document": "corpus/geral/tabelas-federais/tabela-regimes-especiais/README.md",
+    "metadata": "corpus/geral/tabelas-federais/tabela-regimes-especiais/metadata.json"
   },
   "slug": "tabela-regimes-especiais",
   "source_family": "portal_nacional_nfe",
   "source_url": "",
-  "status": "converted",
-  "title": "Padrões de Regime Especial",
+  "status": "published",
+  "title": "Padr\u00f5es de Regime Especial",
   "validation": {
     "asset_count": 0,
     "sheets": [

@@ -1,3 +1,13 @@
+---
+title: "Manual SEFAZ Virtual para Empresas"
+slug: "manual-svan-v1-00"
+category: "manual"
+source_family: "portal_nacional_nfe"
+original_sha256: "b22555575763026a1318165447401f3efd64340d281600e79ef8dec55e09f647"
+converted_at_utc: "2026-06-26T15:51:43.776024+00:00"
+status: "published"
+type: "manual"
+---
 **Projeto Nota Fiscal Eletrônica**
 
 ![](/home/projetos/custo-brasil/runtime/work/nfe/manuais/manual-svan-v1-00/assets/media/image1.jpeg)

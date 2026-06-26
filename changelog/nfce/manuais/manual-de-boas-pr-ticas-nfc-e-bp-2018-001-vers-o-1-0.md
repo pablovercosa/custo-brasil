@@ -1,5 +1,18 @@
 # manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0`.
+- Categoria: `manual`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0`.

@@ -1,3 +1,13 @@
+---
+title: "Sistema Nota Fiscal Eletrônica"
+slug: "anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e"
+category: "manual"
+source_family: "portal_nacional_nfe"
+original_sha256: "5eb4cf2010b10b0b62f78197c4eb64025f24535d4c6e61158bc7806dd008f55d"
+converted_at_utc: "2026-06-25T20:00:33.016115+00:00"
+status: "published"
+type: "manual"
+---
 ![Image](assets/image_000000_639fcb76b04a30d355fc720bdd1fd4d5552e3a0d20fa418d9ece4026a96403e7.png)
 
 ![Image](assets/image_000001_00ac4fd7cb8a53cab809688fec71d68117f9004a905b4d4bf606eb75b18d96ee.png)

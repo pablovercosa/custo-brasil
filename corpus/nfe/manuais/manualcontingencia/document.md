@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "manualcontingencia"
+category: "manual"
+source_family: "portal_nacional_nfe"
+original_sha256: "f3fe45d83743b025a2779cc89c40056b151216b7eb73fed06cbdb2a9e963d040"
+converted_at_utc: "2026-06-25T19:34:17.328581+00:00"
+status: "published"
+type: "manual"
+---
 ![Image](assets/image_000000_c97b14eeff5f83e691bc059ee00d9c9a9a63db2429ce245b9cc3343562af17bd.png)
 
 ## Projeto Nota Fiscal Eletrônica

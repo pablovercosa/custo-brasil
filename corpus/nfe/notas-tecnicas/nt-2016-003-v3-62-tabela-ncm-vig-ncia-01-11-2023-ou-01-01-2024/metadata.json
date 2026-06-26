@@ -9,8 +9,8 @@
     "tool": "docling-server"
   },
   "converted_at_utc": "2026-06-25T15:45:09.283230+00:00",
-  "original_filename": "NT 2016_003 v3.62 - Tabela NCM -  vigência 01-11-2023 ou 01-01-2024.pdf",
-  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Técnicas/NT 2016_003 v3.62 - Tabela NCM -  vigência 01-11-2023 ou 01-01-2024.pdf",
+  "original_filename": "NT 2016_003 v3.62 - Tabela NCM -  vig\u00eancia 01-11-2023 ou 01-01-2024.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT 2016_003 v3.62 - Tabela NCM -  vig\u00eancia 01-11-2023 ou 01-01-2024.pdf",
   "original_sha256": "9ba730fa2d7c7c2c041da941a56058bd4f212e0c91074e2306b21183f5344b53",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/assets/",
@@ -21,7 +21,7 @@
   "source_family": "portal_nacional_nfe",
   "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
   "status": "published",
-  "title": "Projeto Nota Fiscal Eletrônica",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 5,
     "contains_base64_images": false,

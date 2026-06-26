@@ -1,15 +1,23 @@
 {
-  "slug": "tabela-fcp-uf-2025",
-  "corpus_category": "geral",
-  "source_family": "portal_nacional_nfe",
-  "status": "published",
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "tabela-fcp-uf-2025",
+  "category": "tabela",
   "document_path": "corpus/geral/tabelas-federais/tabela-fcp-uf-2025/README.md",
   "metadata_path": "corpus/geral/tabelas-federais/tabela-fcp-uf-2025/metadata.json",
-  "created_at": "2026-06-26T15:56:26.281205+00:00",
-  "updated_at": null,
-  "fields": null,
-  "rules": null,
-  "tables": null,
-  "validation": null,
-  "published_at": "2026-06-26T00:00:00+00:00"
+  "normalization_status": "manual_published",
+  "original_filename": "Tabela_Al\u00edquotas_FCP_por_UF_2025-02_07.xlsx",
+  "original_sha256": "3079d088169003cf0ef0da5ab36de0930efd5e9cee27c567650b767736f9cb91",
+  "published_at_utc": "2026-06-26T15:51:40.894816+00:00",
+  "slug": "tabela-fcp-uf-2025",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal_nacional_nfe/geral/tabelas-federais/tabela-fcp-uf-2025/source.json",
+  "status": "published",
+  "title": "Al\u00edquotas FCP por UF",
+  "validation": {
+    "asset_count": 0,
+    "sheets": [
+      "FCP"
+    ],
+    "total_rows": 31
+  }
 }

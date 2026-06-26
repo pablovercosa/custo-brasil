@@ -1,15 +1,16 @@
 {
-  "slug": "manual-svan-anexo-i",
+  "category": "manual",
   "corpus_category": "nfe",
+  "derived_public_files": {
+    "document": "corpus/nfe/manuais/manual-svan-anexo-i/document.md",
+    "metadata": "corpus/nfe/manuais/manual-svan-anexo-i/metadata.json"
+  },
+  "original_filename": "Anexo I.doc",
+  "original_sha256": "3844f5b460e37ebf3fb3d3da4a64d50c15c4ff3861e58d6b7be98d930034416a",
+  "published_at": "2026-06-26T00:00:00+00:00",
+  "slug": "manual-svan-anexo-i",
   "source_family": "portal_nacional_nfe",
   "source_url": "",
-  "original_sha256": "3844f5b460e37ebf3fb3d3da4a64d50c15c4ff3861e58d6b7be98d930034416a",
-  "original_filename": "Anexo I.doc",
-  "title": "Manual SVAN Anexo I",
   "status": "published",
-  "derived_public_files": {
-    "metadata": "corpus/nfe/manuais/manual-svan-anexo-i/metadata.json",
-    "document": "corpus/nfe/manuais/manual-svan-anexo-i/document.md"
-  },
-  "published_at": "2026-06-26T00:00:00+00:00"
+  "title": "Manual SVAN Anexo I"
 }

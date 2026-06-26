@@ -1,15 +1,23 @@
 {
-  "slug": "tabela-ncm-2022",
-  "corpus_category": "geral",
-  "source_family": "portal_nacional_nfe",
-  "status": "published",
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "tabela-ncm-2022",
+  "category": "tabela",
   "document_path": "corpus/geral/tabelas-federais/tabela-ncm-2022/README.md",
   "metadata_path": "corpus/geral/tabelas-federais/tabela-ncm-2022/metadata.json",
-  "created_at": "2026-06-26T15:56:26.294694+00:00",
-  "updated_at": null,
-  "fields": null,
-  "rules": null,
-  "tables": null,
-  "validation": null,
-  "published_at": "2026-06-26T00:00:00+00:00"
+  "normalization_status": "manual_published",
+  "original_filename": "Tabela NCM 2022 com Utrib_Com\u00e9rcio Exterior_vig\u00eancia 01.02.26.xlsx",
+  "original_sha256": "b06ecddeb15e36688e6398c36f51ae29b7ef6dfc1eca765c1c37ee9416a64e7b",
+  "published_at_utc": "2026-06-26T15:51:42.253159+00:00",
+  "slug": "tabela-ncm-2022",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal_nacional_nfe/geral/tabelas-federais/tabela-ncm-2022/source.json",
+  "status": "published",
+  "title": "Tabela NCM 2022",
+  "validation": {
+    "asset_count": 0,
+    "sheets": [
+      "NCM X uTrib_Vig 1-02-2026"
+    ],
+    "total_rows": 10521
+  }
 }

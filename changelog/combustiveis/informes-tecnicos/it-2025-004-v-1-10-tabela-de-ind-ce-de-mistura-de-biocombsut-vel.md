@@ -1,5 +1,18 @@
 # it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel`.
+- Categoria: `informe_tecnico`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel`.

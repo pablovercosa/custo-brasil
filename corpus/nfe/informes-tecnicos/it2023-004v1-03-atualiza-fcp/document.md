@@ -1,3 +1,13 @@
+---
+title: "Sistema Nota Fiscal Eletrônica"
+slug: "it2023-004v1-03-atualiza-fcp"
+category: "informe_tecnico"
+source_family: "portal_nacional_nfe"
+original_sha256: "440a33ad31751980a96cbfc74d7a6a3c98961f484351254dc0f1a6385cd3de1f"
+converted_at_utc: "2026-06-25T20:42:13.606445+00:00"
+status: "published"
+type: "informe_tecnico"
+---
 ![Image](assets/image_000000_f4fe5a9b76c8defab871426be314dc2f911cb40812e313304fe06f9fc9315b02.png)
 
 ![Image](assets/image_000001_da1946a487b8e6731b1473267258bb83090aee84ab0c4bd6c7280208f9a55f4f.png)

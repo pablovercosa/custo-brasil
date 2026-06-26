@@ -1,15 +1,23 @@
 {
-  "slug": "aliquotas-cbs-2026",
-  "corpus_category": "geral",
-  "source_family": "portal_nacional_nfe",
-  "status": "published",
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "aliquotas-cbs-2026",
+  "category": "tabela",
   "document_path": "corpus/geral/tabelas-federais/aliquotas-cbs-2026/README.md",
   "metadata_path": "corpus/geral/tabelas-federais/aliquotas-cbs-2026/metadata.json",
-  "created_at": "2026-06-26T15:56:26.280236+00:00",
-  "updated_at": null,
-  "fields": null,
-  "rules": null,
-  "tables": null,
-  "validation": null,
-  "published_at": "2026-06-26T00:00:00+00:00"
+  "normalization_status": "manual_published",
+  "original_filename": "IT 2026.002 v.1.00 - Aliquotas da CBS.xlsx",
+  "original_sha256": "33f17aa3322de841c7cb7bd469a2785d34cea34fadd0571e18bd8f7c88872f3b",
+  "published_at_utc": "2026-06-26T15:51:40.884014+00:00",
+  "slug": "aliquotas-cbs-2026",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal_nacional_nfe/geral/tabelas-federais/aliquotas-cbs-2026/source.json",
+  "status": "published",
+  "title": "Al\u00edquotas da CBS",
+  "validation": {
+    "asset_count": 0,
+    "sheets": [
+      "Planilha1"
+    ],
+    "total_rows": 4
+  }
 }

@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "45b96f11d192afafba1d061b4f08eb1047c2609a60b940217a8a37921348b54f"
+converted_at_utc: "2026-06-25T16:49:55.429098+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_0c16b6c5e1efada552a7c8dfbb9bc4de90c8b35641d183117cd97c68ad839e4e.png)
 
 ## Projeto Nota Fiscal Eletrônica

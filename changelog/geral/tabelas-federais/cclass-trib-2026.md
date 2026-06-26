@@ -1,3 +1,19 @@
+# cclass-trib-2026
+
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `cclass-trib-2026`.
+- Categoria: `tabela`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - metadata:public_paths.document->README.md
+  - metadata:status converted->published
+  - metadata:category geral->tabela
+  - normalized:expanded-from-minimal
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
 # Classificação Tributária 2026
 
 - **Slug:** `cclass-trib-2026`

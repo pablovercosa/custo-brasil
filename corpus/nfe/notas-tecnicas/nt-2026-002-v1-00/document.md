@@ -1,3 +1,13 @@
+---
+title: "Controle de Versões"
+slug: "nt-2026-002-v1-00"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "1250d54bc1200ea81f06809d0e0fecac5ff85ff21a9ad3d59e75192caa948979"
+converted_at_utc: "2026-06-25T16:37:36.616122+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_c5424b1e73bd51750913a993c327d841ced4732b2d8849d64c4a11abebb54b21.png)
 
 ![Image](assets/image_000001_e59f26615a45274f65e2347366d80d6fcf251cbb3216064e853995b1ac830025.png)

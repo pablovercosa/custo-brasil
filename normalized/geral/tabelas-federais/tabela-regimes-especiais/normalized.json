@@ -1,15 +1,23 @@
 {
-  "slug": "tabela-regimes-especiais",
-  "corpus_category": "geral",
-  "source_family": "portal_nacional_nfe",
-  "status": "published",
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "tabela-regimes-especiais",
+  "category": "tabela",
   "document_path": "corpus/geral/tabelas-federais/tabela-regimes-especiais/README.md",
   "metadata_path": "corpus/geral/tabelas-federais/tabela-regimes-especiais/metadata.json",
-  "created_at": "2026-06-26T15:56:26.290855+00:00",
-  "updated_at": null,
-  "fields": null,
-  "rules": null,
-  "tables": null,
-  "validation": null,
-  "published_at": "2026-06-26T00:00:00+00:00"
+  "normalization_status": "manual_published",
+  "original_filename": "Tabela de Padr\u00f5es de Regime Especial.xlsx",
+  "original_sha256": "c10d2fdb149fd8cd82383d41d82db9a1acbd2b11714b549c3184549baec5dcd2",
+  "published_at_utc": "2026-06-26T15:51:41.053800+00:00",
+  "slug": "tabela-regimes-especiais",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal_nacional_nfe/geral/tabelas-federais/tabela-regimes-especiais/source.json",
+  "status": "published",
+  "title": "Padr\u00f5es de Regime Especial",
+  "validation": {
+    "asset_count": 0,
+    "sheets": [
+      "Plan1"
+    ],
+    "total_rows": 3
+  }
 }

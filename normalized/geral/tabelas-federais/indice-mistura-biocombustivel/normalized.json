@@ -1,15 +1,24 @@
 {
-  "slug": "indice-mistura-biocombustivel",
-  "corpus_category": "geral",
-  "source_family": "portal_nacional_nfe",
-  "status": "published",
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "indice-mistura-biocombustivel",
+  "category": "tabela",
   "document_path": "corpus/geral/tabelas-federais/indice-mistura-biocombustivel/README.md",
   "metadata_path": "corpus/geral/tabelas-federais/indice-mistura-biocombustivel/metadata.json",
-  "created_at": "2026-06-26T15:56:26.298647+00:00",
-  "updated_at": null,
-  "fields": null,
-  "rules": null,
-  "tables": null,
-  "validation": null,
-  "published_at": "2026-06-26T00:00:00+00:00"
+  "normalization_status": "manual_published",
+  "original_filename": "tbIndiceMisturaBioCombustivel_20260424.xlsx",
+  "original_sha256": "940b812405355fecd258fa0cc0800a9dbec26bd3e9ef52362ca3e93cdbbbe578",
+  "published_at_utc": "2026-06-26T15:51:42.273777+00:00",
+  "slug": "indice-mistura-biocombustivel",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal_nacional_nfe/geral/tabelas-federais/indice-mistura-biocombustivel/source.json",
+  "status": "published",
+  "title": "\u00cdndice de Mistura de Biocombust\u00edvel",
+  "validation": {
+    "asset_count": 0,
+    "sheets": [
+      "pBioObrigatorio",
+      "pBioObrigatorio_Historico"
+    ],
+    "total_rows": 20
+  }
 }

@@ -1,5 +1,18 @@
 # nt-2024-003-produtos-agro-nf-e-v-1-10-rev
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `nt-2024-003-produtos-agro-nf-e-v-1-10-rev`.
+- Categoria: `nota_tecnica`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# nt-2024-003-produtos-agro-nf-e-v-1-10-rev
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `nt-2024-003-produtos-agro-nf-e-v-1-10-rev`.

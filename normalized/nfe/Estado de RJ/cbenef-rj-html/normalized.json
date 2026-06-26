@@ -1,15 +1,20 @@
 {
-  "slug": "cbenef-rj-html",
-  "corpus_category": "nfe",
-  "source_family": "sefaz_rj",
-  "status": "published",
+  "authority": "SEFAZ/{uf_sigla}",
+  "canonical_id": "cbenef-rj-html",
+  "category": "cbenef",
   "document_path": "corpus/nfe/Estado de RJ/cbenef-rj-html/document.md",
   "metadata_path": "corpus/nfe/Estado de RJ/cbenef-rj-html/metadata.json",
-  "created_at": "2026-06-26T15:56:26.308546+00:00",
-  "updated_at": null,
-  "fields": null,
-  "rules": null,
-  "tables": null,
-  "validation": null,
-  "published_at": "2026-06-26T00:00:00+00:00"
+  "normalization_status": "manual_published",
+  "original_filename": "Benef\u00edcios Fiscais \u2013 Documento Fiscal Eletr\u00f4nico - Secretaria de Estado de Fazenda do Rio de Ja.html",
+  "original_sha256": "42bbd26f51b97f08901824be05a2e6073822a8fb3ad630781bb5dbcc125ca423",
+  "published_at_utc": "2026-06-26T15:56:25.035222+00:00",
+  "slug": "cbenef-rj-html",
+  "source_family": "sefaz_rj",
+  "source_path": "sources/sefaz_rj/nfe/Estado de RJ/cbenef-rj-html/source.json",
+  "status": "published",
+  "title": "Benef\u00edcios Fiscais \u2013 Documento Fiscal Eletr\u00f4nico - Secretaria de Estado de Fazenda do Rio de Ja",
+  "validation": {
+    "asset_count": 0,
+    "lines": 99
+  }
 }

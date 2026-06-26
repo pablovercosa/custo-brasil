@@ -1,15 +1,23 @@
 {
-  "slug": "tabela-paises",
-  "corpus_category": "geral",
-  "source_family": "portal_nacional_nfe",
-  "status": "published",
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "tabela-paises",
+  "category": "tabela",
   "document_path": "corpus/geral/tabelas-federais/tabela-paises/README.md",
   "metadata_path": "corpus/geral/tabelas-federais/tabela-paises/metadata.json",
-  "created_at": "2026-06-26T15:56:26.292332+00:00",
-  "updated_at": null,
-  "fields": null,
-  "rules": null,
-  "tables": null,
-  "validation": null,
-  "published_at": "2026-06-26T00:00:00+00:00"
+  "normalization_status": "manual_published",
+  "original_filename": "Tabela de Pa\u00edses - Ref. NT 2018.003. v1.01.ods",
+  "original_sha256": "76386b536812e13baf5f09f49c057e78650be387a96c576377c3998f39358a9f",
+  "published_at_utc": "2026-06-26T15:51:41.588165+00:00",
+  "slug": "tabela-paises",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal_nacional_nfe/geral/tabelas-federais/tabela-paises/source.json",
+  "status": "published",
+  "title": "Tabela de Pa\u00edses",
+  "validation": {
+    "asset_count": 0,
+    "sheets": [
+      "Tabela de Pa\u00edses - Ref. NT 2018.003. v1.01"
+    ],
+    "total_rows": 266
+  }
 }

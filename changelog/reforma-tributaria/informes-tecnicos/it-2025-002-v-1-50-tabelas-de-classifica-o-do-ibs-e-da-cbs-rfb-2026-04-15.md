@@ -1,5 +1,18 @@
 # it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15`.
+- Categoria: `informe_tecnico`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15`.

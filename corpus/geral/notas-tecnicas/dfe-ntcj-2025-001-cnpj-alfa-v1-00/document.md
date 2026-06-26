@@ -1,3 +1,13 @@
+---
+title: "Nota Técnica Conjunta CNPJ Alfanumérico"
+slug: "dfe-ntcj-2025-001-cnpj-alfa-v1-00"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "671d546b24ad4682e267fc76a9eeca8f14ad15ead2be20721ee2aec5438cf964"
+converted_at_utc: "2026-06-25T17:00:25.799904+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_14139a1335584e5ff16cf262b8ff298b46c8f48265a8fef74a60223cda819b3e.png)
 
 ## Nota Técnica Conjunta CNPJ Alfanumérico

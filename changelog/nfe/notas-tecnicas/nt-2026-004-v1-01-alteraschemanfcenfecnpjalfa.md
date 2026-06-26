@@ -1,5 +1,18 @@
 # nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa`.
+- Categoria: `nota_tecnica`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa`.

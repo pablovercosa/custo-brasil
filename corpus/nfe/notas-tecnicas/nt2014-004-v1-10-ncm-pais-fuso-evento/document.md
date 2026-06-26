@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica - NF-e"
+slug: "nt2014-004-v1-10-ncm-pais-fuso-evento"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "90fb4944e0b19a5404d184db81f468e2d251a3e004e8189ab231764dfd057b06"
+converted_at_utc: "2026-06-25T16:09:50.175690+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_057d89aa71f35beec8e7ff0443a371d3785e3d14cb2f100f82b4003b8d9c68d2.png)
 
 ## Projeto Nota Fiscal Eletrônica - NF-e

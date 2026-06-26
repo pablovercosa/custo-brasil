@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt-2017-002-v1-40-tabela-cfop"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "390d08e8621843b43a80a9d1fd1a6b359676834b229f3bcefd0b59cbac7ab833"
+converted_at_utc: "2026-06-25T16:46:44.927587+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_f6167cb2224f7b3dbce7b0f0948b2a7f20f5d189f8d78c28d416b7ae90e16c18.png)
 
 ![Image](assets/image_000001_5dd5d5e16748c7abcded3a0035d3a12ebd8073cdc66cfc62ca495386dd8ab477.png)

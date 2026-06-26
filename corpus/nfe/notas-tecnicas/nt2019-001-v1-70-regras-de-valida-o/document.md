@@ -1,3 +1,13 @@
+---
+title: "Sistema Nota Fiscal Eletrônica"
+slug: "nt2019-001-v1-70-regras-de-valida-o"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "8c03e1d53893f211b4967a5f6da0a1a5f9c46b0862e23ee5b63816657e79ff00"
+converted_at_utc: "2026-06-25T16:41:39.698049+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_1fb3ccd0d292af92d1440a35514f59f67282ecf98dcd979562836ddbc502f2fb.png)
 
 ![Image](assets/image_000001_7c3f84fb39a2dff3fd08d905df7eb397320b78c7c2996007be7e7bb8270a30d7.png)

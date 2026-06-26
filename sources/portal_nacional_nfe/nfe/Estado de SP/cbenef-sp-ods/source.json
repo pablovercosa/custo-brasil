@@ -1,15 +1,16 @@
 {
-  "slug": "cbenef-sp-ods",
+  "category": "cbenef",
   "corpus_category": "nfe",
-  "source_family": "portal_nacional_nfe",
-  "source_url": "",
-  "original_sha256": "fd19516387dfbdfb53ad12f48dd8df3ffdc448fc3101357eaee0875f190ccfc6",
-  "original_filename": "Tabela-cBenef-SP-v20260610.ods",
-  "title": "cBenef SP (ODS)",
-  "status": "published",
   "derived_public_files": {
     "metadata": "corpus/nfe/Estado de SP/cbenef-sp-ods/metadata.json",
     "readme": "corpus/nfe/Estado de SP/cbenef-sp-ods/README.md"
   },
-  "published_at": "2026-06-26T00:00:00+00:00"
+  "original_filename": "Tabela-cBenef-SP-v20260610.ods",
+  "original_sha256": "fd19516387dfbdfb53ad12f48dd8df3ffdc448fc3101357eaee0875f190ccfc6",
+  "published_at": "2026-06-26T00:00:00+00:00",
+  "slug": "cbenef-sp-ods",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "status": "published",
+  "title": "cBenef SP (ODS)"
 }

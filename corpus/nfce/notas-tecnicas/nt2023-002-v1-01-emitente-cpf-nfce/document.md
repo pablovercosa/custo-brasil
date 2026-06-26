@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt2023-002-v1-01-emitente-cpf-nfce"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "b0cb9528bfaa6e0b5ac2986c879898eebcbb9457e97fcf0af985a00659649031"
+converted_at_utc: "2026-06-25T15:44:38.995556+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_975bd05a3ab06b85a1358e579848423398136a02d02cc151ca9537724d7a10cf.png)
 
 ![Image](assets/image_000001_c3c79ff3cb9c23e9d89bce2ecb5b2941be6b535806b51e2e54b0d7bc7f3c1459.png)

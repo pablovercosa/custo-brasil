@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt-2015-003-v194"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "5762af3d465a4ad1bde0afe67a4b249aac8b5aacc646f4863e0ddf4554dc1b91"
+converted_at_utc: "2026-06-25T17:34:03.614832+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_cfd4fb08704df84a071ebb68a17c4e24ad6871c2edcbbadda0912822e6a25cf7.png)
 
 ## Projeto Nota Fiscal Eletrônica

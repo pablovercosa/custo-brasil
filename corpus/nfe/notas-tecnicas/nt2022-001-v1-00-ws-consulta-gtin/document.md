@@ -1,3 +1,13 @@
+---
+title: "Sistema Nota Fiscal Eletrônica"
+slug: "nt2022-001-v1-00-ws-consulta-gtin"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "de3174af7330d510f8fa4ec6b9f44047086be761f978029c6fbb660376fb1a22"
+converted_at_utc: "2026-06-25T16:29:14.576141+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_432cda0046c79349e50be53f9e1e0ac0d089c1aaecc2b26a1fd272c1c7c53589.png)
 
 ![Image](assets/image_000001_5a878eecc1a7ccead95a841b65d9d367b947a062ba9278f04b104538a79e52f9.png)

@@ -10,7 +10,7 @@
   },
   "converted_at_utc": "2026-06-25T16:13:03.531070+00:00",
   "original_filename": "NT 2021_001_v1.01_Evento_Comprovante_Entrega_NFe.pdf",
-  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Técnicas/NT 2021_001_v1.01_Evento_Comprovante_Entrega_NFe.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT 2021_001_v1.01_Evento_Comprovante_Entrega_NFe.pdf",
   "original_sha256": "7a179b6af37e2cde32156ed30edf6d387447182daac2d06fe11687bc9b29be9b",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt-2021-001-v1-01-evento-comprovante-entrega-nfe/assets/",
@@ -21,7 +21,7 @@
   "source_family": "portal_nacional_nfe",
   "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
   "status": "published",
-  "title": "Sistema Nota Fiscal Eletrônica",
+  "title": "Sistema Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 29,
     "contains_base64_images": false,

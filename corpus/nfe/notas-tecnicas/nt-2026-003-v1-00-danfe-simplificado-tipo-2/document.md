@@ -1,3 +1,13 @@
+---
+title: "DANFE Simplificado Tipo 2"
+slug: "nt-2026-003-v1-00-danfe-simplificado-tipo-2"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "2ef826027e0e8423ba9dc2f53ee7197f8bfdcc399a30459b72da977528600f13"
+converted_at_utc: "2026-06-25T17:45:21.201069+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_17ffeb99d2c1f80f00904d016d110ccdb72ebe85ecbd63c75b6b018e4be49296.png)
 
 Nota Fiscal Eletrônica - NF-e

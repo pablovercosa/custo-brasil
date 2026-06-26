@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "0a60137242cc4c5cfdca07871f94fb1be257b74bc8c461caf893abab7ade39bf"
+converted_at_utc: "2026-06-25T14:52:33.319707+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_a22de9a632d41a91c3c8b1c2c1926dcfcda76eba440bf2853484818cf86956f6.png)
 
 ## Projeto Nota Fiscal Eletrônica

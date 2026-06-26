@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt2020-002v-1-01-espec-fica-para-ipi"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "1b9f7d65e64df8f99c2f3636caf912943cb27c64f4f954ec2076a249bb71bc3e"
+converted_at_utc: "2026-06-25T16:08:33.389283+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_d10bc023f796ba2c3ef62470305293cd96d0d00dc0b6c2995eefb509bddaa6ec.png)
 
 ![Image](assets/image_000001_b482d78f434434ec1187fdac1e4782cb553b6f1bdf97dbbd30d7f849bf58a7c6.png)

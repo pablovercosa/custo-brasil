@@ -1,5 +1,18 @@
 # anexo-iv-manual-de-conting-ncia-nfc-e
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `anexo-iv-manual-de-conting-ncia-nfc-e`.
+- Categoria: `manual`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# anexo-iv-manual-de-conting-ncia-nfc-e
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `anexo-iv-manual-de-conting-ncia-nfc-e`.

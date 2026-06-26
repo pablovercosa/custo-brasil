@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal de Consumidor Eletrônica"
+slug: "nt-nfce-2014-001"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "cbb68bf9ef3119ea631d85016d988f608998c85ff536cea0ede3f4a003a7c791"
+converted_at_utc: "2026-06-25T15:35:07.918932+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_8d5d0c0e62af3151466e42b41f7de3556918135c51406d35a13b425f1c00468e.png)
 
 ## Projeto Nota Fiscal de Consumidor Eletrônica

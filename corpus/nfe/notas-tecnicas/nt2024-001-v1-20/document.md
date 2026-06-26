@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt2024-001-v1-20"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "fc5e648cac11ed84e1107f273893776af2b9cfa748a0a5332748100e82e05b86"
+converted_at_utc: "2026-06-25T17:18:34.656967+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_093dacd555f5a74d5d40cbc0c490bf46f0234439b1bbbe5aeceb344343b478c6.png)
 
 ![Image](assets/image_000001_1a0eec6cf4929dcc882a5041ad28677b9c1203f6180bd2fe6975b1ff18e6ce15.png)

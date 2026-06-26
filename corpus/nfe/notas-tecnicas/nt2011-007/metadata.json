@@ -1,35 +1,32 @@
 {
-  "canonical_id": "nt2011-007",
-  "slug": "nt2011-007",
-  "title": "Nota Tecnica 2011/007 - Prazo do Cancelamento da Nota Fiscal Eletronica",
-  "category": "nota_tecnica",
-  "source_family": "portal_nacional_nfe",
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2011-007",
+  "category": "nota_tecnica",
+  "conversion": {
+    "image_export_mode": "referenced",
+    "output_format": "md",
+    "target_type": "zip",
+    "tool": "docling-server"
+  },
+  "converted_at_utc": "2026-06-25T14:55:07.000000+00:00",
   "original_filename": "NT2011.007.pdf",
-  "original_sha256": "1969689ecdec7bc8826dd521836241b202d9d2ed76329eb69be63aa07c7b8751",
   "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Tecnicas/NT2011.007.pdf",
-  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=04BIflQt1aY=",
+  "original_sha256": "1969689ecdec7bc8826dd521836241b202d9d2ed76329eb69be63aa07c7b8751",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt2011-007/assets/",
     "document": "corpus/nfe/notas-tecnicas/nt2011-007/document.md",
     "metadata": "corpus/nfe/notas-tecnicas/nt2011-007/metadata.json"
   },
-  "conversion": {
-    "tool": "docling-server",
-    "output_format": "md",
-    "image_export_mode": "referenced",
-    "target_type": "zip"
-  },
+  "slug": "nt2011-007",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=04BIflQt1aY=",
+  "status": "published",
+  "title": "Nota Tecnica 2011/007 - Prazo do Cancelamento da Nota Fiscal Eletronica",
   "validation": {
+    "asset_count": 5,
     "contains_base64_images": false,
     "contains_data_image": false,
-    "missing_image_refs_count": 0,
-    "asset_count": 5,
-    "image_refs_count": 5
-  },
-  "status": "unknown",
-  "notes": [
-    "Documento preparado publicamente sem commit nesta fase.",
-    "Revisao humana ainda recomendada para pequenos artefatos de espacamento e cabecalho."
-  ]
+    "image_refs_count": 5,
+    "missing_image_refs_count": 0
+  }
 }

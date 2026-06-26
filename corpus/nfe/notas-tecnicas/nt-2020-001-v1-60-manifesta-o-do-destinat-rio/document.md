@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt-2020-001-v1-60-manifesta-o-do-destinat-rio"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "f610878ad54708086aaa20dc668d714adf89cf109b8afbea687f69ef733efe46"
+converted_at_utc: "2026-06-25T17:08:41.813769+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_27b2c984847ad2e0d7cc1cfc58f795b37c86087d8ae02bd6caad209a9fb1c13b.png)
 
 ## Projeto Nota Fiscal Eletrônica

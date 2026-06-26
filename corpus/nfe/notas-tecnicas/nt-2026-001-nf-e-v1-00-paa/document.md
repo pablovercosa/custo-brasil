@@ -1,3 +1,13 @@
+---
+title: "Controle de Versões"
+slug: "nt-2026-001-nf-e-v1-00-paa"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "b1514106678d8f3617266f92d3eadf98b8f10c6a7f240804fc1a9508d32aa65c"
+converted_at_utc: "2026-06-25T20:20:43.525089+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_0ab56e348120dd50af9169de366ae956f6c282801d7d879e5a5a8a2b9b3cd607.png)
 
 Nota Fiscal Eletrônica - NF-e

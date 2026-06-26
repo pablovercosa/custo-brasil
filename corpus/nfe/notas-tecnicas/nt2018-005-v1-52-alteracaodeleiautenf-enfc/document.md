@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt2018-005-v1-52-alteracaodeleiautenf-enfc"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "c2c299ee59397a495c88b7b83826f39ca44e0d070bfeebbb9d9ff61d32a58ec7"
+converted_at_utc: "2026-06-25T16:45:26.356565+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_35275780acb0d31ddb21fd9c4701fe8147ff393dea5a610e299aca65e937f098.png)
 
 ![Image](assets/image_000001_00d35cbdcfbc2f23294cb991c71adb452af701fc1931f6b52f8df9ce207c1841.png)

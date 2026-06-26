@@ -1,7 +1,7 @@
 {
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
   "canonical_id": "tabela-cclass",
-  "category": "geral",
+  "category": "tabela",
   "conversion": {
     "image_export_mode": "none",
     "output_format": "csv",
@@ -12,14 +12,14 @@
   "original_filename": "Tabela-cClass.xlsx",
   "original_sha256": "c2f1419188cf780c11dbd15a477ea8d6425b50e90d8f40a1cef7dfc2edd5309d",
   "public_paths": {
-    "document": "corpus/geral/tabelas-federais/tabela-cclass/document.md",
-    "metadata": "corpus/geral/tabelas-federais/tabela-cclass/metadata.json",
-    "csv": "corpus/geral/tabelas-federais/tabela-cclass/csv/"
+    "csv": "corpus/geral/tabelas-federais/tabela-cclass/csv/",
+    "document": "corpus/geral/tabelas-federais/tabela-cclass/README.md",
+    "metadata": "corpus/geral/tabelas-federais/tabela-cclass/metadata.json"
   },
   "slug": "tabela-cclass",
   "source_family": "portal_nacional_nfe",
   "source_url": "",
-  "status": "converted",
+  "status": "published",
   "title": "Tabela cClass",
   "validation": {
     "asset_count": 0,

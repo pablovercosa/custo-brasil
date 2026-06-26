@@ -1,15 +1,16 @@
 {
-  "slug": "tabela-ncm-2022",
+  "category": "tabela",
   "corpus_category": "geral",
-  "source_family": "portal_nacional_nfe",
-  "source_url": "",
-  "original_sha256": "b06ecddeb15e36688e6398c36f51ae29b7ef6dfc1eca765c1c37ee9416a64e7b",
-  "original_filename": "Tabela NCM 2022 com Utrib_Comércio Exterior_vigência 01.02.26.xlsx",
-  "title": "Tabela NCM 2022",
-  "status": "published",
   "derived_public_files": {
     "metadata": "corpus/geral/tabelas-federais/tabela-ncm-2022/metadata.json",
     "readme": "corpus/geral/tabelas-federais/tabela-ncm-2022/README.md"
   },
-  "published_at": "2026-06-26T00:00:00+00:00"
+  "original_filename": "Tabela NCM 2022 com Utrib_Com\u00e9rcio Exterior_vig\u00eancia 01.02.26.xlsx",
+  "original_sha256": "b06ecddeb15e36688e6398c36f51ae29b7ef6dfc1eca765c1c37ee9416a64e7b",
+  "published_at": "2026-06-26T00:00:00+00:00",
+  "slug": "tabela-ncm-2022",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "status": "published",
+  "title": "Tabela NCM 2022"
 }

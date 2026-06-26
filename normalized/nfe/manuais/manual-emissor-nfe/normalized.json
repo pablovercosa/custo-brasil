@@ -12,7 +12,7 @@
   "source_family": "portal_nacional_nfe",
   "source_path": "sources/portal-nacional-nfe/manuais/manual-emissor-nfe/source.json",
   "status": "published",
-  "title": "Emissor de Nota Fiscal Eletrônica",
+  "title": "Emissor de Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 1,
     "contains_base64_images": false,

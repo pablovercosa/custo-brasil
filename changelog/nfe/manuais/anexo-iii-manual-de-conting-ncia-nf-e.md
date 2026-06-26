@@ -1,5 +1,18 @@
 # anexo-iii-manual-de-conting-ncia-nf-e
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `anexo-iii-manual-de-conting-ncia-nf-e`.
+- Categoria: `manual`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# anexo-iii-manual-de-conting-ncia-nf-e
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `anexo-iii-manual-de-conting-ncia-nf-e`.

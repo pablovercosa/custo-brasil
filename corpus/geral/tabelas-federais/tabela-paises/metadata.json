@@ -1,7 +1,7 @@
 {
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
   "canonical_id": "tabela-paises",
-  "category": "geral",
+  "category": "tabela",
   "conversion": {
     "image_export_mode": "none",
     "output_format": "csv",
@@ -9,22 +9,22 @@
     "tool": "openpyxl+xlrd"
   },
   "converted_at_utc": "2026-06-26T15:51:41.588165+00:00",
-  "original_filename": "Tabela de Países - Ref. NT 2018.003. v1.01.ods",
+  "original_filename": "Tabela de Pa\u00edses - Ref. NT 2018.003. v1.01.ods",
   "original_sha256": "76386b536812e13baf5f09f49c057e78650be387a96c576377c3998f39358a9f",
   "public_paths": {
-    "document": "corpus/geral/tabelas-federais/tabela-paises/document.md",
-    "metadata": "corpus/geral/tabelas-federais/tabela-paises/metadata.json",
-    "csv": "corpus/geral/tabelas-federais/tabela-paises/csv/"
+    "csv": "corpus/geral/tabelas-federais/tabela-paises/csv/",
+    "document": "corpus/geral/tabelas-federais/tabela-paises/README.md",
+    "metadata": "corpus/geral/tabelas-federais/tabela-paises/metadata.json"
   },
   "slug": "tabela-paises",
   "source_family": "portal_nacional_nfe",
   "source_url": "",
-  "status": "converted",
-  "title": "Tabela de Países",
+  "status": "published",
+  "title": "Tabela de Pa\u00edses",
   "validation": {
     "asset_count": 0,
     "sheets": [
-      "Tabela de Países - Ref. NT 2018.003. v1.01"
+      "Tabela de Pa\u00edses - Ref. NT 2018.003. v1.01"
     ],
     "total_rows": 266
   }

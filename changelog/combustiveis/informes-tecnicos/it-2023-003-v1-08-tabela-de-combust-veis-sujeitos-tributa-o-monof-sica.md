@@ -1,5 +1,18 @@
 # it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica`.
+- Categoria: `informe_tecnico`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica`.

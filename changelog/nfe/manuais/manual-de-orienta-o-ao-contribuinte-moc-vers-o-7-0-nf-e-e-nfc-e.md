@@ -1,5 +1,18 @@
 # manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e`.
+- Categoria: `manual`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e`.

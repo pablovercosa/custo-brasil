@@ -1,7 +1,7 @@
 {
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
   "canonical_id": "indice-mistura-biocombustivel",
-  "category": "geral",
+  "category": "tabela",
   "conversion": {
     "image_export_mode": "none",
     "output_format": "csv",
@@ -12,15 +12,15 @@
   "original_filename": "tbIndiceMisturaBioCombustivel_20260424.xlsx",
   "original_sha256": "940b812405355fecd258fa0cc0800a9dbec26bd3e9ef52362ca3e93cdbbbe578",
   "public_paths": {
-    "document": "corpus/geral/tabelas-federais/indice-mistura-biocombustivel/document.md",
-    "metadata": "corpus/geral/tabelas-federais/indice-mistura-biocombustivel/metadata.json",
-    "csv": "corpus/geral/tabelas-federais/indice-mistura-biocombustivel/csv/"
+    "csv": "corpus/geral/tabelas-federais/indice-mistura-biocombustivel/csv/",
+    "document": "corpus/geral/tabelas-federais/indice-mistura-biocombustivel/README.md",
+    "metadata": "corpus/geral/tabelas-federais/indice-mistura-biocombustivel/metadata.json"
   },
   "slug": "indice-mistura-biocombustivel",
   "source_family": "portal_nacional_nfe",
   "source_url": "",
-  "status": "converted",
-  "title": "Índice de Mistura de Biocombustível",
+  "status": "published",
+  "title": "\u00cdndice de Mistura de Biocombust\u00edvel",
   "validation": {
     "asset_count": 0,
     "sheets": [

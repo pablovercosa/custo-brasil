@@ -1,15 +1,35 @@
 {
-  "slug": "tabela-nfeabi-v2",
-  "corpus_category": "geral",
-  "source_family": "portal_nacional_nfe",
-  "status": "published",
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "tabela-nfeabi-v2",
+  "category": "tabela",
   "document_path": "corpus/geral/tabelas-federais/tabela-nfeabi-v2/README.md",
   "metadata_path": "corpus/geral/tabelas-federais/tabela-nfeabi-v2/metadata.json",
-  "created_at": "2026-06-26T15:56:26.286156+00:00",
-  "updated_at": null,
-  "fields": null,
-  "rules": null,
-  "tables": null,
-  "validation": null,
-  "published_at": "2026-06-26T00:00:00+00:00"
+  "normalization_status": "manual_published",
+  "original_filename": "Tabela de C\u00f3digos NFe ABI - v2.00 - Minuta.xlsx",
+  "original_sha256": "e23d659c83bb8bb31129e7ee9d4fdbe0be820e6d4cc4ffe9bdc7bf53f9e3c783",
+  "published_at_utc": "2026-06-26T15:51:41.033797+00:00",
+  "slug": "tabela-nfeabi-v2",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal_nacional_nfe/geral/tabelas-federais/tabela-nfeabi-v2/source.json",
+  "status": "published",
+  "title": "C\u00f3digos NFe ABI v2.00",
+  "validation": {
+    "asset_count": 0,
+    "sheets": [
+      "modOper",
+      "natOper",
+      "detOper",
+      "ModNat",
+      "espImovel",
+      "enquadramento",
+      "tpInstrumento",
+      "meioPag",
+      "vOperacIndiv",
+      "vTornaIndiv",
+      "vRedAjusteIndiv",
+      "vRedSocialIndiv",
+      "vBC"
+    ],
+    "total_rows": 218
+  }
 }

@@ -1,3 +1,13 @@
+---
+title: "CÓDIGO DE BENEFÍCIO FISCAL   Sistema Público de Escrituração Digital"
+slug: "cbenef-pr-html"
+category: "cbenef"
+source_family: "sefaz_pr"
+original_sha256: "3af437cd3c4ef34e1e59890f41286c0a471a5b30d61635db98fa6da57816fa79"
+converted_at_utc: "2026-06-26T15:56:26.276494+00:00"
+status: "published"
+type: "tax_benefit_table"
+---
 :::::::::::::::::::::::::: {#main .section .main-container .container .js-quickedit-main-content role="main"}
 ::::::::::::::::::::::::: row
 :::::::::::::::::::::::: {#main-content .section .col-xs-12 .container-wrapper}

@@ -1,15 +1,16 @@
 {
-  "slug": "cbenef-pr-html",
+  "category": "cbenef",
   "corpus_category": "nfe",
+  "derived_public_files": {
+    "document": "corpus/nfe/Estado de PR/cbenef-pr-html/document.md",
+    "metadata": "corpus/nfe/Estado de PR/cbenef-pr-html/metadata.json"
+  },
+  "original_filename": "C\u00d3DIGO DE BENEF\u00cdCIO FISCAL _ Sistema P\u00fablico de Escritura\u00e7\u00e3o Digital.html",
+  "original_sha256": "3af437cd3c4ef34e1e59890f41286c0a471a5b30d61635db98fa6da57816fa79",
+  "published_at": "2026-06-26T00:00:00+00:00",
+  "slug": "cbenef-pr-html",
   "source_family": "sefaz_pr",
   "source_url": "",
-  "original_sha256": "3af437cd3c4ef34e1e59890f41286c0a471a5b30d61635db98fa6da57816fa79",
-  "original_filename": "CÓDIGO DE BENEFÍCIO FISCAL _ Sistema Público de Escrituração Digital.html",
-  "title": "Código de Benefício Fiscal PR",
   "status": "published",
-  "derived_public_files": {
-    "metadata": "corpus/nfe/Estado de PR/cbenef-pr-html/metadata.json",
-    "document": "corpus/nfe/Estado de PR/cbenef-pr-html/document.md"
-  },
-  "published_at": "2026-06-26T00:00:00+00:00"
+  "title": "C\u00f3digo de Benef\u00edcio Fiscal PR"
 }

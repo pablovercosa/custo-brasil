@@ -1,3 +1,13 @@
+---
+title: "Validações cBenef Rio Grande do Sul"
+slug: "validacoes-cbenef-rs"
+category: "cbenef"
+source_family: "portal_nacional_nfe"
+original_sha256: "8ea7808360bac24468f3e907721324c3fa3dcb0bd01bb6e2c0eed21f504c25a0"
+converted_at_utc: "2026-06-26T15:51:43.123370+00:00"
+status: "published"
+type: "tax_benefit_table"
+---
 ## Validações cBenef
 
 ## 

@@ -1,15 +1,16 @@
 {
-  "slug": "tabela-nfeabi-v2",
+  "category": "tabela",
   "corpus_category": "geral",
-  "source_family": "portal_nacional_nfe",
-  "source_url": "",
-  "original_sha256": "e23d659c83bb8bb31129e7ee9d4fdbe0be820e6d4cc4ffe9bdc7bf53f9e3c783",
-  "original_filename": "Tabela de Códigos NFe ABI - v2.00 - Minuta.xlsx",
-  "title": "Códigos NFe ABI v2.00",
-  "status": "published",
   "derived_public_files": {
     "metadata": "corpus/geral/tabelas-federais/tabela-nfeabi-v2/metadata.json",
     "readme": "corpus/geral/tabelas-federais/tabela-nfeabi-v2/README.md"
   },
-  "published_at": "2026-06-26T00:00:00+00:00"
+  "original_filename": "Tabela de C\u00f3digos NFe ABI - v2.00 - Minuta.xlsx",
+  "original_sha256": "e23d659c83bb8bb31129e7ee9d4fdbe0be820e6d4cc4ffe9bdc7bf53f9e3c783",
+  "published_at": "2026-06-26T00:00:00+00:00",
+  "slug": "tabela-nfeabi-v2",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "status": "published",
+  "title": "C\u00f3digos NFe ABI v2.00"
 }

@@ -1,3 +1,13 @@
+---
+title: "cBenef Rio Grande do Sul"
+slug: "cbenef-rs"
+category: "cbenef"
+source_family: "portal_nacional_nfe"
+original_sha256: "c0876ac7d12abaf58129b8b506339fbb0365a7b0fe4f465c6217692e11552a25"
+converted_at_utc: "2026-06-26T15:51:43.001065+00:00"
+status: "published"
+type: "tax_benefit_table"
+---
 # cBenef Rio Grande do Sul
 
 ## Origem

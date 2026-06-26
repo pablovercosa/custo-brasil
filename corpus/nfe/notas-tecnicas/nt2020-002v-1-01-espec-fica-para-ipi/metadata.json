@@ -9,8 +9,8 @@
     "tool": "docling-server"
   },
   "converted_at_utc": "2026-06-25T16:08:33.389283+00:00",
-  "original_filename": "NT2020.002v.1.01- específica para IPI.pdf",
-  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Técnicas/NT2020.002v.1.01- específica para IPI.pdf",
+  "original_filename": "NT2020.002v.1.01- espec\u00edfica para IPI.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT2020.002v.1.01- espec\u00edfica para IPI.pdf",
   "original_sha256": "1b9f7d65e64df8f99c2f3636caf912943cb27c64f4f954ec2076a249bb71bc3e",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt2020-002v-1-01-espec-fica-para-ipi/assets/",
@@ -21,7 +21,7 @@
   "source_family": "portal_nacional_nfe",
   "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
   "status": "published",
-  "title": "Projeto Nota Fiscal Eletrônica",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 12,
     "contains_base64_images": false,

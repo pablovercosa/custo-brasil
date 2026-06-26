@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt2020-006-v1-31-intermediador-e-marketplace"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "449c1816a67555082891be24f509c57b8e71096f3f8efaf9a71fcb79c2640600"
+converted_at_utc: "2026-06-25T16:24:15.493579+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_fb7492c9815fc92aa4d06c7459e53a5e1b29f063408767ed6f687628e719d9ea.png)
 
 ![Image](assets/image_000001_9dcbed07271170bf8c86f9f1f3d5014c44077f81ee1c971c4c01859606c93129.png)

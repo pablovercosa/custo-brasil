@@ -1,15 +1,16 @@
 {
-  "slug": "tabela-cprodanp",
+  "category": "tabela",
   "corpus_category": "geral",
-  "source_family": "portal_nacional_nfe",
-  "source_url": "",
-  "original_sha256": "8271a80007548b0151cc00b769d4b84359cc37429c1d26ce68402b48e7d00b1a",
-  "original_filename": "Tabela_Codigo_Produto_ANP-20241118.xlsx",
-  "title": "Código Produto ANP",
-  "status": "published",
   "derived_public_files": {
     "metadata": "corpus/geral/tabelas-federais/tabela-cprodanp/metadata.json",
     "readme": "corpus/geral/tabelas-federais/tabela-cprodanp/README.md"
   },
-  "published_at": "2026-06-26T00:00:00+00:00"
+  "original_filename": "Tabela_Codigo_Produto_ANP-20241118.xlsx",
+  "original_sha256": "8271a80007548b0151cc00b769d4b84359cc37429c1d26ce68402b48e7d00b1a",
+  "published_at": "2026-06-26T00:00:00+00:00",
+  "slug": "tabela-cprodanp",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "status": "published",
+  "title": "C\u00f3digo Produto ANP"
 }

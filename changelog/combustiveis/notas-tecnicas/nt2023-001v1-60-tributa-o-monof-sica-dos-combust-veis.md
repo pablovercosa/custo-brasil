@@ -1,5 +1,18 @@
 # nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis`.
+- Categoria: `nota_tecnica`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis`.

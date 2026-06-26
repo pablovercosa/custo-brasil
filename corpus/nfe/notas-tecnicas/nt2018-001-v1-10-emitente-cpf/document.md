@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt2018-001-v1-10-emitente-cpf"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "68cddfe35273cbe0385497d5f2f6adca3b332c8da71dade66aa4836a936a14d1"
+converted_at_utc: "2026-06-25T15:48:55.902501+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_07d1d111e89c633b88a114e9d16cdce79e8de3b23961f0cead9224f25591a18e.png)
 
 ![Image](assets/image_000001_4fc0d79bbc3c828273c857afb51fbe5bc89226806c4b551e5caff2dbaef13e3a.png)

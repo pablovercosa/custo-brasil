@@ -1,3 +1,13 @@
+---
+title: "Código de Produto ANP"
+slug: "tabela-cprodanp"
+category: "tabela"
+source_family: "portal_nacional_nfe"
+original_sha256: "8271a80007548b0151cc00b769d4b84359cc37429c1d26ce68402b48e7d00b1a"
+converted_at_utc: "2026-06-26T15:51:40.934020+00:00"
+status: "published"
+type: "tabular_data"
+---
 # Código de Produto ANP
 
 ## Origem

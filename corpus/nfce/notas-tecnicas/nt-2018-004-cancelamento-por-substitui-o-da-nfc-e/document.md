@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt-2018-004-cancelamento-por-substitui-o-da-nfc-e"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "793c8130e74192e5874970533c05d6c9c66626e0d24826d3a6494e1bddc9eb75"
+converted_at_utc: "2026-06-25T16:30:51.026763+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_87068efaacdcfba37c009d21d2142f80bf18f025f314e97058cd11f62feb52d0.png)
 
 ![Image](assets/image_000001_3ebe18e7d44788c92d727014eb2f6f20d633408aa48e34420ad14e0f9a1cbed8.png)

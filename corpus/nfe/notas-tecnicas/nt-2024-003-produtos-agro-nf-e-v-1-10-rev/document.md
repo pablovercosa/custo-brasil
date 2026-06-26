@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt-2024-003-produtos-agro-nf-e-v-1-10-rev"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "d7609f48772db2ccbff6784b3e51a138433733ddff3deba84640622f82397966"
+converted_at_utc: "2026-06-25T15:46:41.464919+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_da658f7b7e0934b297e095184573798c7f2b0e4846f42c462768b4c17783e190.png)
 
 ## Projeto Nota Fiscal Eletrônica

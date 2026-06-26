@@ -1,3 +1,13 @@
+---
+title: "Sistema Nota Fiscal Eletrônica"
+slug: "moc-nfe-abi-vis-o-geral-v1-00-minuta"
+category: "manual"
+source_family: "portal_nacional_nfe"
+original_sha256: "e97da2101819cbf57a45e782f005c94efad8a0377296720f013ca76483289bd1"
+converted_at_utc: "2026-06-25T17:28:42.202158+00:00"
+status: "published"
+type: "manual"
+---
 ![Image](assets/image_000000_86ee764c3f75abd5e2567413878780f648d091693920cd927b9c4d31dfcab951.png)
 
 ## Sistema Nota Fiscal Eletrônica

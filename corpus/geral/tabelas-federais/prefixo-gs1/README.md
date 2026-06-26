@@ -1,3 +1,13 @@
+---
+title: "Prefixo GS1"
+slug: "prefixo-gs1"
+category: "tabela"
+source_family: "portal_nacional_nfe"
+original_sha256: "6f75b924f7fc97a2b5c4b6483479c035304ec642b48eebc61bd2b1afb5b62606"
+converted_at_utc: "2026-06-26T15:50:44.187079+00:00"
+status: "published"
+type: "tabular_data"
+---
 # Prefixo GS1
 
 ## Origem

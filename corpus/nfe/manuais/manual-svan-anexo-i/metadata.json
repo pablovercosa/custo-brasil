@@ -1,7 +1,7 @@
 {
   "authority": "Portal Nacional da Nota Fiscal Eletronica",
   "canonical_id": "manual-svan-anexo-i",
-  "category": "nfe",
+  "category": "manual",
   "conversion": {
     "image_export_mode": "referenced",
     "output_format": "md",
@@ -18,7 +18,7 @@
   "slug": "manual-svan-anexo-i",
   "source_family": "portal_nacional_nfe",
   "source_url": "",
-  "status": "converted",
+  "status": "published",
   "title": "Manual SVAN - Anexo I",
   "validation": {
     "asset_count": 0,

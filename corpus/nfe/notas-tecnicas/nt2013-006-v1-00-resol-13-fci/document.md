@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt2013-006-v1-00-resol-13-fci"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "04f5a42d407e2d57c0849cb415bd2c7bd4b7924c3d6bbb45eddcd7025dd40603"
+converted_at_utc: "2026-06-25T15:05:00.372583+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_03ca96dd47c3c944f1e1f5e8116e5ec97276920c675b8587f83e37ae1cc6fe3d.png)
 
 ## Projeto Nota Fiscal Eletrônica

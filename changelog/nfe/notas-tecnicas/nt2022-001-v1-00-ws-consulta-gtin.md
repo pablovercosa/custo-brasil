@@ -1,5 +1,18 @@
 # nt2022-001-v1-00-ws-consulta-gtin
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `nt2022-001-v1-00-ws-consulta-gtin`.
+- Categoria: `nota_tecnica`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# nt2022-001-v1-00-ws-consulta-gtin
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `nt2022-001-v1-00-ws-consulta-gtin`.

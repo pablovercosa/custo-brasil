@@ -1,5 +1,18 @@
 # it2023-004v1-03-atualiza-fcp
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `it2023-004v1-03-atualiza-fcp`.
+- Categoria: `informe_tecnico`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# it2023-004v1-03-atualiza-fcp
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `it2023-004v1-03-atualiza-fcp`.

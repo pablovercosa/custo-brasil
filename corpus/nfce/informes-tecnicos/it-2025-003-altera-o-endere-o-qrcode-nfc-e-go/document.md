@@ -1,3 +1,13 @@
+---
+title: "Nota Fiscal de Consumidor Eletrônica"
+slug: "it-2025-003-altera-o-endere-o-qrcode-nfc-e-go"
+category: "informe_tecnico"
+source_family: "portal_nacional_nfe"
+original_sha256: "c1b849609693bb5e152311786aa8430218a6d98b43cc6be16b13a02049b2fb92"
+converted_at_utc: "2026-06-25T20:44:53.350585+00:00"
+status: "published"
+type: "informe_tecnico"
+---
 ![Image](assets/image_000000_7a5c608ebf2476aa4427ba5891caf57dabe8e756de4dd3585ae5bdc5eb507aee.png)
 
 ## Nota Fiscal de Consumidor Eletrônica

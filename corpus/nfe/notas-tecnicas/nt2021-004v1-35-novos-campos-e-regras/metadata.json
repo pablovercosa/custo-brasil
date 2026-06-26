@@ -10,7 +10,7 @@
   },
   "converted_at_utc": "2026-06-25T16:52:09.975861+00:00",
   "original_filename": "NT2021.004v1.35 - Novos Campos e Regras.pdf",
-  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Técnicas/NT2021.004v1.35 - Novos Campos e Regras.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT2021.004v1.35 - Novos Campos e Regras.pdf",
   "original_sha256": "e33f067c25a024e3cddd99162baa337eaa7c090f4476c44af394059de3e3ae16",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt2021-004v1-35-novos-campos-e-regras/assets/",
@@ -21,7 +21,7 @@
   "source_family": "portal_nacional_nfe",
   "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
   "status": "published",
-  "title": "Projeto Nota Fiscal Eletrônica",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 23,
     "contains_base64_images": false,

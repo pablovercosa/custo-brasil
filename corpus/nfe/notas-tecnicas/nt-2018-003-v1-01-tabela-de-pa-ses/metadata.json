@@ -9,8 +9,8 @@
     "tool": "docling-server"
   },
   "converted_at_utc": "2026-06-25T15:09:54.578267+00:00",
-  "original_filename": "NT 2018-003 -v1.01 - Tabela de Países.pdf",
-  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Técnicas/NT 2018-003 -v1.01 - Tabela de Países.pdf",
+  "original_filename": "NT 2018-003 -v1.01 - Tabela de Pa\u00edses.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT 2018-003 -v1.01 - Tabela de Pa\u00edses.pdf",
   "original_sha256": "d10873751b86934180a25c0e8a91b0be1808ee0355f5fdb51fd98b22e6652d42",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt-2018-003-v1-01-tabela-de-pa-ses/assets/",
@@ -21,7 +21,7 @@
   "source_family": "portal_nacional_nfe",
   "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
   "status": "published",
-  "title": "Projeto Nota Fiscal Eletrônica",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 7,
     "contains_base64_images": false,

@@ -1,15 +1,23 @@
 {
-  "slug": "cbenef-sp-ods",
-  "corpus_category": "nfe",
-  "source_family": "portal_nacional_nfe",
-  "status": "published",
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "cbenef-sp-ods",
+  "category": "cbenef",
   "document_path": "corpus/nfe/Estado de SP/cbenef-sp-ods/README.md",
   "metadata_path": "corpus/nfe/Estado de SP/cbenef-sp-ods/metadata.json",
-  "created_at": "2026-06-26T15:56:26.301324+00:00",
-  "updated_at": null,
-  "fields": null,
-  "rules": null,
-  "tables": null,
-  "validation": null,
-  "published_at": "2026-06-26T00:00:00+00:00"
+  "normalization_status": "manual_published",
+  "original_filename": "Tabela-cBenef-SP-v20260610.ods",
+  "original_sha256": "fd19516387dfbdfb53ad12f48dd8df3ffdc448fc3101357eaee0875f190ccfc6",
+  "published_at_utc": "2026-06-26T15:51:42.761213+00:00",
+  "slug": "cbenef-sp-ods",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal_nacional_nfe/nfe/Estado de SP/cbenef-sp-ods/source.json",
+  "status": "published",
+  "title": "cBenef S\u00e3o Paulo (ODS)",
+  "validation": {
+    "asset_count": 0,
+    "sheets": [
+      "Tabela-cBenef-SP-v20260610"
+    ],
+    "total_rows": 317
+  }
 }

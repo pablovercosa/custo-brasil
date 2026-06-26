@@ -1,3 +1,13 @@
+---
+title: "Sistema Nota Fiscal Eletrônica"
+slug: "it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026"
+category: "informe_tecnico"
+source_family: "portal_nacional_nfe"
+original_sha256: "19953feb5695e728cf15a91be144b7115b3079a31be5ba0fa6eb46af58db1172"
+converted_at_utc: "2026-06-25T20:44:27.185656+00:00"
+status: "published"
+type: "informe_tecnico"
+---
 ![Image](assets/image_000000_b70516377e3077df5bb3360e0483e01c27b71fa42f20e2c54c151fac9b119ea3.png)
 
 ![Image](assets/image_000001_a9b1d1601c4484180d757697cd0ab40d19f0c9cd9166651b416a83a8f25897bc.png)

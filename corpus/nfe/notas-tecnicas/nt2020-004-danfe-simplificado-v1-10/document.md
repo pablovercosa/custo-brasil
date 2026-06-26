@@ -1,3 +1,13 @@
+---
+title: "Sistema Nota Fiscal Eletrônica"
+slug: "nt2020-004-danfe-simplificado-v1-10"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "f2c422ed3490793d674475a7edee7cfc34bd3819c4b880f2d3ae39c16a409f8a"
+converted_at_utc: "2026-06-25T15:22:59.748274+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_4f9898c530d8bf82e36dfb5fd14a054dff0ddfd8c9cdd867d989d833a12c8c33.png)
 
 ![Image](assets/image_000001_b5e9770915d74f696b205aff61062d20847875f0de7ae843a033467d41be9a64.png)

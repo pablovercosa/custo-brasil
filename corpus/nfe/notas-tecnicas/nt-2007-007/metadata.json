@@ -10,7 +10,7 @@
   },
   "converted_at_utc": "2026-06-25T14:52:45.727414+00:00",
   "original_filename": "NT_2007_007.pdf",
-  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Técnicas/NT_2007_007.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/NT_2007_007.pdf",
   "original_sha256": "c35c63d3905c2f16aa78e92e27c3d648111c687263d5e1204baf08d3e927d5af",
   "public_paths": {
     "assets": "corpus/nfe/notas-tecnicas/nt-2007-007/assets/",
@@ -21,7 +21,7 @@
   "source_family": "portal_nacional_nfe",
   "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
   "status": "published",
-  "title": "Projeto Nota Fiscal Eletrônica",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
   "validation": {
     "asset_count": 4,
     "contains_base64_images": false,

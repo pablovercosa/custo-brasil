@@ -1,5 +1,18 @@
 # nt-2021-001-v1-01-evento-comprovante-entrega-nfe
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `nt-2021-001-v1-01-evento-comprovante-entrega-nfe`.
+- Categoria: `nota_tecnica`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# nt-2021-001-v1-01-evento-comprovante-entrega-nfe
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `nt-2021-001-v1-01-evento-comprovante-entrega-nfe`.

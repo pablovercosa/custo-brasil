@@ -1,3 +1,13 @@
+---
+title: "Edital de Transação PGDF SEEC nº 2 2025"
+slug: "edital-transacao-pgdf"
+category: "cbenef"
+source_family: "sefaz_df"
+original_sha256: "6ab21c337d42ae432d37326b536d829ef01b8ece615821a62bdc1fef0056d53f"
+converted_at_utc: "2026-06-26T15:56:24.768619+00:00"
+status: "published"
+type: "tax_benefit_table"
+---
 ::::::::: {#containerPrincipal .col-md-9 .ml-sm-auto .col-lg-10 .px-md-4 role="main"}
 :::::::: exibirConteudoPrincipal
 ::::::: container-flex

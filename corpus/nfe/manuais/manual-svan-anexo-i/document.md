@@ -1,3 +1,13 @@
+---
+title: "Manual SVAN - Anexo I"
+slug: "manual-svan-anexo-i"
+category: "manual"
+source_family: "portal_nacional_nfe"
+original_sha256: "3844f5b460e37ebf3fb3d3da4a64d50c15c4ff3861e58d6b7be98d930034416a"
+converted_at_utc: "2026-06-26T15:51:44.213295+00:00"
+status: "published"
+type: "manual"
+---
 ## **Anexo I**
 
 # Inclusão de Contribuinte no Ambiente de Homologação

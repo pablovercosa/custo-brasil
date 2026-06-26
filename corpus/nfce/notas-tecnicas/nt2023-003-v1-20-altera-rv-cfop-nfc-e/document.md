@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt2023-003-v1-20-altera-rv-cfop-nfc-e"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "cba9a2750a6df08c4d2b54d28c1838e172e2a434b677fb52e909f7071579ba3b"
+converted_at_utc: "2026-06-25T16:09:17.946136+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_6c545e385dc554d4f2538dc5f2f8e123229188ad3a37c64853552479f699396f.png)
 
 ![Image](assets/image_000001_5dd5d5e16748c7abcded3a0035d3a12ebd8073cdc66cfc62ca495386dd8ab477.png)

@@ -1,3 +1,13 @@
+---
+title: "Sistema Nota Fiscal Eletrônica"
+slug: "nt-2013-007-v1-03-svc"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "e8d4e4f4b31a1e8c3d6b5ad33e94a387e22a78273009cdc8bceda70458d14d83"
+converted_at_utc: "2026-06-25T16:54:11.310052+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_49849da777e036bae4b1f079583a3d292c7d4718850826d59409b0240842aace.png)
 
 ## Sistema Nota Fiscal Eletrônica

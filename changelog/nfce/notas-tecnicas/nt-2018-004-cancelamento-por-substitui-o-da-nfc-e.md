@@ -1,5 +1,18 @@
 # nt-2018-004-cancelamento-por-substitui-o-da-nfc-e
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `nt-2018-004-cancelamento-por-substitui-o-da-nfc-e`.
+- Categoria: `nota_tecnica`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# nt-2018-004-cancelamento-por-substitui-o-da-nfc-e
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `nt-2018-004-cancelamento-por-substitui-o-da-nfc-e`.

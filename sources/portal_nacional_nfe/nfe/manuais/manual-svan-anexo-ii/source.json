@@ -1,15 +1,16 @@
 {
-  "slug": "manual-svan-anexo-ii",
+  "category": "manual",
   "corpus_category": "nfe",
+  "derived_public_files": {
+    "document": "corpus/nfe/manuais/manual-svan-anexo-ii/document.md",
+    "metadata": "corpus/nfe/manuais/manual-svan-anexo-ii/metadata.json"
+  },
+  "original_filename": "Anexo II.doc",
+  "original_sha256": "6f514b60d58c92e804da4b943bc31c06efd71cabe57a2dfca03a0d0e2b116c04",
+  "published_at": "2026-06-26T00:00:00+00:00",
+  "slug": "manual-svan-anexo-ii",
   "source_family": "portal_nacional_nfe",
   "source_url": "",
-  "original_sha256": "6f514b60d58c92e804da4b943bc31c06efd71cabe57a2dfca03a0d0e2b116c04",
-  "original_filename": "Anexo II.doc",
-  "title": "Manual SVAN Anexo II",
   "status": "published",
-  "derived_public_files": {
-    "metadata": "corpus/nfe/manuais/manual-svan-anexo-ii/metadata.json",
-    "document": "corpus/nfe/manuais/manual-svan-anexo-ii/document.md"
-  },
-  "published_at": "2026-06-26T00:00:00+00:00"
+  "title": "Manual SVAN Anexo II"
 }

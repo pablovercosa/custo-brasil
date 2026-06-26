@@ -1,5 +1,18 @@
 # nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024`.
+- Categoria: `nota_tecnica`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024`.

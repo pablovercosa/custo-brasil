@@ -1,5 +1,18 @@
 # it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026`.
+- Categoria: `informe_tecnico`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026`.

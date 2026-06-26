@@ -1,5 +1,18 @@
 # nt2013-008-v1-00-cancelamento-nfe
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `nt2013-008-v1-00-cancelamento-nfe`.
+- Categoria: `nota_tecnica`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# nt2013-008-v1-00-cancelamento-nfe
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `nt2013-008-v1-00-cancelamento-nfe`.

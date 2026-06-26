@@ -1,3 +1,13 @@
+---
+title: "CONTROLE DE VERSÕES"
+slug: "20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code"
+category: "manual"
+source_family: "portal_nacional_nfe"
+original_sha256: "bf906cc212f1edd19b1df7d1cdf4fbf5e73c3fec77567b6e69fa74453c95db5e"
+converted_at_utc: "2026-06-25T18:31:12.793996+00:00"
+status: "published"
+type: "manual"
+---
 ![Image](assets/image_000000_66f8a70e74c503458e7e7a8adbdf0fbb6a619afe9becd228c4b5547d1b138adf.png)
 
 ![Image](assets/image_000001_1a05d4a521ec455247f6101dd0641b728ca5b1be303e5336ed53870e69b5885a.png)

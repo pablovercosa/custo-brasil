@@ -1,3 +1,13 @@
+---
+title: "Sistema Nota Fiscal Eletrônica"
+slug: "nt2021-003-v1-40-valida-o-gtin-grupo-iv"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "d22fe9fabbc99c123c87133c9e149d57ecda0276f106f1f0374efb47372adc01"
+converted_at_utc: "2026-06-25T17:06:36.591784+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_a3ff6632ccdedec923f4e64a4ff70ed052836443e56a0385ed01a1e9c124b328.png)
 
 ![Image](assets/image_000001_5797ae04b720524dc668d2277f2a92110f8cf0f73a52e9294a339a4c62a1f43a.png)

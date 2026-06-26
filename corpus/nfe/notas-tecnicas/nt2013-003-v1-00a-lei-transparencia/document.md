@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica"
+slug: "nt2013-003-v1-00a-lei-transparencia"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "4a53e95d95a37e1bb8c7785ceea25116b110fcf7bddd28dd4378cac9bda3e68b"
+converted_at_utc: "2026-06-25T15:07:31.227144+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_5ea50f18afa4fbebab2faeb3926b1c12b29a69e3334c061fb448fc6955f3f163.png)
 
 ## Projeto Nota Fiscal Eletrônica

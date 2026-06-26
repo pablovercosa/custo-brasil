@@ -1,3 +1,13 @@
+---
+title: "Tabela CFOP"
+slug: "tabela-cfop-2023"
+category: "tabela"
+source_family: "portal_nacional_nfe"
+original_sha256: "b9dfd271a4f11816df525cfde3818e1d7561ab951d5649f3654bda303041d02a"
+converted_at_utc: "2026-06-26T15:51:40.876985+00:00"
+status: "published"
+type: "tabular_data"
+---
 # Tabela CFOP
 
 ## Origem

@@ -1,5 +1,18 @@
 # nt2022-004-v1-10-regras-de-valida-o-issqn
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `nt2022-004-v1-10-regras-de-valida-o-issqn`.
+- Categoria: `nota_tecnica`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# nt2022-004-v1-10-regras-de-valida-o-issqn
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `nt2022-004-v1-10-regras-de-valida-o-issqn`.

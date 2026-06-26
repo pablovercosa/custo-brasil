@@ -1,3 +1,13 @@
+---
+title: "Manual SVAN - Anexo II"
+slug: "manual-svan-anexo-ii"
+category: "manual"
+source_family: "portal_nacional_nfe"
+original_sha256: "6f514b60d58c92e804da4b943bc31c06efd71cabe57a2dfca03a0d0e2b116c04"
+converted_at_utc: "2026-06-26T15:51:44.796377+00:00"
+status: "published"
+type: "manual"
+---
 **Anexo II**
 
 Os endereços das URLs a partir das quais poderão ser obtidos os certificados digitais para os ambientes de homologação e de produção, são:

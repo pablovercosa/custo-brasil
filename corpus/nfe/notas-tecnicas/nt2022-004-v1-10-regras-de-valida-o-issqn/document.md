@@ -1,3 +1,13 @@
+---
+title: "Sistema Nota Fiscal Eletrônica"
+slug: "nt2022-004-v1-10-regras-de-valida-o-issqn"
+category: "nota_tecnica"
+source_family: "portal_nacional_nfe"
+original_sha256: "58c4bfdbb0878a8240024317f376df57da595aa6cf726ef175ee4f4a097ea05d"
+converted_at_utc: "2026-06-25T15:33:57.727441+00:00"
+status: "published"
+type: "nota_tecnica"
+---
 ![Image](assets/image_000000_6c545e385dc554d4f2538dc5f2f8e123229188ad3a37c64853552479f699396f.png)
 
 ![Image](assets/image_000001_5dd5d5e16748c7abcded3a0035d3a12ebd8073cdc66cfc62ca495386dd8ab477.png)

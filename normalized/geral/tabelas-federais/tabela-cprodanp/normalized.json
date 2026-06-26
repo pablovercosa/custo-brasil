@@ -1,15 +1,23 @@
 {
-  "slug": "tabela-cprodanp",
-  "corpus_category": "geral",
-  "source_family": "portal_nacional_nfe",
-  "status": "published",
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "tabela-cprodanp",
+  "category": "tabela",
   "document_path": "corpus/geral/tabelas-federais/tabela-cprodanp/README.md",
   "metadata_path": "corpus/geral/tabelas-federais/tabela-cprodanp/metadata.json",
-  "created_at": "2026-06-26T15:56:26.283003+00:00",
-  "updated_at": null,
-  "fields": null,
-  "rules": null,
-  "tables": null,
-  "validation": null,
-  "published_at": "2026-06-26T00:00:00+00:00"
+  "normalization_status": "manual_published",
+  "original_filename": "Tabela_Codigo_Produto_ANP-20241118.xlsx",
+  "original_sha256": "8271a80007548b0151cc00b769d4b84359cc37429c1d26ce68402b48e7d00b1a",
+  "published_at_utc": "2026-06-26T15:51:40.934020+00:00",
+  "slug": "tabela-cprodanp",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal_nacional_nfe/geral/tabelas-federais/tabela-cprodanp/source.json",
+  "status": "published",
+  "title": "C\u00f3digo de Produto ANP",
+  "validation": {
+    "asset_count": 0,
+    "sheets": [
+      "cProdANP"
+    ],
+    "total_rows": 1032
+  }
 }

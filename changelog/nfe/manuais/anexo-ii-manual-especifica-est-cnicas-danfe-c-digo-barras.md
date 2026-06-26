@@ -1,5 +1,18 @@
 # anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras`.
+- Categoria: `manual`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras`.

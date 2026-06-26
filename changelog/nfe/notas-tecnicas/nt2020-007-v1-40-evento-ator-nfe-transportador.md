@@ -1,5 +1,18 @@
 # nt2020-007-v1-40-evento-ator-nfe-transportador
 
+## Correcao de metadados (2026-06-26T16:22:28.249961+00:00)
+
+- Documento: `nt2020-007-v1-40-evento-ator-nfe-transportador`.
+- Categoria: `nota_tecnica`.
+- Fonte: Portal Nacional da Nota Fiscal Eletronica.
+- Correcoes aplicadas:
+  - normalized:fields-updated
+- Corrigido em: 2026-06-26T16:22:28.249961+00:00.
+
+---
+
+# nt2020-007-v1-40-evento-ator-nfe-transportador
+
 ## Publicacao automatica via batch-pdf
 
 - Documento: `nt2020-007-v1-40-evento-ator-nfe-transportador`.

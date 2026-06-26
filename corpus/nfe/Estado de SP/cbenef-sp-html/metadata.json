@@ -1,7 +1,7 @@
 {
   "authority": "SEFAZ/{uf_sigla}",
   "canonical_id": "cbenef-sp-html",
-  "category": "nfe",
+  "category": "cbenef",
   "conversion": {
     "image_export_mode": "referenced",
     "output_format": "md",
@@ -9,18 +9,18 @@
     "tool": "pandoc"
   },
   "converted_at_utc": "2026-06-26T15:56:20.727870+00:00",
-  "original_filename": "Páginas - Códigos de Benefícios Fiscais - cBenef.html",
+  "original_filename": "P\u00e1ginas - C\u00f3digos de Benef\u00edcios Fiscais - cBenef.html",
   "original_sha256": "8f93aee658fa0648a3fb43119143b74e26a39e0424f30816813bcf290d7d3c10",
   "public_paths": {
+    "assets": "corpus/nfe/Estado de SP/cbenef-sp-html/assets/",
     "document": "corpus/nfe/Estado de SP/cbenef-sp-html/document.md",
-    "metadata": "corpus/nfe/Estado de SP/cbenef-sp-html/metadata.json",
-    "assets": "corpus/nfe/Estado de SP/cbenef-sp-html/assets/"
+    "metadata": "corpus/nfe/Estado de SP/cbenef-sp-html/metadata.json"
   },
   "slug": "cbenef-sp-html",
   "source_family": "sefaz_sp",
   "source_url": "",
-  "status": "converted",
-  "title": "Páginas - Códigos de Benefícios Fiscais - cBenef",
+  "status": "published",
+  "title": "P\u00e1ginas - C\u00f3digos de Benef\u00edcios Fiscais - cBenef",
   "validation": {
     "asset_count": 1,
     "lines": 1440

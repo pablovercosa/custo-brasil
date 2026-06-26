@@ -1,15 +1,23 @@
 {
-  "slug": "tabela-lista-servicos",
-  "corpus_category": "geral",
-  "source_family": "portal_nacional_nfe",
-  "status": "published",
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "tabela-lista-servicos",
+  "category": "tabela",
   "document_path": "corpus/geral/tabelas-federais/tabela-lista-servicos/README.md",
   "metadata_path": "corpus/geral/tabelas-federais/tabela-lista-servicos/metadata.json",
-  "created_at": "2026-06-26T15:56:26.284837+00:00",
-  "updated_at": null,
-  "fields": null,
-  "rules": null,
-  "tables": null,
-  "validation": null,
-  "published_at": "2026-06-26T00:00:00+00:00"
+  "normalization_status": "manual_published",
+  "original_filename": "Tabela de C\u00f3digos de Item da Lista de Servi\u00e7os.xlsx",
+  "original_sha256": "152ff24ac7d1dd4854a25591c33b93e109ecee5dc159f4bf5fa85f27a7567a14",
+  "published_at_utc": "2026-06-26T15:51:40.963471+00:00",
+  "slug": "tabela-lista-servicos",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal_nacional_nfe/geral/tabelas-federais/tabela-lista-servicos/source.json",
+  "status": "published",
+  "title": "Lista de Servi\u00e7os",
+  "validation": {
+    "asset_count": 0,
+    "sheets": [
+      "cListServ"
+    ],
+    "total_rows": 202
+  }
 }

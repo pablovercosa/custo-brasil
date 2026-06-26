@@ -1,3 +1,13 @@
+---
+title: "Projeto Nota Fiscal Eletrônica do Gás"
+slug: "moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f"
+category: "manual"
+source_family: "portal_nacional_nfe"
+original_sha256: "d99e74368add4f59b5f50c179d78e7038eded22181a3434bff9add7e7700688a"
+converted_at_utc: "2026-06-25T17:56:10.924642+00:00"
+status: "published"
+type: "manual"
+---
 ![Image](assets/image_000000_747f21c508093ae483a7477521710a55958473c55d41d921344627713d347223.png)
 
 ## Projeto Nota Fiscal Eletrônica do Gás
