@@ -289,6 +289,15 @@
       "title": "Manual SVAN Anexo II",
       "status": "published",
       "published_at": "2026-06-26T00:00:00+00:00"
+    },
+    {
+      "slug": "manual-svan-v1-00",
+      "category": "nfe",
+      "subdir": "manuais",
+      "family": "portal_nacional_nfe",
+      "title": "Manual SVAN v1.00",
+      "status": "published",
+      "published_at": "2026-06-26T00:00:00+00:00"
     }
   ],
   "schemas": {

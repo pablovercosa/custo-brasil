@@ -1,0 +1,15 @@
+{
+  "slug": "manual-svan-v1-00",
+  "corpus_category": "nfe",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "original_sha256": "b22555575763026a1318165447401f3efd64340d281600e79ef8dec55e09f647",
+  "original_filename": "Manual da SEFAZ Virtual para Empresas.doc",
+  "title": "Manual SVAN v1.00",
+  "status": "published",
+  "derived_public_files": {
+    "metadata": "corpus/nfe/manuais/manual-svan-v1-00/metadata.json",
+    "document": "corpus/nfe/manuais/manual-svan-v1-00/document.md"
+  },
+  "published_at": "2026-06-26T00:00:00+00:00"
+}

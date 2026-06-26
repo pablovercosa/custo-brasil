@@ -1,0 +1,28 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "manual-svan-v1-00",
+  "category": "nfe",
+  "conversion": {
+    "image_export_mode": "referenced",
+    "output_format": "md",
+    "target_type": "dir",
+    "tool": "libreoffice+pandoc"
+  },
+  "converted_at_utc": "2026-06-26T15:51:43.776024+00:00",
+  "original_filename": "Manual da SEFAZ Virtual para Empresas.doc",
+  "original_sha256": "b22555575763026a1318165447401f3efd64340d281600e79ef8dec55e09f647",
+  "public_paths": {
+    "document": "corpus/nfe/manuais/manual-svan-v1-00/document.md",
+    "metadata": "corpus/nfe/manuais/manual-svan-v1-00/metadata.json",
+    "assets": "corpus/nfe/manuais/manual-svan-v1-00/assets/"
+  },
+  "slug": "manual-svan-v1-00",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "status": "converted",
+  "title": "Manual SEFAZ Virtual para Empresas",
+  "validation": {
+    "asset_count": 0,
+    "lines": 330
+  }
+}
