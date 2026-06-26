@@ -1,0 +1,35 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica",
+  "category": "informe_tecnico",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/combustiveis/informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica/document.md",
+    "corpus/combustiveis/informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica/metadata.json",
+    "corpus/combustiveis/informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica/assets/image_000000_a9de4cc7f57563311b8b3912d3fbf9959e734040d075a1d2a78bc86db67ec3df.png",
+    "corpus/combustiveis/informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica/assets/image_000001_050dd047183368c3224146f5a1711f1741aa657b5ef86eb0ef3aefb71b049c24.png",
+    "corpus/combustiveis/informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica/assets/image_000002_98a5f89cbbb1569d2c52fbd01097c349a0c5b15f9f3c1e9891acaf54b655cb4b.png",
+    "corpus/combustiveis/informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica/assets/image_000003_791cc89fcb314877d938c4b9916b786419814e4072b8c97b1284207c28525a21.png",
+    "corpus/combustiveis/informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica/assets/image_000004_f6a3063a2b6b08fe26cab57dcb593decf129fc33298bb555c6df767fa99d8fbc.png",
+    "corpus/combustiveis/informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica/assets/image_000005_f6a3063a2b6b08fe26cab57dcb593decf129fc33298bb555c6df767fa99d8fbc.png",
+    "sources/portal-nacional-nfe/combustiveis/informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica/source.json",
+    "normalized/combustiveis/informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica/normalized.json",
+    "changelog/combustiveis/informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica.md"
+  ],
+  "original_filename": "IT_2023.003_v1.08 - Tabela de Combustíveis Sujeitos à Tributação Monofásica.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Informes Técnicos/IT_2023.003_v1.08 - Tabela de Combustíveis Sujeitos à Tributação Monofásica.pdf",
+  "original_sha256": "1540944fec21c889bab21af41d931bb124af71d892126fe321962303f5179bff",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T20:42:59.884218+00:00",
+  "slug": "it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Sistema Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 6,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 6,
+    "missing_image_refs_count": 0
+  }
+}
