@@ -1,4 +1,71 @@
 {
   "schema_version": "1.0",
-  "sources": []
+  "sources": [
+    {
+      "id": "portal-nacional-nfe-documentos",
+      "url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+      "title": "Portal Nacional NF-e — Documentos",
+      "source_family": "portal_nacional_nfe",
+      "authority": "Portal Nacional da Nota Fiscal Eletronica",
+      "document_types": ["manual", "nota_tecnica", "informe_tecnico", "esquema_xml", "tabela"],
+      "collection_mode": "html_links",
+      "priority": 10,
+      "notes": "Pagina principal de documentos do Portal Nacional NF-e."
+    },
+    {
+      "id": "portal-nacional-nfe-notas-tecnicas",
+      "url": "https://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=ndIjl+iEFdE=",
+      "title": "Portal Nacional NF-e — Notas Técnicas",
+      "source_family": "portal_nacional_nfe",
+      "authority": "Portal Nacional da Nota Fiscal Eletronica",
+      "document_types": ["nota_tecnica"],
+      "collection_mode": "html_links",
+      "priority": 20,
+      "notes": "Pagina oficial de notas tecnicas do Portal Nacional NF-e."
+    },
+    {
+      "id": "portal-nacional-nfe-informes-tecnicos",
+      "url": "https://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=BMPFMBoln3w=",
+      "title": "Portal Nacional NF-e — Informes Técnicos",
+      "source_family": "portal_nacional_nfe",
+      "authority": "Portal Nacional da Nota Fiscal Eletronica",
+      "document_types": ["informe_tecnico"],
+      "collection_mode": "html_links",
+      "priority": 30,
+      "notes": "Pagina oficial de informes tecnicos do Portal Nacional NF-e."
+    },
+    {
+      "id": "portal-nacional-nfe-manuais",
+      "url": "https://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=04BIflQt1aY=",
+      "title": "Portal Nacional NF-e — Manuais",
+      "source_family": "portal_nacional_nfe",
+      "authority": "Portal Nacional da Nota Fiscal Eletronica",
+      "document_types": ["manual"],
+      "collection_mode": "html_links",
+      "priority": 40,
+      "notes": "Pagina oficial de manuais do Portal Nacional NF-e."
+    },
+    {
+      "id": "portal-nacional-nfe-esquemas-xml",
+      "url": "https://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=hXzemuyNHW4=",
+      "title": "Portal Nacional NF-e — Esquemas XML",
+      "source_family": "portal_nacional_nfe",
+      "authority": "Portal Nacional da Nota Fiscal Eletronica",
+      "document_types": ["esquema_xml"],
+      "collection_mode": "html_links",
+      "priority": 50,
+      "notes": "Pagina oficial de esquemas XML do Portal Nacional NF-e."
+    },
+    {
+      "id": "portal-nacional-nfe-tabelas",
+      "url": "https://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=/NJarYc9nus=",
+      "title": "Portal Nacional NF-e — Tabelas e Diversos",
+      "source_family": "portal_nacional_nfe",
+      "authority": "Portal Nacional da Nota Fiscal Eletronica",
+      "document_types": ["tabela", "cbenef"],
+      "collection_mode": "html_links",
+      "priority": 60,
+      "notes": "Pagina oficial de tabelas e documentos diversos do Portal Nacional NF-e."
+    }
+  ]
 }

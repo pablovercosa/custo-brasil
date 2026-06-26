@@ -1,0 +1,201 @@
+{
+  "source_family": "portal_nacional_nfe",
+  "items": [
+    {
+      "slug": "tabela-municipios",
+      "category": "geral",
+      "subdir": "tabelas-federais",
+      "title": "Tabela de Municípios",
+      "converted_at": "2026-06-26T15:56:26.277475+00:00"
+    },
+    {
+      "slug": "cclass-trib-2026",
+      "category": "geral",
+      "subdir": "tabelas-federais",
+      "title": "Classificação Tributária (cClassTrib)",
+      "converted_at": "2026-06-26T15:56:26.277926+00:00"
+    },
+    {
+      "slug": "ccredpres-2025",
+      "category": "geral",
+      "subdir": "tabelas-federais",
+      "title": "Crédito Presumido (cCredPres)",
+      "converted_at": "2026-06-26T15:56:26.278586+00:00"
+    },
+    {
+      "slug": "tabela-cfop-2023",
+      "category": "geral",
+      "subdir": "tabelas-federais",
+      "title": "Tabela CFOP",
+      "converted_at": "2026-06-26T15:56:26.279692+00:00"
+    },
+    {
+      "slug": "aliquotas-cbs-2026",
+      "category": "geral",
+      "subdir": "tabelas-federais",
+      "title": "Alíquotas da CBS",
+      "converted_at": "2026-06-26T15:56:26.280505+00:00"
+    },
+    {
+      "slug": "tabela-fcp-uf-2025",
+      "category": "geral",
+      "subdir": "tabelas-federais",
+      "title": "Alíquotas FCP por UF",
+      "converted_at": "2026-06-26T15:56:26.281459+00:00"
+    },
+    {
+      "slug": "tabela-cclass",
+      "category": "geral",
+      "subdir": "tabelas-federais",
+      "title": "Tabela cClass",
+      "converted_at": "2026-06-26T15:56:26.282338+00:00"
+    },
+    {
+      "slug": "tabela-cprodanp",
+      "category": "geral",
+      "subdir": "tabelas-federais",
+      "title": "Código de Produto ANP",
+      "converted_at": "2026-06-26T15:56:26.283213+00:00"
+    },
+    {
+      "slug": "tabela-bandeiras-cartao",
+      "category": "geral",
+      "subdir": "tabelas-federais",
+      "title": "Bandeiras de Cartão",
+      "converted_at": "2026-06-26T15:56:26.284239+00:00"
+    },
+    {
+      "slug": "tabela-lista-servicos",
+      "category": "geral",
+      "subdir": "tabelas-federais",
+      "title": "Lista de Serviços",
+      "converted_at": "2026-06-26T15:56:26.285042+00:00"
+    },
+    {
+      "slug": "tabela-nfeabi-v2",
+      "category": "geral",
+      "subdir": "tabelas-federais",
+      "title": "Códigos NFe ABI v2.00",
+      "converted_at": "2026-06-26T15:56:26.286709+00:00"
+    },
+    {
+      "slug": "tabela-combustiveis-monofasica",
+      "category": "geral",
+      "subdir": "tabelas-federais",
+      "title": "Combustíveis - Tributação Monofásica",
+      "converted_at": "2026-06-26T15:56:26.287987+00:00"
+    },
+    {
+      "slug": "tabela-meios-pagamento",
+      "category": "geral",
+      "subdir": "tabelas-federais",
+      "title": "Meios de Pagamento",
+      "converted_at": "2026-06-26T15:56:26.290104+00:00"
+    },
+    {
+      "slug": "tabela-regimes-especiais",
+      "category": "geral",
+      "subdir": "tabelas-federais",
+      "title": "Padrões de Regime Especial",
+      "converted_at": "2026-06-26T15:56:26.291312+00:00"
+    },
+    {
+      "slug": "tabela-paises",
+      "category": "geral",
+      "subdir": "tabelas-federais",
+      "title": "Tabela de Países",
+      "converted_at": "2026-06-26T15:56:26.292632+00:00"
+    },
+    {
+      "slug": "tabela-tipos-veiculo",
+      "category": "geral",
+      "subdir": "tabelas-federais",
+      "title": "Tipo e Espécie de Veículo",
+      "converted_at": "2026-06-26T15:56:26.293920+00:00"
+    },
+    {
+      "slug": "tabela-ncm-2022",
+      "category": "geral",
+      "subdir": "tabelas-federais",
+      "title": "Tabela NCM 2022",
+      "converted_at": "2026-06-26T15:56:26.295178+00:00"
+    },
+    {
+      "slug": "prefixo-gs1",
+      "category": "geral",
+      "subdir": "tabelas-federais",
+      "title": "Prefixo GS1",
+      "converted_at": "2026-06-26T15:56:26.296605+00:00"
+    },
+    {
+      "slug": "tabela-unidades-medida",
+      "category": "geral",
+      "subdir": "tabelas-federais",
+      "title": "Unidades de Medida Comercial",
+      "converted_at": "2026-06-26T15:56:26.297848+00:00"
+    },
+    {
+      "slug": "indice-mistura-biocombustivel",
+      "category": "geral",
+      "subdir": "tabelas-federais",
+      "title": "Índice de Mistura de Biocombustível",
+      "converted_at": "2026-06-26T15:56:26.299106+00:00"
+    },
+    {
+      "slug": "cbenef-sp",
+      "category": "nfe",
+      "subdir": "Estado de SP",
+      "title": "cBenef São Paulo",
+      "converted_at": "2026-06-26T15:56:26.300578+00:00"
+    },
+    {
+      "slug": "cbenef-sp-ods",
+      "category": "nfe",
+      "subdir": "Estado de SP",
+      "title": "cBenef São Paulo (ODS)",
+      "converted_at": "2026-06-26T15:56:26.301778+00:00"
+    },
+    {
+      "slug": "cbenef-es",
+      "category": "nfe",
+      "subdir": "Estado de ES",
+      "title": "cBenef Espírito Santo",
+      "converted_at": "2026-06-26T15:56:26.303190+00:00"
+    },
+    {
+      "slug": "cbenef-rs",
+      "category": "nfe",
+      "subdir": "Estado de RS",
+      "title": "cBenef Rio Grande do Sul",
+      "converted_at": "2026-06-26T15:56:26.304778+00:00"
+    },
+    {
+      "slug": "validacoes-cbenef-rs",
+      "category": "nfe",
+      "subdir": "Estado de RS",
+      "title": "Validações cBenef RS",
+      "converted_at": "2026-06-26T15:56:26.306104+00:00"
+    },
+    {
+      "slug": "manual-svan-v1-00",
+      "category": "nfe",
+      "subdir": "manuais",
+      "title": "Manual SEFAZ Virtual para Empresas",
+      "converted_at": "2026-06-26T15:56:26.310462+00:00"
+    },
+    {
+      "slug": "manual-svan-anexo-i",
+      "category": "nfe",
+      "subdir": "manuais",
+      "title": "Manual SVAN - Anexo I",
+      "converted_at": "2026-06-26T15:56:26.312375+00:00"
+    },
+    {
+      "slug": "manual-svan-anexo-ii",
+      "category": "nfe",
+      "subdir": "manuais",
+      "title": "Manual SVAN - Anexo II",
+      "converted_at": "2026-06-26T15:56:26.313702+00:00"
+    }
+  ]
+}
