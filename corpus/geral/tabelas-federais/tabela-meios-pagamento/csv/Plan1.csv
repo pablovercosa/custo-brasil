@@ -1,0 +1,27 @@
+Tabela dos meios de pagamento,,,,
+tPag,Descrição,dIniVig ,dFimVig,Observações
+01,Dinheiro,2020-01-01 00:00:00,,
+02,Cheque,2020-01-01 00:00:00,,
+03,Cartão de Crédito,2020-01-01 00:00:00,,
+04,Cartão de Débito,2020-01-01 00:00:00,,
+05,"Cartão da Loja (Private Label), Crediário Digital, Outros Crediários ",2024-07-01 00:00:00,,"Cartão da loja (na forma de crediário), Crediário Digital, Crediário com ou sem Carnê etc. 
+Não usar para o cartão de loja ""bandeirado""."
+10,Vale Alimentação,2020-01-01 00:00:00,,
+11,Vale Refeição,2020-01-01 00:00:00,,
+12,Vale Presente,2020-01-01 00:00:00,,
+13,Vale Combustível,2020-01-01 00:00:00,,
+14,Duplicata Mercantil,2020-01-01 00:00:00,,"Duplicata Mercantil é um título de crédito vinculado a uma operação de venda ou prestação de serviços, disciplinado pela Lei nº 5.474/68."
+15,Boleto Bancário,2020-01-01 00:00:00,,
+16,Depósito Bancário,2020-01-01 00:00:00,,
+17,Pagamento Instantâneo (PIX) - Dinâmico,2024-07-01 00:00:00,,PIX realizado com a geração do Qr-Code de forma dinâmica ou URL dinâmica. As UF podem exigir que o código de transação do pagamento desse tipo de PIX seja informado na NF-e/NFC-e. 
+18,TED (Transferência Eletrônica Disponível),2020-01-01 00:00:00,,Transferência entre contas de diferentes bancos.
+19,"Programa de fidelidade, Cashback, Crédito Virtual",2020-01-01 00:00:00,,
+20,Pagamento Instantâneo (PIX) - Estático,2024-07-01 00:00:00,,"Pix realizado com QR code estático, ou chave Pix, ou informações de agência e conta."
+21,Crédito em Loja,2024-07-01 00:00:00,,"Crédito em loja decorrente de valor pago anteriormente, de devolução de mercadoria etc."
+22,Pagamento Eletrônico não Informado - falha de hardware do sistema emissor,2024-07-01 00:00:00,,"Usado para informar que o pagamento por meio eletrônico não foi integrado por falha no hardware do sistema emissor de documento fiscal eletrônico, exclusivamente quando, por tal falha, não for possível a emissão offline. É uma informação útil para as empresas que utilizam sistemas integrados, sobretudo para aquelas que são obrigadas à integração do pagamento eletrônico com o documento fiscal pela sua UF."
+23,Pagamento Instantâneo (PIX) - Automático,2026-05-04 00:00:00,,"Pagamentos recorrentes configurados para serem debitados automaticamente via Pix, a partir de autorização do pagador."
+24,"TEF - ""Book Transfer"" ",2026-05-04 00:00:00,,Transferência entre contas do mesmo banco.
+90,Sem Pagamento,2020-01-01 00:00:00,,
+91,Pagamento Posterior,2025-11-03 00:00:00,,"Usado para informar quando o pagamento for ocorrer em momento posterior à emissão do documento fiscal ou fato gerador do imposto. Especialmente nos casos em que a integração e vinculação dos meios de pagamentos ao documento fiscal seja obrigatória, via emissão de novo documento fiscal ou evento.
+Aplicabilidade: Pagamento Integral ou Parcial Posterior"
+99,Outros,2020-01-01 00:00:00,,"Quando o pagamento não estiver no rol desta tabela, o contribuinte deverá preencher o tipo de pagamento com ""Outros"" e informar, em campo específico da Nota Fiscal, a descrição adequada do meio de pagamento utilizado na operação ou prestação."

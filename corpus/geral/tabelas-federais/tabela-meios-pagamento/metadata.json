@@ -1,0 +1,31 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "tabela-meios-pagamento",
+  "category": "geral",
+  "conversion": {
+    "image_export_mode": "none",
+    "output_format": "csv",
+    "target_type": "dir",
+    "tool": "openpyxl+xlrd"
+  },
+  "converted_at_utc": "2026-06-26T15:51:41.047981+00:00",
+  "original_filename": "Tabela_de_meios_de_pagamento - 04032026.xlsx",
+  "original_sha256": "f85d4a6d50390f824921703d166d3f2f4ec637b7244fa922248ef14e782d8a2d",
+  "public_paths": {
+    "document": "corpus/geral/tabelas-federais/tabela-meios-pagamento/document.md",
+    "metadata": "corpus/geral/tabelas-federais/tabela-meios-pagamento/metadata.json",
+    "csv": "corpus/geral/tabelas-federais/tabela-meios-pagamento/csv/"
+  },
+  "slug": "tabela-meios-pagamento",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "status": "converted",
+  "title": "Meios de Pagamento",
+  "validation": {
+    "asset_count": 0,
+    "sheets": [
+      "Plan1"
+    ],
+    "total_rows": 25
+  }
+}

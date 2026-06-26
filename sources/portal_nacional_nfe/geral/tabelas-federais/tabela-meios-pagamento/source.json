@@ -1,0 +1,15 @@
+{
+  "slug": "tabela-meios-pagamento",
+  "corpus_category": "geral",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "original_sha256": "f85d4a6d50390f824921703d166d3f2f4ec637b7244fa922248ef14e782d8a2d",
+  "original_filename": "Tabela_de_meios_de_pagamento - 04032026.xlsx",
+  "title": "Meios de Pagamento",
+  "status": "published",
+  "derived_public_files": {
+    "metadata": "corpus/geral/tabelas-federais/tabela-meios-pagamento/metadata.json",
+    "readme": "corpus/geral/tabelas-federais/tabela-meios-pagamento/README.md"
+  },
+  "published_at": "2026-06-26T00:00:00+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "tabela-meios-pagamento",
+  "corpus_category": "geral",
+  "source_family": "portal_nacional_nfe",
+  "status": "published",
+  "document_path": "corpus/geral/tabelas-federais/tabela-meios-pagamento/README.md",
+  "metadata_path": "corpus/geral/tabelas-federais/tabela-meios-pagamento/metadata.json",
+  "created_at": "2026-06-26T15:56:26.288755+00:00",
+  "updated_at": null,
+  "fields": null,
+  "rules": null,
+  "tables": null,
+  "validation": null,
+  "published_at": "2026-06-26T00:00:00+00:00"
+}
