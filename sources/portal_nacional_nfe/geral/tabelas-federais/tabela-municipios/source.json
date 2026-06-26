@@ -1,0 +1,15 @@
+{
+  "slug": "tabela-municipios",
+  "corpus_category": "geral",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "original_sha256": "768a59b4705df926ee3d09533d122ca056c7440e0a7be1be5247e70fdb8354f0",
+  "original_filename": "250210_Tab_Municipios.xlsx",
+  "title": "Tabela de Municípios",
+  "status": "published",
+  "derived_public_files": {
+    "metadata": "corpus/geral/tabelas-federais/tabela-municipios/metadata.json",
+    "readme": "corpus/geral/tabelas-federais/tabela-municipios/README.md"
+  },
+  "published_at": "2026-06-26T00:00:00+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "tabela-municipios",
+  "corpus_category": "geral",
+  "source_family": "portal_nacional_nfe",
+  "status": "published",
+  "document_path": "corpus/geral/tabelas-federais/tabela-municipios/README.md",
+  "metadata_path": "corpus/geral/tabelas-federais/tabela-municipios/metadata.json",
+  "created_at": "2026-06-26T15:56:26.277097+00:00",
+  "updated_at": null,
+  "fields": null,
+  "rules": null,
+  "tables": null,
+  "validation": null,
+  "published_at": "2026-06-26T00:00:00+00:00"
+}
