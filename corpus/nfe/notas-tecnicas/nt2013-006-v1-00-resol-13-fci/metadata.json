@@ -1,0 +1,32 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2013-006-v1-00-resol-13-fci",
+  "category": "nota_tecnica",
+  "conversion": {
+    "image_export_mode": "referenced",
+    "output_format": "md",
+    "target_type": "zip",
+    "tool": "docling-server"
+  },
+  "converted_at_utc": "2026-06-25T15:05:00.372583+00:00",
+  "original_filename": "NT2013.006_v1.00_Resol_13_FCI.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Técnicas/NT2013.006_v1.00_Resol_13_FCI.pdf",
+  "original_sha256": "04f5a42d407e2d57c0849cb415bd2c7bd4b7924c3d6bbb45eddcd7025dd40603",
+  "public_paths": {
+    "assets": "corpus/nfe/notas-tecnicas/nt2013-006-v1-00-resol-13-fci/assets/",
+    "document": "corpus/nfe/notas-tecnicas/nt2013-006-v1-00-resol-13-fci/document.md",
+    "metadata": "corpus/nfe/notas-tecnicas/nt2013-006-v1-00-resol-13-fci/metadata.json"
+  },
+  "slug": "nt2013-006-v1-00-resol-13-fci",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 8,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 8,
+    "missing_image_refs_count": 0
+  }
+}
