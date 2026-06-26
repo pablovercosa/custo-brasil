@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2022-003v1-11-referenciamento",
+  "category": "nota_tecnica",
+  "document_path": "corpus/nfe/notas-tecnicas/nt2022-003v1-11-referenciamento/document.md",
+  "metadata_path": "corpus/nfe/notas-tecnicas/nt2022-003v1-11-referenciamento/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "NT2022.003v1.11-Referenciamento.pdf",
+  "original_sha256": "5eda1dbc0be00922e46972836fc81fa605772298ca6f80a96bac5210ba134e31",
+  "published_at_utc": "2026-06-25T16:25:45.816641+00:00",
+  "slug": "nt2022-003v1-11-referenciamento",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt2022-003v1-11-referenciamento/source.json",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 18,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 18,
+    "missing_image_refs_count": 0
+  }
+}
