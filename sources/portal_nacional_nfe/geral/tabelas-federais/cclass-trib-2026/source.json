@@ -1,0 +1,15 @@
+{
+  "slug": "cclass-trib-2026",
+  "corpus_category": "geral",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "original_sha256": "cc0242ed17ebf93e23ce892e3316850de2077fbc8cc7a82a54e0a553c045a71a",
+  "original_filename": "cClassTrib 2026_04_15.xlsx",
+  "title": "Classificação Tributária 2026",
+  "status": "published",
+  "derived_public_files": {
+    "metadata": "corpus/geral/tabelas-federais/cclass-trib-2026/metadata.json",
+    "readme": "corpus/geral/tabelas-federais/cclass-trib-2026/README.md"
+  },
+  "published_at": "2026-06-26T00:00:00+00:00"
+}

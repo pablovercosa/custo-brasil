@@ -1,0 +1,32 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "cclass-trib-2026",
+  "category": "geral",
+  "conversion": {
+    "image_export_mode": "none",
+    "output_format": "csv",
+    "target_type": "dir",
+    "tool": "openpyxl+xlrd"
+  },
+  "converted_at_utc": "2026-06-26T15:51:38.766291+00:00",
+  "original_filename": "cClassTrib 2026_04_15.xlsx",
+  "original_sha256": "cc0242ed17ebf93e23ce892e3316850de2077fbc8cc7a82a54e0a553c045a71a",
+  "public_paths": {
+    "document": "corpus/geral/tabelas-federais/cclass-trib-2026/document.md",
+    "metadata": "corpus/geral/tabelas-federais/cclass-trib-2026/metadata.json",
+    "csv": "corpus/geral/tabelas-federais/cclass-trib-2026/csv/"
+  },
+  "slug": "cclass-trib-2026",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "status": "converted",
+  "title": "Classificação Tributária (cClassTrib)",
+  "validation": {
+    "asset_count": 0,
+    "sheets": [
+      "cClass 15-04-2026",
+      "CST 15-04-2026"
+    ],
+    "total_rows": 1157
+  }
+}
