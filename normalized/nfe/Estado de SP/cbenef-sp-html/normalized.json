@@ -1,0 +1,15 @@
+{
+  "slug": "cbenef-sp-html",
+  "corpus_category": "nfe",
+  "source_family": "sefaz_sp",
+  "status": "published",
+  "document_path": "corpus/nfe/Estado de SP/cbenef-sp-html/document.md",
+  "metadata_path": "corpus/nfe/Estado de SP/cbenef-sp-html/metadata.json",
+  "created_at": "2026-06-26T15:56:26.306976+00:00",
+  "updated_at": null,
+  "fields": null,
+  "rules": null,
+  "tables": null,
+  "validation": null,
+  "published_at": "2026-06-26T00:00:00+00:00"
+}
