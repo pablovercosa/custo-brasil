@@ -1,0 +1,36 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2010-006",
+  "category": "nota_tecnica",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/nfe/notas-tecnicas/nt2010-006/document.md",
+    "corpus/nfe/notas-tecnicas/nt2010-006/metadata.json",
+    "corpus/nfe/notas-tecnicas/nt2010-006/assets/image_000000_cf0dd90c3722c3f434a6fdefc5694a09d60c3cce31f02fdf1132013c8c4c7f51.png",
+    "corpus/nfe/notas-tecnicas/nt2010-006/assets/image_000001_cec43d26bc0c17888fd68d130426b08f0b8e21f62bc14dadaf808fdb79d8c7a7.png",
+    "corpus/nfe/notas-tecnicas/nt2010-006/assets/image_000002_d87c696664b704cf8454577a6a5aa75279dbd851c3dedb3df0a5d876ccd83835.png",
+    "corpus/nfe/notas-tecnicas/nt2010-006/assets/image_000003_2fd64c2c7da4e788bc75fc55dfeb033432b0d9271a2fa1f3e6470b944e76e2f6.png",
+    "corpus/nfe/notas-tecnicas/nt2010-006/assets/image_000004_117b25ff9ed5d703f8caefb364cbd4391ed48888931ffcd826f5dc64c711fd62.png",
+    "corpus/nfe/notas-tecnicas/nt2010-006/assets/image_000005_423b90f30b15cec6b696a758c8364093b31a95cabb027f2dc6a465187ece212a.png",
+    "corpus/nfe/notas-tecnicas/nt2010-006/assets/image_000006_fdb2e810da04883816ca81dbc53221b69b2cd238024fcc76ccdf5ca31925dd19.png",
+    "sources/portal-nacional-nfe/nfe/notas-tecnicas/nt2010-006/source.json",
+    "normalized/nfe/notas-tecnicas/nt2010-006/normalized.json",
+    "changelog/nfe/notas-tecnicas/nt2010-006.md"
+  ],
+  "original_filename": "NT2010.006.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Técnicas/NT2010.006.pdf",
+  "original_sha256": "314a86d0261a55b5890836ac38162bddd8db6aec10400449f62454ad79d8617d",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T15:04:07.723577+00:00",
+  "slug": "nt2010-006",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 7,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 7,
+    "missing_image_refs_count": 0
+  }
+}
