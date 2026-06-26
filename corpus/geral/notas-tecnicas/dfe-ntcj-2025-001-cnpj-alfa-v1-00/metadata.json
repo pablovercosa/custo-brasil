@@ -1,0 +1,32 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "dfe-ntcj-2025-001-cnpj-alfa-v1-00",
+  "category": "nota_tecnica",
+  "conversion": {
+    "image_export_mode": "referenced",
+    "output_format": "md",
+    "target_type": "zip",
+    "tool": "docling-server"
+  },
+  "converted_at_utc": "2026-06-25T17:00:25.799904+00:00",
+  "original_filename": "DFe NTCJ 2025.001_CNPJ Alfa_v1.00.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Técnicas/DFe NTCJ 2025.001_CNPJ Alfa_v1.00.pdf",
+  "original_sha256": "671d546b24ad4682e267fc76a9eeca8f14ad15ead2be20721ee2aec5438cf964",
+  "public_paths": {
+    "assets": "corpus/geral/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00/assets/",
+    "document": "corpus/geral/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00/document.md",
+    "metadata": "corpus/geral/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00/metadata.json"
+  },
+  "slug": "dfe-ntcj-2025-001-cnpj-alfa-v1-00",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Nota Técnica Conjunta CNPJ Alfanumérico",
+  "validation": {
+    "asset_count": 7,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 7,
+    "missing_image_refs_count": 0
+  }
+}
