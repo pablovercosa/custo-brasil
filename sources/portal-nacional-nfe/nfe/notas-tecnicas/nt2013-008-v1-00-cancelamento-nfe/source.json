@@ -1,0 +1,35 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2013-008-v1-00-cancelamento-nfe",
+  "category": "nota_tecnica",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/nfe/notas-tecnicas/nt2013-008-v1-00-cancelamento-nfe/document.md",
+    "corpus/nfe/notas-tecnicas/nt2013-008-v1-00-cancelamento-nfe/metadata.json",
+    "corpus/nfe/notas-tecnicas/nt2013-008-v1-00-cancelamento-nfe/assets/image_000000_800a4b8a63597a6bb63fdd06a6d16b80b3898d87148b745aa839a7997426426d.png",
+    "corpus/nfe/notas-tecnicas/nt2013-008-v1-00-cancelamento-nfe/assets/image_000001_0eaf9468f17660078b2a0ec01cf1f9d13e9b723217a04dcec19809d906df1a45.png",
+    "corpus/nfe/notas-tecnicas/nt2013-008-v1-00-cancelamento-nfe/assets/image_000002_f6633e8554c5ba5281a65e6fd9fde4a841e72aa8762badd9357b607ec4d1b5ba.png",
+    "corpus/nfe/notas-tecnicas/nt2013-008-v1-00-cancelamento-nfe/assets/image_000003_f049c5bd76a24ce709c591e0e27ec3493f62665b205d5d3f994c78fa37ac0dd9.png",
+    "corpus/nfe/notas-tecnicas/nt2013-008-v1-00-cancelamento-nfe/assets/image_000004_89aa962382a550688505aac59aa3bd29ab82c91d39b98e943f6cdfe11420a533.png",
+    "corpus/nfe/notas-tecnicas/nt2013-008-v1-00-cancelamento-nfe/assets/image_000005_1b06c9d234a55f368757b60df80759db71bc08cdb15007f6efd5ba7b9ccc86ee.png",
+    "sources/portal-nacional-nfe/nfe/notas-tecnicas/nt2013-008-v1-00-cancelamento-nfe/source.json",
+    "normalized/nfe/notas-tecnicas/nt2013-008-v1-00-cancelamento-nfe/normalized.json",
+    "changelog/nfe/notas-tecnicas/nt2013-008-v1-00-cancelamento-nfe.md"
+  ],
+  "original_filename": "NT2013 008_v1 00_Cancelamento_NFe.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Técnicas/NT2013 008_v1 00_Cancelamento_NFe.pdf",
+  "original_sha256": "a8ea72ccfa5d8266c61f1b2911b88befd1c6a08ed56c0627713af210f624b439",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T15:04:32.157794+00:00",
+  "slug": "nt2013-008-v1-00-cancelamento-nfe",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Projeto Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 6,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 6,
+    "missing_image_refs_count": 0
+  }
+}

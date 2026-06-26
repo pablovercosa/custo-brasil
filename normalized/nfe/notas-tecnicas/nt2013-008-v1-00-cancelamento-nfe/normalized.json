@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2013-008-v1-00-cancelamento-nfe",
+  "category": "nota_tecnica",
+  "document_path": "corpus/nfe/notas-tecnicas/nt2013-008-v1-00-cancelamento-nfe/document.md",
+  "metadata_path": "corpus/nfe/notas-tecnicas/nt2013-008-v1-00-cancelamento-nfe/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "NT2013 008_v1 00_Cancelamento_NFe.pdf",
+  "original_sha256": "a8ea72ccfa5d8266c61f1b2911b88befd1c6a08ed56c0627713af210f624b439",
+  "published_at_utc": "2026-06-25T15:04:32.157794+00:00",
+  "slug": "nt2013-008-v1-00-cancelamento-nfe",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt2013-008-v1-00-cancelamento-nfe/source.json",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 6,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 6,
+    "missing_image_refs_count": 0
+  }
+}
