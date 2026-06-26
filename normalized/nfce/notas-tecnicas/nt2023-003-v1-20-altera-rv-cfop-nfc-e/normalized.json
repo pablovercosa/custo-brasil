@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2023-003-v1-20-altera-rv-cfop-nfc-e",
+  "category": "nota_tecnica",
+  "document_path": "corpus/nfce/notas-tecnicas/nt2023-003-v1-20-altera-rv-cfop-nfc-e/document.md",
+  "metadata_path": "corpus/nfce/notas-tecnicas/nt2023-003-v1-20-altera-rv-cfop-nfc-e/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "NT2023.003 - v1.20 - Altera RV CFOP NFC-e.pdf",
+  "original_sha256": "cba9a2750a6df08c4d2b54d28c1838e172e2a434b677fb52e909f7071579ba3b",
+  "published_at_utc": "2026-06-25T16:09:17.946136+00:00",
+  "slug": "nt2023-003-v1-20-altera-rv-cfop-nfc-e",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt2023-003-v1-20-altera-rv-cfop-nfc-e/source.json",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 8,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 8,
+    "missing_image_refs_count": 0
+  }
+}
