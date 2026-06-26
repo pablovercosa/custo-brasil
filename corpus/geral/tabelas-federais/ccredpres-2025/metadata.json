@@ -1,0 +1,32 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "ccredpres-2025",
+  "category": "geral",
+  "conversion": {
+    "image_export_mode": "none",
+    "output_format": "csv",
+    "target_type": "dir",
+    "tool": "openpyxl+xlrd"
+  },
+  "converted_at_utc": "2026-06-26T15:51:38.780751+00:00",
+  "original_filename": "cCredPres_2025-12-12Public.xlsx",
+  "original_sha256": "8d547b5afed3e82a15a6f5f41897dd99dcb686ecb21de3c1be344c8f57109df9",
+  "public_paths": {
+    "document": "corpus/geral/tabelas-federais/ccredpres-2025/document.md",
+    "metadata": "corpus/geral/tabelas-federais/ccredpres-2025/metadata.json",
+    "csv": "corpus/geral/tabelas-federais/ccredpres-2025/csv/"
+  },
+  "slug": "ccredpres-2025",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "status": "converted",
+  "title": "Crédito Presumido (cCredPres)",
+  "validation": {
+    "asset_count": 0,
+    "sheets": [
+      "cCredPres",
+      "Planilha2"
+    ],
+    "total_rows": 28
+  }
+}

@@ -19,6 +19,15 @@
       "title": "Classificação Tributária 2026",
       "status": "published",
       "published_at": "2026-06-26T00:00:00+00:00"
+    },
+    {
+      "slug": "ccredpres-2025",
+      "category": "geral",
+      "subdir": "tabelas-federais",
+      "family": "portal_nacional_nfe",
+      "title": "Crédito Presumido 2025",
+      "status": "published",
+      "published_at": "2026-06-26T00:00:00+00:00"
     }
   ],
   "schemas": {
