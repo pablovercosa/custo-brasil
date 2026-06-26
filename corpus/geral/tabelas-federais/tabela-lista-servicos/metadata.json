@@ -1,0 +1,31 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "tabela-lista-servicos",
+  "category": "geral",
+  "conversion": {
+    "image_export_mode": "none",
+    "output_format": "csv",
+    "target_type": "dir",
+    "tool": "openpyxl+xlrd"
+  },
+  "converted_at_utc": "2026-06-26T15:51:40.963471+00:00",
+  "original_filename": "Tabela de Códigos de Item da Lista de Serviços.xlsx",
+  "original_sha256": "152ff24ac7d1dd4854a25591c33b93e109ecee5dc159f4bf5fa85f27a7567a14",
+  "public_paths": {
+    "document": "corpus/geral/tabelas-federais/tabela-lista-servicos/document.md",
+    "metadata": "corpus/geral/tabelas-federais/tabela-lista-servicos/metadata.json",
+    "csv": "corpus/geral/tabelas-federais/tabela-lista-servicos/csv/"
+  },
+  "slug": "tabela-lista-servicos",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "status": "converted",
+  "title": "Lista de Serviços",
+  "validation": {
+    "asset_count": 0,
+    "sheets": [
+      "cListServ"
+    ],
+    "total_rows": 202
+  }
+}

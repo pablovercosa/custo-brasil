@@ -1,0 +1,15 @@
+{
+  "slug": "tabela-lista-servicos",
+  "corpus_category": "geral",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "original_sha256": "152ff24ac7d1dd4854a25591c33b93e109ecee5dc159f4bf5fa85f27a7567a14",
+  "original_filename": "Tabela de Códigos de Item da Lista de Serviços.xlsx",
+  "title": "Lista de Serviços",
+  "status": "published",
+  "derived_public_files": {
+    "metadata": "corpus/geral/tabelas-federais/tabela-lista-servicos/metadata.json",
+    "readme": "corpus/geral/tabelas-federais/tabela-lista-servicos/README.md"
+  },
+  "published_at": "2026-06-26T00:00:00+00:00"
+}
