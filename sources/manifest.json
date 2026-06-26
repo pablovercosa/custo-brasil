@@ -1,5 +1,42 @@
 {
-  "schema_version": "1.0",
-  "generated_at": null,
-  "documents": []
+    "schema_version": "1.0",
+    "generated_at": "2026-06-26T00:00:00+00:00",
+    "documents": [],
+    "schemas": {
+        "source": "Portal Nacional da Nota Fiscal Eletronica",
+        "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+        "categories": {
+            "nfe": {
+                "path": "corpus/nfe/schema",
+                "pl_count": 15,
+                "xsd_count": 137
+            },
+            "nfce": {
+                "path": "corpus/nfce/schema",
+                "pl_count": 2,
+                "xsd_count": 12
+            },
+            "nfag": {
+                "path": "corpus/nfag/schema",
+                "pl_count": 1,
+                "xsd_count": 18
+            },
+            "nfgas": {
+                "path": "corpus/nfgas/schema",
+                "pl_count": 1,
+                "xsd_count": 18
+            },
+            "reforma-tributaria": {
+                "path": "corpus/reforma-tributaria/schema",
+                "pl_count": 1,
+                "xsd_count": 18
+            },
+            "geral": {
+                "path": "corpus/geral/schema",
+                "pl_count": 3,
+                "xsd_count": 36
+            }
+        },
+        "total_xsd": 239
+    }
 }
