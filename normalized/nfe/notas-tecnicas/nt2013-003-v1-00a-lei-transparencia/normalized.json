@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2013-003-v1-00a-lei-transparencia",
+  "category": "nota_tecnica",
+  "document_path": "corpus/nfe/notas-tecnicas/nt2013-003-v1-00a-lei-transparencia/document.md",
+  "metadata_path": "corpus/nfe/notas-tecnicas/nt2013-003-v1-00a-lei-transparencia/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "NT2013.003_v1.00a_Lei_Transparencia.pdf",
+  "original_sha256": "4a53e95d95a37e1bb8c7785ceea25116b110fcf7bddd28dd4378cac9bda3e68b",
+  "published_at_utc": "2026-06-25T15:07:31.227144+00:00",
+  "slug": "nt2013-003-v1-00a-lei-transparencia",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt2013-003-v1-00a-lei-transparencia/source.json",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 9,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 9,
+    "missing_image_refs_count": 0
+  }
+}
