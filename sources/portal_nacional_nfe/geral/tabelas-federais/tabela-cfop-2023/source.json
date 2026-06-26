@@ -1,0 +1,15 @@
+{
+  "slug": "tabela-cfop-2023",
+  "corpus_category": "geral",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "original_sha256": "b9dfd271a4f11816df525cfde3818e1d7561ab951d5649f3654bda303041d02a",
+  "original_filename": "IT 2023.002-v1.00_Tabela_CFOP_Vigência_20230424.xlsx",
+  "title": "Tabela CFOP 2023",
+  "status": "published",
+  "derived_public_files": {
+    "metadata": "corpus/geral/tabelas-federais/tabela-cfop-2023/metadata.json",
+    "readme": "corpus/geral/tabelas-federais/tabela-cfop-2023/README.md"
+  },
+  "published_at": "2026-06-26T00:00:00+00:00"
+}
