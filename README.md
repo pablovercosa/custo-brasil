@@ -52,13 +52,24 @@ O projeto não substitui a fonte oficial, os schemas oficiais, a legislação ap
 2. Navegue por `corpus/` para ler os documentos convertidos.
 3. Links relativos entre documentos funcionam nativamente.
 
+## Fórmulas
+
+`formulas/` reúne fórmulas para cálculos tributários (ICMS próprio, ICMS-ST, PIS/COFINS não cumulativo, IBS/CBS) referenciadas aos documentos normativos do corpus. Cada fórmula contém front matter com `sources` ligando aos slugs dos documentos que a fundamentam.
+
 ## Agents e Skills
 
 Agents especializados em `agents/` para consulta fiscal, diff de versões, análise de schemas, explicação de rejeições SEFAZ e reforma tributária. Skills operacionais em `skills/` com passo-a-passo para cada tarefa.
 
-## Estrutura do corpus
+## Estrutura
 
 ```
+formulas/
+├── icms/               # ICMS próprio e ST
+├── pis-cofins/         # PIS/COFINS não cumulativo
+├── reforma-tributaria/ # IBS e CBS
+├── ipi/                # (reservado)
+└── iss/                # (reservado)
+
 corpus/
 ├── nfe/                    # NF-e (modelo 55) + NFAg + NFGas + NFeABI
 ├── nfce/                   # NFC-e (modelo 65)
