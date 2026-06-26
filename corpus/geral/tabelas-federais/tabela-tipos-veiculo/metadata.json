@@ -1,0 +1,31 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "tabela-tipos-veiculo",
+  "category": "geral",
+  "conversion": {
+    "image_export_mode": "none",
+    "output_format": "csv",
+    "target_type": "dir",
+    "tool": "openpyxl+xlrd"
+  },
+  "converted_at_utc": "2026-06-26T15:51:41.597803+00:00",
+  "original_filename": "Tabela de Tipo e Especie de Veículo.xlsx",
+  "original_sha256": "03c399be8a80fe0c2c99e0bb1dd04e2c23fc04890f070307d0bbd7d5077cb5d7",
+  "public_paths": {
+    "document": "corpus/geral/tabelas-federais/tabela-tipos-veiculo/document.md",
+    "metadata": "corpus/geral/tabelas-federais/tabela-tipos-veiculo/metadata.json",
+    "csv": "corpus/geral/tabelas-federais/tabela-tipos-veiculo/csv/"
+  },
+  "slug": "tabela-tipos-veiculo",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "status": "converted",
+  "title": "Tipo e Espécie de Veículo",
+  "validation": {
+    "asset_count": 0,
+    "sheets": [
+      "Tipo"
+    ],
+    "total_rows": 41
+  }
+}
