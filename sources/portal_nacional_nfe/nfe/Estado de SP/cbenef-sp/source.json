@@ -1,0 +1,15 @@
+{
+  "slug": "cbenef-sp",
+  "corpus_category": "nfe",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "original_sha256": "8b14dc147d2e5447a7ac81f6e57e1cc699c644dcb59ef162aae1835dd672cac7",
+  "original_filename": "Tabela-cBenef-SP-v20260610.xlsx",
+  "title": "cBenef SP",
+  "status": "published",
+  "derived_public_files": {
+    "metadata": "corpus/nfe/Estado de SP/cbenef-sp/metadata.json",
+    "readme": "corpus/nfe/Estado de SP/cbenef-sp/README.md"
+  },
+  "published_at": "2026-06-26T00:00:00+00:00"
+}
