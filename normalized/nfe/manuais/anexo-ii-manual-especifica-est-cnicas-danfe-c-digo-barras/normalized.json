@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras",
+  "category": "manual",
+  "document_path": "corpus/nfe/manuais/anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras/document.md",
+  "metadata_path": "corpus/nfe/manuais/anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "ANEXO II -Manual EspecificaçõesTécnicas - Danfe-Código-Barras.pdf",
+  "original_sha256": "729c04fd1374188c29eb21ca60342741b24a014003d4c2ff1bbb455bb1a6a60e",
+  "published_at_utc": "2026-06-25T17:23:17.308783+00:00",
+  "slug": "anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal-nacional-nfe/manuais/anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras/source.json",
+  "status": "published",
+  "title": "Sistema Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 41,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 41,
+    "missing_image_refs_count": 0
+  }
+}
