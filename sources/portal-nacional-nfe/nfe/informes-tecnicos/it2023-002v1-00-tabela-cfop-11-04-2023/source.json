@@ -1,0 +1,34 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "it2023-002v1-00-tabela-cfop-11-04-2023",
+  "category": "informe_tecnico",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/document.md",
+    "corpus/nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/metadata.json",
+    "corpus/nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/assets/image_000000_f4fe5a9b76c8defab871426be314dc2f911cb40812e313304fe06f9fc9315b02.png",
+    "corpus/nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/assets/image_000001_da1946a487b8e6731b1473267258bb83090aee84ab0c4bd6c7280208f9a55f4f.png",
+    "corpus/nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/assets/image_000002_2298d860e9a0d0939fda09086946712dff57502b166272902e7b343843acbe44.png",
+    "corpus/nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/assets/image_000003_93ec2db670d1fb245968aefe11b3c3692a4de014a6307aa1dccd9113fa6dba01.png",
+    "corpus/nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/assets/image_000004_320ce71d1eb081a7bf1cebc2fc95112e6fc933ea1e98d057f64948b9f529f73e.png",
+    "sources/portal-nacional-nfe/nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/source.json",
+    "normalized/nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/normalized.json",
+    "changelog/nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023.md"
+  ],
+  "original_filename": "IT2023.002v1.00 - Tabela CFOP - 11-04-2023.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Informes Técnicos/IT2023.002v1.00 - Tabela CFOP - 11-04-2023.pdf",
+  "original_sha256": "192525497bff47523505cafc9e70424b2cad8e1313f9e22d57f61b810dd7c4d3",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T20:42:33.762797+00:00",
+  "slug": "it2023-002v1-00-tabela-cfop-11-04-2023",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Sistema Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 5,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 5,
+    "missing_image_refs_count": 0
+  }
+}
