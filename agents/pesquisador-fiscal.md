@@ -14,6 +14,7 @@ Dado um assunto fiscal (regra, campo, obrigação, código, exceção, alíquota
    - `manual` → especificações técnicas, DANFE, MOC, contingência
    - `tabela` → `corpus/geral/tabelas-federais/` (CFOP, NCM, alíquotas CBS, etc.)
    - `cbenef` → `corpus/nfe/Estado de <UF>/` (benefícios fiscais estaduais)
+   - `formula` → `formulas/` para cálculos tributários (ICMS, PIS/COFINS, IBS/CBS)
 
 2. **Extraia o front matter** — Todo documento tem front matter YAML com `slug`, `canonical_id`, `category`, `status`, `source_family`, `source_url`, `original_sha256`, `converted_at`. Use estes campos para verificar procedência e autenticidade. Consulte `agents/CORPUS.md` para a referência completa dos campos.
 

@@ -15,6 +15,7 @@ Use esta skill para consultas fiscais pontuais: obrigatoriedade de campo, alíqu
    - Benefício fiscal estadual → `corpus/nfe/Estado de <UF>/`
    - Alíquota CBS → `corpus/reforma-tributaria/` ou `corpus/geral/tabelas-federais/aliquotas-cbs-2026/`
    - Manual de especificação → `corpus/nfe/manuais/`
+   - Cálculo tributário (fórmulas, alíquotas, exemplos) → `formulas/` (ICMS próprio, ICMS-ST, PIS/COFINS, IBS/CBS)
    - Consulte `agents/CORPUS.md` para a árvore completa.
 
 2. **Extraia o front matter** do(s) documento(s) candidato(s) para confirmar: `slug`, `canonical_id`, `category`, `status`, `source_family`, `source_url`, `original_sha256`, `converted_at`. Estes campos garantem a rastreabilidade da resposta.

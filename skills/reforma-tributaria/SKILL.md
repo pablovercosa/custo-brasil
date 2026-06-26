@@ -25,6 +25,9 @@ Localizados em `corpus/reforma-tributaria/informes-tecnicos/`:
 ### Tabelas auxiliares
 - `corpus/geral/tabelas-federais/aliquotas-cbs-2026/` — alíquotas da CBS
 
+### Fórmulas de cálculo
+- `formulas/reforma-tributaria/ibs-cbs.md` — demonstração do cálculo de IBS e CBS, crédito financeiro, split payment e exclusões da BC
+
 ### Schemas
 - `corpus/reforma-tributaria/schema/PL_IBS_001/` — schemas XML IBS/CBS
 

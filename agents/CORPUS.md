@@ -208,3 +208,4 @@ Documentos estaduais → `corpus/nfe/Estado de <UF>/<slug>/`
 4. **Documentos vazios**: As categorias `cte/`, `mdfe/`, `nfse/` estão reservadas sem documentos.
 5. **Reforma Tributária**: Documentos sobre IBS/CBS estão em `corpus/reforma-tributaria/`.
 6. **Combustíveis**: Documentos sobre tributação monofásica estão em `corpus/combustiveis/`.
+7. **Fórmulas de cálculo**: `formulas/` reúne fórmulas para cálculos tributários (ICMS próprio, ICMS-ST, PIS/COFINS não cumulativo, IBS/CBS), cada uma com front matter `sources` referenciando slugs do corpus. Consulte `formulas/README.md`.

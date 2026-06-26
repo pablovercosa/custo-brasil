@@ -24,6 +24,7 @@ Use esta skill quando o usuário precisar localizar documentos no corpus sem sab
    - Manuais NFGas → `corpus/nfgas/manuais/`
    - Manuais NFeABI → `corpus/nfeabi/manuais/`
    - Documentos estaduais → `corpus/nfe/Estado de <UF>/` (SP, RS, ES, DF, GO, PR, RJ)
+   - Fórmulas de cálculo → `formulas/` (ICMS, PIS/COFINS, IBS/CBS)
    - Consulte `agents/CORPUS.md` para a referência completa.
 
 3. **Aplique filtros por slug**:

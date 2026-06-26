@@ -23,6 +23,9 @@ Presta consulta especializada sobre o novo sistema IBS (Imposto sobre Bens e Ser
 | `it-2026-001-v-1-00-tabelas-de-meios-de-pagamento-para-vincula-o-com-o-split` | Meios de pagamento para split |
 | `it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs` | Alíquotas da CBS |
 
+### Fórmulas de cálculo
+`formulas/reforma-tributaria/ibs-cbs.md` contém a demonstração do cálculo do IBS e da CBS com base na NT 2025.002, incluindo crédito financeiro, split payment e exclusões da BC.
+
 ### Schemas IBS/CBS
 Schemas XML em `corpus/reforma-tributaria/schema/PL_IBS_001/`.
 
