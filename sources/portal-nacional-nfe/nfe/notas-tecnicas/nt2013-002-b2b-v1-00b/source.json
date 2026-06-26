@@ -1,0 +1,36 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2013-002-b2b-v1-00b",
+  "category": "nota_tecnica",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/nfe/notas-tecnicas/nt2013-002-b2b-v1-00b/document.md",
+    "corpus/nfe/notas-tecnicas/nt2013-002-b2b-v1-00b/metadata.json",
+    "corpus/nfe/notas-tecnicas/nt2013-002-b2b-v1-00b/assets/image_000000_29ce088f7b0be9100e51d6f6feab07a958b959809e0cf990dc387b6c7e7f3462.png",
+    "corpus/nfe/notas-tecnicas/nt2013-002-b2b-v1-00b/assets/image_000001_f8debb48e74944103dedb3fbc8f2a353102d70059391bd1b4df93dbadb4cef73.png",
+    "corpus/nfe/notas-tecnicas/nt2013-002-b2b-v1-00b/assets/image_000002_98a3b017108aa610b4014be7e8c8a8e0c87fa5906baedf0fb46232b460c3498c.png",
+    "corpus/nfe/notas-tecnicas/nt2013-002-b2b-v1-00b/assets/image_000003_66b9bb4511446a0e5f5a931792552ae5716e6ab57c2cff9a15b6016b8b75a97f.png",
+    "corpus/nfe/notas-tecnicas/nt2013-002-b2b-v1-00b/assets/image_000004_0ff846d0a453db96b9aca5c23b507a465f670f0a8a1fe8fec3c0a3004ecc79c4.png",
+    "corpus/nfe/notas-tecnicas/nt2013-002-b2b-v1-00b/assets/image_000005_180d4847eba4e71ae50f6cde16caa868bca9cbddf3314751a040102131c43cf7.png",
+    "corpus/nfe/notas-tecnicas/nt2013-002-b2b-v1-00b/assets/image_000006_0ff846d0a453db96b9aca5c23b507a465f670f0a8a1fe8fec3c0a3004ecc79c4.png",
+    "sources/portal-nacional-nfe/nfe/notas-tecnicas/nt2013-002-b2b-v1-00b/source.json",
+    "normalized/nfe/notas-tecnicas/nt2013-002-b2b-v1-00b/normalized.json",
+    "changelog/nfe/notas-tecnicas/nt2013-002-b2b-v1-00b.md"
+  ],
+  "original_filename": "NT2013 002_B2B_v1.00b.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Técnicas/NT2013 002_B2B_v1.00b.pdf",
+  "original_sha256": "e7532810920ef074e1003d3bb2dcd6cebdeca51ec839ec6b001558880ddcb406",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T15:09:36.305626+00:00",
+  "slug": "nt2013-002-b2b-v1-00b",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Projeto Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 7,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 7,
+    "missing_image_refs_count": 0
+  }
+}
