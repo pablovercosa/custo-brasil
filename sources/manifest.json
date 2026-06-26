@@ -172,6 +172,15 @@
       "title": "Tipo e Espécie de Veículo",
       "status": "published",
       "published_at": "2026-06-26T00:00:00+00:00"
+    },
+    {
+      "slug": "tabela-unidades-medida",
+      "category": "geral",
+      "subdir": "tabelas-federais",
+      "family": "portal_nacional_nfe",
+      "title": "Unidades de Medida",
+      "status": "published",
+      "published_at": "2026-06-26T00:00:00+00:00"
     }
   ],
   "schemas": {
