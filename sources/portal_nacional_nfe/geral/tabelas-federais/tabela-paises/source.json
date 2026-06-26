@@ -1,0 +1,15 @@
+{
+  "slug": "tabela-paises",
+  "corpus_category": "geral",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "original_sha256": "76386b536812e13baf5f09f49c057e78650be387a96c576377c3998f39358a9f",
+  "original_filename": "Tabela de Países - Ref. NT 2018.003. v1.01.ods",
+  "title": "Tabela de Países",
+  "status": "published",
+  "derived_public_files": {
+    "metadata": "corpus/geral/tabelas-federais/tabela-paises/metadata.json",
+    "readme": "corpus/geral/tabelas-federais/tabela-paises/README.md"
+  },
+  "published_at": "2026-06-26T00:00:00+00:00"
+}
