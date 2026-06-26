@@ -1,0 +1,27 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "manual-svan-anexo-i",
+  "category": "nfe",
+  "conversion": {
+    "image_export_mode": "referenced",
+    "output_format": "md",
+    "target_type": "dir",
+    "tool": "libreoffice+pandoc"
+  },
+  "converted_at_utc": "2026-06-26T15:51:44.213295+00:00",
+  "original_filename": "Anexo I.doc",
+  "original_sha256": "3844f5b460e37ebf3fb3d3da4a64d50c15c4ff3861e58d6b7be98d930034416a",
+  "public_paths": {
+    "document": "corpus/nfe/manuais/manual-svan-anexo-i/document.md",
+    "metadata": "corpus/nfe/manuais/manual-svan-anexo-i/metadata.json"
+  },
+  "slug": "manual-svan-anexo-i",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "status": "converted",
+  "title": "Manual SVAN - Anexo I",
+  "validation": {
+    "asset_count": 0,
+    "lines": 131
+  }
+}

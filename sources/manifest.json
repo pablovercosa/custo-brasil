@@ -271,6 +271,15 @@
       "title": "cBenef SP (ODS)",
       "status": "published",
       "published_at": "2026-06-26T00:00:00+00:00"
+    },
+    {
+      "slug": "manual-svan-anexo-i",
+      "category": "nfe",
+      "subdir": "manuais",
+      "family": "portal_nacional_nfe",
+      "title": "Manual SVAN Anexo I",
+      "status": "published",
+      "published_at": "2026-06-26T00:00:00+00:00"
     }
   ],
   "schemas": {
