@@ -1,64 +1,10 @@
----
-title: "Códigos de Benefícios Fiscais – Secretaria da Economia"
-slug: "cbenef-go-html"
-category: "cbenef"
-source_family: "sefaz_go"
-original_sha256: "ae1219653489eb5f5e258eb1b388af6aac30724e833102db074c484171fcfd6d"
-converted_at_utc: "2026-06-26T15:56:25.480226+00:00"
-status: "published"
-type: "tax_benefit_table"
----
-::::::::::::::::::::::::: {#g-main role="main"}
-:::::::::::::::::::::::: g-container
-::::::: g-grid
-:::::: {.g-block .size-100}
-::::: g-content
-:::: {#bcn_widget--5 .widget .widget_breadcrumb_navxt}
-::: {.breadcrumbs vocab="https://schema.org/" typeof="BreadcrumbList"}
-[[[Home]{property="name"}](https://goias.gov.br/economia "Ir para Secretaria da Economia."){.home property="item" typeof="WebPage"}]{property="itemListElement" typeof="ListItem"}
+## [Códigos de Benefícios Fiscais](https://goias.gov.br/economia/codigos-de-beneficios-fiscais/)
 
-   [[[Documentos Fiscais]{property="name"}](https://goias.gov.br/economia/categoria/documentos-fiscais/ "Ir para Documentos Fiscais Categoria archives."){.taxonomy .category property="item" typeof="WebPage"}]{property="itemListElement" typeof="ListItem"}
+Última Atualização em [4 de julho de 2022](https://goias.gov.br/economia/codigos-de-beneficios-fiscais/)
 
-   [[Códigos de Benefícios Fiscais]{.post .post-post .current-item property="name"}]{property="itemListElement" typeof="ListItem"}
-:::
-::::
-:::::
-::::::
-:::::::
+Categoria [Documentos Fiscais](https://goias.gov.br/economia/categoria/documentos-fiscais/)
 
-::::::: g-grid
-:::::: {.g-block .size-100}
-::::: g-system-messages
-:::: {#system-message-container}
-::: {#system-message}
-:::
-::::
-:::::
-::::::
-:::::::
-
-::::::::::::: g-grid
-:::::::::::: {.g-block .size-100}
-::::::::::: g-content
-:::::::::: platform-content
-::::::::: content-wrapper
-:::::::: {.section .entry}
-:::::: {.section .entry-header}
-## [Códigos de Benefícios Fiscais](https://goias.gov.br/economia/codigos-de-beneficios-fiscais/ "Códigos de Benefícios Fiscais") {#códigos-de-benefícios-fiscais .entry-title}
-
-::::: entry-meta
-::: meta-date
-[Última Atualização em ]{.meta-prefix} [4 de julho de 2022](https://goias.gov.br/economia/codigos-de-beneficios-fiscais/ "Códigos de Benefícios Fiscais"){.meta-date-link}
-:::
-
-::: meta-categories
-[Categoria ]{.meta-prefix} [ [[Documentos Fiscais]{.single-cat}](https://goias.gov.br/economia/categoria/documentos-fiscais/ "Documentos Fiscais"){.meta-category-link} ]{.categories}
-:::
-:::::
-::::::
-
-::: {.section .entry-content}
-**A partir de 1º de julho de 2023**, empresas do estado de Goiás que forem emitir Nota Fiscal Eletrônica (NF-e) ou Nota Fiscal de Consumidor Eletrônica (NFC-e) com qualquer benefício fiscal de ICMS deverá preencher o campo "cBenef" com o respectivo código, previsto na "Tabela de Códigos de Benefícios Fiscais", estabelecida pela [Instrução Normativa 1.518/22-GSE, de 03 de fevereiro de 2022](https://goias.gov.br/economia/wp-content/uploads/sites/45/2022/07/IN-1dc.docx).
+**A partir de 1º de julho de 2023** , empresas do estado de Goiás que forem emitir Nota Fiscal Eletrônica (NF-e) ou Nota Fiscal de Consumidor Eletrônica (NFC-e) com qualquer benefício fiscal de ICMS deverá preencher o campo "cBenef" com o respectivo código, previsto na "Tabela de Códigos de Benefícios Fiscais", estabelecida pela [Instrução Normativa 1.518/22-GSE, de 03 de fevereiro de 2022](https://goias.gov.br/economia/wp-content/uploads/sites/45/2022/07/IN-1dc.docx) .
 
 Caso o campo não seja preenchido, haverá a rejeição da nota e a empresa ficará impedida de emitir o documento fiscal.
 
@@ -70,20 +16,53 @@ Eles devem ser utilizados de acordo com o CST (Código de Situação Tributária
 
 Veja alguns exemplos:
 
-  ---------- ------------------------------------------------------------------------------------------ --------------------------------
-  Código     Benefício                                                                                  CST
-  GO800001   NÃO INCIDÊNCIA -- Exportação de Mercadoria                                                 CST 30, CST 41
-  GO811003   ISENÇÃO -- Saída interestadual de mercadoria para conserto, reparo ou industrialização     CST 30, CST 40, CST 41, CST 50
-  GO821019   REDUÇÃO DE BASE DE CÁLCULO -- Operação interna com mercadorias que compõe a cesta básica   CST 20, CST 70
-  ---------- ------------------------------------------------------------------------------------------ --------------------------------
+| Código   | Benefício                                                                               | CST                            |
+|----------|-----------------------------------------------------------------------------------------|--------------------------------|
+| GO800001 | NÃO INCIDÊNCIA - Exportação de Mercadoria                                               | CST 30, CST 41                 |
+| GO811003 | ISENÇÃO - Saída interestadual de mercadoria para conserto, reparo ou industrialização   | CST 30, CST 40, CST 41, CST 50 |
+| GO821019 | REDUÇÃO DE BASE DE CÁLCULO - Operação interna com mercadorias que compõe a cesta básica | CST 20, CST 70                 |
 
 Para evitar futuros transtornos, sugerimos que as empresas se antecipem e já informem a nova obrigação ao seu departamento fiscal e fornecedor de sistema.
-:::
-::::::::
-:::::::::
-::::::::::
-:::::::::::
-::::::::::::
-:::::::::::::
-::::::::::::::::::::::::
-:::::::::::::::::::::::::
+
+Banner Padrão
+
+<!-- image -->
+
+Conteúdo acessível em Libras usando o VLibras Widget com opções dos Avatares Ícaro, Hosana ou Guga.
+
+<!-- image -->
+
+Conteúdo acessível em Libras usando o VLibras Widget com opções dos Avatares Ícaro, Hosana ou Guga.
+
+<!-- image -->
+
+Gantry 5
+
+<!-- image -->
+
+### Governo na palma da mão
+
+<!-- image -->
+
+<!-- image -->
+
+## Serviços
+
+- [Expresso Goiás](https://www.go.gov.br/)
+- [Expresso Aplicações](https://portal.go.gov.br/)
+- [Expresso Servidor](https://www.go.gov.br/)
+- [SEI Governadoria](https://sei.go.gov.br/sei/modulos/goias/login-sei/MdGoiasLoginSEI.php?acao=md_goias_login_SEI&sigla_orgao_sistema=GOVERNADORIA&sigla_sistema=SEI&infra_url=L3NlaS8=)
+- [Cadastro de Autoridades](https://goias.gov.br/governo/cadastro-de-autoridade/)
+- [Escola de Governo](https://goias.gov.br/escoladegoverno/)
+- [Agenda de Autoridades](https://goias.gov.br/economia/agenda-de-autoridades/)
+- [Programa de Compliance Público](https://goias.gov.br/economia/programa-de-compliance-publico/)
+
+## Transparência e Ouvidoria
+
+- [LGPD](https://goias.gov.br/economia/encarregado-pelo-tratamento-de-dados-pessoais-economia-go/)
+- [Goiás Transparência](https://transparencia.go.gov.br/)
+- [Dados Abertos Goiás](https://dadosabertos.go.gov.br/)
+- [SIC - Serviço de Informação ao Cidadão](https://www.go.gov.br/unidadesvaptvupt)
+- [e-SIC - Serviço Eletrônico de Informação ao Cidadão](https://www.go.gov.br/servicos-digitais/cge/nova-ouvidoria/pedido-informacao-publica?orgao=11&tipo_manifestacao=7)
+- [Ouvidoria Setorial (Expresso)](https://www.go.gov.br/servicos-digitais/cge/nova-ouvidoria?orgao=11)
+- [Ouvidoria Setorial (Presencial)](https://goias.gov.br/economia/ouvidoria-setorial/)
