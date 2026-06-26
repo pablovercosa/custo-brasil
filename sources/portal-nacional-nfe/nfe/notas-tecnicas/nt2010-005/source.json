@@ -1,0 +1,35 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2010-005",
+  "category": "nota_tecnica",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/nfe/notas-tecnicas/nt2010-005/document.md",
+    "corpus/nfe/notas-tecnicas/nt2010-005/metadata.json",
+    "corpus/nfe/notas-tecnicas/nt2010-005/assets/image_000000_83c23eb121948b933e255e5cfa5405d567f44d6beae3a199330cc2dcb5a97816.png",
+    "corpus/nfe/notas-tecnicas/nt2010-005/assets/image_000001_b81236d26e6145481c9184bf99cda1c56391da3082c6d9e6d6b1d36c1da74a6a.png",
+    "corpus/nfe/notas-tecnicas/nt2010-005/assets/image_000002_b0999d8f160de60eb8ac921b1ec8c51b5647a67f293b0c3996af5c5c565b5855.png",
+    "corpus/nfe/notas-tecnicas/nt2010-005/assets/image_000003_fe32b332ed048f2f15dd582cb0dd5eb7616bda526ad7ce5da40d9a794ed5c66c.png",
+    "corpus/nfe/notas-tecnicas/nt2010-005/assets/image_000004_05e4d2af7f04c365d30907711a21cce6f8188f62593b12f86615dc67b3eb3d07.png",
+    "corpus/nfe/notas-tecnicas/nt2010-005/assets/image_000005_05e4d2af7f04c365d30907711a21cce6f8188f62593b12f86615dc67b3eb3d07.png",
+    "sources/portal-nacional-nfe/nfe/notas-tecnicas/nt2010-005/source.json",
+    "normalized/nfe/notas-tecnicas/nt2010-005/normalized.json",
+    "changelog/nfe/notas-tecnicas/nt2010-005.md"
+  ],
+  "original_filename": "NT2010.005.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Técnicas/NT2010.005.pdf",
+  "original_sha256": "167d9b62c65ddb20460ccfe0e9711e8e6ae156dce145eac7087ddb60177311b2",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T14:52:03.150571+00:00",
+  "slug": "nt2010-005",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Projeto Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 6,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 6,
+    "missing_image_refs_count": 0
+  }
+}
