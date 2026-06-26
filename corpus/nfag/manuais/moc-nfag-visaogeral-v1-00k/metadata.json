@@ -1,0 +1,32 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "moc-nfag-visaogeral-v1-00k",
+  "category": "manual",
+  "conversion": {
+    "image_export_mode": "referenced",
+    "output_format": "md",
+    "target_type": "zip",
+    "tool": "docling-server"
+  },
+  "converted_at_utc": "2026-06-25T19:06:18.645000+00:00",
+  "original_filename": "MOC_NFAg_VisaoGeral_v1.00k.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Manuais/MOC_NFAg_VisaoGeral_v1.00k.pdf",
+  "original_sha256": "912281ea3ad371ed0db74c91b50bf8c42c0f18837c9c41ca031ed67cfb6f70de",
+  "public_paths": {
+    "assets": "corpus/nfag/manuais/moc-nfag-visaogeral-v1-00k/assets/",
+    "document": "corpus/nfag/manuais/moc-nfag-visaogeral-v1-00k/document.md",
+    "metadata": "corpus/nfag/manuais/moc-nfag-visaogeral-v1-00k/metadata.json"
+  },
+  "slug": "moc-nfag-visaogeral-v1-00k",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Projeto Nota Fiscal de Água e Saneamento Eletrônica",
+  "validation": {
+    "asset_count": 67,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 67,
+    "missing_image_refs_count": 0
+  }
+}
