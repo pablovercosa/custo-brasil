@@ -1,0 +1,15 @@
+Códigos para o campo modOper,,Valores da Torna Individual
+Código,Descrição do Código,Fórmulas aplicadas
+01,Alienação em Geral,Não há vTornaIndiv
+02,"Arrematação, Adjudicação ou Remição",Não há vTornaIndiv
+03,Cessão ou Transmissão de direitos,Não há vTornaIndiv
+04,Permuta,"Se natOper = 15 ---> Não há vTornaIndiv
+Se (natOper = 13 ou 14) e (indTorna = 0) --> Não há vTornaIndiv
+Se (natOper = 13 ou 14) e (indTorna = 1) --> vTornaIndiv  = vTorna * pTransIndiv /pTransImovel"
+,,
+Código e Descrição do Evento,,Valores da Torna Individual
+Código,Descrição do Evento,Fórmulas aplicadas
+00,Evento de Pagamento de Parcela,Não há vTornaIndiv
+,,
+,,
+,,

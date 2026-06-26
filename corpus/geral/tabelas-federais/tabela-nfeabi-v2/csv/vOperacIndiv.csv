@@ -1,0 +1,19 @@
+Códigos para o campo modOper,,Valores de Operação Individual
+Código,Descrição do Código,Fórmulas aplicadas
+01,Alienação em Geral,vOperacIndiv = vTotalOperação * pTransIndiv/pTransImovel
+02,"Arrematação, Adjudicação ou Remição",vOperacIndiv = vTotalOperação * pAquisicao/pTransImovel
+03,Cessão ou Transmissão de direitos,vOperacIndiv = vTotalOperação * pTransIndiv/pTransImovel
+04,Permuta,vOperacIndiv = vTotalOperação * pTransIndiv/pTransImovel
+,,
+Código e Descrição do Evento,,Valores de Operação Individual
+Código,Descrição do Evento,Fórmulas aplicadas
+00,Evento de Pagamento de Parcela,vOperacIndiv = vOperacIndiv (da NF-e ABl) * vPagoTotalParcela / vTotalOperacao
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,

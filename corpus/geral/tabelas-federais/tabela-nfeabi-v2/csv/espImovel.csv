@@ -1,0 +1,15 @@
+Códigos para o campo espImóvel,,
+Código,Descrição do Código,Explicação
+01,Terreno,Imóvel não construído
+02,Casa,"Edificação de uso residencial, situado ou não em condomínio horizontal, ainda que possua mais de um pavimento (sobrado) ou partilhe divisa em comum com outra edificação (parede de geminação) e com acesso direto à via."
+03,Apartamento,Unidade autônoma de uso residencial existente em condomínio edilício (vertical) à qual pode-se atribuir titularidade individual e independente das demais unidades e que partilha a área comum do condomínio.
+04,Vaga de garagem,"Espaço com delimitação definida cuja titularidade é individualizada, que não integra parte de uma unidade residencial ou não residencial e cuja ocupação principal seja a de guarda de veículos."
+05,Laje,"Contempla o espaço aéreo ou o subsolo de terrenos públicos ou privados, tomados em projeção vertical, como unidade imobiliária autônoma, não contemplando as demais áreas edificadas ou não pertencentes ao proprietário da construção-base. Não implica a atribuição de fração ideal de terreno ao titular da laje ou a participação proporcional em áreas já edificadas. Para identificar a unidade imobiliária constituída como direito real de laje (art. 1510-A, CC e alterações pela Lei nº 13.465, de 2017)."
+06,Sala,"Unidade autônoma, de uso não residencial, existente em condomínio edilício, vertical ou horizontal, à qual pode-se atribuir titularidade individual e independente das demais e que partilha a área comum do condomínio."
+07,Conjunto de salas,"Conjunto de ambientes, cujo uso e ocupação possam ser individualizados, com acesso independente ou não às áreas individualizadas, situado em edificação vertical ou horizontal, com compartilhamento do uso de áreas comuns e que se encontre sob um mesmo regime de titularidade e constitua uma única unidade imobiliária."
+08,Loja,"Unidade autônoma, de uso não residencial, existente em condomínio edilício destinado ao comércio e/ou prestação de serviços, vertical ou horizontal, ou em rua, cuja face permita a visão da área interna sem que nela se adentre."
+09,Sobreloja,"Unidade autônoma, de uso não residencial, existente em condomínio edilício vertical, destinado ao comércio e/ou prestação de serviços, cuja face permita a visão da área interna sem que nela se adentre, e que se localiza em mezanino ou lajes intermediárias entre andares."
+10,Estacionamento,"Edificação com destinação específica para guarda de veículos que constitua unidade autônoma ou área demarcada (vaga) para guarda de veículos que constitua unidade autônoma, com ou sem fração ideal."
+11,Barraco,"Edificação com destinação específica para guarda de veículos que constitua unidade autônoma ou área demarcada (vaga) para guarda de veículos que constitua unidade autônoma, com ou sem fração ideal."
+12,Galpão,"Edificação coberta, com ou sem fechamentos laterais, com poucas ou sem divisões internas, regularmente utilizada para depósito ou abrigo de produtos, mercadorias, máquinas e semoventes, podendo ou não serem exercidas atividades laborais ou industriais em seu interior."
+99,Outros,

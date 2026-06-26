@@ -1,0 +1,17 @@
+Códigos para o campo natOper,
+Código,Descrição do Código
+01,Compra e venda
+02,Dação em Pagamento
+03,Operações realizadas pelo credor da garantia ou grupo de consórcios
+04,Atos societários
+05,Doações ou transferências gratuitas
+06,Arrematação em leilão judicial
+07,Adjudicação
+08,Remição
+09,Cessão de direitos relativos ao bem imóvel
+10,Enfiteuse ou direito superfície
+11,Uso / usufruto
+12,Direitos reais não enquadrados nos itens anteriores
+13,Permuta envolvendo exclusivamente bens imóveis (com ou sem torna)
+14,"Compra e venda quitada com confissão de dívida e promessa de dação em pagamento nos termos do art. 252, § 6° da LC 214/2025 (com ou sem torna)"
+15,Permuta não enquadrada nos itens anteriores

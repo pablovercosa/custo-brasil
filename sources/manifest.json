@@ -136,6 +136,15 @@
       "title": "Tabela NCM 2022",
       "status": "published",
       "published_at": "2026-06-26T00:00:00+00:00"
+    },
+    {
+      "slug": "tabela-nfeabi-v2",
+      "category": "geral",
+      "subdir": "tabelas-federais",
+      "family": "portal_nacional_nfe",
+      "title": "Códigos NFe ABI v2.00",
+      "status": "published",
+      "published_at": "2026-06-26T00:00:00+00:00"
     }
   ],
   "schemas": {

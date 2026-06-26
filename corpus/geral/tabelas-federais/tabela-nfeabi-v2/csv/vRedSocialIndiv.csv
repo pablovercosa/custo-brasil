@@ -1,0 +1,41 @@
+Códigos para o campo modOper,,Valores de Redutor Social Individual
+Código,Descrição do Código,Fórmulas aplicadas
+01,Alienação em Geral,"Se indRedSocial = 1:
+  Se Enquadramento = 01 (Imóvel Residencial Novo):
+   --> vRedSocialIndiv = MÍNIMO (
+                                                                 (100.000,00 atualizado pelo IPCA * pTransIndiv);
+                                                                 (vOperacIndiv - vRedAjusteIndiv))
+  Se Enquadramento = 03 (Lote Residencial):
+   --> vRedSocialIndiv = MÍNIMO (
+                                                                 (30.000,00 atualizado pelo IPCA * pTransIndiv);
+                                                                 (vOperacIndiv - vRedAjusteIndiv))
+Se indRedSocial = 0 --> vRedSocialIndiv = 0
+(*) EM QUALQUER CASO: vRedSocialIndiv >= 0"
+02,"Arrematação, Adjudicação ou Remição","Se indRedSocial = 1:
+  Se Enquadramento = 01 (Imóvel Residencial Novo):
+   --> vRedSocialIndiv = MÍNIMO (
+                                                                 (100.000,00 atualizado pelo IPCA * pAquisicao);
+                                                                 (vOperacIndiv - vRedAjusteIndiv))
+  Se Enquadramento = 03 (Lote Residencial):
+   --> vRedSocialIndiv = MÍNIMO (
+                                                                 (30.000,00 atualizado pelo IPCA * pAquisicao;
+                                                                 (vOperacIndiv - vRedAjusteIndiv))
+Se indRedSocial = 0 --> vRedSocialIndiv = 0
+(*) EM QUALQUER CASO: vRedSocialIndiv >= 0"
+03,Cessão ou Transmissão de direitos,Não há vRedSocialindiv
+04,Permuta,"Se (natOper = 15) e (indRedSocial = 1):
+  Se Enquadramento = 01 (Imóvel Residencial Novo):
+   --> vRedSocialIndiv = MÍNIMO (
+                                                                 (100.000,00 atualizado pelo IPCA * pTransIndiv));
+                                                                 (vOperacIndiv - vRedAjusteIndiv))
+  Se Enquadramento = 03 (Lote Residencial):
+   --> vRedSocialIndiv = MÍNIMO (
+                                                                 (30.000,00 atualizado pelo IPCA * pTransIndiv);
+                                                                 (vOperacIndiv - vRedAjusteIndiv))
+Se (natOper = 15) e (indRedSocial = 0) --> vRedSocialindiv = 0
+(*) Sempre que natOper=15: vRedSocialIndiv >= 0"
+,,Se (natOper = 13 ou 14) --> Não há vRedSocialindiv
+,,
+Código e Descrição do Evento,,Valores de Redutor Social Individual
+Código,Descrição do Evento,Fórmulas aplicadas
+00,Evento de Pagamento de Parcela,vRedSocialIndiv = vRedSocialIndiv (da NF-e ABI) * vOriginalParcela / vTotalOperacao

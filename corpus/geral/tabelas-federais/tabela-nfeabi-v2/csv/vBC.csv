@@ -1,0 +1,18 @@
+Códigos para o campo modOper,,Base de Cálculo
+Código,Descrição do Código,Fórmulas aplicadas
+01,Alienação em Geral,"vBC = vOperacIndiv - vRedAjusteIndiv - vRedSocialIndiv
+EM QUALQUER CASO: vBC  >= 0"
+02,"Arrematação, Adjudicação ou Remição","Se vRedAjusteImovel = 0  --> vBC = 0
+Se vRedAjusteImovel  <> 0: 
+ --> vBCindiv = vOperacIndiv - vRedAjusteIndiv - vRedSocialIndiv
+EM QUALQUER CASO: vBC  >= 0"
+03,Cessão ou Transmissão de direitos,vBC = vOperacIndiv
+04,Permuta,"Se natOper = 15 ---> vBC = vOperacIndiv - vRedAjusteIndiv - vRedSocialIndiv
+Se (natOper = 13 ou 14) e (indTorna = 0) --> vBC = 0
+Se (natOper = 13 ou 14) e (indTorna = 1) --> vBC = vTornaIndiv
+EM QUALQUER CASO: vBC >= 0"
+,,
+Código e Descrição do Evento,,Base de Cálculo
+Código,Descrição do Evento,Fórmulas aplicadas
+00,Evento de Pagamento de Parcela,"vBC = vOperacIndiv - vRedAjusteIndiv - vRedSocialIndiv
+EM QUALQUER CASO: vBC >= 0"

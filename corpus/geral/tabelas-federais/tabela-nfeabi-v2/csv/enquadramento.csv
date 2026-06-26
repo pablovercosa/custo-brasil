@@ -1,0 +1,8 @@
+Códigos para o campo enquadramento,,
+Código,Descrição do Código,Observação
+01,Imóvel Residencial Novo,"ORIENTAÇÃO 1.1: Considera-se novo o bem imóvel que não tenha sido ocupado ou utilizado. 
+ORIENTAÇÃO 1.2: Não inclui vagas ou depósitos em condomínos residencias."
+02,Imóvel Residencial Usado,"ORIENTAÇÃO 2.1: Considera-se usado o bem imóvel que já tenha sido ocupado ou utilizado. 
+ORIENTAÇÃO 2.2: Não inclui vagas ou depósitos em condomínos residencias."
+03,Lote Residencial,"ORIENTAÇÃO 3.1: Considera-se lote residencial a unidade imobiliária resultante de parcelamento do solo urbano (Lei nº 6.766, 19/12/1979), ou objeto de condomínio de lotes (art. 1.358-A do Código Civil)."
+04,Não Residencial,ORIENTAÇÃO 4.1: Vagas e depósitos em condomínios residencias entram nesta categoria.

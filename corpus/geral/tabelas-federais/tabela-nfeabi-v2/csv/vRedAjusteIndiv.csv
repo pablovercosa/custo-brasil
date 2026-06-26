@@ -1,0 +1,11 @@
+Códigos para o campo modOper,,Valores de Redutor de Ajuste Individual
+Código,Descrição do Código,Fórmulas aplicadas
+01,Alienação em Geral,vRedAjusteIndiv = pTransIndiv * vRedAjusteImovel
+02,"Arrematação, Adjudicação ou Remição",vRedAjusteIndiv = pAquisicao  * vRedAjusteImovel
+03,Cessão ou Transmissão de direitos,Não há vRedAjusteIndiv
+04,Permuta,"Se natOper = 15 ---> vRedAjusteIndiv = pTransIndiv  * vRedAjusteImovel
+Se natOper = 13 ou 14 --> vRedAjusteIndiv = 0"
+,,
+Código e Descrição do Evento,,Valores de Redutor de Ajuste Individual
+Código,Descrição do Evento,Fórmulas aplicadas
+00,Evento de Pagamento de Parcela,vRedAjusteIndiv = vRedAjusteIndiv (da NF-e ABI) * vOriginalParcela / vTotalOperacao

@@ -1,0 +1,45 @@
+Códigos para o campo modOper,,Códigos para o campo natOper,,Códigos para o campo detOper,
+Código,Descrição do Código,Código,Descição do código,Código,Descrição do Detalhamento
+01,Alienação em Geral ,01,Compra e venda,01,Promessa / compromisso de compra e venda
+,,,,02,Compra e venda definitiva
+,,02,Dação em Pagamento,03,Promessa / compromisso de dação em Pagamento
+,,,,04,Dação em pagamento definitiva
+,,03,Operações realizadas pelo credor da garantia ou grupo de consórcios,05,Consolidação da propriedade pelo credor da garantia (art. 200 da LC 214/2025)
+,,,,06,"Consolidação da propriedade pelo grupo de consórcios (art. 204, parag. 3° da LC 214/2025)"
+,,,,07,Alienação pelo credor da garantia
+,,,,08,Alienação pelo grupo de consórcios
+,,04,Atos societários,09,Realização ou integralização de capital
+,,,,10,Incorporação societária
+,,,,11,Fusão
+,,,,12,Cisão total ou parcial
+,,,,13,Extinção de pessoa jurídica (baixa pelo encerramento da liquidação)
+,,,,14,Desincoporação de bem imóvel pertencente à pessoa jurídica em virtude de redução de capital
+,,05,Doações ou transferências gratuitas,15,Doação sem contraprestação em benefício do doador
+,,,,16,Doação com contraprestação em benefício do doador
+02,"Arrematação, Adjudicação ou Remição",06,Arrematação em leilão judicial,,
+,,,,,
+,,07,Adjudicação,,
+,,,,,
+,,08,Remição,,
+,,,,,
+03,Cessão ou Transmissão de direitos,09,Cessão de direitos relativos ao bem imóvel,17,Cessão onerosa de direitos relativos a promessa ou compromisso de compra e venda
+,,,,18,Cessão onerosa de direitos sucessórios ou hereditários
+,,,,19,Cessão onerosa de direitos sobre o imóvel com alienação fiduciária
+,,,,20,Cessão de direitos do arrematante
+,,,,21,Cessão de direitos do adjudicatário
+,,10,Enfiteuse ou direito superfície,22,Constituição de enfiteuse ou aforamento de imóveis dominiais da União
+,,,,23,Transmissão onerosa da enfiteuse ou do domínio útil
+,,,,24,Concessão onerosa do direito de superfície
+,,,,25,Cessão onerosa do direito de superfície
+,,11,Uso / usufruto,26,Instituição onerosa do uso / usufruto
+,,,,27,Transmissão ou cessão onerosa do uso / usufruto
+,,12,Direitos reais não enquadrados nos itens anteriores,28,Concessão onerosa do uso especial para fins de moradia
+,,,,29,Transmissão ou cessão onerosa do uso especial para fins de moradia
+,,,,30,Concessão onerosa do direto real de uso
+,,,,31,Transmissão ou cessão onerosa do direto real de uso
+,,,,32,Concessão onerosa do direito de laje
+,,,,33,Cessão onerosa do direito de laje
+,,,,34,Cessão onerosa de direitos oriundos da imissão provisória na posse
+04,Permuta,13,Permuta envolvendo exclusivamente bens imóveis (com ou sem torna),,
+,,14,"Compra e venda quitada com confissão de dívida e promessa de dação em pagamento nos termos do art. 252, § 6° da LC 214/2025 (com ou sem torna)",,
+,,15,Permuta não enquadrada nos itens anteriores,,
