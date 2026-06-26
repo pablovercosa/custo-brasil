@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2022-001-v1-00-ws-consulta-gtin",
+  "category": "nota_tecnica",
+  "document_path": "corpus/nfe/notas-tecnicas/nt2022-001-v1-00-ws-consulta-gtin/document.md",
+  "metadata_path": "corpus/nfe/notas-tecnicas/nt2022-001-v1-00-ws-consulta-gtin/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "NT2022.001_v1.00 - WS Consulta GTIN.pdf",
+  "original_sha256": "de3174af7330d510f8fa4ec6b9f44047086be761f978029c6fbb660376fb1a22",
+  "published_at_utc": "2026-06-25T16:29:14.576141+00:00",
+  "slug": "nt2022-001-v1-00-ws-consulta-gtin",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt2022-001-v1-00-ws-consulta-gtin/source.json",
+  "status": "published",
+  "title": "Sistema Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 14,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 14,
+    "missing_image_refs_count": 0
+  }
+}
