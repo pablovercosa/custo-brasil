@@ -1,0 +1,15 @@
+{
+  "slug": "tabela-bandeiras-cartao",
+  "corpus_category": "geral",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "original_sha256": "0ba5a1a000b878981e248df1873cbce72059f68b56eab18bca75122d1d9121dd",
+  "original_filename": "Tabela de bandeiras de cartão de crédito-débito.xlsx",
+  "title": "Bandeiras de Cartão de Crédito/Débito",
+  "status": "published",
+  "derived_public_files": {
+    "metadata": "corpus/geral/tabelas-federais/tabela-bandeiras-cartao/metadata.json",
+    "readme": "corpus/geral/tabelas-federais/tabela-bandeiras-cartao/README.md"
+  },
+  "published_at": "2026-06-26T00:00:00+00:00"
+}

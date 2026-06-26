@@ -1,0 +1,31 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "tabela-bandeiras-cartao",
+  "category": "geral",
+  "conversion": {
+    "image_export_mode": "none",
+    "output_format": "csv",
+    "target_type": "dir",
+    "tool": "openpyxl+xlrd"
+  },
+  "converted_at_utc": "2026-06-26T15:51:40.941917+00:00",
+  "original_filename": "Tabela de bandeiras de cartão de crédito-débito.xlsx",
+  "original_sha256": "0ba5a1a000b878981e248df1873cbce72059f68b56eab18bca75122d1d9121dd",
+  "public_paths": {
+    "document": "corpus/geral/tabelas-federais/tabela-bandeiras-cartao/document.md",
+    "metadata": "corpus/geral/tabelas-federais/tabela-bandeiras-cartao/metadata.json",
+    "csv": "corpus/geral/tabelas-federais/tabela-bandeiras-cartao/csv/"
+  },
+  "slug": "tabela-bandeiras-cartao",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "status": "converted",
+  "title": "Bandeiras de Cartão de Crédito/Débito",
+  "validation": {
+    "asset_count": 0,
+    "sheets": [
+      "Plan1"
+    ],
+    "total_rows": 32
+  }
+}
