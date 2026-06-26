@@ -1,0 +1,33 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt-2007-004",
+  "category": "nota_tecnica",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/nfe/notas-tecnicas/nt-2007-004/document.md",
+    "corpus/nfe/notas-tecnicas/nt-2007-004/metadata.json",
+    "corpus/nfe/notas-tecnicas/nt-2007-004/assets/image_000000_a1ddf80f83ddbed6af32a4d1739add27dead74b0300dd250715ab015df2fc942.png",
+    "corpus/nfe/notas-tecnicas/nt-2007-004/assets/image_000001_f101cd825d9f3cb64a968aad2616620ed6d2dee4638315fdedeb21f5075b8a25.png",
+    "corpus/nfe/notas-tecnicas/nt-2007-004/assets/image_000002_30da0324869296ec9701453615a1172e182b3e2a81e2fa20f179dff37e83edb7.png",
+    "corpus/nfe/notas-tecnicas/nt-2007-004/assets/image_000003_f527803e4ec902bb0c6d28fa4a7ab4dc4462b190a08325d25de42dba115a1739.png",
+    "sources/portal-nacional-nfe/nfe/notas-tecnicas/nt-2007-004/source.json",
+    "normalized/nfe/notas-tecnicas/nt-2007-004/normalized.json",
+    "changelog/nfe/notas-tecnicas/nt-2007-004.md"
+  ],
+  "original_filename": "NT_2007.004.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Técnicas/NT_2007.004.pdf",
+  "original_sha256": "195051e21f232723bb15991e2a2e4bdaf9c29e34adf07228b856d22b8f409106",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T14:51:08.329682+00:00",
+  "slug": "nt-2007-004",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Projeto Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 4,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 4,
+    "missing_image_refs_count": 0
+  }
+}
