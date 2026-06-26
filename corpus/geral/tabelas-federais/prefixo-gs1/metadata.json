@@ -1,0 +1,32 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "prefixo-gs1",
+  "category": "geral",
+  "conversion": {
+    "image_export_mode": "none",
+    "output_format": "csv",
+    "target_type": "dir",
+    "tool": "openpyxl"
+  },
+  "converted_at_utc": "2026-06-26T15:50:44.187079+00:00",
+  "original_filename": "Tabela_Prefixo_GS1.xlsx",
+  "original_sha256": "6f75b924f7fc97a2b5c4b6483479c035304ec642b48eebc61bd2b1afb5b62606",
+  "public_paths": {
+    "document": "corpus/geral/tabelas-federais/prefixo-gs1/document.md",
+    "metadata": "corpus/geral/tabelas-federais/prefixo-gs1/metadata.json",
+    "csv": "corpus/geral/tabelas-federais/prefixo-gs1/csv/"
+  },
+  "slug": "prefixo-gs1",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "status": "converted",
+  "title": "Prefixo GS1",
+  "validation": {
+    "asset_count": 0,
+    "sheets": [
+      "Valida GTIN",
+      "Prefixo GS1"
+    ],
+    "total_rows": 164
+  }
+}
