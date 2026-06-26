@@ -1,0 +1,4 @@
+# Only instructions.md is tracked; everything else stays private
+*
+!instructions.md
+!.gitignore
