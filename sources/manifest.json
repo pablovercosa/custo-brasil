@@ -235,6 +235,15 @@
       "title": "cBenef RS",
       "status": "published",
       "published_at": "2026-06-26T00:00:00+00:00"
+    },
+    {
+      "slug": "validacoes-cbenef-rs",
+      "category": "nfe",
+      "subdir": "Estado de RS",
+      "family": "portal_nacional_nfe",
+      "title": "Validações cBenef RS",
+      "status": "published",
+      "published_at": "2026-06-26T00:00:00+00:00"
     }
   ],
   "schemas": {

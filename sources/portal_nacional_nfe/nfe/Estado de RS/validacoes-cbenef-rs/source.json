@@ -1,0 +1,15 @@
+{
+  "slug": "validacoes-cbenef-rs",
+  "corpus_category": "nfe",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "original_sha256": "8ea7808360bac24468f3e907721324c3fa3dcb0bd01bb6e2c0eed21f504c25a0",
+  "original_filename": "27164413-validacoes-cbenef.docx",
+  "title": "Validações cBenef RS",
+  "status": "published",
+  "derived_public_files": {
+    "metadata": "corpus/nfe/Estado de RS/validacoes-cbenef-rs/metadata.json",
+    "document": "corpus/nfe/Estado de RS/validacoes-cbenef-rs/document.md"
+  },
+  "published_at": "2026-06-26T00:00:00+00:00"
+}
