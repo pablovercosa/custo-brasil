@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2023-005-v1-02-evento-insucesso-entrega-nf-e",
+  "category": "nota_tecnica",
+  "document_path": "corpus/nfe/notas-tecnicas/nt2023-005-v1-02-evento-insucesso-entrega-nf-e/document.md",
+  "metadata_path": "corpus/nfe/notas-tecnicas/nt2023-005-v1-02-evento-insucesso-entrega-nf-e/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "NT2023.005_v1.02 - Evento Insucesso Entrega NF-e.pdf",
+  "original_sha256": "ada7c7e3b7bd5e8d7ee5e2fdc4f5b8adb9f11b6d0fe449b6f97dbb366ac72a92",
+  "published_at_utc": "2026-06-25T15:43:46.524758+00:00",
+  "slug": "nt2023-005-v1-02-evento-insucesso-entrega-nf-e",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt2023-005-v1-02-evento-insucesso-entrega-nf-e/source.json",
+  "status": "published",
+  "title": "Sistema Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 21,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 21,
+    "missing_image_refs_count": 0
+  }
+}
