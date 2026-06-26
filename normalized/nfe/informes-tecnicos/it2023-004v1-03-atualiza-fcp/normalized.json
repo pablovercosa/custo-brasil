@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "it2023-004v1-03-atualiza-fcp",
+  "category": "informe_tecnico",
+  "document_path": "corpus/nfe/informes-tecnicos/it2023-004v1-03-atualiza-fcp/document.md",
+  "metadata_path": "corpus/nfe/informes-tecnicos/it2023-004v1-03-atualiza-fcp/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "IT2023.004v1.03 - Atualiza FCP.pdf",
+  "original_sha256": "440a33ad31751980a96cbfc74d7a6a3c98961f484351254dc0f1a6385cd3de1f",
+  "published_at_utc": "2026-06-25T20:42:13.606445+00:00",
+  "slug": "it2023-004v1-03-atualiza-fcp",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal-nacional-nfe/informes-tecnicos/it2023-004v1-03-atualiza-fcp/source.json",
+  "status": "published",
+  "title": "Sistema Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 5,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 5,
+    "missing_image_refs_count": 0
+  }
+}

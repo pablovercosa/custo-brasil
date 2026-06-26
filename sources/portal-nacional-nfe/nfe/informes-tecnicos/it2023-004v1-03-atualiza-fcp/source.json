@@ -1,0 +1,34 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "it2023-004v1-03-atualiza-fcp",
+  "category": "informe_tecnico",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/nfe/informes-tecnicos/it2023-004v1-03-atualiza-fcp/document.md",
+    "corpus/nfe/informes-tecnicos/it2023-004v1-03-atualiza-fcp/metadata.json",
+    "corpus/nfe/informes-tecnicos/it2023-004v1-03-atualiza-fcp/assets/image_000000_f4fe5a9b76c8defab871426be314dc2f911cb40812e313304fe06f9fc9315b02.png",
+    "corpus/nfe/informes-tecnicos/it2023-004v1-03-atualiza-fcp/assets/image_000001_da1946a487b8e6731b1473267258bb83090aee84ab0c4bd6c7280208f9a55f4f.png",
+    "corpus/nfe/informes-tecnicos/it2023-004v1-03-atualiza-fcp/assets/image_000002_83d9d114e59eca904dd3cb7cc6424cb7769962ac39800a76d6a63c448448ec0a.png",
+    "corpus/nfe/informes-tecnicos/it2023-004v1-03-atualiza-fcp/assets/image_000003_320ce71d1eb081a7bf1cebc2fc95112e6fc933ea1e98d057f64948b9f529f73e.png",
+    "corpus/nfe/informes-tecnicos/it2023-004v1-03-atualiza-fcp/assets/image_000004_320ce71d1eb081a7bf1cebc2fc95112e6fc933ea1e98d057f64948b9f529f73e.png",
+    "sources/portal-nacional-nfe/nfe/informes-tecnicos/it2023-004v1-03-atualiza-fcp/source.json",
+    "normalized/nfe/informes-tecnicos/it2023-004v1-03-atualiza-fcp/normalized.json",
+    "changelog/nfe/informes-tecnicos/it2023-004v1-03-atualiza-fcp.md"
+  ],
+  "original_filename": "IT2023.004v1.03 - Atualiza FCP.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Informes Técnicos/IT2023.004v1.03 - Atualiza FCP.pdf",
+  "original_sha256": "440a33ad31751980a96cbfc74d7a6a3c98961f484351254dc0f1a6385cd3de1f",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T20:42:13.606445+00:00",
+  "slug": "it2023-004v1-03-atualiza-fcp",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Sistema Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 5,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 5,
+    "missing_image_refs_count": 0
+  }
+}
