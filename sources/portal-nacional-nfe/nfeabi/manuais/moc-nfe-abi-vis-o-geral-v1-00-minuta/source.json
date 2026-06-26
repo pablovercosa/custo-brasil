@@ -1,0 +1,39 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "moc-nfe-abi-vis-o-geral-v1-00-minuta",
+  "category": "manual",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta/document.md",
+    "corpus/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta/metadata.json",
+    "corpus/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta/assets/image_000000_86ee764c3f75abd5e2567413878780f648d091693920cd927b9c4d31dfcab951.png",
+    "corpus/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta/assets/image_000001_bc0c0086493851eb96e96a28262ea1955b5df1c4b2c4de0f4a0abea44393d765.png",
+    "corpus/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta/assets/image_000002_484dec804143492f5bda698b7f123c2ae8bf432169344099700cccb0d035129c.png",
+    "corpus/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta/assets/image_000003_39829a686bc7f085e011f3fdb651e3760cf55e34f21d05d3692f096b8882c82c.png",
+    "corpus/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta/assets/image_000004_0ce1d2228a432974bd55ae21105f2a5bcb73cb30aa09ef9113fc18198c9d3de0.png",
+    "corpus/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta/assets/image_000005_ff9da3c0a734c23539a7be484486997c7ab4451c29c44726a3a4cebb0ccd3d15.png",
+    "corpus/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta/assets/image_000006_db0babf455e412ad1612c7704d5eb4213efd3a2a73bdc9e531cb3db7f44905e2.png",
+    "corpus/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta/assets/image_000007_d61464f9a83f03f423037f620152934d68bb66d735cda9660d486a8bc92fdfb6.png",
+    "corpus/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta/assets/image_000008_59e4224f2efa536834a12fc0d86ed723092ec7fe1936542b77d53d83ab4c302f.png",
+    "corpus/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta/assets/image_000009_e543434180a473a1d94d840fe148b3b766aa1f5e0878500fe4e2160a3cb2d76a.png",
+    "sources/portal-nacional-nfe/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta/source.json",
+    "normalized/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta/normalized.json",
+    "changelog/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta.md"
+  ],
+  "original_filename": "MOC NFe ABI Visão Geral - v1.00 - minuta.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Manuais/MOC NFe ABI Visão Geral - v1.00 - minuta.pdf",
+  "original_sha256": "e97da2101819cbf57a45e782f005c94efad8a0377296720f013ca76483289bd1",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T17:28:42.202158+00:00",
+  "slug": "moc-nfe-abi-vis-o-geral-v1-00-minuta",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Sistema Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 10,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 10,
+    "missing_image_refs_count": 0
+  }
+}
