@@ -1,0 +1,32 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2009-005",
+  "category": "nota_tecnica",
+  "conversion": {
+    "image_export_mode": "referenced",
+    "output_format": "md",
+    "target_type": "zip",
+    "tool": "docling-server"
+  },
+  "converted_at_utc": "2026-06-25T16:06:46.176316+00:00",
+  "original_filename": "NT2009.005.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Técnicas/NT2009.005.pdf",
+  "original_sha256": "e6fade806e86bc942b738d7b48b9fdd15f38fb7a177a7e439f391e51aa930da3",
+  "public_paths": {
+    "assets": "corpus/nfe/notas-tecnicas/nt2009-005/assets/",
+    "document": "corpus/nfe/notas-tecnicas/nt2009-005/document.md",
+    "metadata": "corpus/nfe/notas-tecnicas/nt2009-005/metadata.json"
+  },
+  "slug": "nt2009-005",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 72,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 72,
+    "missing_image_refs_count": 0
+  }
+}
