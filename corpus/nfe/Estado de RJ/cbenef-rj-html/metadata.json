@@ -5,11 +5,11 @@
   "conversion": {
     "image_export_mode": "referenced",
     "output_format": "md",
-    "target_type": "dir",
-    "tool": "pandoc"
+    "target_type": "zip",
+    "tool": "docling-server"
   },
-  "converted_at_utc": "2026-06-26T15:56:25.035222+00:00",
-  "original_filename": "Benef\u00edcios Fiscais \u2013 Documento Fiscal Eletr\u00f4nico - Secretaria de Estado de Fazenda do Rio de Ja.html",
+  "converted_at_utc": "2026-06-26T16:32:52.801583+00:00",
+  "original_filename": "Benefícios Fiscais – Documento Fiscal Eletrônico - Secretaria de Estado de Fazenda do Rio de Ja.html",
   "original_sha256": "42bbd26f51b97f08901824be05a2e6073822a8fb3ad630781bb5dbcc125ca423",
   "public_paths": {
     "assets": "corpus/nfe/Estado de RJ/cbenef-rj-html/assets/",
@@ -20,9 +20,13 @@
   "source_family": "sefaz_rj",
   "source_url": "",
   "status": "published",
-  "title": "Benef\u00edcios Fiscais \u2013 Documento Fiscal Eletr\u00f4nico - Secretaria de Estado de Fazenda do Rio de Ja",
+  "title": "Benefícios Fiscais – Documento Fiscal Eletrônico - Secretaria de Estado de Fazenda do Rio de Ja",
   "validation": {
     "asset_count": 0,
-    "lines": 99
+    "lines": 99,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 0,
+    "missing_image_refs_count": 0
   }
 }
