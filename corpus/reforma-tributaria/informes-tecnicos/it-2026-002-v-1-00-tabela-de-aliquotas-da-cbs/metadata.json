@@ -1,0 +1,32 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs",
+  "category": "informe_tecnico",
+  "conversion": {
+    "image_export_mode": "referenced",
+    "output_format": "md",
+    "target_type": "zip",
+    "tool": "docling-server"
+  },
+  "converted_at_utc": "2026-06-25T20:45:17.707909+00:00",
+  "original_filename": "IT 2026.002 v.1.00 - Tabela de Aliquotas da CBS.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Informes Técnicos/IT 2026.002 v.1.00 - Tabela de Aliquotas da CBS.pdf",
+  "original_sha256": "80a40a1a5fac20f0e798467eab4e5a3a68732211e5db850469a64bac75fd07ca",
+  "public_paths": {
+    "assets": "corpus/reforma-tributaria/informes-tecnicos/it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs/assets/",
+    "document": "corpus/reforma-tributaria/informes-tecnicos/it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs/document.md",
+    "metadata": "corpus/reforma-tributaria/informes-tecnicos/it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs/metadata.json"
+  },
+  "slug": "it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Projeto Reforma Tributária do Consumo",
+  "validation": {
+    "asset_count": 14,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 14,
+    "missing_image_refs_count": 0
+  }
+}
