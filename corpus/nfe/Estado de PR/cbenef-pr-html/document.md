@@ -1,118 +1,275 @@
----
-title: "CÓDIGO DE BENEFÍCIO FISCAL   Sistema Público de Escrituração Digital"
-slug: "cbenef-pr-html"
-category: "cbenef"
-source_family: "sefaz_pr"
-original_sha256: "3af437cd3c4ef34e1e59890f41286c0a471a5b30d61635db98fa6da57816fa79"
-converted_at_utc: "2026-06-26T15:56:26.276494+00:00"
-status: "published"
-type: "tax_benefit_table"
----
-:::::::::::::::::::::::::: {#main .section .main-container .container .js-quickedit-main-content role="main"}
-::::::::::::::::::::::::: row
-:::::::::::::::::::::::: {#main-content .section .col-xs-12 .container-wrapper}
-::::::::::::::::::::::: row
-:::::::::::::::::::::: col-xs-12
-::::::::::::::::::::: container
-:::::::::::::::::::: {.region .region-content}
-::::::::::::::::::: {.node__content .clearfix}
-# [CÓDIGO DE BENEFÍCIO FISCAL ]{#story_title} {#código-de-benefício-fiscal .page-title}
+# CÓDIGO DE BENEFÍCIO FISCAL
 
-:::::::::::::::: {.field .field--name-field-texto .field--type-text-long .field--label-hidden .field--item}
-<div>
+Desde 1º de fevereiro de 2019, na emissão da Nota Fiscal eletrônica - NF-e e Nota Fiscal de Consumidor eletrônica - NFC-e, deve ser preenchido o campo "cBenef" referente ao código de benefício fiscal, quando a operação está contemplada por benefício, conforme previsto na Norma de Procedimento Fiscal, [NPF nº 53/2018](http://www.sefanet.pr.gov.br/dados/SEFADOCUMENTOS/103201800053.pdf) .
 
- 
+Os códigos de benefícios fiscais do Paraná a serem preenchidos no campo "cBenef" da NF-e e NFC-e estão relacionados na Tabela de Códigos de Benefício Fiscal por CST, com a identificação do tipo de benefício ou operação, seu respectivo dispositivo legal e a situação tributária(CST) compatível, publicada no [Portal Nacional da NF-e](http://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=Iy/5Qol1YbE=) .
 
-</div>
+Link: [TABELA DE CÓDIGOS DE BENEFÍCIO FISCAL POR CST - PARANÁ (atualizada em 24/10/2025)](https://sped.fazenda.pr.gov.br/sites/sped/arquivos_restritos/files/documento/2025-10/tabela_cbenef_pr_portal_nacional_abril_2025_v25.pdf)
 
-::: text-align-justify
-Desde 1º de fevereiro de 2019, na emissão da Nota Fiscal eletrônica -- NF-e e Nota Fiscal de Consumidor eletrônica -- NFC-e, deve ser preenchido o campo "cBenef" referente ao código de benefício fiscal, quando a operação está contemplada por benefício, conforme previsto na Norma de Procedimento Fiscal, [NPF nº 53/2018[[ ]{.element-invisible}]{.0}](http://www.sefanet.pr.gov.br/dados/SEFADOCUMENTOS/103201800053.pdf){.0 target="_blank" rel="nofollow"}.
-:::
+A Tabela de Códigos de Benefício Fiscal por CST tem como base a [Tabela 5.2 - Tabela de Informações Adicionais da Apuração da EFD](https://sped.fazenda.pr.gov.br/EFD/Pagina/52-TABELA-DE-INFORMACOES-ADICIONAIS-DA-APURACAO-VALORES-DECLARATORIOS) .
 
-::: text-align-justify
-Os códigos de benefícios fiscais do Paraná a serem preenchidos no campo \"cBenef\" da NF-e e NFC-e estão relacionados na Tabela de Códigos de Benefício Fiscal por CST, com a identificação do tipo de benefício ou operação, seu respectivo dispositivo legal e a situação tributária(CST) compatível, publicada no [Portal Nacional da NF-e[[ ]{.element-invisible}]{.0}](http://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=Iy/5Qol1YbE=){.0 target="_blank" rel="nofollow"}.
-:::
+**OBSERVAÇÃO 1:** O Código de Situação Tributária - CST é o código que determina a tributação de ICMS do produto. O CST está previsto na [Tabela B do Convênio s/nº de 15 de dezembro de 1970:](https://www.confaz.fazenda.gov.br/legislacao/ajustes/sinief/cvsn_70)
 
-::: text-align-justify
-\
-Link: [ [TABELA DE CÓDIGOS DE BENEFÍCIO FISCAL POR CST - PARANÁ (atualizada em 24/10/2025)[[ ]{.element-invisible}]{.0}](https://sped.fazenda.pr.gov.br/sites/sped/arquivos_restritos/files/documento/2025-10/tabela_cbenef_pr_portal_nacional_abril_2025_v25.pdf){.0 type="application/pdf; length=1109981" target="_blank" rel="nofollow"} ]{.embedded-entity embed-button="midia_embarcada" entity-embed-display="view_mode:media.midia_anexada_em_outro_node" entity-embed-display-settings="TABELA DE CÓDIGOS DE BENEFÍCIO FISCAL POR CST - PARANÁ (atualizada em 24/10/2025)" entity-type="media" entity-uuid="69690758-cc91-4818-80fd-10b429a1ae9b" langcode="pt-br" title="TABELA DE CÓDIGOS DE BENEFÍCIO FISCAL POR CST - PARANÁ (atualizada em 24/10/2025)"}
-:::
+CST 00 - Tributada integralmente CST 10 - Tributada e com cobrança do ICMS por substituição tributária CST 20 - Com redução de base de cálculo; CST 30 - Isenta ou não tributada e com cobrança do ICMS por substituição tributária CST 40 - Isenta CST 41 - Não tributada CST 50 - Suspensão CST 51 - Diferimento CST 60 - ICMS cobrado anteriormente por substituição tributária CST 70 - Redução de base de cálculo e cobrança do ICMS por substituição tributária CST 90 - Outras (excepcionalmente utilizado quando a tributação da operação é diversa dos CST acima citados)
 
-::: text-align-justify
- 
-:::
-
-::: text-align-justify
-A Tabela de Códigos de Benefício Fiscal por CST tem como base a [Tabela 5.2 -- Tabela de Informações Adicionais da Apuração da EFD](https://sped.fazenda.pr.gov.br/EFD/Pagina/52-TABELA-DE-INFORMACOES-ADICIONAIS-DA-APURACAO-VALORES-DECLARATORIOS){target="_blank"}.\
- 
-:::
-
-::: text-align-justify
-**OBSERVAÇÃO 1:** O Código de Situação Tributária - CST é o código que determina a tributação de ICMS do produto. O CST está previsto na [Tabela B do Convênio s/nº de 15 de dezembro de 1970:[[ ]{.element-invisible}]{.0}](https://www.confaz.fazenda.gov.br/legislacao/ajustes/sinief/cvsn_70){.0 target="_blank" rel="nofollow"}
-:::
-
-::: text-align-justify
-CST 00 -- Tributada integralmente\
-CST 10 -- Tributada e com cobrança do ICMS por substituição tributária\
-CST 20 - Com redução de base de cálculo;\
-CST 30 - Isenta ou não tributada e com cobrança do ICMS por substituição tributária\
-CST 40 - Isenta\
-CST 41 - Não tributada\
-CST 50 -- Suspensão\
-CST 51 -- Diferimento\
-CST 60 -- ICMS cobrado anteriormente por substituição tributária\
-CST 70 - Redução de base de cálculo e cobrança do ICMS por substituição tributária\
-CST 90 - Outras (excepcionalmente utilizado quando a tributação da operação é diversa dos CST acima citados)
-:::
-
-:::: text-align-justify
- 
-
-::: text-align-justify
 **OBSERVAÇÃO 2:** Nas operações abrangidas por Diferimento Parcial com Substituição Tributária proceder conforme orientação descrita no Boletim Informativo nº 012/2015 com a atualização do dispositivo legal RICMS/2017:
-:::
-::::
 
-::: text-align-justify
 Para o cálculo do ICMS devido nas operações internas sujeitas à substituição tributária, o contribuinte que atende à condição de substituto tributário deverá seguir as seguintes orientações:
-:::
 
-::: text-align-justify
 O ICMS PRÓPRIO deverá ser calculado COM a aplicação do diferimento parcial.
-:::
 
-::: text-align-justify
 - O ICMS-ST deverá ser calculado SEM a aplicação do diferimento parcial.
 - Deverão ser consideradas as demais regras vigentes para cada produto.
-- As notas fiscais deverão conter o CST - Código de Situação Tributária - 10, de que trata a Tabela II do Subanexo I do Anexo II do RICMS/2017, e a alíquota de 12%, informando no campo "Informações Adicionais" o respectivo código de benefício fiscal e a expressão: "ICMS parcialmente diferido no montante de R\$ \...., conforme art. 28 do RICMS/2017".
-- IMPORTANTE: não deve preencher o campo \"cBenef\", para a nota fiscal não ser rejeitada com o código 928 - *\"Rejeição:Informado código de benefício fiscal para CST sem benefício fiscal\".*
-:::
+- As notas fiscais deverão conter o CST - Código de Situação Tributária - 10, de que trata a Tabela II do Subanexo I do Anexo II do RICMS/2017, e a alíquota de 12%, informando no campo "Informações Adicionais" o respectivo código de benefício fiscal e a expressão: "ICMS parcialmente diferido no montante de R$ ...., conforme art. 28 do RICMS/2017".
+- IMPORTANTE: não deve preencher o campo "cBenef", para a nota fiscal não ser rejeitada com o código 928 - *"Rejeição:Informado código de benefício fiscal para CST sem benefício fiscal".*
 
- 
-::::::::::::::::
+- [Voltar](javascript:history.back();)
+- [Início](https://sped.fazenda.pr.gov.br/)
+- [Imprimir](javascript:window.print();)
+- [Baixar](https://sped.fazenda.pr.gov.br/print/pdf/node/197)
 
-::: {#medias}
-:::
+- [Mapa do site](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL#)
+- [Denuncie Corrupção](http://www.transparencia.pr.gov.br/pte/denuncie)
+- [Ouvidoria](https://www.fazenda.pr.gov.br/Pagina/Canais-de-atendimento#Ouvidoria)
 
-::: {.content-functions .mobile-center}
-- ::: {.share-label .mobile-center}
-  Compartilhe:
-  :::
+## Navegação principal
 
-  [[[![](/home/projetos/custo-brasil/runtime/work/nfe/Estado de PR/cbenef-pr-html/assets/c790a9804675b7c87f488a86cff05f48d6f23931.svg)]{.a2a_svg .a2a_s__default .a2a_s_facebook style="background-color: rgb(8, 102, 255); width: 24px; line-height: 24px; height: 24px; background-size: 24px; border-radius: 3px;"}[Facebook]{.a2a_label}](https://sped.fazenda.pr.gov.br/#facebook){.a2a_button_facebook target="_blank" rel="nofollow noopener"}[[![](/home/projetos/custo-brasil/runtime/work/nfe/Estado de PR/cbenef-pr-html/assets/2d398ee96086eabed4181f570ec625bf79752e4d.svg)]{.a2a_svg .a2a_s__default .a2a_s_twitter style="background-color: rgb(29, 155, 240); width: 24px; line-height: 24px; height: 24px; background-size: 24px; border-radius: 3px;"}[Twitter]{.a2a_label}](https://sped.fazenda.pr.gov.br/#twitter){.a2a_button_twitter target="_blank" rel="nofollow noopener"}[[![](/home/projetos/custo-brasil/runtime/work/nfe/Estado de PR/cbenef-pr-html/assets/bfada6221735c5f548da70a711641cb105f6df30.svg)]{.a2a_svg .a2a_s__default .a2a_s_whatsapp style="background-color: rgb(18, 175, 10); width: 24px; line-height: 24px; height: 24px; background-size: 24px; border-radius: 3px;"}[WhatsApp]{.a2a_label}](https://sped.fazenda.pr.gov.br/#whatsapp){.a2a_button_whatsapp target="_blank" rel="nofollow noopener"}]{.a2a_kit .a2a_kit_size_24 .addtoany_list a2a-url="https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL" a2a-title="CÓDIGO DE BENEFÍCIO FISCAL" style="line-height: 24px;"}
+- [Inicial](https://sped.fazenda.pr.gov.br/)
+- [BP-e](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+    - [Apresentação](https://sped.fazenda.pr.gov.br/BPe/Pagina/Bilhete-de-Passagem-Eletronico-BP-e)
+    - [Certificação Digital](https://sped.fazenda.pr.gov.br/BPe/Pagina/Certificacao-Digital)
+    - [Consultas](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Consulta Completa BP-e](https://sped.fazenda.pr.gov.br/BPe/webservices/sped/bpe/completa)
+        - [Consulta disponibilidade dos serviços BP-e](https://sped.fazenda.pr.gov.br/BPe/Disponibilidade-dos-servicos-BP-e)
+    - [Contingência](https://sped.fazenda.pr.gov.br/BPe/Pagina/Regras-Gerais-de-Contingencia)
+    - [Credenciamento de emissores](https://sped.fazenda.pr.gov.br/BPe/Pagina/Credenciamento-de-emissores)
+    - [Legislação](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Legislação Estadual](https://sped.fazenda.pr.gov.br/BPe/Pagina/Legislacao-Estadual)
+        - [Legislação Nacional](https://sped.fazenda.pr.gov.br/BPe/Pagina/Legislacao-Nacional)
+    - [Notícias](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Boletins Informativos](https://sped.fazenda.pr.gov.br/BPe/Pagina/Boletins-Informativos)
+        - [Notícias BP-e](https://sped.fazenda.pr.gov.br/Editoria/BPe)
+    - [Obrigatoriedade](https://sped.fazenda.pr.gov.br/BPe/Pagina/Obrigatoriedade-BP-e)
+    - [Perguntas Frequentes (Portal Nacional)](https://dfe-portal.svrs.rs.gov.br/Bpe/Faq)
+    - [Portal Nacional do BP-e](https://dfe-portal.svrs.rs.gov.br/Bpe)
+    - [URL dos Web Services](https://sped.fazenda.pr.gov.br/BPe/Pagina/URL-dos-Web-Services)
+- [CT-e](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+    - [Apresentação](https://sped.fazenda.pr.gov.br/CTe/Pagina/Conhecimento-de-Transporte-Eletronico-CT-e)
+    - [Certificação Digital](https://sped.fazenda.pr.gov.br/CTe/Pagina/Certificacao-Digital)
+    - [Consultas](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Consulta Completa CT-e](https://sped.fazenda.pr.gov.br/CTe/webservices/sped/cte/completa)
+        - [Consulta Inutilização de Numeração da CT-e](https://sped.fazenda.pr.gov.br/CTe/webservices/sped/cte/inutilizada)
+        - [Consulta Disponibilidade dos serviços](https://sped.fazenda.pr.gov.br/CTe/Pagina/Disponibilidade-dos-servicos)
+    - [Contingência](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Contingência - Regras Gerais](https://sped.fazenda.pr.gov.br/CTe/Pagina/Regras-Gerais-de-Contingencia)
+        - [Contingência - Formulário de Segurança](https://sped.fazenda.pr.gov.br/CTe/Pagina/Formulario-de-Seguranca)
+    - [Credenciamento de emissores](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Regras de Credenciamento](https://sped.fazenda.pr.gov.br/CTe/Pagina/Regras-de-Credenciamento)
+        - [Pontos de Atenção](https://sped.fazenda.pr.gov.br/CTe/Pagina/Pontos-de-Atencao)
+    - [Legislação](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Legislação Estadual](https://sped.fazenda.pr.gov.br/CTe/Pagina/Legislacao-Estadual)
+        - [Legislação Nacional](https://sped.fazenda.pr.gov.br/CTe/Pagina/Legislacao-Nacional)
+    - [Notícias](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Notícias CT-e](https://sped.fazenda.pr.gov.br/Editoria/CTe)
+        - [Comunicados](https://sped.fazenda.pr.gov.br/CTe/Pagina/Comunicados)
+        - [Boletins Informativos](https://sped.fazenda.pr.gov.br/CTe/Pagina/Boletins-Informativos)
+    - [Obrigatoriedade](https://sped.fazenda.pr.gov.br/CTe/Pagina/CT-e-obrigatoriedade)
+    - [Perguntas Frequentes (Portal Nacional)](http://www.cte.fazenda.gov.br/PerguntasFrequentes.aspx?tipoConteudo=l5imOVlDqPU%3D)
+    - [Portais de outros órgãos](https://sped.fazenda.pr.gov.br/CTe/Pagina/Portais-de-outros-orgaos)
+    - [URL dos Web Services](https://sped.fazenda.pr.gov.br/CTe/Pagina/Web-Services)
+- [CT-e OS](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+    - [Apresentação](https://sped.fazenda.pr.gov.br/CTeOS/Pagina/Conhecimento-de-Transporte-Eletronico-para-Outros-Servicos-CT-e-OS)
+    - [Certificação Digital](https://sped.fazenda.pr.gov.br/CTeOS/Pagina/Certificacao-Digital)
+    - [Consultas](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Consulta Completa CT-e OS](http://sped.fazenda.pr.gov.br/webservices/sped/cteos/completa)
+        - [Consulta Inutilização de Numeração](https://sped.fazenda.pr.gov.br/CTeOS/webservices/sped/cteos/inutilizada)
+    - [Credenciamento](https://sped.fazenda.pr.gov.br/CTeOS/Pagina/Credenciamento)
+    - [Legislação](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Legislação Estadual](https://sped.fazenda.pr.gov.br/CTeOS/Pagina/Legislacao-Estadual)
+        - [Legislação Nacional](https://sped.fazenda.pr.gov.br/CTeOS/Pagina/Legislacao-Nacional)
+    - [Obrigatoriedade](https://sped.fazenda.pr.gov.br/CTeOS/Pagina/Obrigatoriedade)
+    - [Portal de outros órgãos](https://sped.fazenda.pr.gov.br/CTeOS/Pagina/Portais-de-outros-orgaos)
+    - [URL dos Web Services](https://sped.fazenda.pr.gov.br/CTeOS/Pagina/URL-dos-Web-Services)
+- [EFD](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+    - [Apresentação](https://sped.fazenda.pr.gov.br/EFD/Pagina/Escrituracao-Fiscal-Digital-EFD)
+    - [Adesão Voluntária](https://sped.fazenda.pr.gov.br/EFD/Pagina/Adesao-Voluntaria)
+    - [Download](https://sped.fazenda.pr.gov.br/EFD/Pagina/DOWNLOAD)
+    - [Legislação](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Legislação Estadual](https://sped.fazenda.pr.gov.br/EFD/Pagina/Legislacao-Estadual)
+        - [Legislação Nacional](http://sped.rfb.gov.br/pastalegislacao/show/518)
+    - [Palestras](https://sped.fazenda.pr.gov.br/EFD/Pagina/Palestras)
+    - [Perguntas mais frequentes](https://sped.fazenda.pr.gov.br/EFD/Pagina/Perguntas-mais-frequentes)
+    - [Portal Nacional EFD](http://sped.rfb.gov.br/)
+    - [Pós validação EFD](https://sped.fazenda.pr.gov.br/EFD/Pagina/Pos-validacao-EFD)
+    - [Registros dispensados pelo Estado do Paraná](https://sped.fazenda.pr.gov.br/EFD/Pagina/Registros-dispensados-pelo-Estado-do-Parana)
+    - [Tabelas de Ajustes - Lançamento e Apuração](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [5.1.1 - Tabela de Códigos de Ajustes da Apuração do ICMS](https://sped.fazenda.pr.gov.br/EFD/Pagina/511-TABELA-DE-CODIGOS-DE-AJUSTES-DA-APURACAO)
+        - [5.2 - Tabela de Informações Adicionais da Apuração](https://sped.fazenda.pr.gov.br/EFD/Pagina/52-TABELA-DE-INFORMACOES-ADICIONAIS-DA-APURACAO-VALORES-DECLARATORIOS)
+        - [5.3 - Tabela de Ajustes e Informações - Documento Fiscal](https://sped.fazenda.pr.gov.br/EFD/Pagina/53-TABELA-DE-AJUSTES-E-INFORMACOES-DE-VALORES-PROVENIENTES-DE-DOCUMENTO-FISCAL)
+        - [5.8 - Tabela de Código de Produto - Usinas](https://sped.fazenda.pr.gov.br/EFD/Pagina/58-TABELA-DE-CODIGO-DE-PRODUTO-USINAS)
+        - [Tabela de Itens UF Índice de Participação dos Municípios](https://sped.fazenda.pr.gov.br/EFD/Pagina/Tabela-de-Itens-UF-Indice-de-Participacao-dos-Municipios)
+- [GTV-e](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+    - [Apresentação](https://sped.fazenda.pr.gov.br/GTVe/Pagina/Guia-de-Transporte-de-Valores-Eletronica-GTV-e)
+    - [Consultas](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Consulta Completa GTV-e](https://sped.fazenda.pr.gov.br/webservices/sped/gtve/completa)
+    - [Legislação](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Legislação Estadual](https://sped.fazenda.pr.gov.br/GTVe/Pagina/Legislacao-Estadual)
+        - [Legislação Nacional](https://sped.fazenda.pr.gov.br/GTVe/Pagina/Legislacao-Nacional)
+    - [Notícias GTV-e](https://sped.fazenda.pr.gov.br/Editoria/GTVe)
+    - [URL dos Web Services](https://sped.fazenda.pr.gov.br/GTVe/Pagina/URL-dos-Web-Services)
+- [MDF-e](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+    - [Apresentação](https://sped.fazenda.pr.gov.br/MDFe/Pagina/Manifesto-Eletronico-de-Documentos-Fiscais-MDF-e)
+    - [Legislação](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Legislação Estadual](https://sped.fazenda.pr.gov.br/MDFe/Pagina/Legislacao-Estadual)
+        - [Legislação Nacional](https://sped.fazenda.pr.gov.br/MDFe/Pagina/Legislacao-Nacional)
+    - [Notícias](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Boletins Informativos](https://sped.fazenda.pr.gov.br/MDFe/Pagina/Boletins-Informativos)
+    - [Perguntas Frequentes (Portal Nacional)](https://dfe-portal.svrs.rs.gov.br/Mdfe/Faq)
+    - [Portal Nacional do MDF-e](https://dfe-portal.svrs.rs.gov.br/MDFE)
+    - [URL dos Web Services](https://sped.fazenda.pr.gov.br/MDFe/Pagina/Web-Services)
+    - [Instruções sobre MDF-e não encerrados](https://sped.fazenda.pr.gov.br/MDFe/Pagina/Instrucoes-sobre-MDF-e-nao-encerrados)
+- [NF-e](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+    - [Apresentação](https://sped.fazenda.pr.gov.br/NFe/Pagina/Apresentacao)
+    - [Adesão Voluntária](https://sped.fazenda.pr.gov.br/NFe/Pagina/Adesao-Voluntaria)
+    - [Cadastro Centralizado de Contribuintes - CCC](https://sped.fazenda.pr.gov.br/NFe/Pagina/Cadastro-Centralizado-de-Contribuintes)
+    - [Certificação Digital](https://sped.fazenda.pr.gov.br/NFe/Pagina/Certificacao-Digital)
+    - [Código de Benefício Fiscal](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+    - [Consultas](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Consulta Completa NF-e](https://sped.fazenda.pr.gov.br/NFe/webservices/sped/nfe/completa)
+        - [Consulta Inutilização de Numeração da NF-e](https://sped.fazenda.pr.gov.br/NFe/webservices/sped/nfe/inutilizada)
+        - [Disponibilidade dos serviços](https://sped.fazenda.pr.gov.br/NFe/Pagina/Disponibilidade-dos-servicos)
+        - [Consulta Centralizada de Contribuintes - CCC](https://sped.fazenda.pr.gov.br/NFe/webservices/sped/nfe/centralizada)
+    - [Contingência](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Contingência - Situação SVC-RS](https://sped.fazenda.pr.gov.br/NFe/Pagina/Situacao-SVC-RS)
+        - [Contingência - Regras Gerais](https://sped.fazenda.pr.gov.br/NFe/Pagina/Regras-Gerais-de-Contingencia)
+        - [Contingência - Formulário de Segurança](https://sped.fazenda.pr.gov.br/NFe/Pagina/Formulario-de-Seguranca)
+    - [Credenciamento de emissores](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Regras de Credenciamento](https://sped.fazenda.pr.gov.br/NFe/Pagina/Regras-de-Credenciamento)
+        - [Pontos de Atenção](https://sped.fazenda.pr.gov.br/NFe/Pagina/Pontos-de-Atencao)
+    - [CSRT](https://sped.fazenda.pr.gov.br/NFe/Pagina/CSRT)
+    - [Eventos NF-e](https://sped.fazenda.pr.gov.br/NFe/Pagina/Eventos-NF-e)
+    - [Legislação](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Legislação Estadual](https://sped.fazenda.pr.gov.br/NFe/Pagina/Legislacao-Estadual)
+        - [Legislação Nacional](https://sped.fazenda.pr.gov.br/NFe/Pagina/Legislacao-Nacional)
+    - [Links](https://sped.fazenda.pr.gov.br/NFe/Pagina/Links)
+    - [Manual de Orientação do Contribuinte (MOC ONLINE)](http://moc.sped.fazenda.pr.gov.br/)
+    - [Notícias](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Notícias SEFA](https://sped.fazenda.pr.gov.br/NFe/Pagina/Noticias)
+        - [Comunicados](https://sped.fazenda.pr.gov.br/NFe/Pagina/Comunicados)
+        - [Boletins Informativos](https://sped.fazenda.pr.gov.br/NFe/Pagina/Boletins-Informativos)
+    - [Obrigatoriedade](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Atividades Obrigadas](https://sped.fazenda.pr.gov.br/NFe/Pagina/Atividades-Economicas-Obrigadas)
+        - [Operações Obrigadas - Contribuintes](https://sped.fazenda.pr.gov.br/NFe/Pagina/Orientacoes-para-Contribuintes)
+        - [Operações Obrigadas - Setores Públicos](https://sped.fazenda.pr.gov.br/NFe/Pagina/Orientacoes-para-Setores-Publicos)
+    - [Perguntas e Respostas](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Perguntas Frequentes Portal Estadual](http://www.atendimento.fazenda.pr.gov.br/sacsefa/portal/assuntosReferente/23)
+        - [Perguntas Frequentes Portal Nacional](http://www.nfe.fazenda.gov.br/portal/perguntasFrequentes.aspx?tipoConteudo=47FIo72z99s%3D)
+    - [Portal Nacional da NF-e](https://sped.fazenda.pr.gov.br/NFe/Pagina/Portal-Nacional-da-NF-e)
+    - [Regras de Validação](https://sped.fazenda.pr.gov.br/NFe/Pagina/Regras-de-Validacao)
+    - [Serviço de Download](https://sped.fazenda.pr.gov.br/NFe/Pagina/Servico-de-Download-de-NF-e)
+    - [URL dos Web Services](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Serviços disponíveis](https://sped.fazenda.pr.gov.br/NFe/Pagina/Servicos-web-services-disponiveis)
+        - [Endereços dos ambientes](https://sped.fazenda.pr.gov.br/NFe/Pagina/Enderecos-dos-ambientes-de-homologacao-e-producao-Versao-400)
+- [NFA-e](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+    - [Apresentação](https://sped.fazenda.pr.gov.br/NFAe/Pagina/NOTA-FISCAL-AVULSA-ELETRONICA)
+    - [Consulta Completa de NFA-e](https://sped.fazenda.pr.gov.br/NFAe/Pagina/Consulta-Completa-de-NFA-e)
+    - [Legislação](https://sped.fazenda.pr.gov.br/NFAe/Pagina/Legislacao-NFA-e)
+    - [Notícias de NFA-e](https://sped.fazenda.pr.gov.br/Editoria/NFAe)
+    - [Orientações](https://sped.fazenda.pr.gov.br/NFAe/Pagina/Orientacoes-sobre-NFA-e)
+    - [Obrigatoriedade](https://sped.fazenda.pr.gov.br/NFAe/Pagina/Obrigadotriedade-da-NFA-e)
+- [NFC-e](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+    - [Apresentação](https://sped.fazenda.pr.gov.br/NFCe/Pagina/Apresentacao)
+    - [Certificação Digital](https://sped.fazenda.pr.gov.br/NFCe/Pagina/Certificacao-Digital)
+    - [Código de Benefício Fiscal](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+    - [Consultas](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Consulta Completa NFC-e](https://sped.fazenda.pr.gov.br/NFCe/webservices/sped/nfce/completa)
+        - [Consulta Inutilização de Numeração da NFC-e](https://sped.fazenda.pr.gov.br/NFCe/webservices/sped/nfce/inutilizada)
+    - [Contingência](https://sped.fazenda.pr.gov.br/NFCe/Pagina/Contingencia)
+    - [Credenciamento de emissores](https://sped.fazenda.pr.gov.br/NFCe/Pagina/Credenciamento-de-emissores)
+    - [Código de Segurança do Contribuinte - CSC](https://sped.fazenda.pr.gov.br/NFCe/Pagina/Codigo-de-Seguranca-do-Contribuinte-CSC)
+    - [Legislação](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Legislação Estadual](https://sped.fazenda.pr.gov.br/NFCe/Pagina/Estadual)
+        - [Legislação Nacional](https://sped.fazenda.pr.gov.br/NFCe/Pagina/Nacional)
+    - [Manual de Orientação do Contribuinte (MOC ONLINE)](http://moc.sped.fazenda.pr.gov.br/)
+    - [Notícias](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Boletins Informativos NFC-e](https://sped.fazenda.pr.gov.br/NFCe/Pagina/Boletins-Informativos)
+    - [Palestras](https://sped.fazenda.pr.gov.br/NFCe/Pagina/Palestras)
+    - [Perguntas Frequentes](http://www.atendimento.fazenda.pr.gov.br/sacsefa/portal/assuntosReferente/22)
+    - [Portal Nacional do NFC-e](http://nfce.encat.org/)
+    - [QR Code](https://sped.fazenda.pr.gov.br/NFCe/Pagina/QR-Code)
+    - [Regras de Validação](https://sped.fazenda.pr.gov.br/NFe/Pagina/Regras-de-Validacao)
+    - [URL dos Web Services](https://sped.fazenda.pr.gov.br/NFCe/Pagina/Web-Services-NFC-e)
+    - [Vídeos sobre NFC-e](https://sped.fazenda.pr.gov.br/NFCe/Pagina/Videos-sobre-NFC-e)
+- [NFF](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+    - [Apresentação](https://sped.fazenda.pr.gov.br/NFF/Pagina/Regime-Especial-da-Nota-Fiscal-Facil-NFF)
+    - [Consultas](https://sped.fazenda.pr.gov.br/NFF/Pagina/Consultas)
+    - [Legislação](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Legislação Estadual](https://sped.fazenda.pr.gov.br/NFF/Pagina/Legislacao-Estadual)
+        - [Legislação Nacional](https://sped.fazenda.pr.gov.br/NFF/Pagina/Legislacao-Nacional)
+    - [Manual de utilização Nota Fiscal Fácil](https://sped.fazenda.pr.gov.br/NFF/Pagina/Manual-de-Utilizacao-do-App-Nota-Fiscal-Facil)
+    - [Notícias NFF](https://sped.fazenda.pr.gov.br/NFF/Pagina/Noticias-NFF)
+    - [Perguntas Frequentes](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Perguntas Frequentes Portal Estadual](http://www.atendimento.fazenda.pr.gov.br/sacsefa/portal/assuntosReferente/50)
+        - [Perguntas Frequentes Portal Nacional](https://dfe-portal.svrs.rs.gov.br/Nff/Faq)
+    - [Pontos de Atenção](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Transportador Autônomo de Cargas (TAC) - Adesão](https://sped.fazenda.pr.gov.br/NFF/Pagina/Adesao-ao-Regime-Especial-da-NFF)
+        - [A utilização da NFF pelo TAC NÃO se aplica](https://sped.fazenda.pr.gov.br/NFF/Pagina/utilizacao-da-NFF-pelo-TAC-NAO-se-aplica)
+        - [NFF - PRODUTOR RURAL](https://sped.fazenda.pr.gov.br/NFF/Pagina/ALERTA-CADASTRAMENTO-DE-CLIENTES-item-6-do-Manual-de-Orientacao)
+- [NFP-e](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+    - [Apresentação](https://sped.fazenda.pr.gov.br/NFPe/Pagina/NOTA-FISCAL-DE-PRODUTOR-ELETRONICA-NFP-e)
+    - [Consulta NFP-e](https://sped.fazenda.pr.gov.br/NFPe/Pagina/Consulta-NFP-e)
+    - [Legislação](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Legislação Estadual](https://sped.fazenda.pr.gov.br/NFPe/Pagina/Legislacao-Estadual)
+        - [Legislação Nacional](https://sped.fazenda.pr.gov.br/NFPe/Pagina/Legislacao-Nacional)
+    - [Obrigatoriedade](https://sped.fazenda.pr.gov.br/NFPe/Pagina/Obrigatoriedade-da-NFP-e)
+    - [Orientações](https://sped.fazenda.pr.gov.br/NFPe/Pagina/ORIENTACOES-SOBRE-NFP-e)
+    - [Perguntas Frequentes](http://www.atendimento.fazenda.pr.gov.br/sacsefa/portal/assuntosReferente/45)
+- [NF3e](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+    - [Apresentação](https://sped.fazenda.pr.gov.br/NF3e/Pagina/Apresentacao)
+    - [Certificado Digital](https://sped.fazenda.pr.gov.br/NF3e/Pagina/Certificado-Digital)
+    - [Consultas](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Consulta Completa NF3-e](https://sped.fazenda.pr.gov.br/NF3e/webservices/sped/nf3e/completa)
+    - [Legislação](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Legislação Estadual](https://sped.fazenda.pr.gov.br/NF3e/Pagina/Legislacao-Estadual)
+        - [Legislação Nacional](https://sped.fazenda.pr.gov.br/NF3e/Pagina/Legislacao-Nacional)
+    - [Portal Nacional da NF3-e](https://dfe-portal.svrs.rs.gov.br/Nf3e)
+    - [URL dos Web Services](https://sped.fazenda.pr.gov.br/NF3e/Pagina/Enderecos-dos-ambientes-de-homologacao-e-producao-NF3e)
+- [NFCom](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+    - [Apresentação](https://sped.fazenda.pr.gov.br/NFCom/Pagina/Nota-Fiscal-Fatura-de-Servicos-de-Comunicacao-Eletronica-NFCom)
+    - [Legislação](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Legislação Estadual](https://sped.fazenda.pr.gov.br/NFCom/Pagina/Legislacao-Estadual-NFCom)
+        - [Legislação Nacional](https://sped.fazenda.pr.gov.br/NFCom/Pagina/Legislacao-Nacional-NFCom)
+    - [Portal Nacional da NFCom](https://dfe-portal.svrs.rs.gov.br/Nfcom)
+    - [Obrigatoriedade](https://sped.fazenda.pr.gov.br/NFCom/Pagina/Obrigatoriedade-da-NFCom)
+    - [Consulta NFCom](https://sped.fazenda.pr.gov.br/webservices/sped/nfcom/completa)
+    - [URL dos Web Services](https://sped.fazenda.pr.gov.br/NFCom/Pagina/Enderecos-dos-Ambientes-NFCom)
+- [DC-e](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+    - [Apresentação](https://sped.fazenda.pr.gov.br/DCe/Pagina/Declaracao-de-Conteudo-Eletronica-DCe)
+    - [Consultas](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+        - [Consulta Completa DC-e](https://sped.fazenda.pr.gov.br/webservices/sped/dce/completa)
+    - [Manuais](https://sped.fazenda.pr.gov.br/DCe/Pagina/Manuais)
+    - [URL dos Web Services](https://sped.fazenda.pr.gov.br/DCe/Pagina/Enderecos-dos-ambientes-de-homologacao-e-producao-DCe)
+    - [Desenvolvedor DC-e](https://sped.fazenda.pr.gov.br/DCe/Pagina/Assinatura-DC-e-e-XML)
+- [Portal dos Municípios](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL)
+    - [Apresentação](https://sped.fazenda.pr.gov.br/Pagina/Sobre-o-Portal-dos-Municipios)
+    - [Legislação](https://sped.fazenda.pr.gov.br/Pagina/Legislacao)
+    - [Como aderir](https://sped.fazenda.pr.gov.br/sites/sped/arquivos_restritos/files/documento/2023-08/ACESSO%20PORTAL%20DOS%20MUN%C3%8DCIPIOS%20.pdf)
+    - [Link direto de acesso ao portal](http://portaldosmunicipios.receita.pr.gov.br/)
 
-<!-- -->
+Conteúdo acessível em Libras usando o VLibras Widget com opções dos Avatares Ícaro, Hosana ou Guga.
 
-- [ Voltar](javascript:history.back(); "Voltar")
-- [ Início](https://sped.fazenda.pr.gov.br/ "Início")
-- [ Imprimir](javascript:window.print(); "Imprimir")
-- [ Baixar](https://sped.fazenda.pr.gov.br/print/pdf/node/197 "Baixar"){target="_blank"}
-:::
-:::::::::::::::::::
-::::::::::::::::::::
-:::::::::::::::::::::
-::::::::::::::::::::::
-:::::::::::::::::::::::
-::::::::::::::::::::::::
-:::::::::::::::::::::::::
-::::::::::::::::::::::::::
+<!-- image -->
+
+Conteúdo acessível em Libras usando o VLibras Widget com opções dos Avatares Ícaro, Hosana ou Guga.
+
+<!-- image -->
+
+Copy link
+
+✓
+
+Obrigado por compartilhar!
+
+[AddToAny](https://www.addtoany.com/)
+
+[Mais...](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL#addtoany)
