@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt-2024-003-produtos-agro-nf-e-v-1-10-rev",
+  "category": "nota_tecnica",
+  "document_path": "corpus/nfe/notas-tecnicas/nt-2024-003-produtos-agro-nf-e-v-1-10-rev/document.md",
+  "metadata_path": "corpus/nfe/notas-tecnicas/nt-2024-003-produtos-agro-nf-e-v-1-10-rev/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "NT_2024.003- Produtos AGRO NF-e - v 1.10_Rev.pdf",
+  "original_sha256": "d7609f48772db2ccbff6784b3e51a138433733ddff3deba84640622f82397966",
+  "published_at_utc": "2026-06-25T15:46:41.464919+00:00",
+  "slug": "nt-2024-003-produtos-agro-nf-e-v-1-10-rev",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt-2024-003-produtos-agro-nf-e-v-1-10-rev/source.json",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 16,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 16,
+    "missing_image_refs_count": 0
+  }
+}
