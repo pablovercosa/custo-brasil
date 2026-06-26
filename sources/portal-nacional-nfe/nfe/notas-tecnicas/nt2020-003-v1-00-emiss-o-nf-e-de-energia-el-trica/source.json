@@ -1,0 +1,38 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica",
+  "category": "nota_tecnica",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/nfe/notas-tecnicas/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica/document.md",
+    "corpus/nfe/notas-tecnicas/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica/metadata.json",
+    "corpus/nfe/notas-tecnicas/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica/assets/image_000000_6c545e385dc554d4f2538dc5f2f8e123229188ad3a37c64853552479f699396f.png",
+    "corpus/nfe/notas-tecnicas/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica/assets/image_000001_5dd5d5e16748c7abcded3a0035d3a12ebd8073cdc66cfc62ca495386dd8ab477.png",
+    "corpus/nfe/notas-tecnicas/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica/assets/image_000002_f8e4edf9c58cf40f4e1c632415fa3edf3efd0182504e785ec8077bd3a565db28.png",
+    "corpus/nfe/notas-tecnicas/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica/assets/image_000003_2c45ff1698c6ac78f79df8c39ecd8d12246d64024bf4edbfae9d60ae499367aa.png",
+    "corpus/nfe/notas-tecnicas/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica/assets/image_000004_fa0702d955869ce14748a0190d1d3dc7d8792f325387ac545cbff7b980d64a87.png",
+    "corpus/nfe/notas-tecnicas/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica/assets/image_000005_fa0702d955869ce14748a0190d1d3dc7d8792f325387ac545cbff7b980d64a87.png",
+    "corpus/nfe/notas-tecnicas/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica/assets/image_000006_2c45ff1698c6ac78f79df8c39ecd8d12246d64024bf4edbfae9d60ae499367aa.png",
+    "corpus/nfe/notas-tecnicas/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica/assets/image_000007_fa0702d955869ce14748a0190d1d3dc7d8792f325387ac545cbff7b980d64a87.png",
+    "corpus/nfe/notas-tecnicas/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica/assets/image_000008_fa0702d955869ce14748a0190d1d3dc7d8792f325387ac545cbff7b980d64a87.png",
+    "sources/portal-nacional-nfe/nfe/notas-tecnicas/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica/source.json",
+    "normalized/nfe/notas-tecnicas/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica/normalized.json",
+    "changelog/nfe/notas-tecnicas/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica.md"
+  ],
+  "original_filename": "NT2020.003_v1_00 - Emissão NF-e de Energia Elétrica.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Técnicas/NT2020.003_v1_00 - Emissão NF-e de Energia Elétrica.pdf",
+  "original_sha256": "c68e46cf667adfdfef73c40423beb884ae589016584d780eba83c5d70f71274a",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T15:40:55.811669+00:00",
+  "slug": "nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Sistema Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 9,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 9,
+    "missing_image_refs_count": 0
+  }
+}
