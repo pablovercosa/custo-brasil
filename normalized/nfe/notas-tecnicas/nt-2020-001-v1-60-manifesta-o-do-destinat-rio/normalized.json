@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt-2020-001-v1-60-manifesta-o-do-destinat-rio",
+  "category": "nota_tecnica",
+  "document_path": "corpus/nfe/notas-tecnicas/nt-2020-001-v1-60-manifesta-o-do-destinat-rio/document.md",
+  "metadata_path": "corpus/nfe/notas-tecnicas/nt-2020-001-v1-60-manifesta-o-do-destinat-rio/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "NT_2020.001 v1.60 - Manifestação do destinatário.pdf",
+  "original_sha256": "f610878ad54708086aaa20dc668d714adf89cf109b8afbea687f69ef733efe46",
+  "published_at_utc": "2026-06-25T17:08:41.813769+00:00",
+  "slug": "nt-2020-001-v1-60-manifesta-o-do-destinat-rio",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt-2020-001-v1-60-manifesta-o-do-destinat-rio/source.json",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 33,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 33,
+    "missing_image_refs_count": 0
+  }
+}
