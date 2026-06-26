@@ -199,6 +199,15 @@
       "title": "cBenef ES V6",
       "status": "published",
       "published_at": "2026-06-26T00:00:00+00:00"
+    },
+    {
+      "slug": "cbenef-go-html",
+      "category": "nfe",
+      "subdir": "Estado de GO",
+      "family": "sefaz_go",
+      "title": "Códigos de Benefícios Fiscais GO",
+      "status": "published",
+      "published_at": "2026-06-26T00:00:00+00:00"
     }
   ],
   "schemas": {

@@ -1,0 +1,28 @@
+{
+  "authority": "SEFAZ/{uf_sigla}",
+  "canonical_id": "cbenef-go-html",
+  "category": "nfe",
+  "conversion": {
+    "image_export_mode": "referenced",
+    "output_format": "md",
+    "target_type": "dir",
+    "tool": "pandoc"
+  },
+  "converted_at_utc": "2026-06-26T15:56:25.480226+00:00",
+  "original_filename": "Códigos de Benefícios Fiscais – Secretaria da Economia.html",
+  "original_sha256": "ae1219653489eb5f5e258eb1b388af6aac30724e833102db074c484171fcfd6d",
+  "public_paths": {
+    "document": "corpus/nfe/Estado de GO/cbenef-go-html/document.md",
+    "metadata": "corpus/nfe/Estado de GO/cbenef-go-html/metadata.json",
+    "assets": "corpus/nfe/Estado de GO/cbenef-go-html/assets/"
+  },
+  "slug": "cbenef-go-html",
+  "source_family": "sefaz_go",
+  "source_url": "",
+  "status": "converted",
+  "title": "Códigos de Benefícios Fiscais – Secretaria da Economia",
+  "validation": {
+    "asset_count": 0,
+    "lines": 79
+  }
+}
