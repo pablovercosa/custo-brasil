@@ -154,6 +154,15 @@
       "title": "Tabela de Países",
       "status": "published",
       "published_at": "2026-06-26T00:00:00+00:00"
+    },
+    {
+      "slug": "tabela-regimes-especiais",
+      "category": "geral",
+      "subdir": "tabelas-federais",
+      "family": "portal_nacional_nfe",
+      "title": "Padrões de Regime Especial",
+      "status": "published",
+      "published_at": "2026-06-26T00:00:00+00:00"
     }
   ],
   "schemas": {
