@@ -1,0 +1,1162 @@
+CÓDIGO,CST 00,CST 02,CST 10,CST 15,CST 20,CST 30,CST 40,CST 41,CST 50,CST 51,CST 53,CST 60,CST 61,CST 70,CST 90,DATA INÍCIO,DATA FIM,DESCRIÇÃO,DESCRIÇÃO PARA NFA-e,OBSERVAÇÃO,Contagem de caracteres
+NULO,SIM,SIM,,,,,,,,,,,,,,10082020,,SEM PREENCHIMENTO DO cBenef,NULO,*CAMPO NULO OU INEXISTENTE. Data de início em ambiente de homologação: 01/08/2019,81
+SEM CBENEF,,SIM,SIM,SIM,,SIM,SIM,SIM,SIM,SIM,SIM,SIM,SIM,,SIM,10082020,,ITEM SEM cBenef E UF EXIGE cBenef PARA O CST,ITEM SEM cBenef E UF EXIGE cBenef PARA O CST,Informar apenas com letras maiúsculas. Data de início em ambiente de homologação: 01/08/2019,92
+RS051001,,,,,,SIM,SIM,SIM,,,,,,,,1102016,,"LIVRO I,9,II -REPRODUTORES OU MATRIZES",ISENÇÃO - Saídas de reprodutores ou matrizes a estabelecimento agropecuário inscrito como contribuinte do imposto,,113
+RS051002,,,,,,SIM,SIM,SIM,,,,,,,,1102016,,"LIVRO I,9,III -EMBRIOES OU SEMEM CONGEL OU RESFR",ISENÇÃO - Saída de embriões ou semem congelado ou resfriado,,59
+RS051003,,,,,,SIM,SIM,SIM,,,,,,,,1102016,,"LIVRO I,9,IV -EQUINOS",ISENÇÃO - Saída de equinos,,26
+RS051004,,,,,,SIM,SIM,SIM,,,,,,,,1102016,,"LIVRO I,9,V -AMOSTRA DIMINUTO OU NENHUM VAL COMER",ISENÇÃO - Saída de amostras de diminuto ou nenhum valor comercial,,65
+RS051005,,,,,,SIM,SIM,SIM,,,,,,,,1102016,,"LIVRO I,9,VI -EXPOSICOES OU FEIRAS-SAIDAS",ISENÇÃO - Saídas de mercadorias com destino a exposições ou feiras,,66
+RS051006,,,,,,SIM,SIM,SIM,,,,,,,,1102016,,"LIVRO I,9,VII -EXPOSICOES OU FEIRAS-RETORNO",ISENÇÃO - Retorno das saídas de mercadorias com destino a exposições ou feiras,,78
+RS051007,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122027,"LIVRO I,9,VIII -INSUMOS AGROPECUARIOS",ISENÇÃO - Saídas internas de insumos agropecuários,,50
+RS051008,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122027,"LIVRO I,9,IX -PROD P/ALIM ANIMAL/FABRICACAO RACAO",ISENÇÃO - Saídas internas de produtos para alimentação animal/fabricação de ração animal,,88
+RS051009,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I,9,X -BULBOS DE CEBOLA",ISENÇÃO - Saídas de bulbos de cebola destinados à produção de sementes,,70
+RS051010,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I,9,XI -POS-LARVA DE CAMARAO",ISENÇÃO - Saídas de pós-larva de camarão,,40
+RS051011,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,XII -VASILHAMES,RECIP E EMBALAG-SAIDAS","ISENÇÃO - Saídas de vasilhames, recipientes e embalagens, inclusive sacaria, que devam retornar ",,96
+RS051012,,,,,,SIM,SIM,SIM,,,,,,,,1102016,,"LIVRO I,9,XIII -VASILHAMES,RECIP,EMBALAG -RETORNO","ISENÇÃO - Saídas, em retorno ao estabelecimento remetente, de vasilhames, recipientes e embalagens, inclusive sacaria",,117
+RS051013,,,,,,SIM,SIM,SIM,,,,,,,,1102016,,"LIVRO I,9,XIV -BOTIJOES VAZIOS DE GLP",ISENÇÃO - Saídas relacionadas com a destroca de botijões vazios (vasilhames) de gás liquefeito de petróleo - GLP,,112
+RS051014,,,,,,SIM,SIM,SIM,,,,,,,,1102016,,"LIVRO I,9,XV -FORNECIMENTO DE REFEICOES",ISENÇÃO - Fornecimento de refeições aos presos ou aos próprios empregados ,,74
+RS051016,,,,,,SIM,SIM,SIM,,,,,,,,1102016,,"LIVRO I,9,XVII -OVOS","ISENÇÃO - Saídas de ovos, exceto quando destinados à indústria",,62
+RS051017,,,,,,SIM,SIM,SIM,,,,,,,,1102016,,"LIVRO I,9,XVIII -FLORES NATURAIS","ISENÇÃO - Saídas de flores naturais, exceto quando destinadas à indústria;",,74
+RS051018,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,XIX -HORTIFRUTIGRANJEIROS",ISENÇÃO - Saídas de frutas frescas nacionais ou oriundas de países membros da ALADI e as de verduras e hortaliças,,113
+RS051019,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122019,"LIVRO I,9,XX -LEITE FLUIDO",ISENÇÃO - Alterado,,18
+RS051019,,,,,,SIM,SIM,SIM,,,,,,,,1012020,30042024,"LIVRO I,9,XX LEITE PAUSTERIZADO TIPO A, B, C",ISENÇÃO - Substituído pelo cód.190 a partir de 01/06/2024.,,58
+RS051021,,,,,,SIM,SIM,SIM,,,,,,,,1102016,,"LIVRO I,9,XXIII -""DRAWBACK""-SAIDAS P/BENEFICIAMEN","ISENÇÃO - Saídas, promovidas pelo importador, de mercadorias sob o regime de ""drawback"" para beneficiamento ",,108
+RS051022,,,,,,SIM,SIM,SIM,,,,,,,,1102016,,"LIVRO I,9,XXIV -""DRAWBACK""-RETORNO BENEFICIAMENTO","ISENÇÃO - Saídas em devolução das mercadorias sob o regime ""drawback"" ou dos produtos resultantes de industrialização",,117
+RS051023,,,,,,SIM,SIM,SIM,,,,,,,,1102016,,"LIVRO I,9,XXV -ZONA FRANCA DE MANAUS",ISENÇÃO - Saídas de produtos nacionais industrializados para comercialização/industrialização na Zona Franca de Manaus,,118
+RS051024,,,,,,SIM,SIM,SIM,,,,,,,,1102016,,"LIVRO I,9,XXVI -AREAS DE LIVRE COMERCIO",ISENÇÃO - Saídas de produtos nacionais industrializados para comercialização/industrialização em Áreas de Livre Comércio,,120
+RS051025,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,XXVII -OLEO LUBRIFIC USADO CONTAMINADOS",ISENÇÃO - Saídas de óleo lubrificante usado ou contaminado para estabelecimento re-refinador ou coletor revendedor,,114
+RS051026,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,XXVIII -EMBARCACOES","ISENÇÃO - Saídas de embarcações nacionais, fornecimento de peças/partes juntamente com serviços de reparo de embarcações",,120
+RS051027,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,XXIX -PROD P/CONSUM EM EMBARC/AERONAVES",ISENÇÃO - Saídas de produtos industrializados para uso/consumo de embarcações/aeronaves estrangeiras aportados no País,,118
+RS051028,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,XXX -COMBUSTIVEIS P/ EMBARC E AERONAVES",ISENÇÃO - Saídas de combustíveis/lubrificantes para embarcações/aeronaves nacionais com destino ao exterior,,107
+RS051029,,,,,,SIM,SIM,SIM,,,,,,,,1102016,1102016,"LIVRO I,9,XXXI -PROGRAMAS DE COMPUTADOR",ISENÇÃO - Revogada,,18
+RS051030,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,XXXII -OBRAS DE E",ISENÇÃO - Saídas de obras de arte decorrentes de operações realizadas pelo próprio autor,,88
+RS051031,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,XXXVIII -MEDICAMENTOS P/ TRATAM DA AIDS",ISENÇÃO - Saídas de fármacos destinados à produção e de medicamentos para tratamento de HIV,,91
+RS051032,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,XXXIX -CADEIRA RODAS, PROTESES,AP.AUDIC","ISENÇÃO - Saídas de cadeira de rodas, próteses e aparelhos auditivos, bem como suas partes",,90
+RS051033,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I,9,XL -VEIC AUTOM P/PORTADORES DEFICIENCIA",ISENÇÃO - Saídas de veículo automotor novo para portadores de deficiência física/visual/mental severa/autistas,,110
+RS051034,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,XLI -MEDICAMENTOS QUIMIOTERAPICOS",ISENÇÃO - Operações com medicamentos usados no tratamento de câncer relacionados no Apêndice XL,,95
+RS051035,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,XLVIII -ENERG ELET,VEIC P/MISSAO DIPLOM",ISENÇÃO - Saídas de energia elétrica e de veículos nacionais a Missões Diplomáticas e Repartições Consulares,,108
+RS051036,,,,,,SIM,SIM,SIM,,,,,,,,1102016,,"LIVRO I,9,XLIX -DOACAO ENTIDAD GOVERN OU ASSISTEN",ISENÇÃO - Saídas de mercadorias/prestações de serviço de transporte em doação a entidades governamentais /assistenciais,,119
+RS051037,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I,9,L -DOACOES EFETUADAS AO GOVERNO ESTADO",ISENÇÃO - Saídas de mercadorias doadas ao Governo do Estado do RS para distribuição gratuita,,92
+RS051038,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,LX -ORGAOS DA ADMINIST PUBLICA-SAIDAS",ISENÇÃO - Saídas de mercadorias por órgãos da administração pública para fins de industrialização,,97
+RS051039,,,,,,SIM,SIM,SIM,,,,,,,,1102016,,"LIVRO I,9,LXI -ORGAOS DA ADMINIST PUBLICA-RETORNO",ISENÇÃO - Saídas em retorno de mercadorias encaminhadas para industrialização por órgãos da administração pública,,113
+RS051040,,,,,,SIM,SIM,SIM,,,,,,,,1102016,,"LIVRO I,9,LXII -TRAVA-BLOCO P/CONSTR CASA POPULAR",ISENÇÃO - Saídas de trava-blocos para a construção de casas populares promovidas administração pública,,102
+RS051041,,,,,,SIM,SIM,SIM,,,,,,,,1102016,,"LIVRO I,9,LXIII -PRODUTOS FARMACEUTICOS",ISENÇÃO - Saídas de produtos farmacêuticos promovidas por órgãos ou entidades da Administração Pública,,102
+RS051042,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I,9,LXV -PROG RECUP PORTADOR DE DEFICIENCIA",ISENÇÃO - Saídas vinculadas a programa de recuperação de portador de deficiência a instituições públicas estaduais,,114
+RS051043,,,,,,SIM,SIM,SIM,,,,,,,,1102016,,"LIVRO I,9,LXVII -OBRAS DE ARTESANATO","ISENÇÃO - Saídas de obras de artesanato de artesãos cadastrados na FGTAS, promovidas através de entidades incentivadoras",,120
+RS051044,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,LXVIII -INSTIT ASSISTENC SOCIAL/EDUCAC","ISENÇÃO - Saídas de mercadorias de produção própria, por instituições de assist. social/educacional, sem fins lucrativos",,120
+RS051045,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,LXIX -VEIC P/FISCALIZACAO DE TE E PM","ISENÇÃO - Saídas internas de veículos, para o Estado do RS,para reequipamento da Fiscalização de Tributos Estaduais e PM",,120
+RS051046,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I,9,LXX -DOACAO A SECRETARIA DA EDUCACAO","ISENÇÃO - Saídas internas de doações à rede oficial de ensino, por contribuintes do imposto, à Secretaria da Educação RS",,120
+RS051047,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,LXXI -CENTRO FORM DE RH DO SISTEM SENAI","ISENÇÃO - Saídas de mercadorias para o reequipamento dos Centros de Formação de RH do Sistema SENAI, em razão de doação",,119
+RS051048,,,,,,SIM,SIM,SIM,,,,,,,,1102016,1012019,"LIVRO I,9,LXXII -DOAÇÃO A SUDENE",ISENÇÃO - Revogada,,18
+RS051049,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I,9,LXXIII -VEIC P/CORPOS BOMBEIROS VOLUNT",ISENÇÃO - Saídas internas/desemb.aduaneiro de veículos automotores/máq./equip. para o Corpos de Bombeiros Voluntários,,117
+RS051050,,,,,,SIM,SIM,SIM,,,,,,,,1102016,,"LIVRO I,9,LXXIV -CAVALOS DOADOS A BRIGADA MILITAR",ISENÇÃO - Saídas internas de cavalos doados à Brigada Militar do RS destinados à utilização em patrulhamento,,108
+RS051051,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I,9,LXXV -PROMOFAZ",ISENÇÃO - Saídas e recebimentos de mercadorias adquiridas em licitações/contratações destinadas ao PROMOFAZ,,107
+RS051052,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,LXXVI -VEICULOS DE BOMBEIROS","ISENÇÃO - Saídas de veículos de bombeiros para equipar os aeroportos nacionais, adquiridos pelo Ministério da Defesa",,116
+RS051053,,,,,,SIM,SIM,SIM,,,,,,,,1102016,,"LIVRO I,9,LXXVII -ENERG ELET P/ADM PUBLICA ESTAD","ISENÇÃO - Operações internas de energia elétrica a órgãos da Adm Estadual Direta, Fundações e Autarquias estaduais.",,115
+RS051054,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I,9,LXXIX -TAXI","ISENÇÃO - Saídas promovidas por fabricante ou revendedor autorizado, de automóveis novos de passageiros para taxistas",,117
+RS051056,,,,,,SIM,SIM,SIM,,,,,,,,1102016,30042019,"LIVRO I,9,LXXXIII -COLETORES ELETRÔNICOS DE VOTOS",ISENÇÃO - Código encerrado,,26
+RS051057,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I,9,LXXXIV -PRESERVATIVOS",ISENÇÃO - Operações com preservativos classificados no código 4014.10.00 da NBM/SH-NCM,,86
+RS051058,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122028,"LIVRO I,9,LXXXV -EQUIP P/ENERGIAS SOLAR E EOLICA","ISENÇÃO - Operações com equipamentos, partes e peças para energia solar e eólica",,80
+RS051059,,,,,,SIM,SIM,SIM,,,,,,,,1102016,,"LIVRO I,9,LXXXVI -""FREE SHOPS""","ISENÇÃO - Saídas promovidas/destinadas por/a ""free shops"" instaladas nas zonas primárias dos aeroportos internacionais",,118
+RS051060,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I,9,LXXXVII -EQUIP DIDAT,CIENT,MEDICO-HOSP","ISENÇÃO -  Operações que destinem equipamentos didáticos, científicos e médico-hospitalares ao MEC",,98
+RS051061,,,,,,SIM,SIM,SIM,,,,,,,,1102016,1062023,"LIVRO I,9,LXXXVIII -OLEO DIESEL P/EMBARC PESQUEIRA","ISENÇÃO - Saídas internas de óleo diesel para embarcações pesqueiras nacionais, por distribuidora de combustível",,112
+RS051062,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I,9,LXXXIX-PROJ INT EXPL AGR PEC IND RORAIMA",ISENÇÃO - Saídas a contribuintes do Projeto Integrado de Exploração Agropecuária e Agroindustrial do Estado de Roraima,,118
+RS051063,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I,9,XC -ATIVO IMOBILIZADO - EMBRAPA","ISENÇÃO - Saídas de animais à EMBRAPA para fins de inseminação e inovulação com animais de raça, e respectivo retorno",,117
+RS051064,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I,9,XCII -DOACOES P/ASSISTENCIA VITIMAS SECA",ISENÇÃO - Saídas de mercadorias/serviços de transporte em doação a administração direta e indireta para vítimas de seca,,119
+RS051065,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,XXXV -PROGRAMA BEFIEX",ISENÇÃO - Saídas de máq./equip. ao ativo imobilizado de empresa industrial que os tenha adquirido pelo Programa BEFIEX,,118
+RS051067,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,XCVI-ZONAS PROCESSAMENTO EXPORT-ZPE",ISENÇÃO - Saídas internas de mercadorias e bens previstos na Lei nº 11.508/07 a estabelecimento localizado em ZPE,,113
+RS051068,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,XCVII - MENSAGEIRO DA CARIDADE","ISENÇÃO - Saídas de mercadorias pelo Secretariado de Ação Social Arquidiocese de PoA, programa ""Mensageiro da Caridade""",,119
+RS051069,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I,9,XCVIII-EQUIP.PRESTACAO SERV.SAUDE","ISENÇÃO - Operações com equipamentos e insumos destinados à prestação de serviços de saúde, relacionados no Apêndice XIX",,120
+RS051072,,,,,,SIM,SIM,SIM,,,,,,,,1102016,,"LIVRO I,9,CI -IMP.MERC.OU BENS REGIME ESP ADU ADM",ISENÇÃO - Devolução de bem cuja entrada tenha ocorrido sob amparo de regime especial aduaneiro de admissão temporária.,,118
+RS051073,,,,,,SIM,SIM,SIM,,,,,,,,1102016,23102020,"LIVRO I,9,CII-VEICULOS P/DEP.POLICIA FEDERAL",ISENÇÃO - Código encerrado,,26
+RS051074,,,,,,SIM,SIM,SIM,,,,,,,,1102016,6122019,"LIVRO I,9,CIII -MERCADORIAS EM PENHORA",ISENÇÃO - Código encerrado,,26
+RS051075,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,CIV-EQUIP MED HOSPIT.P/MINIST.SAUDE",ISENÇÃO - Operações com equipamentos médico-hospitalares destinados ao Ministério da Saúde,,90
+RS051079,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,CVIII-EMB.VAZIAS DE AGROTOX. E TAMPAS","ISENÇÃO - Operações de devolução impositiva de embalagens vazias de agrotóxicos e respectivas tampas,realizadas sem ônus",,120
+RS051080,,,,,,SIM,SIM,SIM,,,,,,,,1102016,23102020,"LIVRO I,9,CIX-VEICULOS P/A POLICIA ROD.FEDERA",ISENÇÃO - Código encerrado,,26
+RS051081,,,,,,SIM,SIM,SIM,,,,,,,,1102016,,"LIVRO I,9,CX ARRENDAMENTO MERCANTIL","ISENÇÃO - Operações de venda do bem arrendado ao arrendatário, desde que este seja contribuinte do imposto",,106
+RS051082,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,CXI-PROD.ALIM.CONSIDERADOS PERDAS P/","ISENÇÃO - Saídas de produtos alimentícios considerados ""perdas"" a banco de alimentos para pessoas carentes",,106
+RS051083,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,CXII-PROD.ALIM.CONSIDRADOS PERDAS RE",ISENÇÃO - Saídas promovidas por bancos de alimentos a pessoas carentes,,70
+RS051085,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I,9,CXIV-MEDICAMENTOS","ISENÇÃO - Operações com medicamentos relacionados no RICMS, Livro I, art. 9º, inciso CXIV",,89
+RS051086,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I,9,CXV - FARMACOS E MEDICAMENTOS P/ORG","ISENÇÃO - Operações com os fármacos e medicamentos relacionados no Apêndice XXIII, a órgãos da administração pública",,116
+RS051087,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I,9,CXVI - PROG.SEGURANÇA ALIMENTAR E NUTRICIONAL","ISENÇÃO - Saídas de mercadorias/prest.de serviços de transporte, nas doações ao Prog.de Seg. Alimentar e Nutricional",,116
+RS051088,,,,,,SIM,SIM,SIM,,,,,,,,1102016,23102020,"LIVRO I,9,CXVII-VEIC.P/O DEP.POLICIA ROD.FED",ISENÇÃO - Código encerrado,,26
+RS051090,,,,,,SIM,SIM,SIM,,,,,,,,1102016,7062018,"LIVRO I,9,CXIX-CERVEJAS,REFRIG,SUCOS E AGUA_M",ISENÇÃO - Código encerrado,,26
+RS051091,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,CXX-PROD.FARMAC,INSTRUM E APARELHOS","ISENÇÃO - Saídas internas de mercadorias listadas no RICMS, Lv.I,art.9º,inciso CXX  a Admin.Pública Est.e Legis. e Jud.",,119
+RS051092,,,,,,SIM,SIM,SIM,,,,,,,,1102016,1042018,"LIVRO I,9,CXXI -MERC DE PROD PROM POR CO",ISENÇÃO - Revogada,,18
+RS051093,,,,,,SIM,SIM,SIM,,,,,,,,1102016,1042019,"LIVRO I,9,CXXII-GUINDASTE MOVEL PORTUARIO,P/A",ISENÇÃO - Código encerrado,,26
+RS051094,,,,,,SIM,SIM,SIM,,,,,,,,1102016,12022019,"LIVRO I,9,CXXIII-REPORTO-IMPORT.AT.IMOBILIZ.",ISENÇÃO - Código encerrado,,26
+RS051095,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9, CXXIV - MAÇÃS E PERAS","ISENÇÃO - Saídas de maçãs e peras, desde que frescas",,52
+RS051096,,,,,,SIM,SIM,SIM,,,,,,,,1102016,30042024,"LIVRO I,9, CXXV - PAO FRANCES",ISENÇÃO - Substituído pelo cód.191 a partir de 01/06/2024.,,58
+RS051097,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,CXXVI -TIJOLOS DE CERAMICA","ISENÇÃO - Saídas internas de tijolos de cerâmica, exceto refratários, classificados no código 6904.10.00 da NBM/SH-NCM",,118
+RS051098,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,CXXVII -SUBVENCAO DE ENERGIA ELETRICA FO","ISENÇÃO - Saídas internas de energia elétrica na parcela da subvenção a consumidores da ""Baixa Renda""",,101
+RS051099,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,CXXVIII -PILHAS E BATERIAS USADAS",ISENÇÃO - Saídas de pilhas e baterias usadas para reciclagem ou disposição final ambientalmente adequada,,104
+RS051100,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,CXXIX-PROD FARMAC DA FIOCRUZ",ISENÇÃO - Saídas de produtos farmacêuticos/fraldas geriátricas da  FIOCRUZ à Farmácia Popular,,93
+RS051101,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I,9,CXXX-SANDUICHES BIG MAC","ISENÇÃO - Saídas de ""Big Mac"" pela Rede McDonald's, na data do evento ""McDia Feliz",,82
+RS051102,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,CXXXI-EQUIPAMENTOS DE MEDICAO DE VAZAO","ISENÇÃO - Saídas de medidores de vazão,condutivímetros a estab. industriais fabricantes de prod.2202/2203 da NBM/SH-NCM;",,120
+RS051103,,,,,,SIM,SIM,SIM,,,,,,,,1102016,,"LIVRO I,9,CXXXII-SELOS PARA CONTROLE FISCAL FEDERAL","ISENÇÃO - Saídas de selos destinados ao controle fiscal federal, promovidas pela Casa da Moeda do Brasil",,104
+RS051104,,,,,,SIM,SIM,SIM,,,,,,,,1102016,1042019,"LIVRO I,9,CXXXIII-MERC.IMP.S/COB.CAMB.DEP.AFIANCADO",ISENÇÃO - Código encerrado,,26
+RS051105,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I,9,CXXXIV-REPORTO-SAIDAS INT. AT.IMOB.","ISENÇÃO - Saídas internas de bens relacionados no Apêndice XXVII,  ao ativo imobilizado de empresas do REPORTO",,110
+RS051106,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I,9,CXXXV-PRODUTOS MANUT.GAS.BR.BOLIVRO IA","ISENÇÃO - Transferências,no território nacional, de bens do Ap.XXVIII, à manutenção do Gasoduto Brasil-Bolívia, pela TBG",,120
+RS051107,,,,,,SIM,SIM,SIM,,,,,,,,1102016,,"LIVRO I,9,CXXXVI-OPER. COM EMISSAO CDA E WA",ISENÇÃO - Operações de mercadorias com emissão/negociação do Cert. de Depósito Agropec. - CDA e do Warrant Agropec. - WA,,120
+RS051108,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I,9,CXXXVII-CIMENTO ASFALTICO DE PETROL",ISENÇÃO - Operações com cimento asfáltico de petróleo classificado no código 2713.20.00 da NBM/SH-NCM,,101
+RS051109,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9CXXXVIII-PES E PE-AS DEF.,SUB.GAR.,","ISENÇÃO - Saídas de partes/peças defeituosas,em garantia,por oficina autorizada a fabricante de veículos autopropulsados",,120
+RS051111,,,,,,SIM,SIM,SIM,,,,,,,,1102016,6122019,"LIVRO I,9, CXL -ATIVO IMOBILIZADO EMPRESA PORTUÁRIA",ISENÇÃO - Código encerrado,,26
+RS051112,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I,9,CXLI-ONIB,MICROONIB E EMB P TRANSP ESCO","ISENÇÃO - Operações com ônibus, micro-ônibus e embarcações, para transporte escolar, adquiridos por Estados, DF e Munic.",,120
+RS051113,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31012019,"LIVRO I,9,CXLII -EQUIP P/SEGP/UTIL XV JOGOS PAN",ISENÇÃO - Código encerrado,,26
+RS051114,,,,,,SIM,SIM,SIM,,,,,,,,1102016,6122019,"LIVRO I,9,CXLIII -MAQ E EQUIP P/CONCES PREST SERV",ISENÇÃO - Código encerrado,,26
+RS051115,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I,9,CXLIV-REAGENTE P DIAGNOST DOENCA CHAGAS","ISENÇÃO - Saídas de reagente para diagnóstico da Doença de Chagas, código 3002.10.29 da NCM, para Administração Pública",,119
+RS051116,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,CXLV-PES/PECAS DEF.,SUBS.GAR..EXC.AT.","ISENÇÃO - Saídas de partes/peças defeituosas, em garantia, por oficina credenciada destinadas ao fabricante",,107
+RS051117,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122020,"LIVRO I,9,CXLVI. PROINFO",ISENÇÃO - Código encerrado,,26
+RS051118,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,CXLVII.OLEO COMESTIVEL USADO",ISENÇÃO - Saídas de óleo comestível usado destinado à utilização como insumo industrial,,87
+RS051119,,,,,,SIM,SIM,SIM,,,,,,,,1102016,1102016,"LIVRO I,9,CXLVIII",ISENÇÃO - Revogada,,18
+RS051122,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I, 9,CLI. GARANTIA-FABR.PROD.AERONAUT.","ISENÇÃO - Saídas de partes/peças defeituosas de produtos aeronáuticos, em garantia, da oficina para o fabricante",,112
+RS051123,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I, 9,CLII.GARANTIA-COMER.PROD.AERONAUT.","ISENÇÃO - Saídas de partes/peças defeituosas de produtos aeronáuticos, em garantia, do fabricante para oficina",,110
+RS051124,,,,,,SIM,SIM,SIM,,,,,,,,1102016,12022019,"LIVRO I,9,CLIII. PROD.DEST.DEN.,MAL.,FEBRE AM.",ISENÇÃO - Código encerrado,,26
+RS051128,,,,,,SIM,SIM,SIM,,,,,,,,1102016,6122019,"LIVRO I,9,CLVII -VEIC COMB E SUAS PARTES",ISENÇÃO - Código encerrado,,26
+RS051129,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,CLVIII.PNEUS USADOS P/RECICLAGEM","ISENÇÃO - Saídas de pneus usados para reciclagem, tratamento ou disposição final ambientalmente adequada",,104
+RS051130,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,CLIX.EQUIP.DE SEGURANCA ELETRONICA",ISENÇÃO - Operações/prestações na compra de equip.de segurança eletrônica pelo Depto.Penit. Nac. CNPJ 00.394.494/0008-02,,120
+RS051131,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I,9,CLX.MAT.E EQUIP.USO DOS ESCOTEIROS","ISENÇÃO - Fornecimento pela União dos Escoteiros do Brasil, de materiais/equiptos. de uso dos escoteiros a associados",,117
+RS051132,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I,9,CLXI.FOSF.DE OSELTAMIVIR,PAC.GRIPE A",ISENÇÃO - Operações com fosfato de oseltamivir vinculadas ao Farmácia Popular do Brasil ao tratamento da Gripe A (H1N1),,119
+RS051135,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,CLXVI.MERC.FUND.PAO DOS POBRES.S.ANT","ISENÇÃO - Saídas internas de mercadorias promovidas pela Fundação O Pão dos Pobres de Santo Antônio, CGC/TE 096/0217657",,119
+RS051136,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I,9,CLXVIII.REPR.CAMARAO MARINHO",ISENÇÃO - Saídas de reprodutores de camarão marinho produzidos no País,,70
+RS051137,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,CLXXII.BENS/MERC.ATV.EXP.PET./GAS NAT.","ISENÇÃO - Saídas,ao exterior,dos bens/merc.que serão importados, utiliz.em ativ.de expl./prod. de petróleo/gás natural",,118
+RS051138,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,CLXXIV.GEN.AL.REG.P/MER.ESC.-PRONAF",ISENÇÃO - Saídas internas de gên.alimentícios regionais p/merenda escolar por produtores rurais do Pronaf,,105
+RS051139,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31012019,"LIVRO I,9,CLXXVIII.FARM./MED.DERIVADOS PLASMA HUM.",ISENÇÃO - Código encerrado,,26
+RS051141,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122018,"LIVRO I,9,CLXXX -ARROZ BENEFICIADO-PMA",ISENÇÃO - Revogada,,18
+RS051142,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,CLXXXI.MERC.CONST.CONS.MOD.REP.EMBARC.","ISENÇÃO - Saídas de mercadorias por fabricante, às embarcações utilizadas no serviço de transporte aquaviário de cargas",,119
+RS051143,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,CLXXXIII.GADO VACUM P/TESTE VAC.FEB.AFT.",ISENÇÃO - Operações internas/serviço de transporte com gado vacum a ser utilizado em testes de vacinas para febre aftosa,,120
+RS051144,,,,,,SIM,SIM,SIM,,,,,,,,1102016,1102016,"LIVRO I,9,CLXXXIV -RAC.ANI./INS.P/SEMIARIDO",ISENÇÃO - Código encerrado,,26
+RS051145,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,CLXXXV.MAQ./EQ.IND.P/GER.HIDRELETRICAS","ISENÇÃO - Saídas internas das máquinas, aparelhos e equipamentos industriais, constantes do Apêndice XLII",,105
+RS051146,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,CLXXXVI.CINZAS DE CASCA DE ARROZ",ISENÇÃO - Operações internas e as correspondentes prestações de serviço de transporte com cinzas de casca de arroz,,114
+RS051148,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,9,CXC.MERC.DEST.A ITAIPU BINACIONAL","ISENÇÃO - Saídas de mercadorias, decorrentes de vendas, destinadas à Itaipu Binacional",,86
+RS051149,,,,,,SIM,SIM,SIM,,,,,,,,1102016,,"LIVRO I, 9,CXCI.ACEL.LIMEARES","ISENÇÃO - Operações com aceleradores lineares, classificados no código 9022.21.90 da NBM/SH-NCM",,95
+RS051150,,,,,,SIM,SIM,SIM,,,,,,,,1102016,12022019,"LIVRO I,9, CXCII. TRENS UNIDADE ELETRICOS",ISENÇÃO - Código encerrado,,26
+RS051151,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122017,"LIVRO I,9, CXCIII. AP./EQUIP.P/JOGOS OLIMP./PO",ISENÇÃO - Código encerrado,,26
+RS051152,,,,,,SIM,SIM,SIM,,,,,,,,1102016,30042017,"LIVRO I,9, CXCIV. MAQ.EQ.AT.IM.P/SENAI,S.,S.",ISENÇÃO - Código encerrado,,26
+RS051153,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I,9, CXCV. ARROZ ORG.P/ENSINO PUBLICO","ISENÇÃO - Saídas interestaduais de arroz orgânico à merenda escolar da rede públ.de ensino, por coop.produtores - Pronaf",,120
+RS051154,,,,,,SIM,SIM,SIM,,,,,,,,1102016,6122019,"LIVRO I,9, CXCVI. MEDICAMENTOS PAGOS PELO RS",ISENÇÃO - Código encerrado,,26
+RS051155,,,,,,SIM,SIM,SIM,,,,,,,,1102016,12022019,"LIVRO I,9,CXCVII.MERC.IMP.UTE PAMPA SUL",ISENÇÃO - Código encerrado,,26
+RS051156,,,,,,SIM,SIM,SIM,,,,,,,,1102016,,"LIVRO I,9,CXCVIII. ENERGIA ELET.MICRO/MINIGER",ISENÇÃO - Saídas internas de energia elétrica por distribuidora à unidade consumidora (Sistema Compensação de Energia),,118
+RS051157,,,,,,SIM,SIM,SIM,,,,,,,,23032018,,"LIVRO I,9, CXCIX. EQUIPAMENTOS P/ SECR.SEGUR.","ISENÇÃO - Saídas internas de armas,coletes a prova de bala,EPIs,munições,veículos e equip. videomonit.em doação à SSP/RS",,120
+RS051158,,,,,,SIM,SIM,SIM,,,,,,,,30042018,6122019,"LIVRO I,9, CC. EPI IMP.P/BOMBEIROS",ISENÇÃO - Código encerrado,,26
+RS051159,,,,,,SIM,SIM,SIM,,,,,,,,1012019, ,"LIVRO I.9, CCI. MEDIC.SPINRAZA - AME","ISENÇÃO - Operações com o medicamento Spinraza (Nusinersena) injection 12mg/5ml, destinado a tratamento da AME",,110
+RS051160,,,,,,SIM,SIM,SIM,,,,,,,,1022019, ,"LIVRO I,9, CCIII. REPETRO-SPED",ISENÇÃO - Saídas por exportação de bens/mercadorias fabricados no país que serão admitidos/adquiridos nos termos Repetro,,120
+RS051161,,,,,,SIM,SIM,SIM,,,,,,,,1012020,31122026,"LIVRO I,9, CCV. PRODUTOS P/ MONTAGEM DE KITS DIAGNÓSTICOS",ISENÇÃO - Saídas internas de produtos para montagem de Kits diagnósticos para detecção imuno-rápida,,99
+RS051162,,,,,,SIM,SIM,SIM,,,,,,,,6042020,,"LIVRO I,9,CCVII. REMESSA EXPRESSA DEV EXTERIOR",ISENÇÃO - Remessa  expressa  internacional  devolvida  ao  exterior,,67
+RS051163,,,,,,SIM,SIM,SIM,,,,,,,,1102016,30092022,"LIVRO V, ART.35 -OPERACOES SOFTWARES E PROGRAMAS POR TED",ISENÇÃO - Revogada,,18
+RS051164,,,,,,SIM,SIM,SIM,,,,,,,,1102016,,"LIVRO I,9,LXXXI.SISTEMA DE INFORMATICA/SEFAZ","ISENÇÃO - Saídas internas, de mercadorias destinadas à ampliação do Sistema de Informática da Secretaria da Fazenda",,115
+RS051165,,,,,,SIM,SIM,SIM,,,,,,,,19082020,,"LIVRO I,9,CCVIII.MEDIC.ZOLGENSMA - TRAT. AME","ISENÇÃO - Operações com o medicamento Zolgensma, destinado a tratamento da AME",,78
+RS051166,,,,,,SIM,SIM,SIM,,,,,,,,9092020,29112020,"LIVRO I,ART.9º,CCIX.DOAÇÕES P/TSE ELEIÇÕES MUN.2020 ",ISENÇÃO - Código encerrado,,26
+RS051167,,,,,,SIM,SIM,SIM,,,,,,,,22032021,,"L.I,ART.9,CCX.VACINAS E INSUMOS P/VACINA SARS-CoV-2","ISENÇÃO - Operações com vacina e insumos para enfrentamente ao Coronavírus, e prest.de serviços de transporte corresp.",,118
+RS051168,,,,,,SIM,SIM,SIM,,,,,,,,9042021,31072021,"L.I,ART.9,CCXI.MERC.P/PREVENCAO AO SARS-COV-2",ISENÇÃO - Código encerrado,,26
+RS051169,,,,,,SIM,SIM,SIM,,,,,,,,20042021,30042024,"L.I,ART.9,CCXII.EQUIP.RESP.ELMO,PARTES E PEÇAS","ISENÇÃO - Saídas a prestadoras de serviço de saúde, doações, bem como prestação de serviço de transporte.",,105
+RS051170,,,,,,SIM,SIM,SIM,,,,,,,,12052021,30042024,"L.I,ART.9,CCXIII.KITS TESTE COVID-19 E APARELHOS RESPIRATÓRIOS",ISENÇÃO - Saídas internas kits teste Covid-19 (3002.15.90 e 3822.0090) e aparelhos respiratórios (9019.20 e 9020.00),,116
+RS051171,,,,,,SIM,SIM,SIM,,,,,,,,21052021,30042024,"L.I,ART.9,CCXIV.OXIGENIO MEDICINAL",ISENÇÃO - Saídas internas e interestaduais em relação às UFs que especifica bem como nas prest.de serviço de transporte,,119
+RS051172,,,,,,SIM,SIM,SIM,,,,,,,,16082021,,"L.I,ART.9,CCXVI. MEDIC.RISDIPLAM - TRAT. AME","ISENÇÃO - Operações com o medicamento Risdiplam, destinado a tratamento da AME, NCMs 3003.90.99 e 3004.90.99.",,109
+RS051173,,,,,,SIM,SIM,SIM,,,,,,,,8042022,,"L.I,ART.9,CCXVIII.PROG.DESENV.SUBMARINOS - PROSUB","ISENÇÃO - Operações Operações  com  mat.prima,  partes,  peças,  máq./equip., prest. de  serv. de  transporte - PROSUB",,118
+RS051174,,,,,,SIM,SIM,SIM,,,,,,,,1012023,,"174 L.I,ART.9,CCXIX.MERC.P/REDE TRANSP.PUB.S/TRILHOS DE PASSAGEIROS",ISENÇÃO - Saídas de mercadorias às redes de transp.públ.sobre trilhos de passageiros (ver lista de NCMs no inciso),,114
+RS051175,,,,,,SIM,SIM,SIM,,,,,,,,1012023,31122026,"LIVRO I,9,CCXX.IRRIGADORES E SISTEMAS DE IRRIGAÇÃO",ISENÇÃO - Operações internas com mercadorias classificadas nos códigos 8424.82.21 e 8424.82.29 da NBM/SH-NCM,,108
+RS051176,,,,,,SIM,SIM,SIM,,,,,,,,2023-01-01 00:00:00,,"L.I,ART.9,CCXXI.MEDIC. EM DOACAO A ENT. BENEF.",ISENÇÃO - Operações com medicamentos relativas a doações com destino a entidades beneficentes que atuem na área da saúde,,120
+RS051177,,,,,,SIM,SIM,SIM,,,,,,,,2023-01-01 00:00:00,,"L.I,ART.9,CCXXII.MEDIC. P/ TRAT. FIBROSE CIST.","ISENÇÃO - Operações com medicamentos com NCM 3004.90.69, destinados ao tratamento da Fibrose Cística",,100
+RS051178,,,,,,SIM,SIM,SIM,,,,,,,,2023-09-10 00:00:00,31122026," L.I,ART.9,CCXXIII.DOAÇÃO DE GÊNEROS ALIMENTÍCIOS E EXCEDENTES DE ALIMENTOS","ISENÇÃO - Saídas, e prest.serv.transporte correspondentes, por doação de gêneros alimentícios e excedentes de alimentos",,119
+RS051179,,,,,,SIM,SIM,SIM,,,,,,,,2024-01-01 00:00:00,30042027,"L.I,ART.9,CCXXV.QUEROSENE DE AVIACAO",ISENÇÃO - Saídas internas de querosene de aviação à companhia aérea que opere HUB no Estado,,91
+RS051180,,,,,,SIM,SIM,SIM,,,,,,,,9102023,31032024,"L.I,ART.9,CCXXVI.MERCADORIAS PARA ATIVO IMOBILIZADO CALAMIDADE PUBLICA","ISENÇÃO - Saídas internas de mercadorias ao ativo imobilizado, município em estado de calamidade pública - Dec.57.177/23",,120
+RS051181,,,,,,SIM,SIM,SIM,,,,,,,,1022024,31122026,"L.I,ART.9,CCXXXI.PRODUTOS P/ GERACAO DE ENERGIA ELETRICA COM BIOGAS",ISENÇÃO - Saídas internas de produtos destinados à geração de energia elétrica a partir do biogás,,97
+RS051182,,,,,,SIM,SIM,SIM,,,,,,,,1012025,1012025,"L.I,ART.9,CCXXVII.OVOS SAIDAS INTERNAS",ISENÇÃO - REVOGADO,,18
+RS051183,,,,,,SIM,SIM,SIM,,,,,,,,1052024,1052024,"L.I,ART.9,CCXXVIII.FLORES NATURAIS SAIDAS INTERNAS",ISENÇÃO - REVOGADO,,18
+RS051184,,,,,,SIM,SIM,SIM,,,,,,,,1012025,1012025,"L.I,ART.9,CCXXIX.FRUTAS FRESCAS, VEGETAIS E HORTALIÇAS SAÍDAS INTERNAS",ISENÇÃO - REVOGADO,,18
+RS051185,,,,,,SIM,SIM,SIM,,,,,,,,1012025,1012025," L.I,ART.9,CCXXX.MAÇÃS E PERAS FRESCAS SAÍDAS INTERNAS",ISENÇÃO - REVOGADO,,18
+RS051186,,,,,,SIM,SIM,SIM,,,,,,,,1042024,31122026,"L.I,ART.9,CCXXXII.ATIVADORES DE VULCANIZAÇÃO DA BORRACHA","ISENÇÃO - Saídas internas de ativadores de vulcanização, código NCM 28051990, a partir de resíduos da ind.de celulose",,117
+RS051187,,,,,,SIM,SIM,SIM,,,,,,,,1012025,,"L.I,ART.9,CLXXXVII.ENERGIA ELÉTRICA PARA TEMPLOS","ISENÇÃO - Operações internas de fornecimento de energia elétrica, destinadas a templos de qualquer culto religioso",,114
+RS051188,,,,,,SIM,SIM,SIM,,,,,,,,14052024,31122024,"L.I.ART.9,CCXXXIII.ATIVO IMOBILIZADO CALAMIDADE PÚBLICA",ISENÇÃO - Saídas internas por venda para contribuintes dos municípios em calamidade pública (Dec.57596/24),,106
+RS051189,,,,,,SIM,SIM,SIM,,,,,,,,22052024,31122024,"L.I.ART.9,CCXXXIV.DOAÇÃO PARA ASBANCOS CALAMIDADE PÚBLICA","ISENÇÃO - Saídas internas, prestação de serviços de transporte de doações para ASBANCOS (Dec.57601/24)",,102
+RS051190,,,,,,SIM,SIM,SIM,,,,,,,,1062024,31122026,"L.I,ART.9,XX.LEITE FLUIDO EXCETO UTH","ISENÇÃO - Saídas internas de leite fluido leite fluido pronto para consumo humano, exceto UHT",,93
+RS051191,,,,,,SIM,SIM,SIM,,,,,,,,1062024,,"L.I,ART.9,CXXV.PÃO FRANCÊS E MASSA CONGELADA PARA PREPARO DE PÃO FRANCÊS",ISENÇÃO - Saídas internas de pão francês e massa congelada destinada ao preparo de pão francês,,94
+RS051192,,,,,,SIM,SIM,SIM,,,,,,,,4072024,28022025,"L.I,ART.9,CCXXXV.MERCADORIAS PARA RECONSTRUÇÃO DO AEROPORTO SALGADO FILHO E DA BASE AÉREA DE CANOAS",ISENÇÃO - Operações internas e prest.serv.transporte de merc. na reconstrução do Aeroporto S.F.e da Base Aérea de Canoas,,120
+RS051193,,,,,,SIM,SIM,SIM,,,,,,,,4072024,31122026,"L.I,ART.9,CCXXXVI.MEDIC. ELEVIDYS P/ TRATAMENTO DE DISTROFIA MUSCULAR DE DUCHENNE",ISENÇÃO - Operações com o medicamento Elevidys(delandistrogene moxeparvovec) no tratamento de DMD,,97
+RS051194,,,,,,SIM,SIM,SIM,,,,,,,,27072024,31032025,"L.I,ART.9,CCXXXVII.ONIBUS/CAMINHOES PARA CONTRIBUINTE IMPACTADO PELA ENCHENTE",ISENÇÃO - Saídas internas de ônibus e caminhões para contribuintes afetados pelas chuvas de abril e maio de 2024,,112
+RS051195,,,,,,SIM,SIM,SIM,,,,,,,,1012025,,"L.I,ART.9,CCXXXVIII.MICROPRODUTOR RURAL",ISENÇÃO - Saídas internas de mercadorias rel.Apend.XLIX do RICMS por MPR cadastrado no Prog.Agroindústria Familiar do RS,,120
+RS051196,,,,,,SIM,SIM,SIM,,,,,,,,24022025,31122026,"L.I,ART.9,CCXXXIX.VEICULO DOACAO SENAI","ISENÇÃO - Saídas internas de veículos automóveis e tratores, por fabricante, em doação à oficina de aprendizagem SENAI ",,119
+RS051197,,,,,,SIM,SIM,SIM,,,,,,,,1052025,31122026,"L.I,ART.9,CCXL.PRODUTOR RURAL CHACHAÇA","ISENÇÃO - Saídas internas promovidas por microprodutor rural, decorrentes de venda de cachaça a consumidor final",,112
+RS051198,,,,,,SIM,SIM,SIM,,,,,,,,22122025,31122026,"L.I,ART.9,CCXLIII-MEDICAMENTO DUVYZAT",ISENÇÃO - Operações com o medicamento Duvyzat (givinostat),,58
+RS051400,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,10,I -TELECOMUNICACAO P/ ADM PUBLICA",ISENÇÃO - Prestação de serviço de telecomunicação para administraçao pública ,,77
+RS051401,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,10,II -TELECOMUNIC P/ MISSOES DIPLOMATICAS",ISENÇÃO - Prestação de serviço de telecomunicação para Missões Diplomáticas e Repartições Consulares ,,101
+RS051403,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,10,IV -DIFUSAO SONORA",ISENÇÃO - Prestação de serviço locais de difusão sonora,,55
+RS051404,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,10,V -TAXI","ISENÇÃO - Prestação de serviço de transporte rodoviário de pessoas, realizadas táxi",,83
+RS051405,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I,10,VI -TRANSPORTE DE CALCARIO","ISENÇÃO - Prestação de serviço de transporte de calcário, interna, vinculada a programas de preservação ambiental do RS",,119
+RS051406,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,10,VII -TRANSPORTE FERROVIARIO DE CARGA","ISENÇÃO - Prestação de serviço de transp. ferroviário de carga,na exp/imp de países do ""Acordo sobre o Transp. Intern.""",,119
+RS051407,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I,10,VIII -TRANSPORTE DE MERCADORIA-PROMOFAZ",ISENÇÃO - Prestação de serviço de transporte de mercadorias adquiridas em licitações/contratações destinadas ao PROMOFAZ,,120
+RS051408,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122026,"LIVRO I,10,IX-TRANSP CARGA A CONTR.INSC NO CGC",ISENÇÃO - Prestação de serviço de transporte intermunicipal de cargas realizadas a contribuinte inscrito no CGC/TE,,114
+RS051409,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,10,X.GESAC",ISENÇÃO - Prestação de serviço de comunicação referentes a acesso à internet e conectividade em banda larga do GESAC,,116
+RS051411,,,,,,SIM,SIM,SIM,,,,,,,,1102016,31122019,"LIVRO I,10,XII.TELECOM.P/TEMPLOS DE QQ CULTO",ISENÇÃO - Código encerrado,,26
+RS051412,,,,,,SIM,SIM,SIM,,,,,,,,9092020,29112020,"LIVRO I,ART.10,XIII.TRANSP.DOAÇÕES TSE ELEIÇÃO 2020",ISENÇÃO - Código encerrado,,26
+RS051413,,,,,,SIM,SIM,SIM,,,,,,,,8062021,,"LV.I,ART.10,XIV.TRANSP.PROD.ELETR.LOG.REVERSA","ISENÇÃO - Prestação de serviço de transp.na logística reversa de prods.eletrônicos usados, rol no DF 10240/20, Anexo I",,118
+RS051414,,,,,,SIM,SIM,SIM,,,,,,,,1012025,,"L.I,ART.10,XII.TELECOMUNICAÇÃO PARA TEMPLOS",ISENÇÃO - Prestação de serviço de de telecomunicação destinada a templos de qualquer culto religioso,,100
+RS051500,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,11,I -PAPEL P/JORNAIS, PERIODICOS E LIVROS","NÃO INCIDÊNCIA DO ICMS - Saídas de papel destinado exclusivamente à impressão de jornais, periódicos e livros",,109
+RS051501,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,11,II -JORNAIS, PERIODICOS E LIVROS","NÃO INCIDÊNCIA DO ICMS - Saídas de jornais, periódicos e livros, excluídos os livros em branco ou para escrituração",,115
+RS051502,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,11,III -ENERG ELET,PETROLEO,COMB-INTEREST","NÃO INCIDÊNCIA DO ICMS - Operações interestaduais de energia elétrica e petróleo, lubrif. e combust. dele derivados",,115
+RS051503,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,11,IV -OURO COMO ATIVO FINANCEIRO","NÃO INCIDÊNCIA DO ICMS - Operações com ouro, quando definido em lei como ativo financeiro ou instrumento cambial",,112
+RS051504,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,11,V -EXPORTACOES",NÃO INCIDÊNCIA DO ICMS - Operações e prestações que destinem mercadorias ao exterior ,,85
+RS051505,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,11,VI -MERC P/UTILI PREST SERV SUJEITA ISS","NÃO INCIDÊNCIA DO ICMS - Operações relativas a mercadorias sujeita ao ISS, de competência dos Municípios",,104
+RS051506,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,11,VII -TRANSF PROPRIEDADE ESTABELECIMENTO",NÃO INCIDÊNCIA DO ICMS - Operações de qualquer natureza de que decorra a transferência de propriedade de estabelecimento,,120
+RS051507,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,11,VIII -ALIENACAO FIDUCIARIA EM GARANTIA",NÃO INCIDÊNCIA DO ICMS - Operações decorrentes de alienação fiduciária em garantia,,82
+RS051508,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,11,IX -ARRENDAMENTO MERCANTIL","NÃO INCIDÊNCIA DO ICMS - Operações de arrendamento mercantil, não compreendida a venda do bem arrendado ao arrendatário",,119
+RS051509,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,11,X -SALVADOS DE SINISTRO",NÃO INCIDÊNCIA DO ICMS - Operações decorrentes da transferência de bens móveis salvados de sinistro a seguradoras,,113
+RS051510,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,11,XI -ARMAZEM-GERAL","NÃO INCIDÊNCIA DO ICMS - Saídas de mercadorias a armazém-geral situado neste Estado, para depósito em nome do remetente",,119
+RS051511,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,11,XII -DEPOSITO FECHADO","NÃO INCIDÊNCIA DO ICMS - Saídas de mercadorias a depósito fechado do próprio contribuinte, localizado neste Estado",,114
+RS051512,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,11,XIII -DEVOLUCAO ARMAZ GERAL,DEP FECHADO",NÃO INCIDÊNCIA DO ICMS - Saídas de mercadorias de dep.fechado/armazém geral em devolução ao estabelecimento de origem,,117
+RS051513,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,11,XIV -MERCADORIAS DE TERCEIROS","NÃO INCIDÊNCIA DO ICMS - Saídas na prestação de serviço de transporte, por transportadora, de mercadorias de terceiros",,118
+RS051514,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,11,XV. ATIVO IMOB./MAT. USO E CONSUMO",NÃO INCIDÊNCIA DO ICMS - Saída de bem do ativo imobilizado ou do uso e consumo do estabelecimento,,97
+RS051515,,,,,,SIM,SIM,SIM,,,,,,,,1102016, ,"LIVRO I,11,XVI-LICENCIAMENTO/CESSÃO DE DIREITO DE USO DE SOFTWARE","NÃO INCIDÊNCIA DO ICMS - Operações de licenciamento ou cessão do direito de uso de software, decisão do STF n° 688.223",,118
+RS051516,,,,,,SIM,SIM,SIM,,,,,,,,25052020,,"LIVRO I,11,XVII - FONOGRAMAS E VIDEOGRAMAS MUSICAIS",NÃO INCIDÊNCIA DO ICMS - Saídas de fonogramas e videofonogramas musicais produzidos no Brasil de autores  brasileiros,,117
+RS051517,,,,,,SIM,SIM,SIM,,,,,,,,23062022,,"L.I,11,XVIII.SERV.TRANSM./DISTRIB.ENERGIA ELETRICA",NÃO INCIDÊNCIA DO ICMS - Serviços de transm.e distrib.e encargos setoriais vinculados às operações com energia elétrica,,119
+RS051600,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO I,23,I -MERCADORIAS USADAS",REDUÇÃO DE BASE DE CÁLCULO - Saída de mercadorias usadas,,56
+RS051601,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO I,23,II -CESTA BASICA DE ALIMENTOS","REDUÇÃO DE BASE DE CÁLCULO - Saídas internas de mercadorias relacionadas no Ap.IV, da cesta básica de alimentos do RS",,117
+RS051602,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO I,23,III -OLEO EM BRUTO/EMBALAGENS","REDUÇÃO DE BASE DE CÁLCULO - Saídas internas de óleo em bruto, mesmo degomado, quando destinado à industrialização",,114
+RS051604,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO I,23,V -TRIGO EM GRAO",REDUÇÃO DE BASE DE CÁLCULO - Saídas internas e nas importações do exterior de trigo em grão,,91
+RS051605,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO I,23,VI -REFEICOES-RESTAURANTES","REDUÇÃO DE BASE DE CÁLCULO - Fornecimento de refeições por bares,restaurantes,empresas preparadoras de refeições colet.",,119
+RS051606,,,,,SIM,,,,,SIM,,,,SIM,,1102016,1102016,"LIVRO I,23,VII -ÁGUA NATURAL CANALIZADA",REDUÇÃO DE BASE DE CÁLCULO - Revogada,,37
+RS051607,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO I,23,VIII -CESTA BASICA DE MEDICAMENTOS","REDUÇÃO DE BASE DE CÁLCULO - Saídas internas das mercadorias da cesta básica de medicamentos do RS, cfe. Apêndice V",,115
+RS051608,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31122027,"LIVRO I,23,IX -INSUMOS AGROPECUARIOS",REDUÇÃO DE BASE DE CÁLCULO - Saídas interestaduais de insumos agropecuários,,75
+RS051609,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31122027,"LIVRO I,23,X -INSUMOS PARA ALIMENTAÇÃO ANIMAL/FERTILIZANTES",REDUÇÃO DE BASE DE CÁLCULO - Saídas interestaduais de produtos para alim.animal/fabricação de ração e fertilizantes,,115
+RS051611,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO I,23,XII -BEFIEX",REDUÇÃO DE BASE DE CÁLCULO - Saídas de máq./equip. a ativo permanente de empresa industrial que os adquiriu pelo BEFIEX,,119
+RS051612,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31122026,"LIVRO I,23,XIII -MAQ,EQUIPAM APARELHOS,INDUSTRIAIS","REDUÇÃO DE BASE DE CÁLCULO - Saídas de máquinas, aparelhos e equipamentos, industriais, relacionados no Apêndice X",,114
+RS051613,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31122026,"LIVRO I,23,XIV -MAQUINAS E IMPLEMENTOS AGRICOLAS","REDUÇÃO DE BASE DE CÁLCULO - Saídas de máquinas e implementos agrícolas, relacionados no Apêndice XI",,100
+RS051614,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31122026,"LIVRO I,23,XV -AERONAVES, PECAS E ACESSORIOS","REDUÇÃO DE BASE DE CÁLCULO - Saídas e importação do exterior de aeronaves, peças,acessórios relacionados no Apêndice XII",,120
+RS051615,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31032021,"LIVRO I,23,XVI -PROD ACABADOS DE INFORM/AUTOMACAO",REDUÇÃO DE BASE DE CÁLCULO - Código encerrado,,45
+RS051616,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31122026,"LIVRO I,23,XVII -FERROS E ACOS NAO-PLANOS",REDUÇÃO DE BASE DE CÁLCULO - Operações internas com ferros e aços não-planos,,76
+RS051617,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO I,23,XVIII -TIJ,TELHA,TUBO,MANILHA,TAPA-VIGA","REDUÇÃO DE BASE DE CÁLCULO - Saídas internas de telhas,tubos,manilhas(de argila/barro),tijoleiras e tapa-vigas(cerâmica)",,120
+RS051618,,,,,SIM,,,,,SIM,,,,SIM,,1102016,1102016,"LIVRO I,23,XIX -ZONA FRANCA DE MANAUS",REDUÇÃO DE BASE DE CÁLCULO - Revogada,,37
+RS051620,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO I,23,XXI -VEICULOS AUTOMOTORES","REDUÇÃO DE BASE DE CÁLCULO - Saídas internas e importações de veículos automotores conforme Ap.II,S.III, X, e no Ap.XXII",,120
+RS051623,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO I,23,XXIV - BLOCOS E TIJOLOS DE CONCRETO","REDUÇÃO DE BASE DE CÁLCULO - Saídas internas de blocos e tijolos de concreto para construção,NBM/SH-NCM cód.6810.11.00 ",,119
+RS051624,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO I,23,XXV- VEICULOS DE DUAS RODAS",REDUÇÃO DE BASE DE CÁLCULO - Saídas internas e importações de veículos novos motorizados posição 8711 da NBM/SH-NCM,,115
+RS051626,,,,,SIM,,,,,SIM,,,,SIM,,1102016,6122019,"LIVRO I,23,XXVII -IMP.MERC.OU BENS SOB REGIME ESP",REDUÇÃO DE BASE DE CÁLCULO - Código encerrado,,45
+RS051627,,,,,SIM,,,,,SIM,,,,SIM,,1102016,1102016,"LIVRO I,23,XXVIII -EQUIP P/EMP JORN OU EDIT OU LIV",REDUÇÃO DE BASE DE CÁLCULO - Código encerrado,,45
+RS051628,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO I,23,XXIX-MEDICAMENTOS E PROD PERFUMARIA",REDUÇÃO DE BASE DE CÁLCULO - Saídas interestaduais a contrib.por industrializador/importador de medicamentos/perfumaria ,,120
+RS051629,,,,,SIM,,,,,SIM,,,,SIM,,1102016,30042024,"LIVRO I 23,XXX-EMBALAG.P/MERC.QUE COMPOEM_CESTA B",REDUÇÃO DE BASE DE CÁLCULO - Substituído pelo cód.691 a partir de 01/06/2024.,,77
+RS051630,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO I, 23, XXXI- MEL PURO","REDUÇÃO DE BASE DE CÁLCULO - Saídas de mel puro destinadas a consumidor final, promovidas por produtor",,102
+RS051631,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31122026,"LIVRO I,23,XXXII-VEICULOS,MAQ,APARELHOS E CHASS",REDUÇÃO DE BASE DE CÁLCULO - Saídas interestaduais por estabelecimento fabric./imp. de veículos/caminhões/chassi,,112
+RS051632,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO I,AR.23,XXXIII-PNEUMATICOS,CAMARAS DE AR BOR",REDUÇÃO DE BASE DE CÁLCULO - Saídas interestaduais por fabric./imp. de pneumáticos novos de borracha/câmaras-de-ar,,114
+RS051634,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31122026,"LIVRO I,23,XXXV-PEDRA BRITADA E DE MAO","REDUÇÃO DE BASE DE CÁLCULO - Saídas internas de pedra britada e de mão classificadas no código 2517.10.00, da NBM/SH-NCM",,120
+RS051639,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO I,  23, XL-CARNE AVES,LEPOR-DEOS E GADO","REDUÇÃO DE BASE DE CÁLCULO - Saídas interest.de carne/prod.comest.de aves,leporídeos,gado bov.,bufal.,capr.,ovino,suíno",,119
+RS051640,,,,,SIM,,,,,SIM,,,,SIM,,1102016,1102016,"LIVRO I,  23, XLI -TERMINAIS PORTÁTEIS TELEFONIA CELU",REDUÇÃO DE BASE DE CÁLCULO - Revogada,,37
+RS051642,,,,,SIM,,,,,SIM,,,,SIM,,1102016,30042018,"LIVRO I,23, XLIII E LVII.MERC.BENS REPETRO",REDUÇÃO DE BASE DE CÁLCULO - Revogada,,37
+RS051642,,,,,SIM,,,,,SIM,,,,SIM,,1052018,9042020,"LIVRO I,23, LVII.MERC.BENS REPETRO",REDUÇÃO DE BASE DE CÁLCULO - Código encerrado,,45
+RS051643,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31122020,"LIVRO I,23,XLIV.TRIGO EM GRAO P/ OUF",REDUÇÃO DE BASE DE CÁLCULO - Código encerrado,,45
+RS051644,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO I,  23, XLV - FEIJAO","REDUÇÃO DE BASE DE CÁLCULO - Saídas interestaduais de feijão, quando a alíquota aplicável for 12%",,97
+RS051645,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO I, 23,XLVI,SACOLAS PLAST.P/ACOND.MERC.","REDUÇÃO DE BASE DE CÁLCULO - Saídas internas por fabricante de sacolas plásticas a mercados,padarias,açougues e armazéns",,120
+RS051646,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO I,  23, XLVII.MERCADORIAS PARA UMS",REDUÇÃO DE BASE DE CÁLCULO - Operações internas/interest.de merc. adquiridas pela Adm.Pública às Unid.Mod.de Saúde(UMS),,119
+RS051647,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO I,  23, XLIX.MAQ./APAR.IMP.APEND.XXXVI","REDUÇÃO DE BASE DE CÁLCULO - Saídas de máq./apar. Importados, rol no Ap.XXXVI,  por fabricante. Exige Termo de Acordo.",,118
+RS051648,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO I,  23, L.MAQ.APR.APEND.XXXVII","REDUÇÃO DE BASE DE CÁLCULO - Saídas de máquinas e aparelhos relacionados no Apêndice XXXVII, produzidos neste Estado",,116
+RS051650,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO I,23,LIII.SAIDAS INTERNAS DE UREIA.",REDUÇÃO DE BASE DE CÁLCULO - Saídas internas de ureia classificada no código 3102.10.10 da NBM/SH-NCM,,101
+RS051651,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31122020,"LIVRO I,23,LIV. CAMINHOES-GUINDASTES",REDUÇÃO DE BASE DE CÁLCULO - Código encerrado,,45
+RS051652,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31122020,"LIVRO I,23,LV. CAM.-GUIND/GUIND. IMPORTADOS",REDUÇÃO DE BASE DE CÁLCULO - Código encerrado,,45
+RS051653,,,,,SIM,,,,,SIM,,,,SIM,,1102016,1102016,"LIVRO I,23,LVI -MERC.AP.XXXVIII.A.P.TERMOEL.CV.",REDUÇÃO DE BASE DE CÁLCULO - Código encerrado,,45
+RS051654,,,,,SIM,,,,,SIM,,,,SIM,,1102016,30042025,"LIVRO I,23,LVIII.SUINOS VIVOS",REDUÇÃO DE BASE DE CÁLCULO - Saídas interestaduais de suínos vivos realizadas por produtor rural,,96
+RS051655,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO I,23,LIX.MERC.EST.COOP.Q.NAO OPTA SN",REDUÇÃO DE BASE DE CÁLCULO - Saídas internas de mercadorias promovidas por estabelecimento de cooperativa,,105
+RS051656,,,,,SIM,,,,,SIM,,,,SIM,,1102016,30042024,"LIVRO I,23,LX.ERVA MATE",REDUÇÃO DE BASE DE CÁLCULO - Substituído pelo cód.692 a partir de 01/06/2024.,,77
+RS051657,,,,,SIM,,,,,SIM,,,,SIM,,1102016,1102016,"LIVRO I,23,LXI. PROD.FERRO E AÇO APÊNDICE XLI RICMS",REDUÇÃO DE BASE DE CÁLCULO - Código encerrado,,45
+RS051658,,,,,SIM,,,,,SIM,,,,SIM,,1102016,30042024,"LIVRO I,23,LXII,EMBALAGENS PARA ERVA-MATE",REDUÇÃO DE BASE DE CÁLCULO - Substituído pelo cód.693 a partir de 01/06/2024.,,77
+RS051660,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO I, 23,LXIV.PROD.TEX. VESTUARIOS","REDUÇÃO DE BASE DE CÁLCULO - Saídas internas de prod.têxteis,art.do vestuário,botões de plásticos,de fabricação própria",,119
+RS051662,,,,,SIM,,,,,SIM,,,,SIM,,1102016,30092026,"LIVRO I,23,LXVI.COSM.PERF.HIG.PES.TOUC.","REDUÇÃO DE BASE DE CÁLCULO - Saídas internas de cosméticos,perfum.,art.de higiene,rol no Ap.II, S.III,XXII,por indústria",,120
+RS051663,,,,,SIM,,,,,SIM,SIM,,SIM,SIM,,1102016,30042027,"LIVRO I,23,LXVII.QUEROSENE DE AVIACAO",REDUÇÃO DE BASE DE CÁLCULO - Saídas internas de querosene de aviação à prest.de serv.aerov.passag.em mun.do interior/RS,,119
+RS051664,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31122026,"LIVRO I,23,LXVIII.VEIC.MILITARES P/ EX.BR.","REDUÇÃO DE BASE DE CÁLCULO - Operações com veículos/aparelhos p/uso militar,por fabricante, ao Ministério da Defesa BR",,118
+RS051665,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO I,23,LXIX.CARNE E PROD.TEMP.AVES E SUIN.","REDUÇÃO DE BASE DE CÁLCULO - Saídas internas de carne e produtos comestíveis temperados, do abate de aves e de suínos",,117
+RS051666,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO I,23,LXX.MARM.TRAVERTINOS E GRANITOS","REDUÇÃO DE BASE DE CÁLCULO - Saídas internas de estab. comercial a estab. industrial, de mármores,travertinos e granitos",,120
+RS051667,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO I,23,LXXI.MAT.P/OCULOS","REDUÇÃO DE BASE DE CÁLCULO - Saídas internas de lentes e armações p/óculos, óculos de sol, por atacado",,102
+RS051668,,,,,SIM,,,,,SIM,,,,SIM,,1102016,1102016,"LIVRO I,23,LXXII. POST.CONC.,TR.PORT.DE FE/AC",REDUÇÃO DE BASE DE CÁLCULO - Revogada,,37
+RS051669,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO I, 23,LXXIII.PA CARR.ROD.,ESC.HD.RET.CA","REDUÇÃO DE BASE DE CÁLCULO - Saídas internas/interes. a consumidor final,de pá carreg.,escavad.hidr.,retroesc.e dumpers",,119
+RS051670,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO I,23,LXXIV.EMBARCACAO DE REC./ESPORTE","REDUÇÃO DE BASE DE CÁLCULO - Saídas de embarcações de recreação ou de esporte, na posição 8903 da NBM/SH-NCM",,108
+RS051671,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO I,23,LXXV.VEIC.AUT.P/10 PESSOAS OU +","REDUÇÃO DE BASE DE CÁLCULO - Saídas de veículos automóveis para transporte de 10 pessoas ou mais, incluindo o motorista",,119
+RS051672,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31122020,"LIVRO I,23,LXXVI. ARROZ BENEFICIADO",REDUÇÃO DE BASE DE CÁLCULO -Suspensa,,36
+RS051673,,,,,SIM,,,,,SIM,,,,SIM,,1102016,1102016,"LIVRO I,23,LXXVII. VEIC.COMB.INC.VEIC.ELET.",REDUÇÃO DE BASE DE CÁLCULO - Revogada,,37
+RS051674,,,,,SIM,,,,,SIM,,,,SIM,,1102016,1102016,"LIVRO I,23,LXXVIII. MÓVEIS P/ADM. PUB.",REDUÇÃO DE BASE DE CÁLCULO - Revogada,,37
+RS051676,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO I,23, LXXX.LUVAS E BOTAS P/ EPI",REDUÇÃO DE BASE DE CÁLCULO - Saídas internas de luvas e botas para uso como EPI pelo adquirente,,95
+RS051677,,,,,SIM,,,,,SIM,,,,SIM,,1102016,30092022,"LIVRO I,23,LXXXI.SOF.,PROG,JOGOS,APP,CONG.PAD.",REDUÇÃO DE BASE DE CÁLCULO - Revogada,,37
+RS051678,,,,,SIM,,,,,SIM,SIM,,SIM,SIM,,1022019, ,"LIVRO I,23, LXXXII. REPETRO-SPED",REDUÇÃO DE BASE DE CÁLCULO - Saídas por venda de bens/mercadorias permanentes p/explor./prod.de petróleo e gás natural,,118
+RS051679,,,,,SIM,,,,,SIM,,,,SIM,,1012020, ,"LIVRO I,23, LXXXIII. FABRICANTES DE TRAFO E REATORES ACIMA DE 230kV.",REDUÇÃO DE BASE DE CÁLCULO - Saídas internas de transformadores e reatores(8504.23.00/8504.50 da NCM) p/prest.pública,,117
+RS051680,,,,,SIM,,,,,SIM,,,,SIM,,1042020,31122028,"L.I,ART.23,LXXXIV.MAQ.APAR.P/TERM.PORTUARIOS",REDUÇÃO DE BASE DE CÁLCULO - Operações internas com máq./equip. a contrib. p/constr./ampl.dos Terminais Portuários do RS,,120
+RS051681,,,,,SIM,,,,,SIM,,,,SIM,,1012021,,"L.I,ART.23,LXXXV CARROCERIAS E SEMIRREBOQUES",REDUÇÃO DE BASE DE CÁLCULO - Operações de estabelecimento industrial com carrocerias (inc. cabinas) e semirreboques,,115
+RS051682,,,,,SIM,,,,,SIM,,,,SIM,,1012021,,"L.I,ART.23,LXXXVI ALHO PRODUTOR RURAL ",REDUÇÃO DE BASE DE CÁLCULO - Saídas de alho promovidas por produtor rural ou cooperativa de produtores rurais,,109
+RS051683,,,,,SIM,,,,,SIM,,,,SIM,,1012021,31122026,"L.I,ART.23,LXXXVII SAIDA INTEREST. ARROZ BENEF",REDUÇÃO DE BASE DE CÁLCULO - Saídas interestaduais de arroz beneficiado de produção própria,,91
+RS051684,,,,,SIM,,,,,SIM,,,,SIM,,1072021,31122025,"L.I,ART.23,LXXXVIII VEÍCULOS DE COMBATE A INCÊNDIO",REDUÇÃO DE BASE DE CÁLCULO - Operações com veículos classificados no cód. 8705.30.00 da NBM/SH-NCM.,,99
+RS051685,,,,,SIM,,,,,SIM,,,,SIM,,1012022,31122027,"L.I,ART.23,LXXXIX.FERTILIZANTES","REDUÇÃO DE BASE DE CÁLCULO - Saídas dos fertilizantes elencados nas alíneas ""a"" e ""b"" do inciso LXXXIX do art.23",,112
+RS051686,,,,,SIM,,,,,SIM,,,,SIM,,1012022,31122026,"L.I,ART.23,XC.AREIA, LAVADA OU NÃO",REDUÇÃO DE BASE DE CÁLCULO - Saídas internas de areia,,53
+RS051687,,,,,SIM,,,,,SIM,,,,SIM,,1012022,,"L.I,ART.23,XCI.TELHA DE FIBROCIM.,TIJOLO REFRAT., TUBOS/MANILHAS DE CONCRETO","REDUÇÃO DE BASE DE CÁLCULO - Saídas internas, nos NBM/SH-NCMs 6811, 6902.20.10 e 6810.91.00",,91
+RS051688,,,,,SIM,,,,,SIM,,,,SIM,,1012022,,"L.I,ART.23,XCII.BLOCO DE CONCRETO INTERTRAVADO",REDUÇÃO DE BASE DE CÁLCULO - Operações com blocos de concreto intertravados cód. 6810.19.00 da NBM/SH-NCM,,105
+RS051689,,,,,SIM,,,,,SIM,,,,SIM,,1042023,30042026,"L.I,ART.23,XCIII.BATATA PREPARADA E CONGELADA",REDUÇÃO DE BASE DE CÁLCULO - Saídas de batatas preparadas e congeladas de produção própria de NCM 2004.10.00,,108
+RS051690,,,,,SIM,,,,,SIM,SIM,,SIM,SIM,,1012024,30042027,"L.I,ART.23,XCIV.QUEROSENE DE AVIAÇÃO",REDUÇÃO DE BASE DE CÁLCULO - Saídas internas de querosene de aviação à companhia aérea que opere HUB no Estado,,110
+RS051691,,,,,SIM,,,,,SIM,,,,SIM,,1062024,,"L.I,ART.23,XXX.EMBALAGENS PARA MERCADORIAS QUE COMPÕEM A CESTA BASICA DO RS","REDUÇÃO DE BASE DE CÁLCULO - Saídas internas de embalagens p/merc.da cesta básica e p/merc.benef.com RBC art.23, LXIX.",,118
+RS051692,,,,,SIM,,,,,SIM,,,,SIM,,1062024,,"L.I,ART.23,LX.ERVA-MATE","REDUÇÃO DE BASE DE CÁLCULO - Saídas internas de erva-mate, mesmo as com açúcar, espécies vegetais ou aromas naturais",,116
+RS051693,,,,,SIM,,,,,SIM,,,,SIM,,1062024,,"L.I,ART.23,LXII.EMBALAGENS PARA ERVA-MATE","REDUÇÃO DE BASE DE CÁLCULO - Saídas internas de de embalagens, produzidas no RS, para erva-mate",,95
+RS051694,,,,,SIM,,,,,SIM,,,,SIM,,1012025,,"L.I.ART.23,XCVI.AZEITE DE OLIVA",REDUÇÃO DE BASE DE CÁLCULO - Saídas interestaduais promovidas por fabricante de azeite de oliva.,,96
+RS051695,,,,,SIM,,,,,SIM,,,,SIM,,1012025,31122026,"L.I.ART.23,XCVII.GLÚTEN DE TRIGO","REDUÇÃO DE BASE DE CÁLCULO - Saídas de produção própria, por fabricante, de glúten de trigo NCM 1109.00.00.",,
+RS051696,,,,,SIM,,,,,SIM,,,,SIM,,1032025,,"L.I.ART.23,XCVIII.CERVEJA E CHOPE","REDUÇÃO DE BASE DE CÁLCULO - Saídas internas de produção própria, por microcervejarias, de cerveja e chope.",,
+RS051697,,,,,SIM,,,,,SIM,,,,SIM,,6052025,31122026,"L.I,ART.23,LVIII.SUINOS VIVOS",REDUÇÃO DE BASE DE CÁLCULO - Saídas interestaduais de suínos vivos sujeitas à alíquota de 12%,,
+RS051698,,,,,SIM,,,,,SIM,,,,SIM,,1072025,30042027,"L.I,ART.23,XCIX.SAíDA INTERNA QAV",REDUÇÃO DE BASE DE CÁLCULO - Saídas internas de QAV destinada à Cia. Aérea com Termo de Acordo,,
+RS051800,,,,,SIM,,,,,,,,,SIM,,1102016,31122026,"LIVRO I,24,I -TRANSP INTERMUNICIPAL DE PASSAGEIROS","REDUÇÃO DE BASE DE CÁLCULO - Prestações de serviço de transporte intermunicipal de pessoas, exceto o aéreo",,106
+RS051801,,,,,SIM,,,,,,,,,SIM,,1102016,30062022,"LIVRO I,24,II -TELEVISAO POR ASSINATURA",REDUÇÃO DE BASE DE CÁLCULO - Suspensa,,37
+RS051803,,,,,SIM,,,,,,,,,SIM,,1102016,30042017,"LIVRO I,24,IV -ACESSO ONEROSO À INTERNET",REDUÇÃO DE BASE DE CÁLCULO - Código encerrado,,45
+RS051804,,,,,SIM,,,,,,,,,SIM,,1102016,31122018,"LIVRO I,24,V -TELEFONIA FIXA A EMP DE CALL",REDUÇÃO DE BASE DE CÁLCULO - Código encerrado,,45
+RS051805,,,,,SIM,,,,,,,,,SIM,,1102016,,"LIVRO I,24,VI-MONITORAMENTO E RASTR.DE VEIC/CARGA","REDUÇÃO DE BASE DE CÁLCULO - Prestações de serviço de comunicação onerosas, para monit./rastreamento de veículo e carga",,119
+RS051806,,,,,SIM,,,,,,,,,SIM,,15022019, ,"LIVRO I,24, VII.TRANSP.INTER.DE PASSAG.",REDUÇÃO DE BASE DE CÁLCULO - Prestações de serviço de transp.intermunicipal de passag. no transp.urbano ou metropolitano,,120
+RS051807,,,,,SIM,,,,,,,,,SIM,,30042021,30042024,"LIVRO I,24,VIII.TRANSP.INTERMUN.PESSOAS PANDEMIA",REDUÇÃO DE BASE DE CÁLCULO - Prestações de serviço de transp.intermunicipal de pessoas durante calamidade pública(COVID),,120
+RS051808,,,,,SIM,,,,,,,,,SIM,,1012023,,"LIVRO I,24,IX.PROGRAMA DE FOMENTO SERVIÇO DE COMUNICAÇÃO MULTIMÍDIA",REDUÇÃO DE BASE DE CÁLCULO - Prestações de serviço de telecomunic. a consumidor final no RS por empresa participante,,116
+RS051901,,,,,SIM,SIM,SIM,SIM,,,,,,SIM,,24082020, ,"LIVRO II, ART. 12 - DECISÕES JUDICIAIS",OUTRAS - Saídas desoneradas por decisões judiciais,,50
+RS051902,,,,,,,,SIM,,,,,,,,1092020,,"LIVRO I,ART.38-A,§4º,E - RDA GORJETA","OUTRAS -  Regime diferenciado de apuração para bares e restaurantes, gorjeta limitada a 10% do valor da conta",,109
+RS051904,,,,,,,,SIM,,,,,,,,20052021,,"L.I,ART.19,IV – DEMANDA CONTRATADA NÃO UTILIZADA","OUTRAS -  Demanda de potência não utilizada pelo consumidor, no fornecimento de energia elétrica por demanda contratada",,119
+RS052001,,,,,,,,,,SIM,,,,,,1102016, ,"LIVRO I,53,I -ESTABELEC PERTENCENTE A MESMA PESSOA",DIFERIMENTO - Operações internas de remessa de mercadoria entre estabelecimentos da mesma empresa,,97
+RS052002,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,I -REMESSA P/FINS INDUSTRIALIZACAO,ETC","DIFERIMENTO - Remessa p/industrialização/demonstração/conserto de máquinas e aparelhos, com posterior devolução à origem",,120
+RS052003,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,II -DEVOLUCAO DE MERCADORIAS",DIFERIMENTO - Devolução de máquinas e aparelhos remetidos p/industrialização/demonstração/conserto,,98
+RS052004,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,III -PRODUTOR","DIFERIMENTO - Saída de mercadoria de produção própria, por produtor a produtor ou indústria, comércio ou cooperativa",,116
+RS052005,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,IV -SAIDA DE PRODUTOR P/ORGAO OFICIAL","DIFERIMENTO - Saída de mercadoria de produção própria, por produtor/cooperativa a órgão oficial",,95
+RS052006,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,V -COOPERATIVA",DIFERIMENTO - Saída de mercadoria de cooperativa a outra cooperativa de que a cooperativa remetente faça parte,,110
+RS052007,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,VI -AGUA","DIFERIMENTO - Saída de águas, exceto a potável e de vapor d'água, para estabelecimento industrial",,97
+RS052008,,,,,,,,,,SIM,SIM,,SIM,,,1102016, ,"AP II,S.I,VII -ALCOOL COMBUSTIVEL","DIFERIMENTO - Saída de álcool combustível e biodiesel, do estabelecimento industrial para estabelecimento distribuidor",,118
+RS052009,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,VIII -ARROZ,CANJICAO,CANJICA E QUIRERA","DIFERIMENTO - Saída de arroz, em casca ou beneficiado, canjicão, canjica e quirera, exceto a estab. de microempresa",,115
+RS052010,,,,,,,,,,SIM,SIM,,SIM,,,1102016, ,"AP II,S.I,IX -CARVAO MINERAL","DIFERIMENTO - Saída de carvão min./calcário,por estab.extrator;de óleo combustível,a geradora/supridora de energ.elét.",,118
+RS052011,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,X -CARVAO VEGETAL",DIFERIMENTO - Saída de carvão vegetal,,37
+RS052012,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XI -CEVADA EM GRAO",DIFERIMENTO - Saída de cevada em grão,,37
+RS052013,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XII -CINZAS DE CARVAO MINERAL","DIFERIMENTO - Saída de cinzas de carvão mineral, para estabelecimentos fabricantes de cimento",,93
+RS052014,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XIII -COUROS E PELES","DIFERIMENTO - Saída de couros e peles, em estado natural, secos, salgados ou salmourados",,88
+RS052015,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XIV -ERVA-MATE EM FOLHA OU CANCHEADA",DIFERIMENTO - Saída de erva-mate em folha ou cancheada,,54
+RS052016,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XV -ENERGIA ELETRICA",DIFERIMENTO - Saída de energia elétrica do gerador ao distribuidor; ao estab.rural; ao estab.industrial em área indust.,,119
+RS052017,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XVI -EQUINO",DIFERIMENTO - Saída de eqüino que tenha controle genealógico oficial e idade de até 3 anos,,90
+RS052018,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XVII -FARELO E TORTA DE GIRASSOL",DIFERIMENTO - Saída de farelo e torta de girassol,,49
+RS052019,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XVIII -FERRO VELHO,SUCATAS,RESIDUOS,ETC.","DIFERIMENTO - Saída de ferro velho,sucata,resíduos destinados à produção industrial ou à comercialização",,104
+RS052020,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XIX -FOSFATO BI-CALCIO",DIFERIMENTO - Saída de fosfato bi-cálcio destinado à alimentação animal,,71
+RS052021,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XX -HORTIFRUTIGRANJEIROS",DIFERIMENTO - Saída de frutas frescas nacionais ou oriundas de países membros da ALADI e de verduras e hortaliças,,113
+RS052022,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XXI -FUMO EM FOLHA CRU",DIFERIMENTO - Saída de fumo em folha cru,,40
+RS052023,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XXII -PROGRAMA AGREGAR CARNES","DIFERIMENTO - Saída de gado vacum,ovino e bufalino,por atac., ao abatedor; remet./dest. devem participar do AGREGAR-RS ",,119
+RS052024,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XXIII -OBRAS DE ARTE","DIFERIMENTO - Saída, de galerias de arte e estabelecimentos similares, de obras de arte para demonstrações ou exposições",,120
+RS052025,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XXIV -GRAO DE GIRASSOL",DIFERIMENTO - Saída de grão de girassol,,39
+RS052026,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XXV -LAS,PELOS E CABELOS,ORIGEM ANIMAL","DIFERIMENTO - Saída de lãs, pêlos e cabelos, de origem animal",,61
+RS052027,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XXVII -LEITOES","DIFERIMENTO - Saída de leitões de até 70 dias com até 25 kg, destinados à engorda",,81
+RS052028,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XXVIII -OVOS FRESCOS","DIFERIMENTO - Saída de ovos frescos;ovos integrais past., por estab.industrial para fins de industrialização;embalagens",,119
+RS052029,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XXIX -PEIXES",DIFERIMENTO - Saída de peixes como matéria-prima em processos industriais de cozimento ou enlatamento,,101
+RS052030,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XXX -SEBO,CHIFRE E CASCO","DIFERIMENTO - Saída de sebo, chifre e casco",,43
+RS052031,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XXXI -SOJA EM GRAO",DIFERIMENTO - Saída de soja em grão,,35
+RS052032,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XXXII -SUINOS VIVOS","DIFERIMENTO - Saída de suínos vivos, com destino a estabelecimento abatedor",,75
+RS052033,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XXXIII -TRIGO E TRITICALE, EM GRAO","DIFERIMENTO - Saída de trigo e de triticale, em grão, com destino à indústria moageira de trigo",,95
+RS052034,,,,,,,,,,SIM,,,,,,1102016,1102016,"AP II,S.I,XXXIV -INSUMOS IND INFORMATICA/AUTOMACAO",DIFERIMENTO - Código encerrado,,30
+RS052035,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XXXV -MAT-PRIMAS P/TRATORES IMPLEM AGRIC","DIFERIMENTO - Saída de matérias-primas para implementos agrícolas a estabelecimento industrial, localizado no Estado",,116
+RS052036,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XXXVIII -TRATORES E IMPLEMENTOS AGRICOL",DIFERIMENTO - Saída dos produtos tratores e implementos agrícolas para uso exclusivo na produção agropecuária,,109
+RS052037,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XXXIX -PRODUTOR - ATIVO PERMANENTE","DIFERIMENTO - Saída de transformadores,pirômetros,quadros de comando,a produtor, para ativo permanente do seu estab.",,116
+RS052038,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XL -PECAS,PES E COMPONENTES P/VEICULO","DIFERIMENTO - Saída de peças,partes e compon.a estab.industrial,desde remet./dest. estejam instalados em área industrial",,120
+RS052039,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XLI -VEICULOS,PECAS,PES E COMP,IMPORT","DIFERIMENTO - Saída, por importador, de veículos relacionados no item X da Seção III deste Apêndice a estab.industrial ",,119
+RS052040,,,,,,,,,,SIM,,,,,,1102016,1102016,"AP II,S.I,XLII -PEC P/VEI P/COMPLEX IND LEI FDI/RS",DIFERIMENTO - Código encerrado,,30
+RS052041,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XLIII -EMBALAGEM DE OVOS FRESCOS",DIFERIMENTO - Saída de material de embalagem utilizado para o acondicionamento de ovos frescos,,94
+RS052042,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XLIV -INSUMOS PETROQUIMICOS",DIFERIMENTO - Saída de insumos petroquímicos a dest.c/Protocolo visando ramo petroq./plástico; seja benef.do FUNDOPEM/RS,,120
+RS052043,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XLV -COGUMELOS",DIFERIMENTO - Saída de cogumelos,,32
+RS052044,,,,,,,,,,SIM,,,,,,1102016,1102016,LIVRO III ART.2 -PRESTACAO SERV. TRANSPORTE CARGA,DIFERIMENTO - Código encerrado,,30
+RS052045,,,,,,,,,,SIM,,,,,,1102016,,"AP II,S,I,XLVI-ZONAS PROCESSAMENTO EXPORTACAO-ZPE",DIFERIMENTO - Saída de mercadorias destinadas a estabelecimentos situados nas Zonas de Processamento de Exportação - ZPE,,120
+RS052046,,,,,,,,,,SIM,SIM,,SIM,,,1102016, ,"AP II,S,I,XLVII-GAS LIQUEFEITO DE PETROLEO E GAS N","DIFERIMENTO - Saída de gás liqüefeito de petróleo e gás natural, a estab.industrial em área industrial",,102
+RS052047,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S,I,XLVIII-SAL PARA PECUARIA","DIFERIMENTO - Saída de sal, exceto sal de mesa, a produtor e a cooperativa de produtores para emprego na pecuária",,113
+RS052048,,,,,,,,,,SIM,SIM,,SIM,,,1102016, ,"AP II,S,I,XLIX-GAS NATURAL","DIFERIMENTO - Saída de gás natural na industrialização em usina geradora de energ.elét., do importador/gerador até usina",,120
+RS052049,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,L-MAQ E EQUIP P/COMPLEXO IND LEI FITEC/RS",DIFERIMENTO - Saída de máq./equip. a estabelecimento instalado em complexo industrial previsto FITEC/RS,,103
+RS052050,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,LI-PROTEINAS E GORDURAS VEGETAIS DE SOJA",DIFERIMENTO - Saída de proteína isolada/texturizada e gorduras veget. de soja por estab.beneficiador a estab.industrial,,119
+RS052051,,,,,,,,,,SIM,,,,,,1102016, ,"AP II, S. I, LII-RESIDUOS DE MADEIRA E DE CASCA D","DIFERIMENTO - Saída de resíduos de madeira, a centrais geradoras termelétricas,como combust.na prod. de energia elétrica",,120
+RS052052,,,,,,,,,,SIM,,,,,,1102016, ,"AP II, S. I, LIII-CARVAO MINERAL P/ INDUSTRIA DE","DIFERIMENTO - Saída de carvão mineral por estab.extrator, e de óleo combustível, destinados à industria de celulose",,115
+RS052053,,,,,,,,,,SIM,,,,,,1102016, ,"AP II, S. I, LIV-MERCADORIAS P/ INDUSTRIA DO PROG",DIFERIMENTO - Saída de mercadorias a estabelecimento industrial integrante Programa SLP Cerâmico,,96
+RS052054,,,,,,,,,,SIM,,,,,,1102016,,"AP II, S. I, LV-MATERIAS-PRIMAS E MATERIAIS DE EM","DIFERIMENTO - Saída, de estab.industrial,de matérias-primas e mat.de embalagem,a estab.industrial em área industrial",,116
+RS052055,,,,,,,,,,SIM,SIM,,SIM,,,1102016, ,"AP II, S. I, LVI - BENZENO",DIFERIMENTO - Saída de benzeno a destinatário com Protocolo p/ampliação de indústria petroquímica e benef.do FUNDOPEM,,117
+RS052056,,,,,,,,,,SIM,,,,,,1102016, ,"AP II, S.I,LVII-MAQUINAS E EQUIPAMENTOS P/A FABRIC","DIFERIMENTO - Saída de máq./equip.a ativo permamente de indústria de cerveja,refrigerante,suco,envase de água mineral",,117
+RS052057,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,LVIII-ATIVO PERMANENTE P/IND DE NAVIOS",DIFERIMENTO - Saída de máquinas e equipamentos industriais ao ativo permanente de estabelecimento industrial naval,,114
+RS052058,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,LIX-INSUMOS P/IND DE NAVIOS","DIFERIMENTO - Saída de peças, partes e componentes, matérias-primas e materiais de embalagem a estab.industrial naval",,117
+RS052059,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S, I,LX - AVES VIVAS","DIFERIMENTO - Saída de aves vivas, com destino a estabelecimento abatedor",,73
+RS052060,,,,,,,,,,SIM,,,,,,1102016,9022017,"AP II,S, I,LX - ATIVO PERMANENTE P SET MOV",DIFERIMENTO - Alterado,,22
+RS052060,,,,,,,,,,SIM,,,,,,10022017, ,"AP II,S, I,LXI - ATIVO PERMANENTE P SET MOV",DIFERIMENTO - Saída de máq./equip.industriais a ativo permanente de estab.industrial moveleiro e coureiro-calçadista,,116
+RS052061,,,,,,,,,,SIM,SIM,,SIM,,,1102016, ,"AP II, S. I, LXII - OLEO LUBRIFICANTE BASICO",DIFERIMENTO - Saída de óleo lubrificante básico decorrente de re-refino de óleo lubrificante usado ou contaminado,,113
+RS052062,,,,,,,,,,SIM,,,,,,1102016,,"AP II, S. I, LXIII-MAQU. EQUIP. P/ IND. BIODIESEL","DIFERIMENTO - Saída de máq./equip./peças ao ativo permanente de produtor de biodiesel, que tenha firmado Termo de Acordo",,120
+RS052063,,,,,,,,,,SIM,,,,,,1102016, ,"AP II, S. I, LXIV-MAQU.EQUIP.FILME POLIPR.BIORIEN",DIFERIMENTO - Saída de máq./equip.industriais ao ativo perman.de estab.p/produção de filme de polipropileno biorientado,,119
+RS052064,,,,,,,,,,SIM,,,,,,1102016, ,"AP II, S. I, LXV-MAQU.EQUIP.P/IND.DERIVADOS LEITE",DIFERIMENTO - Saída de máq./equip.industriais ao ativo perman.de estab.industriais p/fabricação de derivados de leite,,117
+RS052065,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,LXVI-PE-,MAT-PRI E MAT EMB P/PROD CELULO","DIFERIMENTO - Saída de matérias-primas,mat.de embalagem,peças a estab.industrial p/fabr.de celulose p/ fabric.de papel",,118
+RS052066,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,LXVII-ATIVO PERM IND CELULOSE E OUTRAS P",DIFERIMENTO - Saída de máq./equip.industriais a ativo perm.de estab.industrial p/fabr.de celulose p/fabr.icação de papel,,120
+RS052067,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,LXVIII-ATIVO PERM DE ABAT DE GADO VACUM","DIFERIMENTO - Saída de máq./equip.industriais a ativo perm.de estab.abatedor de gado vacum, ovino e bufalino",,108
+RS052068,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,LXIX-ATIVO PERM DE IND DE RESINAS",DIFERIMENTO - Saída de máq./equip.a ativo perm.de estab.industrial p/prod.de resinas uréicas/fenólicas e de formaldeído,,119
+RS052069,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,LXX-ATIVO PERM DE IND DE ALCOOL",DIFERIMENTO - Saída de máq./equip./peças a ativo perm.de destilaria produtora de álcool neutro e de álcool combustível,,118
+RS052070,,,,,,,,,,SIM,,,,,,1102016,31122017,"AP II,S.I,LXXI-OLEO VEGETAL P/ IND DE BIODIESEL",DIFERIMENTO - Alterado,,22
+RS052070,,,,,,,,,,SIM,,,,,,1012018,,"AP II,S.I,LXXI-OLEO VEG/ANIMAL P/IND. DE BIODIESEL E FAB. SABÃO","DIFERIMENTO - Saída de óleos e gorduras, vegetais ou animais, à indústria de biodiesel; e de sabão, detergente, etc",,115
+RS052071,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,LXXII-PEC,MAT-PRI E MAT EMB E ATIVO PERM",DIFERIMENTO - Saída de máq./equip.a ativo perm. e mat.prima/peça a estab.industrial p/fabric.de aerogeradores eólicos,,117
+RS052072,,,,,,,,,,SIM,,,,,,1102016, ,"AP.II,S.I,LXXIII.MAQ/EQUIP ATIVO PERM.P/IND.MDP",DIFERIMENTO - Saída de máq./equip.a ativo permamente a estab.industrial p/produção de painéis de MDP,,100
+RS052073,,,,,,,,,,SIM,,,,,,1102016, ,"AP II, S. I, LXXIV-GRAOS MAMONA P/IND.BIOD",DIFERIMENTO - Saída de mamona destinada a estabelecimento industrial produtor de biodiesel,,90
+RS052074,,,,,,,,,,SIM,SIM,,SIM,,,1102016, ,"AP II, S. I, LXXV. PETROLEO",DIFERIMENTO - Saída de petróleo,,31
+RS052075,,,,,,,,,,SIM,,,,,,1102016, ,"AP II, S. I, LXXVI. CASCA DE ARROZ  E ""PELLETS"" DE CASCA DE ARROZ P/IND.","DIFERIMENTO - Saída de casca de arroz e ""pellets' de casca de arroz, destinada a estabelecimento industrial",,107
+RS052076,,,,,,,,,,SIM,,,,,,1102016,,"AP.II,S.I,LXXVII.ATIVO PERM.USINA TERM.A CARVAO","DIFERIMENTO - Saída de máq./equip.a ativo permamente de usina termelétrica a carvão mineral, da contratada p/contratante",,120
+RS052077,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,LXXVIII.",DIFERIMENTO - Saída de máq./equip.a ativo permamente de indústria para encapsulamento e teste de semicondutores,,111
+RS052078,,,,,,,,,,SIM,,,,,,1102016, ,"AP II, S. I, LXXIX",DIFERIMENTO - Saída de máq./equip.a ativo permamente de indústria para a produção de butadieno,,94
+RS052079,,,,,,,,,,SIM,,,,,,1102016, ,"AP II, S. I, LXXX",DIFERIMENTO - Saída de máq./equip.a ativo permamente de indústria para a produção de pneumáticos,,96
+RS052080,,,,,,,,,,SIM,,,,,,1102016,,"AP II, S. I, LXXXI",DIFERIMENTO - Saída de máq./equip.a ativo permamente de indústria c/Protocolo de Intenções prevendo diferimento ,,112
+RS052081,,,,,,,,,,SIM,,,,,,1102016, ,"AP II, S. I, LXXXII",DIFERIMENTO - Saída de máq./equip.a ativo permamente de indústria de guindastes e caminhões-guindaste,,101
+RS052082,,,,,,,,,,SIM,,,,,,1102016, ,"AP II, S. I, LXXXIII","DIFERIMENTO - Saída de matérias-primas, material de embalagem, peças a indústria de guindastes e caminhões-guindaste",,116
+RS052083,,,,,,,,,,SIM,,,,,,1102016, ,"AP II, S. I, LXXXIV","DIFERIMENTO - Saída de ureia, por importador, a fabricante de resinas ureicas, fenólicas e melamínicas",,102
+RS052084,,,,,,,,,,SIM,,,,,,1102016, ,"AP II, S. I, LXXXV","DIFERIMENTO - Saída de matérias-primas, materiais de embalagem a estab.industrial p/fabricação de pneumáticos",,109
+RS052085,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,LXXXVI.TRIGO EM GRAO P/ IND. DE RACAO","DIFERIMENTO - Saída de trigo em grão, produzido neste Estado, com destino à indústria de ração",,94
+RS052086,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,LXXXVII,CONSTR.CONSER.MODER.EMBARCA--ES","DIFERIMENTO - Saída de mercadorias para construção, conservação, modernização e reparo de embarcações",,101
+RS052087,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,LXXXVIII,ATI.PERM.CONSTR.MODER.EMBARCA--",DIFERIMENTO - Saída de máq./equip.a ativo permamente de indústria de construção/reparo de embarcações,,101
+RS052088,,,,,,,,,,SIM,SIM,,SIM,,,1102016, ,"AP II,S.I,LXXXIX.QUEROS.AV/OLEO COMB.P/DISTR.COMB.","DIFERIMENTO - Saída de querosene de aviação e óleo combustível, por refinaria, destinada à distribuidora de combustíveis",,120
+RS052089,,,,,,,,,,SIM,,,,,,1102016, ,"AP II, S. I, XC. PROD.ACAB.INFOR.E AUTOM.",DIFERIMENTO - Saída dos produtos acabados de informática e automação relacionados no Apêndice XIII,,98
+RS052090,,,,,,,,,,SIM,,,,,,1102016,30092026,"AP II,S.I,XCI.COSM.PERF.HIG.PES.E TOUCADOR","DIFERIMENTO - Saída de cosméticos, perfumaria, art.de higiene pessoal e de toucador, relacionados no Ap.II, S.III, XXII",,119
+RS052091,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XCII.RESIDUOS DE MADEIRA","DIFERIMENTO - Saída de resíduos de madeira, destinados à produção industrial ou à comercialização",,97
+RS052092,,,,,,,,,,SIM,,,,,,1102016,31122017,"AP II,S.I,XCIII.MAT.PRIM.P/ESTR.MAR.P/PETR.E G.N.",DIFERIMENTO - Código encerrado,,30
+RS052093,,,,,,,,,,SIM,,,,,,1102016, ,"AP.II,S.I,XCIV. MERC.IMP.C/DIF.P/PROCAM/RS",DIFERIMENTO - Saída de mercadoria importada com diferimento destinada a estab.industrial do PROCAM/RS,,101
+RS052094,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XCV. MERC.DEST.DISTR.AGUA-POLO PETROQ.",DIFERIMENTO - Saída de mercadorias à distribuidora de água localizada no Polo Petroquímico de Triunfo,,101
+RS052095,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XCVI.CAL VIVA E DOLOMITA P/TERMELETRICA","DIFERIMENTO - Saída de cal viva e de dolomita calcinada, destinadas à usina termelétrica",,88
+RS052096,,,,,,,,,,SIM,,,,,,1102016, ,"AP II,S.I,XCVII.MERC.PARA TRAT.4 RODAS,RET.EMP.","DIFERIMENTO - Saída de merc. p/fabricação de eixos utilizados em tratores agríc.de 4 rodas, retroescav.e empilhadeiras",,118
+RS052097,,,,,,,,,,SIM,,,,,,1102016,31032022,"AP II,S.I,XCVIII.FAB.VEIC.TRANSP.CARGAS.PROCAM/RS",DIFERIMENTO - Código encerrado,,30
+RS052098,,,,,,,,,,SIM,,,,,,1012020, ,"AP.II,S.I,XXVI.LEITE FRESCO, PASTEURIZADO OU NÃO","DIFERIMENTO - Saída de leite fresco, pasteurizado ou não",,56
+RS052099,,,,,,,,,,SIM,,,,,,1102020, ,"AP.II,S.I,XCIX. MILHO",DIFERIMENTO - Saída de milho,,28
+RS052100,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31032021,"AP II,S.IV,SUBS.I,ITENS:I,II,IVaVI,VIIIaXV,XVIIaXX",DIFERIMENTO PARCIAL - Revogado,,30
+RS052101,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31032021,"AP II,S.IV,SUBSI,ITENS:III,VII,XVI,XXVII,XLIVAXLI",DIFERIMENTO PARCIAL - Revogado,,30
+RS052102,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31032021,"AP II, S. IV, SUBS. I, ITENS: L ALXV, LXVIII, LXI",DIFERIMENTO PARCIAL - Revogado,,30
+RS052103,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31032021,"AP II,S.IV,SUBS.I,ITENS:XXIII,LXX,LXXX,LXXXVII",DIFERIMENTO PARCIAL - Revogado,,30
+RS052104,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31032021,"AP II, S. IV, SUBS. II, ITENS I A IV-VESTUARIO E",DIFERIMENTO PARCIAL - Revogado,,30
+RS052105,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31032021,"AP II, S. IV, SUBS. II, ITENS V A VII-DE VIAG",DIFERIMENTO PARCIAL - Revogado,,30
+RS052106,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31032021,"AP II, S. IV, SUBS. II, ITEM VIII-MOVEIS E MOBILI",DIFERIMENTO PARCIAL - Revogado,,30
+RS052107,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31032021,"AP IIS,IV,SUBSI,ITEM XCVI-CAL VIVA, CAL APAGADA E C",DIFERIMENTO PARCIAL - Revogado,,30
+RS052108,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31032021,"AP II,S.IV,SUBS.III,ITENSI,IIEVIAXIEXXIIMERC.SET P",DIFERIMENTO PARCIAL - Revogado,,30
+RS052109,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31032021,"AP II,S.IV,SUBS.III,ITENS:XII A XXI-MERC.SETOR PLA",DIFERIMENTO PARCIAL - Revogado,,30
+RS052110,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31032021,"AP II,S.IV,SUBS.III,IT.:V E XXXII A XXXVI",DIFERIMENTO PARCIAL - Revogado,,30
+RS052111,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31032021,"AP II,SIV,SUBSIII,ITENS XXV A XXXI-MERC P ALIMEN",DIFERIMENTO PARCIAL - Revogado,,30
+RS052112,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31032021,"AP II,S.IV,SUBS.V,ITENS:I A XIV. MERC.COUR-CALC.",DIFERIMENTO PARCIAL - Revogado,,30
+RS052113,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO III, 1A, V","DIFERIMENTO PARCIAL - Saídas internas de insumos para ind.de ônibus,micro-ônibus,miniônibus e furgões,suas carrocerias",,118
+RS052114,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"AP II,S.IV.SUBS.VI.I.BENS/MERC.DEST.ENV.BEB.AL.PAS","DIFERIMENTO PARCIAL - Livro III, art.1º-A, IV - Saídas internas de mercadorias p/envasar bebidas e alim. líq./pastosos",,118
+RS052115,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31032021,"AP II,S.IV,SUBS.VII,ITENS I A XI. AVIC./SUINOCULT.",DIFERIMENTO PARCIAL - Revogado,,30
+RS052116,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31032021,"LIVRO III,1A,VII.MOLAS,FL.MOLAS, A/F.FAB.MAQ.",DIFERIMENTO PARCIAL - Revogado,,30
+RS052117,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31032021,"LIVRO III,1A,X.PROD.FARM.RELAC.NO RICMS",DIFERIMENTO PARCIAL - Revogado,,30
+RS052118,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"AP II,S.IV,SUBS.VIII.ITENS I A IV. ACOS/FERROS","DIFERIMENTO PARCIAL - Livro III, art.1º-A, IX - Saídas internas de mercadorias relacionadas no Apêndice do RICMS citado ",,120
+RS052119,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31032021,"LIVRO III, 1-A,XI.PROD.PLAST.P/BRINQUEDOS",DIFERIMENTO PARCIAL - Revogado,,30
+RS052120,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31032021,"LIVRO III, 1-A,XII.COPOS PLAST.COM.P/DEST.",DIFERIMENTO PARCIAL - Revogado,,30
+RS052121,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO III,  1-A, XIII",DIFERIMENTO PARCIAL - Saídas internas de produtos laminados planos p/fabricação de vagões ou caixas de carga de vagões,,118
+RS052122,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO III,1-A,XIV.MERC.P/FAB.TR.ATR.R.ELETR.","DIFERIMENTO PARCIAL - Saídas internas de mercadorias p/fabr.de transformadores, autotransformadores e reatores elétricos",,120
+RS052123,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO III, 1-D E AP II,S.IV,MERC.P/IND.N.MEC.","DIFERIMENTO PARCIAL - Saídas internas de merc.p/industrializ.de reatores nucleares,caldeiras,máq.,aparelhos mecânicos",,117
+RS052124,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31032021,"LIVRO III,1A,XV.INS.IND.INF.AUT.E ELETR.",DIFERIMENTO PARCIAL - Revogado,,30
+RS052126,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31032021,"LIVRO III,1A,XVI,AP II,S.IV,SUBS.X.MERC.SETOR PL.",DIFERIMENTO PARCIAL - Revogado,,30
+RS052127,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31032021,"LIVRO III,1A, I E AP II,S.IV,SUB.I,CX.FOLHAS ACO",DIFERIMENTO PARCIAL - Revogado,,30
+RS052128,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31032021,"LIVRO III, 1A,XVII. MUCOSA INTES.SUINA",DIFERIMENTO PARCIAL - Revogado,,30
+RS052129,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO III, 1A,XVIII.INS.P/FAB.TRANSP.GRAN.;C/D B","DIFERIMENTO PARCIAL - Saídas internas de insumos p/fabr.de transp.de granéis,carregadores/descarreg.de navios e barcaças",,120
+RS052130,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO III,1-A,XIX.LAM.PL.FB.VEIC. FOMENTAR.",DIFERIMENTO PARCIAL - Saídas internas de laminados planos a fabricantes de veículos beneficiário do FOMENTAR/RS,,111
+RS052131,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31032021,"LIVRO III, 1-A, XX. LIGAS DE ALUMINIO",DIFERIMENTO PARCIAL - Revogado,,30
+RS052132,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO III,1-A,XXI.",DIFERIMENTO PARCIAL - Saídas internas de laminados planos a fabricantes de veículos beneficiário do FOMENTAR/RS,,111
+RS052133,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31032021,"LIVRO III,1-A,XXII.",DIFERIMENTO PARCIAL - Revogado,,30
+RS052134,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31032021,"LIVRO III,1E.MERC.P/IND.POR ESTAB.ATIV.ECON.",DIFERIMENTO PARCIAL - Revogado,,30
+RS052135,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31032021,"LIVRO III,1-A,XXIII.NAFTA DEST.A INDUSTR.",DIFERIMENTO PARCIAL - Revogado,,30
+RS052136,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31032021,"LIVRO III,1-A,XXIV. MET.SOD.IND.NOVOS PROD.",DIFERIMENTO PARCIAL - Revogado,,30
+RS052137,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"L.III,ART.1-F,AP.II,S.V,ITENS I,II,III e V","DIFERIMENTO PARCIAL - Saídas internas de cobre não refinado, eixos motores, bobinas/chapas de aço, e folhas de flandres",,119
+RS052138,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31032021,"LIVRO III,1-A,XXV.MATERIAIS PARA PNEUMATICOS",DIFERIMENTO PARCIAL - Revogado,,30
+RS052139,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO III,ART. 1-G. MAT.P/FAB.VEICULOS DE TRANSP.","DIFERIMENTO PARCIAL - Operações com mat.-prima,peças,partes p/fabr.de automóveis das posições 8702 e 8704 da NBM/SH-NCM",,119
+RS052140,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO III,1-H.ACOS PLANOS,P/FAB.TUBOS DE ACO",DIFERIMENTO PARCIAL - Saídas internas de aços planos para fabricação de tubos de aço,,84
+RS052141,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31032021,"LIVRO III, 1-A, XXVI. GLICEROL EM BRUTO",DIFERIMENTO PARCIAL - Revogado,,30
+RS052142,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO III,1-A, XXVII. EMB. METALICAS",DIFERIMENTO PARCIAL - Saídas internas de embalagens metálicas promovidas por estabelcimento fabricante,,102
+RS052143,,,,,SIM,,,,,SIM,,,,SIM,,1102016, ,"LIVRO III, 1-A,XXVIII.MAT.P/FAB.ARMAS E MUN.","DIFERIMENTO PARCIAL - Saídas internas de matéria-prima,peças p/fabr.de armas,revólveres,pistolas,cartuchos e munições",,117
+RS052144,,,,,SIM,,,,,SIM,,,,SIM,,1102016,31032022,"LIVRO III,1-A,XXIX. BOB.CHP.ACO-PROCAM/RS",DIFERIMENTO PARCIAL - Código encerrado,,38
+RS052145,,,,,SIM,,,,,SIM,,,,SIM,,1102020,31032025,"L.III,ART1-I FAB SIST CONSTR E ESTRUT METAL",DIFERIMENTO PARCIAL - Saídas internas de mercadorias a fabricantes de sistemas construtivos e de estruturas metálicas,,117
+RS052146,,,,,SIM,,,,,SIM,,,,SIM,,1012020,,"LIVRO III,ART.1-A,XXX. PROD.LAMIN.PLAN.FERRO/ACO",DIFERIMENTO PARCIAL - Saídas internas de produtos laminados de ferro/aço p/.fabricação de silos e secadores para grãos,,118
+RS052147,,,,,SIM,,,,,SIM,,,,SIM,,1102016,,"LIVRO III,ART.1-C.SAIDAS DE CENTRAL DE NEGOCIOS",DIFERIMENTO PARCIAL - Saídas por contribuinte que exerça a atividade de Central de Negócios,,91
+RS052148,,,,,SIM,,,,,SIM,,,,SIM,,1052020,31032021,"LIVRO III,ART.1-A,XXXI.CIMENTO ASFALT.DE PETROLEO",DIFERIMENTO PARCIAL - Revogado,,30
+RS052149,,,,,SIM,,,,,SIM,,,,SIM,,1102020,31122032,"L.III,ART.1-F,AP.II,S.V,IV.ETILENO","DIFERIMENTO PARCIAL - Saídas internas de etileno destinadas a estabelecimento fabricante de estireno, benef. FUNDOPEM",,117
+RS052150,,,,,,,,,,SIM,SIM,,SIM,,,2012021,,"AP.II,S.I,CI. BIOGÁS E BIOMETANO P/ DISTRIBUIDORA",DIFERIMENTO - Saída de biogás e biometano por estab.industrial produtor à empresa concessionária distrib.de gás natural,,119
+RS052151,,,,,,,,,,SIM,,,,,,2012021,,"AP.II,S.I,CII. RESÍDUOS AGROSSILVOPASTORIS","DIFERIMENTO - Saída de resíduos agrossilvopastoris, destinada a estabelecimento industrial produtor de biogás ou de biometano",,125
+RS052152,,,,,,,,,,SIM,SIM,,SIM,,,2012021,,"AP.II,S.I,CIII. CARVÃO MINERAL P/ ESTAB DO POLO CARBOQUÍMICO",DIFERIMENTO - Saída de carvão mineral a estab.industrial localizado no Polo Carboquímico do RS,,94
+RS052153,,,,,,,,,,SIM,,,,,,2012021,,"AP.II,S.I,CIV. ""PELLETS"" DE MADEIRA NCM 4401.31.00","DIFERIMENTO - Saída de “pellets” de madeira, classificados na posição 4401.31.00 da NBM/SH-NCM",,94
+RS052154,,,,,,,,,,SIM,,,,,,1052022,,"AP.II,S.I,C. SAÍDA POR CONTRIBUITE NO REF",DIFERIMENTO - Saída de mercadorias quando houver previsão específica no Ato Declaratório de inclusão no REF,,107
+RS052155,,,,,SIM,,,,,SIM,,,,SIM,,1042021,,"L.III,ART.1-J,I.LAMINADOS PLANOS DE FERRO/AÇO","DIFERIMENTO PARCIAL - Saídas internas de lam.planos NCMs 7209.1700,7209.1800 e 7225.5090 para fabric.de móveis de aço.",,118
+RS052156,,,,,SIM,,,,,SIM,,,,SIM,,1042021,,"L.III,ART.1-J,II,A.BOBINAS,CHAPAS DE FERRO/AÇO",DIFERIMENTO PARCIAL - Saídas internas com destino a fabricantes de móveis de aço. Ver tabela de NCMs no inciso II.,,114
+RS052157,,,,,SIM,,,,,SIM,,,,SIM,,1042021,,"L.III,ART.1-J,III,MERC.IMP.ABRIGO L.I,ART.53,VI","DIFERIMENTO PARCIAL - Saídas internas por importador, de merc. importadas ao abrigo do diferimento do L.I,art.53,VI.",,116
+RS052158,,,,,SIM,,,,,SIM,,,,SIM,,1042021,,"L.III,ART.1-K.DIF. PARCIAL NÃO ESPECIFICADO","DIFERIMENTO PARCIAL - Hipóteses em que não se aplica o disposto nos arts.1º-A, 1º-C, 1º-D e 1º-F a 1º-J. ",,105
+RS052159,,,,,,,,,,SIM,,,,,,1042021,31122028,"AP.II,S.I,CV. LAM.PLANOS E PERFIS DE ACO/FERRO",DIFERIMENTO - Saídas de laminados e perfis cfe.lista de NCMs na legislação para empresas benef.do Fundopem.,,107
+RS052160,,,,,SIM,,,,,SIM,,,,SIM,,1052021,,"L.III,ART.1-L.MERC.SOB ST IMP.ABRIGO L.I,ART.53,VI","DIFERIMENTO PARCIAL - Saídas internas por importador, de merc. sob ST importadas ao abrigo do difer. do L.I,art.53,VI.",,118
+RS052161,,,,,,,,,,SIM,,,,,,1012022,31122027,"AP.II,S.I,XXXVI.MERC./INSUMO P/PROD.AGROPECUÁRIA  ","DIFERIMENTO - Saídas de merc. tais como defensivos agrícolas, vacinas, medicamentos, rações, sementes, dentre outros",,116
+RS052162,,,,,,,,,,SIM,,,,,,1012022,31122027,"AP.II,S.I,XXXVII.RAÇÃO ANIMAL,ADUBO E FERTILIZANTE","DIFERIMENTO - Saídas de milho, farelos e tortas de soja e de canola, e demais itens relacionados no Ap.II, S.I, XXXVII",,118
+RS052163,,,,,SIM,,,,,SIM,,,,SIM,,1012023,," L.III,ART.1-M.MERC.IMPORTADA S/SIMILAR-LISTA CAMEX",DIFERIMENTO PARCIAL - Saídas internas por importador de merc.sob ST sem similar nacional definidas em lista Camex,,113
+RS052164,,,,,,,,,,SIM,,,,,,2022-12-27 00:00:00,,"AP.II.S.I,CVI. SAIDA DE GRAOS DE CANOLA",DIFERIMENTO - Saída de grãos de canola,,38
+RS052165,,,,,,,,,,SIM,,,,,,2022-12-27 00:00:00,,"AP.II.S.I,CVII. SAIDA DE AREIA E OXIGÊNIO A FAB. EMB. VIDRO",DIFERIMENTO - Saída internas de areia NCM 2505.10.00 e oxigênio NCM 2804.40.00 a fabricante de embalagens de vidro,,114
+RS052166,,,,,,,,,,SIM,,,,,,2022-12-27 00:00:00,,"AP.II.S.I,CVIII. SAIDA SORO DE LEITE, EXCETO EM PO","DIFERIMENTO - Saídas de soro de leite, exceto em pó, a fabricante de NCM 1702.11.00 ou 3502.20.00",,97
+RS052167,,,,,SIM,,,,,SIM,,,,SIM,,2023-04-01 00:00:00,31032027," L.III,ART.1-F,AP.II,S.V,ITEM VI.PAINEIS DE MDP/MDF E PISOS LAMINADOS",DIFERIMENTO PARCIAL - Saídas internas de painéis de MDP/MDF e de pisos laminados,,80
+RS052168,,,,,SIM,,,,,SIM,,,,SIM,,2023-05-01 00:00:00,31032025,"L.III,ART.1-J,II,B.BOBINA,CHAPA DE FERRO/ACO SAÍDA POR CD",DIFERIMENTO PARCIAL - Saídas internas entre empresas com sócios/acionistas em comum. Ver tabela de NCMs no inciso II.,,117
+RS052169,,,,,SIM,,,,,SIM,,,,SIM,,2025-10-09 00:00:00,,"AP.II,S.I,LXX SAÍDA ÓLEO/GORDURA P/ INDUSTRIAL DIESEL VERDE","DIFERIMENTO PARCIAL - Saídas internas de óleos e gorduras destinadas a industrial produtor de diesel verde, etc.",,
+RS052170,,,,,SIM,,,,,SIM,,,,SIM,,2025-10-09 00:00:00,,"AP.II,S.I,XCVI SAÍDA CAL/CALCÁRIO P/ TERMELÉTRICA","DIFERIMENTO PARCIAL - Saídas internas de cal e de calcário, destinados a usina termelétrica.",,
+RS052171,,,,,SIM,,,,,SIM,,,,SIM,,2025-10-09 00:00:00,,"AP.II,S.I,CVII SAÍDA GÁS NATURAL P/ FABRICANTE CELULOSE",DIFERIMENTO PARCIAL - Saídas internas de gás natural destinado a estabelecimento industrial fabricante de celulose.,,
+RS052172,,,,,SIM,,,,,SIM,,,,SIM,,2025-10-09 00:00:00,19012026,"AP.II,S.I,CVIII ENERGIA RENOVÁVEL P/ INDUSTRIAL HIDROGÊNIO/AMÔNIA",DIFERIMENTO PARCIAL - Saídas internas de energia elétrica renováveil para industrial que produza hidrogênio ou amônia.,,
+RS052173,,,,,SIM,,,,,SIM,,,,SIM,,2025-12-23 00:00:00,,"AP.II,S.I,CX ENERGIA RENOVÁVEL P/ INDUSTRIAL HIDROGÊNIO/AMÔNIA",DIFERIMENTO PARCIAL - Saídas internas de energia elétrica renovável para industrial que produza hidrogênio ou amônia.,,
+RS052300,,,,,,,,,SIM,,,,,,,1102016, ,"LIVRO I,55,I -CONSERTO, REPARO OU INDUSTRIALIZACAO","SUSPENSÃO - Saídas de mercadorias p/conserto,reparo,industrializ. em estab.situado em outra UF, desde que haja devolução",,120
+RS052301,,,,,,,,,SIM,,,,,,,1102016, ,"LIVRO I,55,II -DEVOLUCAO","SUSPENSÃO - Saídas em devolução à origem situado em outra UF,das mercadorias/produtos industrializados delas resultantes",,120
+RS052302,,,,,,,,,SIM,,,,,,,1102016, ,"LIVRO I,55,III -EQUINO","SUSPENSÃO - Saídas para outra UF de eqüino para cobertura, participação em prova ou treinamento",,95
+RS052303,,,,,,,,,SIM,,SIM,,SIM,,,1102016, ,"LIVRO I,55,V-ALCOOL ETILICO ANIDRO COMBUSTIVEL","SUSPENSÃO - Saídas para outra UF de álcool etílico anidro combustível e biodiesel - B100,à distribuidora de combustíveis",,120
+RS052304,,,,,,,,,SIM,,,,,,,1102016, ,"LIVRO I,55,VI - OUTRAS OP.PREV EM PROTOC CELEB",SUSPENSÃO - Outras operações previstas em protocolos celebrados entre as unidades da Federação interessadas,,107
+RS052305,,,,,,,,,SIM,,,,,,,1102016,13042020,"LIVRO I,55,VII.",SUSPENSÃO - Código encerrado,,28
+RS052308,,,,,,,,,SIM,,,,,,,12062020,,"LIVRO I,55,X.MERCADORIA REMETIDA P/DEMONSTRAÇÃO","SUSPENSÃO - Condicionado ao retorno da mercadoria ao estabelecimento de origem em até 60 dias, contados da data da saída",,120
+RS052309,,,,,,,,,SIM,,,,,,,12062020,,"LIVRO I,55,XI.MERCADORIA REMETIDA P/MOSTRUÁRIO","SUSPENSÃO - Condicionado ao retorno da mercadoria ao estabelecimento de origem em até 90 dias, contados da data da saída",,120
+RS052400,,,,,,,,,,,,SIM,,,,1102016,31122020,"LIVRO III,54 -PREST SERVICO TRANSPORTE DE CARGAS",ICMS JÁ RECOLHIDO POR ST - Código encerrado,,43
+RS052401,,,,,,,,,,,,SIM,,,,1102016, ,"LIVRO III,57 -REVENDEDOR AMBULANTE DE OUTRA UF",ICMS JÁ RECOLHIDO POR ST - Por revendedor ambulante de outra unidade da Federação,,81
+RS052402,,,,,,,,,,,,SIM,,,,1102016, ,"LIVRO III,73 -MERCAD P/VENDA EM BANCAS JORNAIS/REV","ICMS JÁ RECOLHIDO POR ST - Por editora que destine a distribuidor fitas, discos e similares, integrantes de ""kit""",,113
+RS052403,,,,,,,,,,,,SIM,,,,1102016, ,"AP II,S.II,I - CARNES/PROD.COMEST. BOVINO, OVINO E BUFALINO","ICMS JÁ RECOLHIDO POR ST - Carne de gado bovino, ovino e bufalino e demais produtos comestíveis",,95
+RS052405,,,,,,,,,,,,SIM,,,,1102016,31052024,"AP II,S.III,XVI -SORVETES","ICMS JÁ RECOLHIDO POR ST - Sorvetes, inclusive sanduíches de sorvetes e preparados para fabricação de sorvete em máquina",,120
+RS052407,,,,,,,,,,,,SIM,,,,1102016, ,"AP II,S.II,II -PAPEL PARA CIGARRO","ICMS JÁ RECOLHIDO POR ST - Papel para cigarro, classificação na NBM/SH-NCM 4813.10.00",,85
+RS052408,,,,,,,,,,,,SIM,,,,1102016, ,"AP II,S.III,I -BEBIDAS","ICMS JÁ RECOLHIDO POR ST - Bebidas, incluindo água mineral, refrigerantes, energéticos, cerveja e chopp ",,104
+RS052409,,,,,,,,,,,,SIM,,,,1102016, ,"AP II,S.III,II -CIGARROS",ICMS JÁ RECOLHIDO POR ST - Cigarros e outros produtos derivados do fumo,,71
+RS052410,,,,,,,,,,,,SIM,,,,1102016, ,"AP II,S.III,III -CIMENTO","ICMS JÁ RECOLHIDO POR ST - Cimento, classificação na NBM/SH-NCM 2523",,68
+RS052411,,,,,,,,,,,SIM,SIM,SIM,,,1102016, ,"AP II,S.III,IV -COMBUSTIVEIS","ICMS JÁ RECOLHIDO POR ST - Combustíves e lubrificantes derivados ou não de petróleo, e outros produtos",,102
+RS052412,,,,,,,,,,,,SIM,,,,1102016, ,"AP II,S.III,V -PNEUMAT,CAMARAS AR,PROTET BORRACHA","ICMS JÁ RECOLHIDO POR ST -  Pneumáticos, câmaras de ar e protetores de borracha, exceto os pneus e câmaras de bicicleta",,119
+RS052413,,,,,,,,,,,,SIM,,,,1102016, ,"AP II,S.III,VI -PRODUTOS FARMACEUTICOS","ICMS JÁ RECOLHIDO POR ST - Consulte o Apêndice II,Seção III, item VI, do RICMS, para ver a lista completa",,105
+RS052415,,,,,,,,,,,,SIM,,,,1102016, ,"AP II,S.III,VIII -TINTAS,VERNIZES,OUTRAS(IND QUIM)","ICMS JÁ RECOLHIDO POR ST - Tintas e vernizes, xadrez e pós assemelhados, e corantes",,83
+RS052416,,,,,,,,,,,,SIM,,,,1102016,,"AP II,S.III,IX -MOTOCICLETAS",ICMS JÁ RECOLHIDO POR ST - Veículos de duas e três rodas motorizados,,68
+RS052417,,,,,,,,,,,,SIM,,,,1102016,  ,"AP II,S.III,X -AUTOMOVEIS",ICMS JÁ RECOLHIDO POR ST - Veículos automotores novos,,53
+RS052418,,,,,,,,,,,,SIM,,,,1102016,1102016,"AP II,S.III,XI -DISCOS FONOG.E FITAS VIRGENS OU GRA",ICMS JÁ RECOLHIDO POR ST - Revogado,,35
+RS052419,,,,,,,,,,,,SIM,,,,1102016,1102016,"AP II,S.III,XII -FILMES FOTOG.E CINEMATOG.E SLIDES",ICMS JÁ RECOLHIDO POR ST - Revogado,,35
+RS052420,,,,,,,,,,,,SIM,,,,1102016,30092026,"AP II,S.III,XIII-LAMINAS BARBEAR,AP.BARBEAR DESC E","ICMS JÁ RECOLHIDO POR ST - Aparelhos e lâminas de barbear, classificação na NBM/SH-NCM 8212.10.20 e 8212.20.10",,110
+RS052421,,,,,,,,,,,,SIM,,,,1102016,30092022,"AP II,S.III,XIV-LAMPADAS ELETR., REATORES E STE","ICMS JÁ RECOLHIDO POR ST - Lâmpadas elétricas, diodos e aparelhos de iluminação",,79
+RS052422,,,,,,,,,,,,SIM,,,,1102016,1102016,"AP.II,S.III,XV-PILHAS E BATERIAS ELETRICAS",ICMS JÁ RECOLHIDO POR ST - Revogado,,35
+RS052423,,,,,,,,,,,,SIM,,,,1102016,30112020,"AP II, S.III,XVII - ENERGIA ELETRICA",ICMS JÁ RECOLHIDO POR ST - Código encerrado,,43
+RS052425,,,,,,,,,,,,SIM,,,,1102016,30062022,"AP II,S.III,XVIII-APAR.CELULARES E COES INT.",ICMS JÁ RECOLHIDO POR ST - Aparelhos celulares e cartões inteligentes,,69
+RS052426,,,,,,,,,,,,SIM,,,,1102016, ,"AP II,S.III,XIX-RACOES TIPO PET P/ANIMAIS DOM.","ICMS JÁ RECOLHIDO POR ST - Rações tipo ""pet"" para animais domésticos, classificação na NBM/SH-NCM 2309",,102
+RS052427,,,,,,,,,,,,SIM,,,,1102016,31102024,"AP II,S.III,XX-PECAS,COMP.E ACES.P/PROD.AUTOP.","ICMS JÁ RECOLHIDO POR ST - Autopeças, consulte o Apêndice II,Seção III, item XX, do RICMS, para ver a lista completa",,116
+RS052428,,,,,,,,,,,,SIM,,,,1102016,1102016,"AP.II,S.III,XXI - COLCHOARIA",ICMS JÁ RECOLHIDO POR ST - Revogado,,35
+RS052429,,,,,,,,,,,,SIM,,,,1102016,30092026,"AP II,S.III,XXII - COSM.,PERF.,HIG.PESSOAL E TOUC.","ICMS JÁ RECOLHIDO POR ST - Perfumaria, higiene pessoal e cosméticos, lista completa no Ap.II,S.III, XXII, do RICMS",,114
+RS052430,,,,,,,,,,,,SIM,,,,1102016,1102016,"AP.II, S.II,VII - ARROZ BENEFICIADO",ICMS JÁ RECOLHIDO POR ST - Código encerrado,,43
+RS052432,,,,,,,,,,,,SIM,,,,1102016,30062022,"AP II,S.III,XXIV. FERRAMENTAS","ICMS JÁ RECOLHIDO POR ST - Ferramentas, consulte o Apêndice II,Seção III, item XXIV, do RICMS, para ver a lista completa",,120
+RS052433,,,,,,,,,,,,SIM,,,,1102016,30062022,"AP II,S.III,XXV. MATERIAIS ELETRICOS","ICMS JÁ RECOLHIDO POR ST - Materiais elétricos, lista completa no Apêndice II, Seção III, item XXV, do RICMS",,108
+RS052434,,,,,,,,,,,,SIM,,,,1102016, ,"AP II,S.III,XXVI. MAT.CONSTR.,ACAB.,BRIC. E ADORNO","ICMS JÁ RECOLHIDO POR ST - Materiais de construção, acabamento, bricolagem ou adorno",,84
+RS052435,,,,,,,,,,,,SIM,,,,1102016,30062022,"AP II,S.III, XXVII. BICICLETAS","ICMS JÁ RECOLHIDO POR ST - Pneus novos e câmaras de ar, de borracha, dos tipos utilizados em bicicletas",,103
+RS052436,,,,,,,,,,,,SIM,,,,1102016,1102016,"AP.II,S.III,XXVIII. BRINQUEDOS",ICMS JÁ RECOLHIDO POR ST - Revogado,,35
+RS052437,,,,,,,,,,,,SIM,,,,1102016,30092022,"AP II,S.III,XXIX.MATERIAIS DE LIMPEZA","ICMS JÁ RECOLHIDO POR ST - Materiais de limpeza, lista completa no Apêndice II,Seção III, item XXIX, do RICMS ",,110
+RS052438,,,,,,,,,,,,SIM,,,,1102016,30092022,"AP II,S.III.XXX.PRODUTOS ALIMENTICIOS","ICMS JÁ RECOLHIDO POR ST - Produtos alimentícios, lista completa no Apêndice II,Seção III, item XXX, do RICMS ",,110
+RS052439,,,,,,,,,,,,SIM,,,,1102016,30062022,"AP II,S.III.XXXI.ARTEF.DE USO DOMESTICO","ICMS JÁ RECOLHIDO POR ST - Artefatos de uso doméstico, lista completa no Apêndice II,Seção III, item XXXI, do RICMS ",,116
+RS052440,,,,,,,,,,,,SIM,,,,1102016, ,"AP II,S.III,XXXII.BEBIDAS QUENTES","ICMS JÁ RECOLHIDO POR ST - Bebidas alcoólicas quentes, lista completa no Apêndice II,Seção III, item XXXII, do RICMS ",,117
+RS052441,,,,,,,,,,,,SIM,,,,1102016,30062022,"AP II, S. III, XXXIII - ARTIGOS DE PAPELARIA","ICMS JÁ RECOLHIDO POR ST - Artigos de papelaria, lista completa no Apêndice II,Seção III, item XXXIII, do RICMS ",,112
+RS052442,,,,,,,,,,,,SIM,,,,1102016,1102016,"AP. II, S. III, XXXIV - INSTRUMENTOS MUSICAIS",ICMS JÁ RECOLHIDO POR ST - Revogado,,35
+RS052443,,,,,,,,,,,,SIM,,,,1102016,30062022,"AP II, S. III, XXXV - PROD.ELETRONICOS/ELETROELET","ICMS JÁ RECOLHIDO POR ST - Produtos eletrônicos, eletroeletrônicos e eletrodomésticos",,85
+RS052444,,,,,,,,,,,,SIM,,,,1102016,30062022,"AP II,S.III,XXXVI.MQ.AP.MEC.ELTR.ELETROMEC.AUT.","ICMS JÁ RECOLHIDO POR ST - Ferramentas pneumáticas, balanças de uso doméstico e motosserras portáteis de corrente",,113
+RS052445,,,,,,,,,,,,SIM,,,,1102016,1102016,"AP. II, S. III, XXXVII.ARTIGOS PARA BEBE",ICMS JÁ RECOLHIDO POR ST - Revogado,,35
+RS052446,,,,,,,,,,,,SIM,,,,1102016,1102016,"AP. II, S. III, XXXVIII.ARTIGOS DE VESTUARIO",ICMS JÁ RECOLHIDO POR ST - Revogado,,35
+RS052447,,,,,,,,,,,,SIM,,,,1102016, ,"AP II,S.II,III. CARNES/PROD.COMEST. AVES E SUINOS","ICMS JÁ RECOLHIDO POR ST - Aves inteiras, carnes e demais produtos comestíveis resultantes do abate de aves e de suínos",,119
+RS052448,,,,,,,,,,,,SIM,,,,1102016,,"AP II,S.II,IV. TELHAS E ARTEFATOS P/ CONSTRUCOES","ICMS JÁ RECOLHIDO POR ST - Telhas metálicas e artefatos para apetrechamento de construções, de plástico",,103
+RS052449,,,,,,,,,,,,SIM,,,,1102016,30092022,"AP II,S.II,V. BISCOITOS E BOLACHAS","ICMS JÁ RECOLHIDO POR ST - Biscoitos e bolachas dos tipos ""maisena"", ""maria"", ""cream cracker"" e ""água e sal""",,108
+RS052450,,,,,,,,,,,,SIM,,,,01/02/2025,,"AP II,S.III,V-A, NAFTAS,EXCETO A PETROQUÍMICA","ICMS JÁ RECOLHIDO POR ST - Naftas, exceto a Nafta petroquímica",,62
+RS052901,,,SIM,,SIM,,,,SIM,SIM,,SIM,,SIM,SIM,24082020, ,"LIVRO II, ART. 12 - DECISÕES JUDICIAIS",OUTRAS - Saídas desoneradas por decisões judiciais,,50
+RS052902,,,,,,,,,,,,,,,SIM,24082020, ,IN45 - T.I - CAP. XXVIII - 2.2 - OPERAÇÕES ESPECÍFICAS DA PETROBRAS,OUTRAS - Operações de transferência e das destinadas à comercialização pela Petrobras por navegação de cabotagem,,112
+RS052904,,,,,,,,,,,,,,,SIM,27112020, ,AJUSTE SINIEF 13-2017 - OPERAÇÕES ESPECÍFICAS DA PETROBRAS E TRANSPETRO,"OUTRAS - Operações de remessa p/armazenagem e moviment.de petróleo/deriv./gás natural, dutoviário, PETROBRAS/TRANSPETRO",,119
+RS052905,,SIM,,SIM,,,,,,,SIM,,SIM,,,1052023,,ICMS MONOFÁSICO SOBRE COMBUSTÍVEIS,"OUTRAS - Regime de tributação monofásica, Conv.199/2022 (a partir de mai/2023) e Conv.11/2023 (a partir de jul/2023).",,117
+RS052999,,,SIM,SIM,,,,,SIM,SIM,SIM,SIM,SIM,,SIM,1102016, ,Anexo V.B - OUTRAS,OUTRAS - Utilizar apenas quando não houver código correspondente disponibilizado na Tabela 5.2 do Sped Fiscal,,109
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,0

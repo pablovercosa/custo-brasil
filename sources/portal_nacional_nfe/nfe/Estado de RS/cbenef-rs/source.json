@@ -1,0 +1,15 @@
+{
+  "slug": "cbenef-rs",
+  "corpus_category": "nfe",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "",
+  "original_sha256": "c0876ac7d12abaf58129b8b506339fbb0365a7b0fe4f465c6217692e11552a25",
+  "original_filename": "05151340-tabela-cbenef-x-cst-27-04-2026.xlsx",
+  "title": "cBenef RS",
+  "status": "published",
+  "derived_public_files": {
+    "metadata": "corpus/nfe/Estado de RS/cbenef-rs/metadata.json",
+    "readme": "corpus/nfe/Estado de RS/cbenef-rs/README.md"
+  },
+  "published_at": "2026-06-26T00:00:00+00:00"
+}
