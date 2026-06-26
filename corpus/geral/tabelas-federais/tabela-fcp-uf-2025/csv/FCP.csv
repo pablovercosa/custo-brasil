@@ -1,0 +1,31 @@
+cUF,UF,Nome UF,Aliq_1,Aliq_2,Aliq_3,.,Observação
+12,AC,ACRE,Fixo:0.00,,,,UF não possui FCP
+27,AL,ALAGOAS,Fixo:1.00,Fixo:2.00,,,UF com até 3 Alíquotas possíveis
+16,AP,AMAPA,Fixo:0.00,,,,UF não possi FCP
+13,AM,AMAZONAS,Fixo:2.00,Fixo:1.20,,,UF com até 2 Alíquotas possíveis (2025)
+29,BA,BAHIA,Fixo:2.00,,,,Alíquota única de 2.00
+23,CE,CEARA,Fixo:2.00,,,,Alíquota única de 2.00 a  partir de 01/02/24
+53,DF,DISTRITO FEDERAL,Fixo:2.00,,,,Alíquota única de 2.00
+32,ES,ESPIRITO SANTO,Fixo:2.00,,,,Alíquota única de 2.00
+52,GO,GOIAS,Max:2.00,,,,Alíquota máxima de 2.00 (default)
+21,MA,MARANHÃO,Fixo:2.00,,,,Alíquota única de 2.00
+51,MT,MATO GROSSO,Max:2.00,,,,Alíquota máxima de 2.00 (default)
+50,MS,MATO GROSSO DO SUL,Fixo:2.00,,,,Alíquota única de 2.00
+31,MG,MINAS GERAIS,Fixo: 2.00,,,,Alíquota única de 2.00 a  partir de 01/01/24
+15,PA,PARA,Fixo:0.00,,,,UF não possi FCP
+25,PB,PARAIBA,Fixo:2.00,,,,Alíquota única de 2.00
+41,PR,PARANA,Fixo:2.00,,,,Alíquota única de 2.00
+26,PE,PERNAMBUCO,Fixo:2.00,,,,Alíquota única de 2.00
+22,PI,PIAUI,Fixo:2.00,,,,Alíquota única de 2.00
+33,RJ,RIO DE JANEIRO,Max:4.00,,,,UF com alíquota máxima de 4.00
+24,RN,RIO GRANDE DO NORTE,Fixo:2.00,,,,Alíquota única de 2.00
+43,RS,RIO GRANDE DO SUL,Fixo:2.00,,,,Alíquota única de 2.00
+11,RO,RONDONIA,Fixo:2.00,,,,Alíquota única de 2.00
+14,RR,RORAIMA,Max:2.00,,,,Alíquota máxima de 2.00 (default)
+42,SC,SANTA CATARINA,Fixo:0.00,,,,UF não possi FCP
+35,SP,SAO PAULO,Fixo:2.00,,,,Alíquota única de 2.00
+28,SE,SERGIPE,Fixo:2.00,Fixo:1.00,,,UF com 2 alíquotas
+17,TO,TOCANTINS,Fixo:2.00,,,,Alíquota única de 2.00
+,,,,,,,
+OBS.:,,Em destaque as alterações com relação à versão anterior da tabela,,,,,
+,,Em destaque as alterações já realizadas em versões anteriores da tabela,,,,,
