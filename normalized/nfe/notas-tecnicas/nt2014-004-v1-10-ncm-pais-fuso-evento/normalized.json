@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2014-004-v1-10-ncm-pais-fuso-evento",
+  "category": "nota_tecnica",
+  "document_path": "corpus/nfe/notas-tecnicas/nt2014-004-v1-10-ncm-pais-fuso-evento/document.md",
+  "metadata_path": "corpus/nfe/notas-tecnicas/nt2014-004-v1-10-ncm-pais-fuso-evento/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "NT2014.004_v1.10_NCM_Pais_Fuso_Evento.pdf",
+  "original_sha256": "90fb4944e0b19a5404d184db81f468e2d251a3e004e8189ab231764dfd057b06",
+  "published_at_utc": "2026-06-25T16:09:50.175690+00:00",
+  "slug": "nt2014-004-v1-10-ncm-pais-fuso-evento",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal-nacional-nfe/notas-tecnicas/nt2014-004-v1-10-ncm-pais-fuso-evento/source.json",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletrônica - NF-e",
+  "validation": {
+    "asset_count": 9,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 9,
+    "missing_image_refs_count": 0
+  }
+}
