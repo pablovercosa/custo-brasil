@@ -1,0 +1,35 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt-2008-005",
+  "category": "nota_tecnica",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/nfe/notas-tecnicas/nt-2008-005/document.md",
+    "corpus/nfe/notas-tecnicas/nt-2008-005/metadata.json",
+    "corpus/nfe/notas-tecnicas/nt-2008-005/assets/image_000000_5ad0381e64ba7319b698983eb52d4a417698676b0a62b10387ba3c1256b7e915.png",
+    "corpus/nfe/notas-tecnicas/nt-2008-005/assets/image_000001_d9ef4fb244a6ee67321676385f8e5bc4edc93268112d9ac7ba1d4efbf905eb74.png",
+    "corpus/nfe/notas-tecnicas/nt-2008-005/assets/image_000002_71e682ad71c8bdf6631a003ebf38027126a50b04515f6a03dfbbc58f99bb3dbc.png",
+    "corpus/nfe/notas-tecnicas/nt-2008-005/assets/image_000003_03855e49621a60885bf4c39a53011576c07dc6f710dc2994f7e1ba3cb6605fe9.png",
+    "corpus/nfe/notas-tecnicas/nt-2008-005/assets/image_000004_2cf3aec89793c818f2bf1905551957621d1081334be23b3949ac12fb0a032a13.png",
+    "corpus/nfe/notas-tecnicas/nt-2008-005/assets/image_000005_b0e3b8d1b89d9fa4554cbbdc288c80ee6decdbcbb6e91113f2a4930255a0363b.png",
+    "sources/portal-nacional-nfe/nfe/notas-tecnicas/nt-2008-005/source.json",
+    "normalized/nfe/notas-tecnicas/nt-2008-005/normalized.json",
+    "changelog/nfe/notas-tecnicas/nt-2008-005.md"
+  ],
+  "original_filename": "NT_2008_005.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Técnicas/NT_2008_005.pdf",
+  "original_sha256": "651aad47741bd7db65d884aa664aeb4f7ae1b8ebcaf3b4854f40849cc1f9b9ea",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T14:53:38.608460+00:00",
+  "slug": "nt-2008-005",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Projeto Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 6,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 6,
+    "missing_image_refs_count": 0
+  }
+}
