@@ -1,0 +1,39 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2020-004-danfe-simplificado-v1-10",
+  "category": "nota_tecnica",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/nfe/notas-tecnicas/nt2020-004-danfe-simplificado-v1-10/document.md",
+    "corpus/nfe/notas-tecnicas/nt2020-004-danfe-simplificado-v1-10/metadata.json",
+    "corpus/nfe/notas-tecnicas/nt2020-004-danfe-simplificado-v1-10/assets/image_000000_4f9898c530d8bf82e36dfb5fd14a054dff0ddfd8c9cdd867d989d833a12c8c33.png",
+    "corpus/nfe/notas-tecnicas/nt2020-004-danfe-simplificado-v1-10/assets/image_000001_b5e9770915d74f696b205aff61062d20847875f0de7ae843a033467d41be9a64.png",
+    "corpus/nfe/notas-tecnicas/nt2020-004-danfe-simplificado-v1-10/assets/image_000002_315d5ba72e4363a72cd5850a397f2b734f9f56702770c809950dafeb9a0607cd.png",
+    "corpus/nfe/notas-tecnicas/nt2020-004-danfe-simplificado-v1-10/assets/image_000003_08d30f6897d1ed78eae0a5a5ee22a39f2ef5b143f28ffb0cb053798a56735f79.png",
+    "corpus/nfe/notas-tecnicas/nt2020-004-danfe-simplificado-v1-10/assets/image_000004_eee8b6576e4fb159bbf124b0050cf8502fd444b7db326070aaedc6d11f425e22.png",
+    "corpus/nfe/notas-tecnicas/nt2020-004-danfe-simplificado-v1-10/assets/image_000005_ff697702f5676850b915cf99fef016beba64fa1c8c74d8cebb5c61bb2b5a86f8.png",
+    "corpus/nfe/notas-tecnicas/nt2020-004-danfe-simplificado-v1-10/assets/image_000006_5cc9e18e7c66907a14fc3cd334a5d1846ec7d3a6009b71955181ec4287b6d50c.png",
+    "corpus/nfe/notas-tecnicas/nt2020-004-danfe-simplificado-v1-10/assets/image_000007_eee8b6576e4fb159bbf124b0050cf8502fd444b7db326070aaedc6d11f425e22.png",
+    "corpus/nfe/notas-tecnicas/nt2020-004-danfe-simplificado-v1-10/assets/image_000008_0fd5513c08d487ed710316fa90cf5cf193c67123734f59aa7846eebdbeb408e2.png",
+    "corpus/nfe/notas-tecnicas/nt2020-004-danfe-simplificado-v1-10/assets/image_000009_b485c241bf3783cfd7fd263391ecd4ca27e0c5872a0a03170837b068c9de5296.png",
+    "sources/portal-nacional-nfe/nfe/notas-tecnicas/nt2020-004-danfe-simplificado-v1-10/source.json",
+    "normalized/nfe/notas-tecnicas/nt2020-004-danfe-simplificado-v1-10/normalized.json",
+    "changelog/nfe/notas-tecnicas/nt2020-004-danfe-simplificado-v1-10.md"
+  ],
+  "original_filename": "NT2020.004 - DANFE_SIMPLIFICADO v1.10.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas Técnicas/NT2020.004 - DANFE_SIMPLIFICADO v1.10.pdf",
+  "original_sha256": "f2c422ed3490793d674475a7edee7cfc34bd3819c4b880f2d3ae39c16a409f8a",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-25T15:22:59.748274+00:00",
+  "slug": "nt2020-004-danfe-simplificado-v1-10",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Sistema Nota Fiscal Eletrônica",
+  "validation": {
+    "asset_count": 10,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 10,
+    "missing_image_refs_count": 0
+  }
+}
