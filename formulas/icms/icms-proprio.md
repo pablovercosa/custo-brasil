@@ -83,14 +83,40 @@ ICMS = 1.292,68 × 0,18 = 232,68
 **Comprovação:** O valor do ICMS embutido na BC é exatamente o calculado:
 BC - ICMS = 1.292,68 - 232,68 = 1.060,00 (valor original sem ICMS)
 
+## Quando utilizar
+
+### CST aplicáveis
+
+- **CST 00** — ICMS próprio integral (operação tributável sem benefício)
+- **CST 20** — ICMS próprio com redução de BC (benefício fiscal concedido por UF)
+- **CST 40** — Isento (ICMS = 0 por imunidade ou isenção)
+- **CST 41** — Não tributado (fora do campo de incidência)
+- **CST 51** — Diferimento parcial (recolhimento postecipado para etapa seguinte)
+- **CST 60** — ICMS cobrado anteriormente por ST (não calcular, já recolhido)
+
+### Perfil do contribuinte
+
+- Qualquer contribuinte de ICMS (regime normal, ST não se aplica aqui)
+- Industrial, comerciante atacadista/varejista, prestador de transporte interestadual/intermunicipal
+- Optantes pelo Simples Nacional também apuram ICMS próprio, mas com alíquotas diferenciadas por faixa de receita
+
+### Tipo de operação
+
+- Operações internas (dentro do mesmo estado)
+- Operações interestaduais (entre estados diferentes)
+- Vendas para consumidor final (EC 87/2015 — DIFAL)
+- Operações com ou sem benefício fiscal
+
+### Não utilizar quando
+
+- Operação sujeita a ST — use a fórmula `icms-st`
+- Produto sujeito a regime monofásico (combustíveis, energia elétrica, telecomunicações)
+- ICMS já recolhido por substituição tributária (CST 60)
+- Operação imune ou isenta com CST 40/41 (ICMS = 0, não calcular)
+
 ## Observações
 
-- **CST 00** — ICMS próprio integral (sem redução)
-- **CST 20** — ICMS próprio com redução de BC (benefício fiscal)
-- **CST 40** — Isento (ICMS = 0)
-- **CST 41** — Não tributado (ICMS = 0)
-- **CST 51** — Diferimento parcial (recolhimento postecipado)
-- **CST 60** — ICMS cobrado anteriormente por ST
-- Alíquotas interestaduais: 12% (operações Sul/Sudeste → Sul/Sudeste), 7% (Sul/Sudeste → Norte/Nordeste/CO), 4% (operações com importados)
+- **Alíquotas interestaduais**: 12% (Sul/Sudeste → Sul/Sudeste), 7% (Sul/Sudeste → Norte/Nordeste/CO), 4% (bens importados)
+- **Tabela completa de alíquotas por UF** em `formulas/icms/aliquotas-icms-uf.md`
 - IPI integra a BC do ICMS (exceto quando a operação for entre contribuintes e destinada a industrialização/comercialização)
 - FCP varia por UF — tabela completa em `corpus/geral/tabelas-federais/tabela-fcp-uf-2025/`

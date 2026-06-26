@@ -6,11 +6,14 @@ Fórmulas para cálculo tributário referenciadas aos documentos normativos do c
 
 ```
 formulas/
-├── icms/               # ICMS próprio, ST, DIFAL, FCP
-├── pis-cofins/         # PIS/COFINS cumulativo e não cumulativo
-├── reforma-tributaria/ # IBS, CBS, split payment
-├── ipi/                # IPI (reservado)
-└── iss/                # ISS (reservado)
+├── icms/
+│   ├── icms-proprio.md     # ICMS próprio (cálculo "por dentro")
+│   ├── icms-st.md          # ICMS substituição tributária
+│   └── aliquotas-icms-uf.md # Tabela de alíquotas por UF
+├── pis-cofins/             # PIS/COFINS não cumulativo
+├── reforma-tributaria/     # IBS e CBS
+├── ipi/                    # IPI (reservado)
+└── iss/                    # ISS (reservado)
 ```
 
 ## Convenções
@@ -24,6 +27,7 @@ Cada fórmula segue o padrão:
 - **Fórmula** — expressão matemática literal
 - **Passo a passo** — sequência didática do cálculo
 - **Exemplo** — aplicação numérica com valores hipotéticos
+- **Quando utilizar** — CST aplicáveis, perfil do contribuinte, tipo de operação e contraindicações
 - **Observações** — diferenças por UF, CST, regime ou caso concreto
 
 ## Relação com o corpus

@@ -158,6 +158,47 @@ A classificação tributária do IBS e da CBS é definida pela tabela cClassTrib
 
 Consulte `corpus/geral/tabelas-federais/cclass-trib-2026/` para a tabela completa (1.157 registros).
 
+## Quando utilizar
+
+### Perfil do contribuinte
+
+**Sujeito passivo de IBS e CBS:**
+- Todos os contribuintes de ICMS, ISS, PIS, COFINS e IPI
+- Pessoas jurídicas que realizem operações onerosas com bens ou serviços
+- Não cumulativo para todos os contribuintes (sem exceção setorial)
+
+**Regimes específicos:**
+- Microempreendedor Individual (MEI) — regime diferenciado a definir
+- Simples Nacional — fase de transição com regras próprias
+- Zona Franca de Manaus — mantém crédito presumido
+
+### CST aplicáveis
+
+| CST | Descrição | Aplica esta fórmula? |
+|-----|-----------|:--------------------:|
+| 00 | Tributável (alíquota cheia) | Sim |
+| 20 | Tributável com redução de BC | Sim (ajustar BC) |
+| 40 | Isenta | Sim (IBS/CBS = 0) |
+| 41 | Não tributada | Sim (IBS/CBS = 0) |
+| 51 | Diferimento | Sim (débito postecipado) |
+| 60 | IBS/CBS cobrado anteriormente | Não |
+| 90 | Outras | Sim (caso específico) |
+
+### Tipo de operação
+
+- Operações com bens e serviços no mercado interno
+- Importações (II integra a BC)
+- Operações digitais e plataformas
+- Operações interestaduais e intermunicipais (sem DIFAL — IBS é destino puro)
+
+### Não utilizar quando
+
+- Operação anterior já tributada pelo IBS/CBS (CST 60)
+- Imposto Seletivo (IS) — tributo autônomo, não integra esta fórmula
+- Operação de exportação (imune, mas mantém crédito)
+- Antes da vigência integral do IBS/CBS (período de transição)
+- PIS/COFINS/ICMS/IPI ainda vigentes (período de transição — 2027-2033)
+
 ## Observações
 
 - **Alíquotas de referência:** IBS — entre 25% e 27% (estimado); CBS — entre 8% e 10% (IT 2026.002)

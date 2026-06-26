@@ -137,15 +137,50 @@ FCP_ST = 1.727,76 × 0,02 = 34,55
 
 Total = 154,18 + 34,55 = 188,73
 
+## Quando utilizar
+
+### CST aplicáveis
+
+- **CST 10** — ICMS próprio + ST (substituto calcula ambos os tributos)
+- **CST 30** — Isento ou não tributado + ST (ICMS próprio = 0, apenas ST)
+- **CST 70** — ICMS próprio com redução de BC + ST (percentuais de redução distintos)
+- **CST 90** — Outras (ST com modalidade de BC específica por legislação)
+- **CST 60** — ICMS cobrado anteriormente por ST (quem recebe a mercadoria já com ST recolhida)
+
+### Perfil do contribuinte
+
+**Substituto (responsável pelo recolhimento):**
+- Fabricante, importador, atacadista ou distribuidor
+- Definido por convênio/protocolo ICMS para cada setor
+- Obrigado a reter o ICMS-ST na saída
+
+**Substituído (contribuinte que recebe):**
+- Comerciante varejista ou atacadista que adquire mercadoria já com ST
+- Não recolhe ICMS próprio na revenda (já foi retido pelo substituto)
+- Deve usar CST 60 na saída
+
+### Tipo de operação
+
+- Operações internas e interestaduais com produtos sujeitos a ST
+- Setores típicos: autopeças, medicamentos, perfumaria, bebidas, cigarros, materiais de construção, lubrificantes, pneus
+- A lista de produtos e MVAs é definida por convênio ICMS (ex: Convênio 142/2018, PE-13, etc.)
+
+### Não utilizar quando
+
+- Produto não listado em convênio/protocolo ST (operação normal, sem ST)
+- Substituído revendendo mercadoria (já recolhido pelo substituto — usar CST 60)
+- Simples Nacional (alguns regimes de ST têm regras específicas)
+- ICMS próprio sem ST — use `icms-proprio`
+
 ## Observações
 
 - **CST 10** — ICMS próprio + ST (operação regular com ST)
 - **CST 30** — Isento ou não tributado + ST
 - **CST 70** — ICMS próprio com redução de BC + ST
 - **CST 90** — Outras (ST com modalidade de BC específica)
-- **CST 60** — ICMS cobrado anteriormente por ST (o recolhimento já foi feito pelo substituto)
-- O MVA/IVA original é definido em convênios ICMS por setor (autopeças, medicamentos, perfumaria, etc.)
+- CST 60 — ICMS cobrado anteriormente por ST (quem recebe a mercadoria já com ST recolhida)
+- O MVA/IVA original é definido em convênios ICMS por setor
 - O IVA Ajustado é usado em operações interestaduais para equilibrar a tributação entre estados
-- Alguns estados aplicam diferimento parcial: o ICMS próprio é calculado com diferimento (ex: paga-se 33% do ICMS próprio) e o ST é calculado normalmente (sem diferimento) — vide cbenef-PR
-- FCP na ST segue a mesma alíquota do FCP nas operações internas de cada UF
-- CST 70 e 90 com nova modalidade de BC (NT 2020.005): permitem percentuais de redução diferentes para BC própria e BC da ST
+- Diferimento parcial: ICMS próprio reduzido, ST calculado integralmente (ex: cbenef-PR)
+- **Tabela de alíquotas por UF** em `formulas/icms/aliquotas-icms-uf.md`
+- CST 70 e 90 com nova modalidade de BC (NT 2020.005): percentuais de redução distintos
