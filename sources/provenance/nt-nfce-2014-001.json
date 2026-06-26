@@ -1,0 +1,15 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt-nfce-2014-001",
+  "category": "nota_tecnica",
+  "converted_at_utc": "2026-06-25T15:35:07.918932+00:00",
+  "corpus_path": "corpus/nfce/notas-tecnicas/nt-nfce-2014-001",
+  "generated_at_utc": "2026-06-26T18:31:44.582441+00:00",
+  "original_filename": "NT-NFCe 2014.001.pdf",
+  "original_sha256": "cbb68bf9ef3119ea631d85016d988f608998c85ff536cea0ede3f4a003a7c791",
+  "slug": "nt-nfce-2014-001",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Projeto Nota Fiscal de Consumidor Eletr\u00f4nica"
+}

@@ -1,0 +1,15 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt-2009-003",
+  "category": "nota_tecnica",
+  "converted_at_utc": "2026-06-25T14:56:26.177866+00:00",
+  "corpus_path": "corpus/nfe/notas-tecnicas/nt-2009-003",
+  "generated_at_utc": "2026-06-26T18:31:44.587217+00:00",
+  "original_filename": "NT_2009.003.pdf",
+  "original_sha256": "991b6af9efe044e8f8c2064e71bad43237fd25f9c0d2f1649f715165a053523a",
+  "slug": "nt-2009-003",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica"
+}

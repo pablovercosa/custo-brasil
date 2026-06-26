@@ -1,0 +1,15 @@
+{
+  "authority": "Secretaria de Economia do Estado de Goias",
+  "canonical_id": "cbenef-go-html",
+  "category": "cbenef",
+  "converted_at_utc": "2026-06-26T16:32:01.225125+00:00",
+  "corpus_path": "corpus/nfe/Estado de GO/cbenef-go-html",
+  "generated_at_utc": "2026-06-26T18:31:44.583289+00:00",
+  "original_filename": "C\u00f3digos de Benef\u00edcios Fiscais \u2013 Secretaria da Economia.html",
+  "original_sha256": "ae1219653489eb5f5e258eb1b388af6aac30724e833102db074c484171fcfd6d",
+  "slug": "cbenef-go-html",
+  "source_family": "sefaz_go",
+  "source_url": "https://goias.gov.br/economia/codigos-de-beneficios-fiscais/",
+  "status": "published",
+  "title": "C\u00f3digos de Benef\u00edcios Fiscais \u2013 Secretaria da Economia"
+}

@@ -1,0 +1,15 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt-2007-001",
+  "category": "nota_tecnica",
+  "converted_at_utc": "2026-06-25T14:55:03.434282+00:00",
+  "corpus_path": "corpus/nfe/notas-tecnicas/nt-2007-001",
+  "generated_at_utc": "2026-06-26T18:31:44.585999+00:00",
+  "original_filename": "NT 2007.001.pdf",
+  "original_sha256": "4a5311f7303ad509a7897fca97cb66e416d13cd7462cb210753ff3bbb30ded90",
+  "slug": "nt-2007-001",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica"
+}

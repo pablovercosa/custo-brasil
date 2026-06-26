@@ -1,0 +1,15 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "validacoes-cbenef-rs",
+  "category": "cbenef",
+  "converted_at_utc": "2026-06-26T15:51:43.123370+00:00",
+  "corpus_path": "corpus/nfe/Estado de RS/validacoes-cbenef-rs",
+  "generated_at_utc": "2026-06-26T18:31:44.583913+00:00",
+  "original_filename": "27164413-validacoes-cbenef.docx",
+  "original_sha256": "8ea7808360bac24468f3e907721324c3fa3dcb0bd01bb6e2c0eed21f504c25a0",
+  "slug": "validacoes-cbenef-rs",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Valida\u00e7\u00f5es cBenef Rio Grande do Sul"
+}

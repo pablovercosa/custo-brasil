@@ -1,0 +1,15 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2025-001-v1-03-nfce-qrcode-v3-corrigido",
+  "category": "nota_tecnica",
+  "converted_at_utc": "2026-06-25T17:10:26.648874+00:00",
+  "corpus_path": "corpus/nfce/notas-tecnicas/nt2025-001-v1-03-nfce-qrcode-v3-corrigido",
+  "generated_at_utc": "2026-06-26T18:31:44.582881+00:00",
+  "original_filename": "NT2025.001_v1.03 - NFCe_qrCode_v3 corrigido.pdf",
+  "original_sha256": "333b69f71debe5040585b677b574bb13b39362aa7934b904edc59cdf83cded02",
+  "slug": "nt2025-001-v1-03-nfce-qrcode-v3-corrigido",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Sistema Nota Fiscal Eletr\u00f4nica"
+}

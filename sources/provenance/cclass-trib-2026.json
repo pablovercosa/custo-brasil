@@ -1,0 +1,15 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "cclass-trib-2026",
+  "category": "tabela",
+  "converted_at_utc": "2026-06-26T15:51:38.766291+00:00",
+  "corpus_path": "corpus/geral/tabelas-federais/cclass-trib-2026",
+  "generated_at_utc": "2026-06-26T18:31:44.579804+00:00",
+  "original_filename": "cClassTrib 2026_04_15.xlsx",
+  "original_sha256": "cc0242ed17ebf93e23ce892e3316850de2077fbc8cc7a82a54e0a553c045a71a",
+  "slug": "cclass-trib-2026",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Classifica\u00e7\u00e3o Tribut\u00e1ria (cClassTrib)"
+}

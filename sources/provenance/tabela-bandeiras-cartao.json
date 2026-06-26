@@ -1,0 +1,15 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "tabela-bandeiras-cartao",
+  "category": "tabela",
+  "converted_at_utc": "2026-06-26T15:51:40.941917+00:00",
+  "corpus_path": "corpus/geral/tabelas-federais/tabela-bandeiras-cartao",
+  "generated_at_utc": "2026-06-26T18:31:44.580140+00:00",
+  "original_filename": "Tabela de bandeiras de cart\u00e3o de cr\u00e9dito-d\u00e9bito.xlsx",
+  "original_sha256": "0ba5a1a000b878981e248df1873cbce72059f68b56eab18bca75122d1d9121dd",
+  "slug": "tabela-bandeiras-cartao",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Bandeiras de Cart\u00e3o de Cr\u00e9dito/D\u00e9bito"
+}

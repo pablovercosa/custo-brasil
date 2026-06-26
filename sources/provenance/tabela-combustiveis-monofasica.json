@@ -1,0 +1,15 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "tabela-combustiveis-monofasica",
+  "category": "tabela",
+  "converted_at_utc": "2026-06-26T15:52:06.606032+00:00",
+  "corpus_path": "corpus/geral/tabelas-federais/tabela-combustiveis-monofasica",
+  "generated_at_utc": "2026-06-26T18:31:44.580409+00:00",
+  "original_filename": "Tabela de Combust\u00edveis Sujeitos \u00e0 Tributa\u00e7\u00e3o Monof\u00e1sica-20251202 (vig\u00eancia a partir de 01-01-2026).xlsx",
+  "original_sha256": "be7cdb342e95eb15990070bf17105a25e38aba28af8d3eebdb4ea7fe96773460",
+  "slug": "tabela-combustiveis-monofasica",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Combust\u00edveis - Tributa\u00e7\u00e3o Monof\u00e1sica"
+}

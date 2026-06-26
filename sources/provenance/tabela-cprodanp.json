@@ -1,0 +1,15 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "tabela-cprodanp",
+  "category": "tabela",
+  "converted_at_utc": "2026-06-26T15:51:40.934020+00:00",
+  "corpus_path": "corpus/geral/tabelas-federais/tabela-cprodanp",
+  "generated_at_utc": "2026-06-26T18:31:44.580498+00:00",
+  "original_filename": "Tabela_Codigo_Produto_ANP-20241118.xlsx",
+  "original_sha256": "8271a80007548b0151cc00b769d4b84359cc37429c1d26ce68402b48e7d00b1a",
+  "slug": "tabela-cprodanp",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "C\u00f3digo de Produto ANP"
+}

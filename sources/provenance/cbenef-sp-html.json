@@ -1,0 +1,15 @@
+{
+  "authority": "Secretaria da Fazenda do Estado de Sao Paulo",
+  "canonical_id": "cbenef-sp-html",
+  "category": "cbenef",
+  "converted_at_utc": "2026-06-26T16:32:01.225125+00:00",
+  "corpus_path": "corpus/nfe/Estado de SP/cbenef-sp-html",
+  "generated_at_utc": "2026-06-26T18:31:44.584201+00:00",
+  "original_filename": "P\u00e1ginas - C\u00f3digos de Benef\u00edcios Fiscais - cBenef.html",
+  "original_sha256": "8f93aee658fa0648a3fb43119143b74e26a39e0424f30816813bcf290d7d3c10",
+  "slug": "cbenef-sp-html",
+  "source_family": "sefaz_sp",
+  "source_url": "https://portal.fazenda.sp.gov.br/servicos/nfe/Paginas/cBenef.aspx",
+  "status": "published",
+  "title": "P\u00e1ginas - C\u00f3digos de Benef\u00edcios Fiscais - cBenef"
+}

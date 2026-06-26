@@ -1,0 +1,15 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2021-002-v1-12-nota-fiscal-f-cil",
+  "category": "nota_tecnica",
+  "converted_at_utc": "2026-06-25T17:31:12.934687+00:00",
+  "corpus_path": "corpus/nfe/notas-tecnicas/nt2021-002-v1-12-nota-fiscal-f-cil",
+  "generated_at_utc": "2026-06-26T18:31:44.593247+00:00",
+  "original_filename": "NT2021.002 v1.12 Nota Fiscal F\u00e1cil.pdf",
+  "original_sha256": "a67d9e70cff61bdf6a0913bb5c7ca6b30d82332c0204d443e4671a8dd293d64e",
+  "slug": "nt2021-002-v1-12-nota-fiscal-f-cil",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica"
+}

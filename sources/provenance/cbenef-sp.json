@@ -1,0 +1,15 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "cbenef-sp",
+  "category": "cbenef",
+  "converted_at_utc": "2026-06-26T15:51:42.341488+00:00",
+  "corpus_path": "corpus/nfe/Estado de SP/cbenef-sp",
+  "generated_at_utc": "2026-06-26T18:31:44.584080+00:00",
+  "original_filename": "Tabela-cBenef-SP-v20260610.xlsx",
+  "original_sha256": "8b14dc147d2e5447a7ac81f6e57e1cc699c644dcb59ef162aae1835dd672cac7",
+  "slug": "cbenef-sp",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "cBenef S\u00e3o Paulo"
+}

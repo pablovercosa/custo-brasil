@@ -1,0 +1,15 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt-2026-001-nf-e-v1-00-paa",
+  "category": "nota_tecnica",
+  "converted_at_utc": "2026-06-25T20:20:43.525089+00:00",
+  "corpus_path": "corpus/nfe/notas-tecnicas/nt-2026-001-nf-e-v1-00-paa",
+  "generated_at_utc": "2026-06-26T18:31:44.588918+00:00",
+  "original_filename": "NT_2026.001 - NF-e v1.00 - PAA.pdf",
+  "original_sha256": "b1514106678d8f3617266f92d3eadf98b8f10c6a7f240804fc1a9508d32aa65c",
+  "slug": "nt-2026-001-nf-e-v1-00-paa",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Controle de Vers\u00f5es"
+}

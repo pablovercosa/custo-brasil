@@ -1,0 +1,15 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2011-005",
+  "category": "nota_tecnica",
+  "converted_at_utc": "2026-06-25T14:54:06.827178+00:00",
+  "corpus_path": "corpus/nfe/notas-tecnicas/nt2011-005",
+  "generated_at_utc": "2026-06-26T18:31:44.590796+00:00",
+  "original_filename": "NT2011.005.pdf",
+  "original_sha256": "a232d8ed462e67080446bb74797e25f49abbf556cd230f774ce7e2e1a2b4f12d",
+  "slug": "nt2011-005",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica"
+}

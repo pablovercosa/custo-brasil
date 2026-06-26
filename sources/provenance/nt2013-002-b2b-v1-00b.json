@@ -1,0 +1,15 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2013-002-b2b-v1-00b",
+  "category": "nota_tecnica",
+  "converted_at_utc": "2026-06-25T15:09:36.305626+00:00",
+  "corpus_path": "corpus/nfe/notas-tecnicas/nt2013-002-b2b-v1-00b",
+  "generated_at_utc": "2026-06-26T18:31:44.591341+00:00",
+  "original_filename": "NT2013 002_B2B_v1.00b.pdf",
+  "original_sha256": "e7532810920ef074e1003d3bb2dcd6cebdeca51ec839ec6b001558880ddcb406",
+  "slug": "nt2013-002-b2b-v1-00b",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica"
+}

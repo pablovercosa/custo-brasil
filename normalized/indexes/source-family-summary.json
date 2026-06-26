@@ -1,0 +1,12 @@
+{
+  "generated_at_utc": "2026-06-26T18:31:44.598218+00:00",
+  "schema_version": "1.0",
+  "source_families": {
+    "portal_nacional_nfe": 164,
+    "sefaz_df": 1,
+    "sefaz_go": 1,
+    "sefaz_pr": 1,
+    "sefaz_rj": 1,
+    "sefaz_sp": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "authorities": {
+    "Portal Nacional da Nota Fiscal Eletronica": 164,
+    "Secretaria da Fazenda do Estado de Sao Paulo": 1,
+    "Secretaria de Economia do Distrito Federal": 1,
+    "Secretaria de Economia do Estado de Goias": 1,
+    "Secretaria de Estado da Fazenda do Parana": 1,
+    "Secretaria de Estado de Fazenda do Rio de Janeiro": 1
+  },
+  "generated_at_utc": "2026-06-26T18:31:44.598437+00:00",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,15 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "tabela-municipios",
+  "category": "tabela",
+  "converted_at_utc": "2026-06-26T15:51:38.574849+00:00",
+  "corpus_path": "corpus/geral/tabelas-federais/tabela-municipios",
+  "generated_at_utc": "2026-06-26T18:31:44.580787+00:00",
+  "original_filename": "250210_Tab_Municipios.xlsx",
+  "original_sha256": "768a59b4705df926ee3d09533d122ca056c7440e0a7be1be5247e70fdb8354f0",
+  "slug": "tabela-municipios",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Tabela de Munic\u00edpios"
+}

@@ -1,0 +1,15 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "tabela-ncm-2022",
+  "category": "tabela",
+  "converted_at_utc": "2026-06-26T15:51:42.253159+00:00",
+  "corpus_path": "corpus/geral/tabelas-federais/tabela-ncm-2022",
+  "generated_at_utc": "2026-06-26T18:31:44.580858+00:00",
+  "original_filename": "Tabela NCM 2022 com Utrib_Com\u00e9rcio Exterior_vig\u00eancia 01.02.26.xlsx",
+  "original_sha256": "b06ecddeb15e36688e6398c36f51ae29b7ef6dfc1eca765c1c37ee9416a64e7b",
+  "slug": "tabela-ncm-2022",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Tabela NCM 2022"
+}

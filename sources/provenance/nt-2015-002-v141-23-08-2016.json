@@ -1,0 +1,15 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt-2015-002-v141-23-08-2016",
+  "category": "nota_tecnica",
+  "converted_at_utc": "2026-06-25T17:16:53.355939+00:00",
+  "corpus_path": "corpus/nfe/notas-tecnicas/nt-2015-002-v141-23-08-2016",
+  "generated_at_utc": "2026-06-26T18:31:44.587680+00:00",
+  "original_filename": "NT_2015_002_v141 (23-08-2016).pdf",
+  "original_sha256": "2a64d979f6e0ead404b3ffcf21d3def2f58e763802b5329232751da3ab15ce16",
+  "slug": "nt-2015-002-v141-23-08-2016",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica"
+}

@@ -1,0 +1,15 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "tabela-cclass",
+  "category": "tabela",
+  "converted_at_utc": "2026-06-26T15:51:40.902774+00:00",
+  "corpus_path": "corpus/geral/tabelas-federais/tabela-cclass",
+  "generated_at_utc": "2026-06-26T18:31:44.580243+00:00",
+  "original_filename": "Tabela-cClass.xlsx",
+  "original_sha256": "c2f1419188cf780c11dbd15a477ea8d6425b50e90d8f40a1cef7dfc2edd5309d",
+  "slug": "tabela-cclass",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Tabela cClass"
+}

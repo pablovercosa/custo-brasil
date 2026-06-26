@@ -1,0 +1,217 @@
+{
+  "generated_at_utc": "2026-06-26T18:31:44.599023+00:00",
+  "schema_version": "1.0",
+  "table_count": 30,
+  "tables": [
+    {
+      "category": "tabela",
+      "corpus_path": "corpus/geral/tabelas-federais/aliquotas-cbs-2026",
+      "slug": "aliquotas-cbs-2026",
+      "source_family": "portal_nacional_nfe",
+      "title": "Al\u00edquotas da CBS"
+    },
+    {
+      "category": "tabela",
+      "corpus_path": "corpus/geral/tabelas-federais/cclass-trib-2026",
+      "slug": "cclass-trib-2026",
+      "source_family": "portal_nacional_nfe",
+      "title": "Classifica\u00e7\u00e3o Tribut\u00e1ria (cClassTrib)"
+    },
+    {
+      "category": "tabela",
+      "corpus_path": "corpus/geral/tabelas-federais/ccredpres-2025",
+      "slug": "ccredpres-2025",
+      "source_family": "portal_nacional_nfe",
+      "title": "Cr\u00e9dito Presumido (cCredPres)"
+    },
+    {
+      "category": "tabela",
+      "corpus_path": "corpus/geral/tabelas-federais/indice-mistura-biocombustivel",
+      "slug": "indice-mistura-biocombustivel",
+      "source_family": "portal_nacional_nfe",
+      "title": "\u00cdndice de Mistura de Biocombust\u00edvel"
+    },
+    {
+      "category": "tabela",
+      "corpus_path": "corpus/geral/tabelas-federais/prefixo-gs1",
+      "slug": "prefixo-gs1",
+      "source_family": "portal_nacional_nfe",
+      "title": "Prefixo GS1"
+    },
+    {
+      "category": "tabela",
+      "corpus_path": "corpus/geral/tabelas-federais/tabela-bandeiras-cartao",
+      "slug": "tabela-bandeiras-cartao",
+      "source_family": "portal_nacional_nfe",
+      "title": "Bandeiras de Cart\u00e3o de Cr\u00e9dito/D\u00e9bito"
+    },
+    {
+      "category": "tabela",
+      "corpus_path": "corpus/geral/tabelas-federais/tabela-cclass",
+      "slug": "tabela-cclass",
+      "source_family": "portal_nacional_nfe",
+      "title": "Tabela cClass"
+    },
+    {
+      "category": "tabela",
+      "corpus_path": "corpus/geral/tabelas-federais/tabela-cfop-2023",
+      "slug": "tabela-cfop-2023",
+      "source_family": "portal_nacional_nfe",
+      "title": "Tabela CFOP"
+    },
+    {
+      "category": "tabela",
+      "corpus_path": "corpus/geral/tabelas-federais/tabela-combustiveis-monofasica",
+      "slug": "tabela-combustiveis-monofasica",
+      "source_family": "portal_nacional_nfe",
+      "title": "Combust\u00edveis - Tributa\u00e7\u00e3o Monof\u00e1sica"
+    },
+    {
+      "category": "tabela",
+      "corpus_path": "corpus/geral/tabelas-federais/tabela-cprodanp",
+      "slug": "tabela-cprodanp",
+      "source_family": "portal_nacional_nfe",
+      "title": "C\u00f3digo de Produto ANP"
+    },
+    {
+      "category": "tabela",
+      "corpus_path": "corpus/geral/tabelas-federais/tabela-fcp-uf-2025",
+      "slug": "tabela-fcp-uf-2025",
+      "source_family": "portal_nacional_nfe",
+      "title": "Al\u00edquotas FCP por UF"
+    },
+    {
+      "category": "tabela",
+      "corpus_path": "corpus/geral/tabelas-federais/tabela-lista-servicos",
+      "slug": "tabela-lista-servicos",
+      "source_family": "portal_nacional_nfe",
+      "title": "Lista de Servi\u00e7os"
+    },
+    {
+      "category": "tabela",
+      "corpus_path": "corpus/geral/tabelas-federais/tabela-meios-pagamento",
+      "slug": "tabela-meios-pagamento",
+      "source_family": "portal_nacional_nfe",
+      "title": "Meios de Pagamento"
+    },
+    {
+      "category": "tabela",
+      "corpus_path": "corpus/geral/tabelas-federais/tabela-municipios",
+      "slug": "tabela-municipios",
+      "source_family": "portal_nacional_nfe",
+      "title": "Tabela de Munic\u00edpios"
+    },
+    {
+      "category": "tabela",
+      "corpus_path": "corpus/geral/tabelas-federais/tabela-ncm-2022",
+      "slug": "tabela-ncm-2022",
+      "source_family": "portal_nacional_nfe",
+      "title": "Tabela NCM 2022"
+    },
+    {
+      "category": "tabela",
+      "corpus_path": "corpus/geral/tabelas-federais/tabela-nfeabi-v2",
+      "slug": "tabela-nfeabi-v2",
+      "source_family": "portal_nacional_nfe",
+      "title": "C\u00f3digos NFe ABI v2.00"
+    },
+    {
+      "category": "tabela",
+      "corpus_path": "corpus/geral/tabelas-federais/tabela-paises",
+      "slug": "tabela-paises",
+      "source_family": "portal_nacional_nfe",
+      "title": "Tabela de Pa\u00edses"
+    },
+    {
+      "category": "tabela",
+      "corpus_path": "corpus/geral/tabelas-federais/tabela-regimes-especiais",
+      "slug": "tabela-regimes-especiais",
+      "source_family": "portal_nacional_nfe",
+      "title": "Padr\u00f5es de Regime Especial"
+    },
+    {
+      "category": "tabela",
+      "corpus_path": "corpus/geral/tabelas-federais/tabela-tipos-veiculo",
+      "slug": "tabela-tipos-veiculo",
+      "source_family": "portal_nacional_nfe",
+      "title": "Tipo e Esp\u00e9cie de Ve\u00edculo"
+    },
+    {
+      "category": "tabela",
+      "corpus_path": "corpus/geral/tabelas-federais/tabela-unidades-medida",
+      "slug": "tabela-unidades-medida",
+      "source_family": "portal_nacional_nfe",
+      "title": "Unidades de Medida Comercial"
+    },
+    {
+      "category": "cbenef",
+      "corpus_path": "corpus/nfe/Estado de DF/edital-transacao-pgdf",
+      "slug": "edital-transacao-pgdf",
+      "source_family": "sefaz_df",
+      "title": "Edital de Transa\u00e7\u00e3o PGDF SEEC n\u00ba 2 2025"
+    },
+    {
+      "category": "cbenef",
+      "corpus_path": "corpus/nfe/Estado de ES/cbenef-es",
+      "slug": "cbenef-es",
+      "source_family": "portal_nacional_nfe",
+      "title": "cBenef Esp\u00edrito Santo"
+    },
+    {
+      "category": "cbenef",
+      "corpus_path": "corpus/nfe/Estado de GO/cbenef-go-html",
+      "slug": "cbenef-go-html",
+      "source_family": "sefaz_go",
+      "title": "C\u00f3digos de Benef\u00edcios Fiscais \u2013 Secretaria da Economia"
+    },
+    {
+      "category": "cbenef",
+      "corpus_path": "corpus/nfe/Estado de PR/cbenef-pr-html",
+      "slug": "cbenef-pr-html",
+      "source_family": "sefaz_pr",
+      "title": "C\u00d3DIGO DE BENEF\u00cdCIO FISCAL   Sistema P\u00fablico de Escritura\u00e7\u00e3o Digital"
+    },
+    {
+      "category": "cbenef",
+      "corpus_path": "corpus/nfe/Estado de RJ/cbenef-rj-html",
+      "slug": "cbenef-rj-html",
+      "source_family": "sefaz_rj",
+      "title": "Benef\u00edcios Fiscais \u2013 Documento Fiscal Eletr\u00f4nico - Secretaria de Estado de Fazenda do Rio de Ja"
+    },
+    {
+      "category": "cbenef",
+      "corpus_path": "corpus/nfe/Estado de RS/cbenef-rs",
+      "slug": "cbenef-rs",
+      "source_family": "portal_nacional_nfe",
+      "title": "cBenef Rio Grande do Sul"
+    },
+    {
+      "category": "cbenef",
+      "corpus_path": "corpus/nfe/Estado de RS/validacoes-cbenef-rs",
+      "slug": "validacoes-cbenef-rs",
+      "source_family": "portal_nacional_nfe",
+      "title": "Valida\u00e7\u00f5es cBenef Rio Grande do Sul"
+    },
+    {
+      "category": "cbenef",
+      "corpus_path": "corpus/nfe/Estado de SP/cbenef-sp",
+      "slug": "cbenef-sp",
+      "source_family": "portal_nacional_nfe",
+      "title": "cBenef S\u00e3o Paulo"
+    },
+    {
+      "category": "cbenef",
+      "corpus_path": "corpus/nfe/Estado de SP/cbenef-sp-html",
+      "slug": "cbenef-sp-html",
+      "source_family": "sefaz_sp",
+      "title": "P\u00e1ginas - C\u00f3digos de Benef\u00edcios Fiscais - cBenef"
+    },
+    {
+      "category": "cbenef",
+      "corpus_path": "corpus/nfe/Estado de SP/cbenef-sp-ods",
+      "slug": "cbenef-sp-ods",
+      "source_family": "portal_nacional_nfe",
+      "title": "cBenef S\u00e3o Paulo (ODS)"
+    }
+  ]
+}

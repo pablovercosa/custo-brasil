@@ -1,0 +1,15 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt2012-004-v1-2-nfce",
+  "category": "nota_tecnica",
+  "converted_at_utc": "2026-06-25T18:19:51.390009+00:00",
+  "corpus_path": "corpus/nfce/notas-tecnicas/nt2012-004-v1-2-nfce",
+  "generated_at_utc": "2026-06-26T18:31:44.582540+00:00",
+  "original_filename": "NT2012.004_v1.2_NFCe.pdf",
+  "original_sha256": "782d0b48059b40acaf6c1cfa3d64de5605408d949b1ab29425a7c9dc6dc16a22",
+  "slug": "nt2012-004-v1-2-nfce",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica"
+}

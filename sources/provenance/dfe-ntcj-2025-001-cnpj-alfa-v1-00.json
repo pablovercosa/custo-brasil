@@ -1,0 +1,15 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "dfe-ntcj-2025-001-cnpj-alfa-v1-00",
+  "category": "nota_tecnica",
+  "converted_at_utc": "2026-06-25T17:00:25.799904+00:00",
+  "corpus_path": "corpus/geral/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00",
+  "generated_at_utc": "2026-06-26T18:31:44.579483+00:00",
+  "original_filename": "DFe NTCJ 2025.001_CNPJ Alfa_v1.00.pdf",
+  "original_sha256": "671d546b24ad4682e267fc76a9eeca8f14ad15ead2be20721ee2aec5438cf964",
+  "slug": "dfe-ntcj-2025-001-cnpj-alfa-v1-00",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Nota T\u00e9cnica Conjunta CNPJ Alfanum\u00e9rico"
+}

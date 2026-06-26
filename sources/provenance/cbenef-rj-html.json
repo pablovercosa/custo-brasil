@@ -1,0 +1,15 @@
+{
+  "authority": "Secretaria de Estado de Fazenda do Rio de Janeiro",
+  "canonical_id": "cbenef-rj-html",
+  "category": "cbenef",
+  "converted_at_utc": "2026-06-26T16:32:52.801583+00:00",
+  "corpus_path": "corpus/nfe/Estado de RJ/cbenef-rj-html",
+  "generated_at_utc": "2026-06-26T18:31:44.583606+00:00",
+  "original_filename": "Benef\u00edcios Fiscais \u2013 Documento Fiscal Eletr\u00f4nico - Secretaria de Estado de Fazenda do Rio de Ja.html",
+  "original_sha256": "42bbd26f51b97f08901824be05a2e6073822a8fb3ad630781bb5dbcc125ca423",
+  "slug": "cbenef-rj-html",
+  "source_family": "sefaz_rj",
+  "source_url": "https://portal.fazenda.rj.gov.br/dfe/beneficios-fiscais/",
+  "status": "published",
+  "title": "Benef\u00edcios Fiscais \u2013 Documento Fiscal Eletr\u00f4nico - Secretaria de Estado de Fazenda do Rio de Ja"
+}

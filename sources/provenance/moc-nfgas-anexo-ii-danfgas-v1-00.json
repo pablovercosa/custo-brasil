@@ -1,0 +1,15 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "moc-nfgas-anexo-ii-danfgas-v1-00",
+  "category": "manual",
+  "converted_at_utc": "2026-06-25T18:21:38.186957+00:00",
+  "corpus_path": "corpus/nfgas/manuais/moc-nfgas-anexo-ii-danfgas-v1-00",
+  "generated_at_utc": "2026-06-26T18:31:44.595021+00:00",
+  "original_filename": "MOC_NFGas_Anexo II_DANFGas_v1.00.pdf",
+  "original_sha256": "ed91d2c9b16e63a6221cfcbd4ce64dba217ef6c7c95396ec001613ae3d05ab21",
+  "slug": "moc-nfgas-anexo-ii-danfgas-v1-00",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica do G\u00e1s"
+}

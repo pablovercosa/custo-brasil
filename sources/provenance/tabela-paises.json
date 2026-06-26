@@ -1,0 +1,15 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "tabela-paises",
+  "category": "tabela",
+  "converted_at_utc": "2026-06-26T15:51:41.588165+00:00",
+  "corpus_path": "corpus/geral/tabelas-federais/tabela-paises",
+  "generated_at_utc": "2026-06-26T18:31:44.581010+00:00",
+  "original_filename": "Tabela de Pa\u00edses - Ref. NT 2018.003. v1.01.ods",
+  "original_sha256": "76386b536812e13baf5f09f49c057e78650be387a96c576377c3998f39358a9f",
+  "slug": "tabela-paises",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Tabela de Pa\u00edses"
+}

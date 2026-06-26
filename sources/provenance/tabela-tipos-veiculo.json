@@ -1,0 +1,15 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "tabela-tipos-veiculo",
+  "category": "tabela",
+  "converted_at_utc": "2026-06-26T15:51:41.597803+00:00",
+  "corpus_path": "corpus/geral/tabelas-federais/tabela-tipos-veiculo",
+  "generated_at_utc": "2026-06-26T18:31:44.581149+00:00",
+  "original_filename": "Tabela de Tipo e Especie de Ve\u00edculo.xlsx",
+  "original_sha256": "03c399be8a80fe0c2c99e0bb1dd04e2c23fc04890f070307d0bbd7d5077cb5d7",
+  "slug": "tabela-tipos-veiculo",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Tipo e Esp\u00e9cie de Ve\u00edculo"
+}

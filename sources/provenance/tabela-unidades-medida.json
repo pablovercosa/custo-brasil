@@ -1,0 +1,15 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "tabela-unidades-medida",
+  "category": "tabela",
+  "converted_at_utc": "2026-06-26T15:51:42.264848+00:00",
+  "corpus_path": "corpus/geral/tabelas-federais/tabela-unidades-medida",
+  "generated_at_utc": "2026-06-26T18:31:44.581216+00:00",
+  "original_filename": "Tabela_Unidades_de_Medida_Comercial_05072016.xls",
+  "original_sha256": "4bbee279990cfd9ba6be1038d4391e78c421e7d1e9388da738d0dec69344cb13",
+  "slug": "tabela-unidades-medida",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Unidades de Medida Comercial"
+}

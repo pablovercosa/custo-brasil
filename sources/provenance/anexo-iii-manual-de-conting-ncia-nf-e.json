@@ -1,0 +1,15 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "anexo-iii-manual-de-conting-ncia-nf-e",
+  "category": "manual",
+  "converted_at_utc": "2026-06-25T17:24:40.540665+00:00",
+  "corpus_path": "corpus/nfe/manuais/anexo-iii-manual-de-conting-ncia-nf-e",
+  "generated_at_utc": "2026-06-26T18:31:44.585098+00:00",
+  "original_filename": "Anexo III - Manual de Conting\u00eancia - NF-e.pdf",
+  "original_sha256": "e1cfb9b6c5adc6a67062f66fd1699495fdec5dfdb93025768f87fe3782918dde",
+  "slug": "anexo-iii-manual-de-conting-ncia-nf-e",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Sistema Nota Fiscal Eletr\u00f4nica"
+}

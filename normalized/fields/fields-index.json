@@ -1,0 +1,8 @@
+{
+  "documents_with_schemas": [],
+  "field_count": 0,
+  "fields": [],
+  "generated_at_utc": "2026-06-26T18:31:44.599479+00:00",
+  "purpose": "Extracted XML field metadata from schemas in corpus. Populated during schema analysis phase.",
+  "schema_version": "1.0"
+}

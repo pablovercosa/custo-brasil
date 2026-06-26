@@ -1,0 +1,15 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt-2017-002-v1-40-tabela-cfop",
+  "category": "nota_tecnica",
+  "converted_at_utc": "2026-06-25T16:46:44.927587+00:00",
+  "corpus_path": "corpus/nfe/notas-tecnicas/nt-2017-002-v1-40-tabela-cfop",
+  "generated_at_utc": "2026-06-26T18:31:44.588272+00:00",
+  "original_filename": "NT_2017_002_v1_40-Tabela CFOP.pdf",
+  "original_sha256": "390d08e8621843b43a80a9d1fd1a6b359676834b229f3bcefd0b59cbac7ab833",
+  "slug": "nt-2017-002-v1-40-tabela-cfop",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica"
+}

@@ -1,0 +1,15 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nt-2020-001-v1-60-manifesta-o-do-destinat-rio",
+  "category": "nota_tecnica",
+  "converted_at_utc": "2026-06-25T17:08:41.813769+00:00",
+  "corpus_path": "corpus/nfe/notas-tecnicas/nt-2020-001-v1-60-manifesta-o-do-destinat-rio",
+  "generated_at_utc": "2026-06-26T18:31:44.588598+00:00",
+  "original_filename": "NT_2020.001 v1.60 - Manifesta\u00e7\u00e3o do destinat\u00e1rio.pdf",
+  "original_sha256": "f610878ad54708086aaa20dc668d714adf89cf109b8afbea687f69ef733efe46",
+  "slug": "nt-2020-001-v1-60-manifesta-o-do-destinat-rio",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica"
+}

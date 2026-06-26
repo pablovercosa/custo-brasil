@@ -67,5 +67,14 @@
       "priority": 60,
       "notes": "Pagina oficial de tabelas e documentos diversos do Portal Nacional NF-e."
     }
+  ],
+  "discovery_methods": [
+    {
+      "type": "submenu_auto_discovery",
+      "submenu_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+      "description": "Discovery dinâmico: o parser descobre todas as categorias a partir do submenu, extrai content IDs de cada categoria, e baixa documentos novos/alterados. Nao requer content IDs fixos no config.",
+      "how_it_works": "1. Estabelece sessao ASP.NET (cookie) → 2. Busca submenu → 3. Extrai links listaConteudo.aspx?tipoConteudo= → 4. Para cada categoria, extrai anchors exibirArquivo.aspx?conteudo= → 5. Download com Content-Disposition → 6. Registra estado (SHA-256, filename) em runtime/state/discovery-state.json",
+      "portal_behavior_notes": "Os content IDs sao codificados em Base64 e mudam entre versoes do portal. O submenu e a unica fonte confiavel de categorias ativas. Nao ha paginacao — todas as paginas listam documentos completos em unica pagina. Cookies de sessao ASP.NET expiram apos alguns minutos."
+    }
   ]
 }
