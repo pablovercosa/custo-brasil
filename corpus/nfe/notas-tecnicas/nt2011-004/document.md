@@ -632,3 +632,9 @@ IE do Transportador informada e diferente de 'ISENTO':
 - Item 8.6.9 - b, linha H05, coluna RV: eliminar texto 'vide Anexo I -';
 - Item 4.2: trocar para '... ser consultada pelo número de Reg istro de DPEC ...';
 - Item 8.6.10: eliminar texto 'vide Anexo I -';
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2011-004/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2011-004/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2011-004.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2011-004.json)

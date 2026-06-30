@@ -790,3 +790,9 @@ R$      108,00
 | Campos (tag) | vFCPUFDest     | (soma dos itens) | R$ 40,00     | R$ 40,00     | R$ 40,00     | R$ 40,00     |
 |              | vICMSUFDest    | (soma dos itens) | R$ 156,00    | R$ 156,00    | R$ 156,00    | R$ 156,00    |
 |              | vICMSUFRemet   | (soma dos itens) | R$ 234,00    | R$ 234,00    | R$ 234,00    | R$ 234,00    |
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2015-003-v194/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2015-003-v194/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2015-003-v194.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2015-003-v194.json)

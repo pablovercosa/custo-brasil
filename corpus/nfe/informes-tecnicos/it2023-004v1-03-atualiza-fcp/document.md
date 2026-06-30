@@ -82,3 +82,9 @@ Os prazos dessa atualização de tabelas estão documentados anteriormente, no i
 - O Estado do Amazonas, em 01/01/2025, passa a ter alíquotas de1,2% e 2,0%, que devem ser observadas conforme legislação estadual.
 
 ![Image](assets/image_000004_320ce71d1eb081a7bf1cebc2fc95112e6fc933ea1e98d057f64948b9f529f73e.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/informes-tecnicos/it2023-004v1-03-atualiza-fcp/source.json)
+- [Dados normalizados](../../../../normalized/nfe/informes-tecnicos/it2023-004v1-03-atualiza-fcp/normalized.json)
+- [Changelog](../../../../changelog/nfe/informes-tecnicos/it2023-004v1-03-atualiza-fcp.md)
+- [Proveniência resumida](../../../../sources/provenance/it2023-004v1-03-atualiza-fcp.json)

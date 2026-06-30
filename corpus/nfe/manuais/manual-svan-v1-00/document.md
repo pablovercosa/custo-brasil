@@ -338,3 +338,10 @@ A central de atendimento do projeto Nota Fiscal Eletrônica está disponível no
 
 \[2\] Portal da NF-e\
 Disponível em: <http://www.nfe.fazenda.gov.br/portal>
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/manuais/manual-svan-v1-00/source.json)
+- [Dados normalizados](../../../../normalized/nfe/manuais/manual-svan-v1-00/normalized.json)
+- [Changelog](../../../../changelog/nfe/manuais/manual-svan-v1-00.md)
+- [Proveniência resumida](../../../../sources/provenance/manual-svan-v1-00.json)

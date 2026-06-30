@@ -501,3 +501,9 @@ Cabe à aplicação do contribuinte tratar adequadamente a situação das NF-e P
 
 - Cancelar  as  NF-e  Pendentes  de  Retorno  que  tenham  sido  autorizadas  pela  SEFAZ  origem,  mas  que tiveram as operações comerciais correspondentes registradas em NF-e emitidas em contingência.
 - Inutilizar a numeração das NF-e Pendentes de Retorno que não foram autorizadas ou denegadas.
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/manuais/anexo-iii-manual-de-conting-ncia-nf-e/source.json)
+- [Dados normalizados](../../../../normalized/nfe/manuais/anexo-iii-manual-de-conting-ncia-nf-e/normalized.json)
+- [Changelog](../../../../changelog/nfe/manuais/anexo-iii-manual-de-conting-ncia-nf-e.md)
+- [Proveniência resumida](../../../../sources/provenance/anexo-iii-manual-de-conting-ncia-nf-e.json)

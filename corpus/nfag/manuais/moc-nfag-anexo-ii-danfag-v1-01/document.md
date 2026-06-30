@@ -285,3 +285,9 @@ MINUTA
 ![Image](assets/image_000030_e2b103055be6643989270016c7322e4497af13d0974606afa7fdcad5faec3cd4.png)
 
 ![Image](assets/image_000031_530ba51d1cb99a7207d90b60e1c8b6a2de9b69799f295e09d8dc48dbc75b7967.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfag/manuais/moc-nfag-anexo-ii-danfag-v1-01/source.json)
+- [Dados normalizados](../../../../normalized/nfag/manuais/moc-nfag-anexo-ii-danfag-v1-01/normalized.json)
+- [Changelog](../../../../changelog/nfag/manuais/moc-nfag-anexo-ii-danfag-v1-01.md)
+- [Proveniência resumida](../../../../sources/provenance/moc-nfag-anexo-ii-danfag-v1-01.json)

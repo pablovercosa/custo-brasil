@@ -1007,3 +1007,9 @@ Alterada a tabela de Códigos de Erro, no Manual do Contribuinte (item 5.1.1), c
 | 30. Ricardo Eletro                                        | Sergipe             |
 | 31. SERPAF                                                | Sergipe             |
 | 32. SOS Baterias                                          | Sergipe             |
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfce/notas-tecnicas/nt2012-004-v1-2-nfce/source.json)
+- [Dados normalizados](../../../../normalized/nfce/notas-tecnicas/nt2012-004-v1-2-nfce/normalized.json)
+- [Changelog](../../../../changelog/nfce/notas-tecnicas/nt2012-004-v1-2-nfce.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2012-004-v1-2-nfce.json)

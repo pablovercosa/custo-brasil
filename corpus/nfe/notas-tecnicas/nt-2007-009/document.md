@@ -106,3 +106,9 @@ As alterações acima implicam na alteração da versão do leiaute de da NF-e e
 | leiauteConsRecibo_v1.11.xsd         | 9a19c2b13cabfe9085f5a471d211e3da   | -                  |
 
 As  dúvidas  e  sugestões  devem  ser  encaminhadas  através  do  Canal  Fale  Conosco  da Secretaria  da  Fazenda  de  São  Paulo  (http://www.fazenda.sp.gov.br/email/default2.asp) referente à 'Portaria CAT 104/07'.
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2007-009/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2007-009/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2007-009.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2007-009.json)

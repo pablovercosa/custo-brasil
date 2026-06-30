@@ -480,3 +480,9 @@ O processamento do lote pode resultar em:
 - Rejeição: o Evento será rejeitado, retornando do código do status do motivo da rejeição;
 - Evento Autorizado, com vinculação à respectiva NF-e : Encontrada a NF-e no banco de dados. Retornar cStat='135-Evento registrado e vinculado a NF-e';
 - Evento Autorizado, sem vinculação à respectiva NF-e: Não encontrada a NF-e no banco de dados. Retornar cStat='136-Evento registrado, mas não vinculado a NF-e';
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2024-002-v1-00-econf/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2024-002-v1-00-econf/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2024-002-v1-00-econf.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2024-002-v1-00-econf.json)

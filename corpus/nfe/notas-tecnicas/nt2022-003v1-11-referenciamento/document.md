@@ -324,3 +324,9 @@ Essa versão trouxe somente uma adequação ao texto do item 2.1.1 e alteraçõe
 |      956 | Rejeição: Chave de Acesso referenciada com código numérico zerado não permitida na UF [nOcor:nnn]                                |
 
 ![Image](assets/image_000017_5740b01e9b7f5d7d975a23f4e12b34fed4d2a0d4c4f2f4249027d0373eaf79be.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2022-003v1-11-referenciamento/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2022-003v1-11-referenciamento/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2022-003v1-11-referenciamento.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2022-003v1-11-referenciamento.json)

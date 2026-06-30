@@ -66,3 +66,9 @@ Gantry 5
 - [e-SIC - Serviço Eletrônico de Informação ao Cidadão](https://www.go.gov.br/servicos-digitais/cge/nova-ouvidoria/pedido-informacao-publica?orgao=11&tipo_manifestacao=7)
 - [Ouvidoria Setorial (Expresso)](https://www.go.gov.br/servicos-digitais/cge/nova-ouvidoria?orgao=11)
 - [Ouvidoria Setorial (Presencial)](https://goias.gov.br/economia/ouvidoria-setorial/)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources//nfe/Estado de GO/cbenef-go-html/source.json)
+- [Dados normalizados](../../../../normalized/nfe/Estado de GO/cbenef-go-html/normalized.json)
+- [Changelog](../../../../changelog/nfe/Estado de GO/cbenef-go-html.md)
+- [Proveniência resumida](../../../../sources/provenance/cbenef-go-html.json)

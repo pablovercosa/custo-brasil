@@ -572,3 +572,9 @@ NT 2021.004 v1.33 - Regras de Validação e Novos Campos
 |      950 | Rejeição: Informações Adicionais de Interesse do Fisco abaixo do tamanho mínimo exigido pela UF.                                           |
 
 ![Image](assets/image_000022_c5190fa12899d50a6921c9494eaa96d551b7ac1fd45983fc88afb536b0dc386e.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2021-004v1-35-novos-campos-e-regras/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2021-004v1-35-novos-campos-e-regras/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2021-004v1-35-novos-campos-e-regras.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2021-004v1-35-novos-campos-e-regras.json)

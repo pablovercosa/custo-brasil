@@ -100,3 +100,9 @@ Atualização dos percentuais obrigatórios de adição de etanol anidro à gaso
 - 25% para Gasolina Premium.
 
 ![Image](assets/image_000008_505d76c46d6e2e33cd477595be3ec966f75ec448aa49ab4bc7b588cbaa28def4.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/combustiveis/informes-tecnicos/it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel/source.json)
+- [Dados normalizados](../../../../normalized/combustiveis/informes-tecnicos/it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel/normalized.json)
+- [Changelog](../../../../changelog/combustiveis/informes-tecnicos/it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel.md)
+- [Proveniência resumida](../../../../sources/provenance/it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel.json)

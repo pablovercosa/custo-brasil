@@ -1314,3 +1314,9 @@ SNFeNFCe
 ![Image](assets/image_000039_fc36a4f92cb438f9c985d18778cb4778958f1a52d777087fa6fa0360b7cd054e.png)
 
 ![Image](assets/image_000040_215b4241f4f9863008ae7fd6de4652e0fc27b711f1a0c1593f1134cad6e5fa7a.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/manuais/anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras/source.json)
+- [Dados normalizados](../../../../normalized/nfe/manuais/anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras/normalized.json)
+- [Changelog](../../../../changelog/nfe/manuais/anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras.md)
+- [Proveniência resumida](../../../../sources/provenance/anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras.json)

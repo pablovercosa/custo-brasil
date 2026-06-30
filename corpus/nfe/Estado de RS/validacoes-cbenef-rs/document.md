@@ -177,3 +177,10 @@ No Rio Grande do Sul, não será aplicada validação nas notas fiscais emitidas
 ## Tabela de códigos 
 
 A tabela de códigos utilizada para validação dos campos encontra-se disponível em nfe.fazenda.gov.br, opção, no menu, "Documentos", "Diversos".
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/Estado de RS/validacoes-cbenef-rs/source.json)
+- [Dados normalizados](../../../../normalized/nfe/Estado de RS/validacoes-cbenef-rs/normalized.json)
+- [Changelog](../../../../changelog/nfe/Estado de RS/validacoes-cbenef-rs.md)
+- [Proveniência resumida](../../../../sources/provenance/validacoes-cbenef-rs.json)

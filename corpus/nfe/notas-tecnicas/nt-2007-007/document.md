@@ -35,3 +35,9 @@ A versão 2.03 do Manual de Integração do Contribuinte e o PL\_006 se tornaram
 As alterações divulgadas na versão 2.03 do Manual de Integração do Contribuinte que não foram afetadas pelas alterações decorrentes da versão 6.00 do Modelo de Contingência do SCAN serão mantidas.
 
 A  versão  2.04  do  Manual  de  Integração  do  Contribuinte  e  a  versão  preliminar  do PL\_007 de homologação serão publicadas até o dia 30/12/2007.
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2007-007/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2007-007/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2007-007.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2007-007.json)

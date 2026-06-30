@@ -395,3 +395,9 @@ O valor do campo vICMSMonoOp, neste exemplo, corresponderia a:
 Da mesma forma, considerando o diferimento integral (100%), o campo vICMSMonoDif deve receber o mesmo valor.
 
 OBS: As regras de validação atuais não serão aplicadas até 31/08/2023. Possíveis ajustes poderão ser avaliados.
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/combustiveis/notas-tecnicas/nt-2023-01-perguntas-e-respostas/source.json)
+- [Dados normalizados](../../../../normalized/combustiveis/notas-tecnicas/nt-2023-01-perguntas-e-respostas/normalized.json)
+- [Changelog](../../../../changelog/combustiveis/notas-tecnicas/nt-2023-01-perguntas-e-respostas.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2023-01-perguntas-e-respostas.json)

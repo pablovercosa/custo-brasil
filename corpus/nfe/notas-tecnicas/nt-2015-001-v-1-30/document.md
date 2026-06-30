@@ -1514,3 +1514,9 @@ A tabela do item Web Service - NFeDistribuicaoDFe da NT2014.002 fica acrescida c
 | Evento Fisco de Resposta ao Cancelamento de Pedido de Prorrogação 2º prazo | Sim   | Sim   | Não   | Não   |
 
 ![Image](assets/image_000079_464a6728e91a6edb186cbd0444b1abbdfeb28a3c8a9106b56289a42a7742ecb2.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2015-001-v-1-30/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2015-001-v-1-30/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2015-001-v-1-30.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2015-001-v-1-30.json)

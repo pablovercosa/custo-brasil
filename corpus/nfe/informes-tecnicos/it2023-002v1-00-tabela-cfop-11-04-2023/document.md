@@ -67,3 +67,9 @@ Os prazos dessa atualização de tabelas estão documentados anteriormente, no i
 Os códigos contidos na Tabela CFOP disponível no Portal Nacional da NF-e são criados, alterados ou excluídos a partir de Ajustes SINIEF publicados no Portal do CONFAZ (https://www.confaz.fazenda.gov.br/).
 
 ![Image](assets/image_000004_320ce71d1eb081a7bf1cebc2fc95112e6fc933ea1e98d057f64948b9f529f73e.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/source.json)
+- [Dados normalizados](../../../../normalized/nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/normalized.json)
+- [Changelog](../../../../changelog/nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023.md)
+- [Proveniência resumida](../../../../sources/provenance/it2023-002v1-00-tabela-cfop-11-04-2023.json)

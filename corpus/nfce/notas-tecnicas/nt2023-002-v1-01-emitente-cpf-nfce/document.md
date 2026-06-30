@@ -212,3 +212,9 @@ Quando o emissor tiver em situação irregular deverá ter a rejeição '781 - R
 |      961 | Rejeição: Enviado lote com mais de 1 NFC-e                                                    |
 
 ![Image](assets/image_000016_8702429d557b971b5753934f67216900e4ec7b1bf8f8f561497d41bd9007440a.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfce/notas-tecnicas/nt2023-002-v1-01-emitente-cpf-nfce/source.json)
+- [Dados normalizados](../../../../normalized/nfce/notas-tecnicas/nt2023-002-v1-01-emitente-cpf-nfce/normalized.json)
+- [Changelog](../../../../changelog/nfce/notas-tecnicas/nt2023-002-v1-01-emitente-cpf-nfce.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2023-002-v1-01-emitente-cpf-nfce.json)

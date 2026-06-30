@@ -171,3 +171,9 @@ O 'Valor Aproximado dos Tributos', poderá opcionalm ente constar no DANFE em ca
 |      688 | Rejeição: NF referenciada de Produtor com IE inexis tente [nRef: xxx]                         |
 |      689 | Rejeição: NF referenciada de Produtor com IE não vi nculada ao CNPJ/CPF informado [nRef: xxx] |
 |      690 | Rejeição: Pedido de Cancelamento para NF-e com CT-e                                           |
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2013-003-v1-00a-lei-transparencia/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2013-003-v1-00a-lei-transparencia/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2013-003-v1-00a-lei-transparencia.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2013-003-v1-00a-lei-transparencia.json)

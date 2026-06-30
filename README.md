@@ -84,7 +84,20 @@ corpus/
 └── nfse/                   # NFS-e (reservado)
 ```
 
-Cada documento contém `document.md` (ou `README.md` para dados tabulares), `metadata.json` com procedência e hash, e `assets/` com imagens referenciadas. Changelog completo em `changelog/`.
+Cada documento contém `document.md` (ou `README.md` para dados tabulares), `metadata.json` com procedência e hash, e `assets/` com imagens referenciadas.
+
+## Pastas públicas
+
+| Pasta | Conteúdo |
+|-------|----------|
+| `corpus/` | Documentos convertidos (Markdown + assets + metadados), organizados por categoria fiscal |
+| `changelog/` | Histórico de versões de cada documento, com timestamps e descrição de cada alteração |
+| `sources/` | Metadados de origem e procedência: manifesto global, registros de proveniência por documento, e páginas-fonte organizadas por família |
+| `normalized/` | Dados normalizados extraídos dos documentos, índices por autoridade/categoria/status, e artefatos estruturados (tabelas, campos, regras, rejeições, diffs de versão) |
+| `formulas/` | Fórmulas para cálculos tributários referenciadas aos documentos normativos do corpus |
+| `agents/` | Agents especializados para consulta fiscal (pesquisador, diff de versões, análise de schema, rejeição SEFAZ, reforma tributária) |
+| `skills/` | Skills operacionais com passo-a-passo para cada tarefa |
+| `docs/` | Documentação complementar (ex: contrato de publicação) |
 
 ## Documentos incluídos
 

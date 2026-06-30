@@ -624,3 +624,9 @@ O emitente pessoa física, normalmente um produtor rural, possui característica
 |      652 | Rejeição: NF-e para emitente pessoa física                                                    |
 
 ![Image](assets/image_000019_d3dc1b749c39cba8f3f8f7c08968897356cf062179295408a111bbd4f0f2248e.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2018-001-v1-10-emitente-cpf/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2018-001-v1-10-emitente-cpf/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2018-001-v1-10-emitente-cpf.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2018-001-v1-10-emitente-cpf.json)

@@ -241,3 +241,9 @@ Grupo ZF. Informações de Produtos da Agricultura, Pecuária e Produção Flore
 | **** | ZF05-20 | ---      | ---                        | RV não ativada para nenhuma UF.      |
 
 ![Image](assets/image_000015_c75338bd221582fb869051770720789c8ff9a4a6d4c5e313a0f8ae94f923fbb3.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2024-003-produtos-agro-nf-e-v-1-10-rev/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2024-003-produtos-agro-nf-e-v-1-10-rev/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2024-003-produtos-agro-nf-e-v-1-10-rev.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2024-003-produtos-agro-nf-e-v-1-10-rev.json)

@@ -139,3 +139,10 @@ Abaixo, segue um modelo do e-mail:
 +-----------------------------------------------------------------------+
 
 **Modelo de e-mail para exclusão de contribuinte**
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/manuais/manual-svan-anexo-i/source.json)
+- [Dados normalizados](../../../../normalized/nfe/manuais/manual-svan-anexo-i/normalized.json)
+- [Changelog](../../../../changelog/nfe/manuais/manual-svan-anexo-i.md)
+- [Proveniência resumida](../../../../sources/provenance/manual-svan-anexo-i.json)

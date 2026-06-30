@@ -744,3 +744,9 @@ Tabela 3: Mensagens de validação de consulta da NF-e
 | 245                                                                           | Chave de Acesso da NF-e inválida.                                                                                    | Problema na Chave de Acesso                                                   |
 | 246                                                                           | A chave de acesso informada não é de uma NF-e (modelo 55). Verifique o modelo do documento fiscal eletrônico (DF-e). | Problema na Chave de Acesso                                                   |
 | 247                                                                           | A chave de acesso informada não se refere a uma NF-e emitida por contribuinte da UF indicada.                        | Problema na Chave de Acesso                                                   |
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2026-003-v1-00-danfe-simplificado-tipo-2/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2026-003-v1-00-danfe-simplificado-tipo-2/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2026-003-v1-00-danfe-simplificado-tipo-2.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2026-003-v1-00-danfe-simplificado-tipo-2.json)

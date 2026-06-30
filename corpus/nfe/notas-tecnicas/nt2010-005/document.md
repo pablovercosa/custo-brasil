@@ -101,3 +101,9 @@ O tipo dos campos nSerie e nCano do Detalhamento Específico de Armamentos passa
 - pedido de consulta Protocolo da NF-e;
 - pedido de inutilização de numeração de NF-e;
 - pedido de consulta cadastro
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2010-005/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2010-005/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2010-005.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2010-005.json)

@@ -67,3 +67,9 @@ No DANFE Simplificado deverão ser impressos no mínimo, além da expressão 'DA
 - c) Dados do destinatário/remetente: Nome/Razão Social, Sigla da UF, CNPJ/CPF;
 - d) Dados dos itens: Descrição dos Produtos/Serviços, Unidade Comercial, Quantidade, Valor unitário, Valor total do item;
 - e) Dados dos totais da NF-e: Valor total da Nota Fiscal.
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2012-001/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2012-001/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2012-001.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2012-001.json)

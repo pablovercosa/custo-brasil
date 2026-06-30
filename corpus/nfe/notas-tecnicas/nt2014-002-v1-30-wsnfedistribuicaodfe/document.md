@@ -655,3 +655,9 @@ Exemplo 3: Neste caso, a consulta com a tag 'distNSU' teve sucesso e retornou do
 ```
 
 ![Image](assets/image_000024_78767d9d504b15f06028331439f4bde9b9a595bfc8046b22500a16d81cf76dc5.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2014-002-v1-30-wsnfedistribuicaodfe/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2014-002-v1-30-wsnfedistribuicaodfe/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2014-002-v1-30-wsnfedistribuicaodfe.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2014-002-v1-30-wsnfedistribuicaodfe.json)

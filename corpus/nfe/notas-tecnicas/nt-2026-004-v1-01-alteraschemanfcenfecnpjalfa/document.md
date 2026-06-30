@@ -394,3 +394,9 @@ Schema XML: retInutNFe\_v4.00.xsd
 | # Campo   | Ele    | Pai   | Tipo Ocor. Tam.   | Descrição/Observação   |
 |-----------|--------|-------|-------------------|------------------------|
 | DR11      | CNPJ E | DR03  | C 0-1             | 14 CNPJ do emitente    |
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa.json)

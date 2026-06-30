@@ -71,3 +71,9 @@ Países que tiveram alteração no Nome
 |                  6980 | ILHAS DE SAO MARTINHO (PARTE FRANCESA) | SAO MARTINHO, ILHA DE (PARTE FRANCESA)  |
 |                  6998 | SAO MARTINHO, ILHA DE (PARTE FRANCESA) | SAO MARTINHO, ILHA DE (PARTE HOLANDESA) |
 |                  7544 | SUAZILÂNDIA                            | ESWATINI                                |
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2018-003-v1-01-tabela-de-pa-ses/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2018-003-v1-01-tabela-de-pa-ses/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2018-003-v1-01-tabela-de-pa-ses.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2018-003-v1-01-tabela-de-pa-ses.json)

@@ -124,3 +124,9 @@ Observação: A Secretaria da Receita Federal do Brasil - RFB emitirá ato norma
 |   Código | MOTIVOS DE NÃO ATENDIMENTO DASOLICITAÇÃO                                                              |
 |----------|-------------------------------------------------------------------------------------------------------|
 |      817 | Unidade Tributável incompa/g417vel com oNCM informado na operação com Comércio Exterior [ nItem :nnn] |
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior.json)

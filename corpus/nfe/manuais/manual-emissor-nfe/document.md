@@ -1268,3 +1268,9 @@ Observação : Nenhum emitente poderá estar iniciado.
 O Software Emissor NF-e também poderá ser atualizado automaticamente. Ao detectar novas atualizações, o Software informará o usuário e solicitará a confirmação.
 
 Para realizar o download das atualizações, clicar em OK . Após o download, o Software irá executar com as atualizações  já  instaladas.  Caso  não  deseje  realizar  a  atualização,  clicar  em Cancel .  O  programa  irá executar sem realizar a atualização.
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/manuais/manual-emissor-nfe/source.json)
+- [Dados normalizados](../../../../normalized/nfe/manuais/manual-emissor-nfe/normalized.json)
+- [Changelog](../../../../changelog/nfe/manuais/manual-emissor-nfe.md)
+- [Proveniência resumida](../../../../sources/provenance/manual-emissor-nfe.json)

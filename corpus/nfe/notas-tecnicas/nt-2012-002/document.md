@@ -1020,3 +1020,9 @@ O ambiente de homologação deve ser usado para que a s empresas possam efetuar 
 Em relação a massa de dados para que os testes poss am ser efetuados, lembramos que podem ser geradas NF-e no ambiente de homologação à critério da empresa (NF-e sem valor fiscal). As NF-e  no  ambiente  de  homologação  podem  ser  geradas  p or  aplicativo  da  própria  empresa,  ou usando o Programa Emissor Público, com a mesma fina lidade.
 
 Os testes no ambiente de produção, quando liberado  este ambiente, por falha da aplicação da empresa, podem disparar os mecanismos de controle de uso indevido, impedindo, por exemplo, uma  nova  Consulta  a  Relação  de  Documentos  Destinado s  para  documentos  que  já  foram consultados anteriormente.
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2012-002/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2012-002/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2012-002.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2012-002.json)

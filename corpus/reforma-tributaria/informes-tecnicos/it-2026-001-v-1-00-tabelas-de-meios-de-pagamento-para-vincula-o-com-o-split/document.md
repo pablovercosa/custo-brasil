@@ -52,3 +52,9 @@ O  grupo  de  informação  da  vinculação  da  transação  de  pagamento  ut
 A utilização de um código diferente dos relacionados acima causará a rejeição 1003 - Tipo de Pagamento inválido
 
 A inclusão de códigos válidos será realizada através de atualizações deste Informe Técnico.
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/reforma-tributaria/informes-tecnicos/it-2026-001-v-1-00-tabelas-de-meios-de-pagamento-para-vincula-o-com-o-split/source.json)
+- [Dados normalizados](../../../../normalized/reforma-tributaria/informes-tecnicos/it-2026-001-v-1-00-tabelas-de-meios-de-pagamento-para-vincula-o-com-o-split/normalized.json)
+- [Changelog](../../../../changelog/reforma-tributaria/informes-tecnicos/it-2026-001-v-1-00-tabelas-de-meios-de-pagamento-para-vincula-o-com-o-split.md)
+- [Proveniência resumida](../../../../sources/provenance/it-2026-001-v-1-00-tabelas-de-meios-de-pagamento-para-vincula-o-com-o-split.json)

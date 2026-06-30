@@ -271,3 +271,9 @@ MOC 7.0 - Anexo  IV, Padrões Técnicos de Contingência  O ff-line NFC-e
 - cancelar, se autorizada.
 
 ![Image](assets/image_000022_72e01bcbe9c4a8ceb2d6f1a5af20a30c122d852de5791c31a808cc561e1cab30.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfce/manuais/anexo-iv-manual-de-conting-ncia-nfc-e/source.json)
+- [Dados normalizados](../../../../normalized/nfce/manuais/anexo-iv-manual-de-conting-ncia-nfc-e/normalized.json)
+- [Changelog](../../../../changelog/nfce/manuais/anexo-iv-manual-de-conting-ncia-nfc-e.md)
+- [Proveniência resumida](../../../../sources/provenance/anexo-iv-manual-de-conting-ncia-nfc-e.json)

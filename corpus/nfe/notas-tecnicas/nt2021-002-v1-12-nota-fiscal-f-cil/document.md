@@ -465,3 +465,9 @@ Informações de embalagem do produto (infProdEmb) disponíveis apenas para tpEm
 | I87-10      | 55/65    | Tipo de emissão diferente de Nota Fiscal Fácil (tpEmis <> 3-NFF) ou NF-e Avulsa (procEmi=1 ou 2) e preenchida a embalagem do produto (infProdEmb) (NT 2021.002) | Obrig    |   833 | Rej      | Rejeição: Informada embalagem do produto |
 
 ![Image](assets/image_000027_2d69a3d5119340137ddd7ee3119c4458f0c508d5a4f5a2425405ec8474cb8392.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2021-002-v1-12-nota-fiscal-f-cil/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2021-002-v1-12-nota-fiscal-f-cil/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2021-002-v1-12-nota-fiscal-f-cil.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2021-002-v1-12-nota-fiscal-f-cil.json)

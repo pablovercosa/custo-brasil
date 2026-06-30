@@ -117,3 +117,9 @@ Seguem alguns exemplos de 'Consumo Indevido' dos Web Services existentes:
 | Consulta Status Serviço                         |  Aplicação em 'loop' consumindo o Web service em uma frequência maior do que a prevista.                                                                                                                                                                                                                                                                                                                                                                                 |
 
 NT 2018.002
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2018-002-v1-00/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2018-002-v1-00/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2018-002-v1-00.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2018-002-v1-00.json)

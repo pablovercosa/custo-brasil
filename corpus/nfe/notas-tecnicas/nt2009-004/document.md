@@ -145,3 +145,9 @@ Exemplo de XML de operação normal:
 - "ESTABELECIMENTO IMPEDIDO DE RECOLHER O ICMS/ISS PELO SIMPLES NACIONAL, NOS TERMOS DO § 1º DO ART. 20 DA LC 123/2006";
 
 "NÃO GERA DIREITO A CRÉDITO FISCAL DE IPI".
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2009-004/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2009-004/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2009-004.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2009-004.json)

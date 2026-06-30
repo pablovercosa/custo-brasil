@@ -68,3 +68,9 @@ Os prazos dessa atualização de tabelas estão documentados anteriormente, no i
 A tabela de combustíveis sujeitos à tributação monofásica do ICMS a ser utilizada na autorização de NF-e/NFC-e (modelos 55/65) é a tabela publicada no Portal Nacional da NF-e (www.nfe.fazenda.gov.br)  no  menu  "Documentos", "Diversos", "Vigentes",  denominada 'Tabela de códigos de combustíveis sujeitos à tributação monofásica de ICMS'. Essa tabela utiliza os códigos de produtos mantidos pela Agência Nacional de Petróleo, a ANP.
 
 Caso seja necessário conhecer mais sobre as tabelas da ANP que dão origem a esses códigos, outras informações podem ser obtidas no link: https://csa.anp.gov.br/informacoes/simp. Essas tabelas não são usadas no Serviço de Autorização dos Documentos Fiscais Eletrônicos, mas são úteis para as empresas que operam com combustível. Nesse link pode se efetuar o download de  um  arquivo  ZIP  com  as  Tabelas  de  Apoio  ao  I-SIMP  (Sistema  de  Informações  de Movimentação  de  Produtos),  da  Agência  Nacional  de  Petróleo,  sendo  o  arquivo  'T012 -Codigos\_de\_produtos' a principal referência para os códigos de combustíveis.
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/combustiveis/informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica/source.json)
+- [Dados normalizados](../../../../normalized/combustiveis/informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica/normalized.json)
+- [Changelog](../../../../changelog/combustiveis/informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica.md)
+- [Proveniência resumida](../../../../sources/provenance/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica.json)

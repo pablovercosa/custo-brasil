@@ -356,3 +356,9 @@ associado não sujeito ao regime regular do IBS e da CBS.
 - o Desativação ind\_gMonoPadrao: 550023
 - o Ativação ind\_gTribRegular: 550023
 - As atualizações de valores estão destacadas em verde nas respectivas visualizações. As linhas atualizadas podem ser identificadas pela data registrada na coluna DataAtualização = 15/04/2026.
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/reforma-tributaria/informes-tecnicos/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15/source.json)
+- [Dados normalizados](../../../../normalized/reforma-tributaria/informes-tecnicos/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15/normalized.json)
+- [Changelog](../../../../changelog/reforma-tributaria/informes-tecnicos/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15.md)
+- [Proveniência resumida](../../../../sources/provenance/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15.json)

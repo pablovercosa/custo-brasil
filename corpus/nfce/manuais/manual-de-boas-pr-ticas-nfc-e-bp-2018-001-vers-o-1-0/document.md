@@ -314,3 +314,9 @@ Deve se esperar um tempo de processamento inferior a 1 segundo no processamento 
 |   48 | 685-Rejeicao: Total do Valor Aproximado dos Tributos difere do somatório dos itens                         |    9.144 |     349 |
 |   49 | 660-Rejeicao: CFOP de Combustível e não informado grupo de combustível da NF-e                             |    8.728 |     230 |
 |   50 | 780-Rejeicao: NFC-e com valor total superior ao permitido                                                  |    8.447 |      11 |
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfce/manuais/manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0/source.json)
+- [Dados normalizados](../../../../normalized/nfce/manuais/manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0/normalized.json)
+- [Changelog](../../../../changelog/nfce/manuais/manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0.md)
+- [Proveniência resumida](../../../../sources/provenance/manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0.json)

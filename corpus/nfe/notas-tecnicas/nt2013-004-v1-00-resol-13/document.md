@@ -60,3 +60,9 @@ Incluída nova regra de validação, conforme segue:
 | #   | Campo   | Regra de validação                                                                                                                                                                                                                        | Aplic.   | Msg   | Efeito Descrição Erro   |
 |-----|---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------|-------------------------|
 |     |         | Emissão é anterior a 1301 (tag refNF/AAMM). Exceção 6 : Mesmo que informada a IE do destinatário, a regra de validação acima não se aplica para as operações com o CFOP 6.929 (Lançamento relativo a operação registrada em Cupom Fiscal) |          |       |                         |
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2013-004-v1-00-resol-13/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2013-004-v1-00-resol-13/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2013-004-v1-00-resol-13.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2013-004-v1-00-resol-13.json)

@@ -134,3 +134,9 @@ Ao  emitir  Nota  Fiscal  Eletrônica  Modelo  55  (NF-e),  os  transmissores  d
 Os  campos  relativos  aos  tributos  federais  (PIS,  COFINS  e  IPI)  deverão  ser  informados conforme as respectivas legislações.
 
 ![Image](assets/image_000008_fa0702d955869ce14748a0190d1d3dc7d8792f325387ac545cbff7b980d64a87.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica.json)

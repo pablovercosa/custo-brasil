@@ -105,3 +105,9 @@ A placa do veículo estrangeiro deverá ser informada em  informações  complem
 - A regra será aplicada somente nas notas fiscais de  saída;
 - A validação do valor total das notas fiscais de fa turamento de veículos novos não deve considerar o valor informado no campo vST ( id:W06);
 - Esta regra será aplicada no ambiente de produção a  partir de 01/02/2012.
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2011-005/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2011-005/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2011-005.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2011-005.json)

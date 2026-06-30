@@ -702,3 +702,9 @@ Inclusão do campo cBenefRBC após o campo pRedBC para informar código de benef
 | 209.01 | N14a | cBenefRBC | Código de Benefício Fiscal na UF aplicado ao item quando houver RBC. | E N07 | C          | 0-1     | 8,10   | Código de Benefício Fiscal utilizado pela UF, aplicado ao item quando houver RBC. Obs .: Deve ser utilizado o mesmo código adotado na EFD e outras declarações, nas UF que o exigem. (Incluído na NT 2019.001) |
 
 ![Image](assets/image_000027_1857d0fdbddd456703a491b1e68deb7977929d61dae22cc62682c66e16668aba.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2019-001-v1-70-regras-de-valida-o/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2019-001-v1-70-regras-de-valida-o/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2019-001-v1-70-regras-de-valida-o.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2019-001-v1-70-regras-de-valida-o.json)

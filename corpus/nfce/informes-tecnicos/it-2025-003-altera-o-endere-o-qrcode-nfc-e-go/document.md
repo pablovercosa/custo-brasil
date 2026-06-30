@@ -76,3 +76,9 @@ Não há alteração na RV, apenas mudou a URL de Goiás utilizada para fazer a 
 ## Fluxo temporal da alteracao da URL da consulta QRCode da NFC-e em Goias
 
 ![Image](assets/image_000005_fc3ea1cbba907e745691e5ca3faeb301f9824ac9e46bd451dd17d689d650e9f7.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfce/informes-tecnicos/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go/source.json)
+- [Dados normalizados](../../../../normalized/nfce/informes-tecnicos/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go/normalized.json)
+- [Changelog](../../../../changelog/nfce/informes-tecnicos/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go.md)
+- [Proveniência resumida](../../../../sources/provenance/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go.json)

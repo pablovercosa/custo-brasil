@@ -1033,3 +1033,9 @@ Nota Fiscal de Água e Saneamento Eletrônica
 MOC 1.00h
 
 ![Image](assets/image_000050_f34eb2ad8de0f0b9acbf1babbac23d32a6d47976a7c1d3fb849ceee096f09945.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfag/manuais/moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k/source.json)
+- [Dados normalizados](../../../../normalized/nfag/manuais/moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k/normalized.json)
+- [Changelog](../../../../changelog/nfag/manuais/moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k.md)
+- [Proveniência resumida](../../../../sources/provenance/moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k.json)

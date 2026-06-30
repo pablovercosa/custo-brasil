@@ -194,3 +194,9 @@ Também é critério da UF o estabelecimento de outras medidas de controle, de a
 | GRAXAS INTERMEDIÁRIOS                      |    660101001 |
 
 ![Image](assets/image_000007_1579623726fbb78ac459a3bcdbd83bb1967e3fb1f957a20ab69c4af094c461d7.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2013-001-manifestacao-combustivel/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2013-001-manifestacao-combustivel/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2013-001-manifestacao-combustivel.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2013-001-manifestacao-combustivel.json)

@@ -98,3 +98,9 @@ Essa NT não gera grandes impactos de desenvolvimento para os contribuintes, per
 | U01-20 55/65       | Informado grupo de tributação do ISSQN (id:U01) sem informar nenhum grupo de ICMS (id:N01) Exceção: A critério da UF poderá ser autorizada/vedada a emissão de NF-e/NFC-e que só tenham itens sujeitos ao ISSQN. (NT 2010/010); Parametrizações possíveis: - 0 =Não aceita item de Serviço; - 1 =Aceita item de Serviço; - 2 =Aceita item de Serviço somente na NF-e/NFC-e conjugada (que contenha também itens de ICMS). | Facul.   | 592 Rej.     | Rejeição: A NF-e deve ter pelo menos um item de produto sujeito ao ICMS. |
 
 ![Image](assets/image_000008_6cba6ea60d678d8b48b6098c14418cea2618e407b71128547241906d30a6da96.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2022-004-v1-10-regras-de-valida-o-issqn/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2022-004-v1-10-regras-de-valida-o-issqn/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2022-004-v1-10-regras-de-valida-o-issqn.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2022-004-v1-10-regras-de-valida-o-issqn.json)

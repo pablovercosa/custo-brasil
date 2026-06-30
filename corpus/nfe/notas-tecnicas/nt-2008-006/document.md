@@ -104,3 +104,9 @@ O domínio do campo tpEmis (ID=B22) foi alterado para aceitar os seguintes valor
 - Campo cProdANP (ID=L102)  -  alterado  para  preenchimento  obrigatório  quando  o grupo de informações específicas para combustíveis líquidos ( comb ) for informado. Caso  o  produto  não  seja  regulado  pela  ANP  -  Agência  Nacional  de  Petróleo,  o campo deverá ser preenchido com o literal 999999999.
 
 A alteração do Manual de Integração para registro da implementação será realizada quando publicarmos uma nova versão oficial do Manual de Integração.
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2008-006/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2008-006/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2008-006.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2008-006.json)

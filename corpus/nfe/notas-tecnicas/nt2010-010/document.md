@@ -342,3 +342,9 @@ A informação de que o imposto foi parcialmente diferido e o seu valor seguido 
 - (*2) O tamanho da IE deve ser normalizado, na aplicação da SEFAZ, com acréscimo de zeros não significativos, se necessário, antes da verificação do dígito de controle.
 
 (*3) Considerar uma tolerância de R$ 1,00 para mais ou para menos.
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2010-010/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2010-010/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2010-010.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2010-010.json)

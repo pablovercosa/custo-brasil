@@ -543,3 +543,9 @@ private void geraAssinaturaDigitalXML () { // Passo 1: Obter os objetos principa
 | SINIEF.........................Sistema Nacional Integrado de Informações Econômico-Fiscais                                                                                                 |
 | TI .................................Tecnologia da Informação                                                                                                                               |
 | XML............................Extended Markup Language                                                                                                                                    |
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/manuais/manual-usuarios-svrs/source.json)
+- [Dados normalizados](../../../../normalized/nfe/manuais/manual-usuarios-svrs/normalized.json)
+- [Changelog](../../../../changelog/nfe/manuais/manual-usuarios-svrs.md)
+- [Proveniência resumida](../../../../sources/provenance/manual-usuarios-svrs.json)

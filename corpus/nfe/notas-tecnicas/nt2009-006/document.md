@@ -2002,3 +2002,9 @@ A identificação de que o SCAN foi ativado pela SEFAZ será através do serviç
 - 107 - Serviço em Operação;
 - 114 - SCAN desabilitado pela SEFAZ Origem;
 - 113 - SCAN será desabilitado para a UF às hh:mm;
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2009-006/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2009-006/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2009-006.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2009-006.json)

@@ -41,3 +41,9 @@ Os  schemas  XML  e  instruções  para  a  implantação  do  Pacote  de  Liber
 Até  o  dia  30/11/2007,  será  publicado  o  Pacote  de  Liberação  006  (Versão  1.11), contendo  as  alterações "mínimas" descritas  no  Manual  de  Contingência  e necessárias para implementação do Sistema de Contingência do Ambiente Nacional (SCAN).
 
 A versão do Pacote de Liberação 006 (Versão 1.11), será liberada, em ambiente de homologação, a partir de 28/02/2008.  Esta versão entrará em produção a partir de 24/03/2008.
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2007-004/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2007-004/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2007-004.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2007-004.json)

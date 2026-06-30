@@ -328,3 +328,9 @@ Nota: A SEFAZ autorizadora poderá aceitar o cancelamento fora de prazo, mantend
 |      920 | Rejeição: Tipo de Emissão inválido no Cancelamento por Substituição                                                         |
 
 ![Image](assets/image_000016_7960d33f2b154f941221050690ae870cb6f1c389263b12926bbfcde80ed5f207.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfce/notas-tecnicas/nt-2018-004-cancelamento-por-substitui-o-da-nfc-e/source.json)
+- [Dados normalizados](../../../../normalized/nfce/notas-tecnicas/nt-2018-004-cancelamento-por-substitui-o-da-nfc-e/normalized.json)
+- [Changelog](../../../../changelog/nfce/notas-tecnicas/nt-2018-004-cancelamento-por-substitui-o-da-nfc-e.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2018-004-cancelamento-por-substitui-o-da-nfc-e.json)

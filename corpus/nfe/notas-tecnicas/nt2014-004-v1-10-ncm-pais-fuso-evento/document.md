@@ -152,3 +152,9 @@ Eliminadas as regras de validação abaixo:
 | I08-100      | 55       | CFOP de Operação com Exterior (inicia por 3 ou 7) e não informada TAG NCM (id:I05) completo (8 posições) Exceção : O item de Serviço da NF-e (id:U01) conjugada pode ter NCM = '00' (NT 2010/010) | Facult.  |   524 | Rej.     | Rejeição: CFOP de Operação com Exterior e não informado NCM completa    |
 | O07-10       | 55/65    | Informada tributação do IPI (id:O07) sem informar a TAG NCM (id:I05) completo (8 posições)                                                                                                        | Facult.  |   529 | Rej.     | Rejeição: NCM de informação obrigatória para produto tributado pelo IPI |
 | I05-40       | 55/65    | Se informado Capítulo do NCM (2 posições): - Capítulo do NCM inválido (77, 98, 99)                                                                                                                | Obrig.   |   779 | Rej.     | Rejeição: Informado Capítulo do NCM inexistente                         |
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2014-004-v1-10-ncm-pais-fuso-evento/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2014-004-v1-10-ncm-pais-fuso-evento/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2014-004-v1-10-ncm-pais-fuso-evento.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2014-004-v1-10-ncm-pais-fuso-evento.json)

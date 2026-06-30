@@ -71,3 +71,9 @@ No link informado, pode se efetuar o download de um arquivo ZIP com as Tabelas d
 Nesta versão 1.10 foram acrescentados 16 novos códigos, quais sejam: 840101003 - 840101004 - 620101009 - 610502001 - 610502002 - 620501003 - 620503001 - 420107001 - 611402001 - 611302001 - 610601002 - 610702001 - 611501001 - 611401001 - 611402002 - 610503001
 
 ![Image](assets/image_000005_320ce71d1eb081a7bf1cebc2fc95112e6fc933ea1e98d057f64948b9f529f73e.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/combustiveis/informes-tecnicos/it-2023-001-v1-10-tabela-cprodanp/source.json)
+- [Dados normalizados](../../../../normalized/combustiveis/informes-tecnicos/it-2023-001-v1-10-tabela-cprodanp/normalized.json)
+- [Changelog](../../../../changelog/combustiveis/informes-tecnicos/it-2023-001-v1-10-tabela-cprodanp.md)
+- [Proveniência resumida](../../../../sources/provenance/it-2023-001-v1-10-tabela-cprodanp.json)

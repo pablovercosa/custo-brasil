@@ -1189,3 +1189,9 @@ A Consulta Completa, individualmente realizada através da Internet nos portais 
 ## 6.2. Consulta Resumida da NF-e ABI
 
 Para as situações não enquadradas na Consulta Completa, o acesso aos dados da NF-e ABI só será possível através da consulta resumida.
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta/source.json)
+- [Dados normalizados](../../../../normalized/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta/normalized.json)
+- [Changelog](../../../../changelog/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta.md)
+- [Proveniência resumida](../../../../sources/provenance/moc-nfe-abi-vis-o-geral-v1-00-minuta.json)

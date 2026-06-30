@@ -818,3 +818,9 @@ Na  venda  de  óleo  diesel  B  realizada  pela  refinaria  de  petróleo  ou  
 ![Image](assets/image_000050_b5d4b4916c988e86537b160df468fb187429a371c9ff629689ccc8524ac12150.png)
 
 ![Image](assets/image_000051_5740b01e9b7f5d7d975a23f4e12b34fed4d2a0d4c4f2f4249027d0373eaf79be.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/combustiveis/notas-tecnicas/nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis/source.json)
+- [Dados normalizados](../../../../normalized/combustiveis/notas-tecnicas/nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis/normalized.json)
+- [Changelog](../../../../changelog/combustiveis/notas-tecnicas/nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis.json)

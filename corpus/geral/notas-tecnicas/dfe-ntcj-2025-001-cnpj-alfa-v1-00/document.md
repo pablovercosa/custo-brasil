@@ -366,3 +366,9 @@ class CNPJ { static tamanhoCNPJSemDV = 12; static regexCNPJSemDV = /^([A-Z\d]){1
 ```
 Public Class ChaveAcesso Private Const TamanhoChaveAcessoSemDV = 43 Public Shared Function ValidaDigitoChaveAcesso(ByVal chaveAcesso As String) As Boolean 'Verifica DV Dim digito As Char = CalculaDigitoVerificadorChaveAcesso(chaveAcesso).ToString() If digito <> chaveAcesso.Substring(43, 1) Then Return False Else Return True End If 'Verifica demais informações da chAcesso (UF, CNPJ, AAAAMM emissão, caracteres inválidos, ...) ' ... ' ... End Function Public Shared Function CalculaDigitoVerificadorChaveAcesso(chaveAcesso As String) As Integer 'Converte a string em um array de bytes, onde cada byte representa o código ASCII do caractere subtraído de 48 Dim chAcessoBytes(TamanhoChaveAcessoSemDV - 1) As Byte For i As Integer = 0 To TamanhoChaveAcessoSemDV - 1 chAcessoBytes(i) = CByte(Asc(chaveAcesso(i)) - 48) Next Dim soma As Integer = 0 Dim peso As Integer = 2 ' multiplicador vai de 9 a 2 'Começa do final For i As Integer = TamanhoChaveAcessoSemDV - 1 To 0 Step -1 soma = soma + Convert.ToInt32(chAcessoBytes(i)) * peso peso += 1 If peso > 9 Then peso = 2 Next Dim dv As Integer = 11 - (soma Mod 11) If dv >= 10 Then dv = 0 End If Return dv End Function End Class
 ```
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/geral/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00/source.json)
+- [Dados normalizados](../../../../normalized/geral/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00/normalized.json)
+- [Changelog](../../../../changelog/geral/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00.md)
+- [Proveniência resumida](../../../../sources/provenance/dfe-ntcj-2025-001-cnpj-alfa-v1-00.json)

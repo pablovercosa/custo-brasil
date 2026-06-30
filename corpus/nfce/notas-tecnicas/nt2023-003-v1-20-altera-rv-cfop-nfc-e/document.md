@@ -129,3 +129,9 @@ Para permitir a emissão NF-e utilizando o CFOP 5.403 ou 5.405 com o CST 90 ou c
 
 | Exceção 9: A regra de validação não se aplica para o CST=30 (Isenta ou não tributada e com cobrança do ICMS por substituição tributária), em operação interestadual (idDest=2) na aquisição de energia elétrica em Ambiente de Contratação Livre (ACL) com NCM: 27160000 (NT 2020.005). Observação: Para a UF do CE, poderá ser permitido o uso do CST 90 com o CFOP 5.403 ou 5.405.   |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfce/notas-tecnicas/nt2023-003-v1-20-altera-rv-cfop-nfc-e/source.json)
+- [Dados normalizados](../../../../normalized/nfce/notas-tecnicas/nt2023-003-v1-20-altera-rv-cfop-nfc-e/normalized.json)
+- [Changelog](../../../../changelog/nfce/notas-tecnicas/nt2023-003-v1-20-altera-rv-cfop-nfc-e.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2023-003-v1-20-altera-rv-cfop-nfc-e.json)

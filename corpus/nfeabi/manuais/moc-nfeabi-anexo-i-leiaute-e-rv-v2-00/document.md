@@ -1107,3 +1107,9 @@ NF-e ABI - Anexo I, Leiaute e Regras de Validação
 | 7E10-10     | Código do Município do Destinatário diverge do cadastrado na UF |   482 | Rej.     | Rejeição: Código do Município do Destinatário diverge do cadastrado na UF |
 
 ![Image](assets/image_000047_33d8d844951eae8026d2b4be9cff62a1204136f1a2551c7cbacde273af8f5797.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfeabi/manuais/moc-nfeabi-anexo-i-leiaute-e-rv-v2-00/source.json)
+- [Dados normalizados](../../../../normalized/nfeabi/manuais/moc-nfeabi-anexo-i-leiaute-e-rv-v2-00/normalized.json)
+- [Changelog](../../../../changelog/nfeabi/manuais/moc-nfeabi-anexo-i-leiaute-e-rv-v2-00.md)
+- [Proveniência resumida](../../../../sources/provenance/moc-nfeabi-anexo-i-leiaute-e-rv-v2-00.json)

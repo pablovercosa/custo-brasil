@@ -366,3 +366,9 @@ Nota 4: Nesta nova versão do layout do qrCode não existe a necessidade de info
 |      853 | Rejeição: Dados de cobrança não devem ser informados para pagamento à vista           |
 
 ![Image](assets/image_000010_c0685413c6dd71f7761b16dd582dde7c9cb80cb2c19b7a67a1e92057e7a1b4f2.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfce/notas-tecnicas/nt2025-001-v1-03-nfce-qrcode-v3-corrigido/source.json)
+- [Dados normalizados](../../../../normalized/nfce/notas-tecnicas/nt2025-001-v1-03-nfce-qrcode-v3-corrigido/normalized.json)
+- [Changelog](../../../../changelog/nfce/notas-tecnicas/nt2025-001-v1-03-nfce-qrcode-v3-corrigido.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2025-001-v1-03-nfce-qrcode-v3-corrigido.json)

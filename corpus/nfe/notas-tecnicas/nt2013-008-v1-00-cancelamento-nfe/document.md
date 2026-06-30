@@ -73,3 +73,9 @@ Nota  (*3):  Evento  da  NF-e  em  processo  de  implantaçã o,  com  a  leitur
 |      690 | Rejeição: Pedido de Cancelamento para NF-e com CT-e ou MDF-e                         |
 
 Obs.: Alterada a descrição da mensagem de erro 690,  já existente, incluindo no final da descrição a re ferência ao 'MDF-e'.
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2013-008-v1-00-cancelamento-nfe/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2013-008-v1-00-cancelamento-nfe/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2013-008-v1-00-cancelamento-nfe.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2013-008-v1-00-cancelamento-nfe.json)

@@ -621,3 +621,9 @@ Caso exista unicamente o EPEC, a Consulta Pública d a NFC-e deverá mostrar os 
 
 1. Recomendado a não utilização de caracteres espec iais ou acentuação nos textos das mensagens de erro.
 2. Recomendado que o campo xMotivo da mensagem de erro para o código 999 seja informado com a mensagem de erro do aplicativo ou do sistema que gerou a exceção não prevista.
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfce/notas-tecnicas/nt2014-003-v1-02/source.json)
+- [Dados normalizados](../../../../normalized/nfce/notas-tecnicas/nt2014-003-v1-02/normalized.json)
+- [Changelog](../../../../changelog/nfce/notas-tecnicas/nt2014-003-v1-02.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2014-003-v1-02.json)

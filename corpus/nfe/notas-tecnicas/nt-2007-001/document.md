@@ -112,3 +112,9 @@ Correção do erro de referência no " include " existente no Schema cadEmiDFe\_
 - &lt; xs:include schemaLocation =" LeiauteCadastroEmissorDFe\_v1.01.xsd " /&gt;
 
 As  dúvidas  e  sugestões  devem  ser  encaminhadas  através  do  Canal  Fale  Conosco  da Secretaria  da  Fazenda  de  São  Paulo  (http://www.fazenda.sp.gov.br/email/default2.asp) referente à 'Nota Fiscal eletrônica'.
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2007-001/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2007-001/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2007-001.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2007-001.json)

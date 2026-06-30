@@ -318,3 +318,9 @@ Cronograma para validar a exigência de preenchimento do GTIN no campo cEAN (RV 
 |    | Qualquer   | Qualquer NCM   |           | futura               |
 |----|------------|----------------|-----------|----------------------|
 | XI | CNAE       |                | 01/dez/18 | Implementação futura |
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2017-001-v1-50/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2017-001-v1-50/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2017-001-v1-50.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2017-001-v1-50.json)

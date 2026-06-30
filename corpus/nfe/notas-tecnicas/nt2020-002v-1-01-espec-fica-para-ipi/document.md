@@ -309,3 +309,9 @@ Seguem as regras de validação relativas aos campos citados no item 2.
 | 607 | Redução | Padis - Art. 150 do Decreto 7.212/2010                                                                                                                                                                                                                           |
 | 608 | Redução | Patvd - Art. 158 do Decreto 7.212/2010                                                                                                                                                                                                                           |
 | 999 | Outros  | Tributação normal IPI; Outros                                                                                                                                                                                                                                    |
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2020-002v-1-01-espec-fica-para-ipi/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2020-002v-1-01-espec-fica-para-ipi/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2020-002v-1-01-espec-fica-para-ipi.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2020-002v-1-01-espec-fica-para-ipi.json)

@@ -99,3 +99,9 @@ O objetivo deste Informe Técnico é divulgar as alterações da Tabela de Meios
 - Alteração da descrição do código 18 e da observação código 20.
 
 ![Image](assets/image_000005_4f9a488334e876a9d02c08445552814b5c3c359ee900e373fdddfea5bd3a9161.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026/source.json)
+- [Dados normalizados](../../../../normalized/nfe/informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026/normalized.json)
+- [Changelog](../../../../changelog/nfe/informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026.md)
+- [Proveniência resumida](../../../../sources/provenance/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026.json)

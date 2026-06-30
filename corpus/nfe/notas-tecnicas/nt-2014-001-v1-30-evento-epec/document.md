@@ -668,3 +668,9 @@ NFe
 
 1. Recomendado a não utilização de caracteres especiais ou acentuação nos textos das mensagens de erro.
 2. Recomendado que o campo xMotivo da mensagem de erro para o código 999 seja informado com a mensagem de erro do aplicativo ou do sistema que gerou a exceção não prevista.
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2014-001-v1-30-evento-epec/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2014-001-v1-30-evento-epec/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2014-001-v1-30-evento-epec.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2014-001-v1-30-evento-epec.json)

@@ -1107,3 +1107,9 @@ Ocorr: 0 - 1 (opcional sem repetição), 1 - 1 (obrigatório sem repetição), 0
 | D40   | 0, 1, 2, 3, 4, 5                                       |
 
 ![Image](assets/image_000051_215fa58a8b76908b51c6aa23ac2569f73742a2d82d65d9e97cbe0304de8d8710.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfgas/manuais/moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f/source.json)
+- [Dados normalizados](../../../../normalized/nfgas/manuais/moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f/normalized.json)
+- [Changelog](../../../../changelog/nfgas/manuais/moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f.md)
+- [Proveniência resumida](../../../../sources/provenance/moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f.json)

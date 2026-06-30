@@ -161,3 +161,9 @@ Para aquela que ficou pendente de retorno (a nota n° 20 desse exemplo):
 
 - inutilizar a numeração, se não autorizada; ou
 - cancelar, se autorizada.
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfce/manuais/manual-de-especificacoes-tecnicas-da-contingencia-off-line-versao-2-0/source.json)
+- [Dados normalizados](../../../../normalized/nfce/manuais/manual-de-especificacoes-tecnicas-da-contingencia-off-line-versao-2-0/normalized.json)
+- [Changelog](../../../../changelog/nfce/manuais/manual-de-especificacoes-tecnicas-da-contingencia-off-line-versao-2-0.md)
+- [Proveniência resumida](../../../../sources/provenance/manual-de-especificacoes-tecnicas-da-contingencia-off-line-versao-2-0.json)

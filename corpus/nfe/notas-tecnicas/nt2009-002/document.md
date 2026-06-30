@@ -62,3 +62,9 @@ NFe99999999999999999999999999999999999999999999
 8. o 9946 - A DESIGNAR
 9. o 9950 - BANCOS CENTRAIS
 10. o 9970 - ORGANIZACOES INTERNACIONAIS
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2009-002/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2009-002/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2009-002.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2009-002.json)

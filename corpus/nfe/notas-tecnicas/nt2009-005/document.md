@@ -1659,3 +1659,9 @@ Código de Situação da Operação - Simples Nacional ( CSOSN)
 |   421 | ZC13   | vFor      | Valor dos Fornecimentos                          | E   | ZC01   | N   | 1-1   | 15     |    2 | Valor dos Fornecimentos v2.0                      |
 |   422 | ZC14   | vTotDed   | Valor Total da Dedução                           | E   | ZC01   | N   | 1-1   | 15     |    2 | Valor das deduções v2.0                           |
 |   423 | ZC15   | vLiqFor   | Valor Líquido dos Fornecimentos                  | E   | ZC01   | N   | 1-1   | 15     |    2 | Valor Líquido dos Fornecimentos v 2.0             |
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2009-005/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2009-005/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2009-005.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2009-005.json)

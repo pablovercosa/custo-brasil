@@ -3987,3 +3987,9 @@ MOC 7.0 - Anexo  I, Leiaute e Regras  de Validação da NF-e e da NFC-e
 
 1. Recomendada a não utilização de caracteres especiais ou acentuação nos textos das mensagens de erro.
 2. Recomendado que o campo xMotivo da mensagem de erro para o código 999 seja informado com a mensagem de erro do aplicativo ou do sistema que gerou a exceção não prevista.
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/manuais/anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e/source.json)
+- [Dados normalizados](../../../../normalized/nfe/manuais/anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e/normalized.json)
+- [Changelog](../../../../changelog/nfe/manuais/anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e.md)
+- [Proveniência resumida](../../../../sources/provenance/anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e.json)

@@ -393,3 +393,9 @@ NT 2023.004 - Informações de Pagamentos e Outros
 |      961 | Rejeição: CNPJ transacional do pagamento inválido [nOcor:999]                   |
 |      963 | Rejeição: Tipo de pagamento não aceita o grupo de cartões ou boletos[nOcor:999] |
 |      965 | Rejeição: Valor do troco acima do permitido                                     |
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2023-004-v1-20-campos-e-regras/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2023-004-v1-20-campos-e-regras/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2023-004-v1-20-campos-e-regras.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2023-004-v1-20-campos-e-regras.json)

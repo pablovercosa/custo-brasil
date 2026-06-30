@@ -95,3 +95,9 @@ Esta mensagem será  rejeitada pelo Web Service da SEFAZ com motivo: Rejeição:
 Todos os caracteres de ed caracteres de edição devem ser eliminados como segue: ão devem ser eliminados como segue:
 
 &lt;?xml version="1.0" encoding="UTF ttp://www.portalfiscal.inf.br/nfe" versao=" pAmb&gt;&lt;cUF&gt;35&lt;/cUF&gt;&lt;xServ&gt;STATUS&lt;/xServ&gt;&lt;/consStatServ " encoding="UTF-8"?&gt;&lt;consStatServ xmlns="h rtalfiscal.inf.br/nfe" versao="2.00"&gt;&lt;tpAmb&gt;2&lt;/t pAmb&gt;&lt;cUF&gt;35&lt;/cUF&gt;&lt;xServ&gt;STATUS&lt;/xServ&gt;&lt;/consStatServ 8"?&gt;&lt;consStatServ xmlns="h "&gt;&lt;tpAmb&gt;2&lt;/t pAmb&gt;&lt;cUF&gt;35&lt;/cUF&gt;&lt;xServ&gt;STATUS&lt;/xServ&gt;&lt;/consStatServ&gt;
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2010-009/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2010-009/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2010-009.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2010-009.json)

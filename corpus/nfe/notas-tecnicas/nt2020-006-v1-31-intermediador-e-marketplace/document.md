@@ -346,3 +346,9 @@ NT 2020.006
 Portanto, para efeitos do CNPJ da instituição de pagamento, deve ser informada a instituição/empresa que fez o repasse de pagamento para o vendedor/remetente. Em outras palavras, o CNPJ do adquirente, subadquirente, intermediador ou instituição similar que efetuou o pagamento ao vendedor.
 
 ![Image](assets/image_000013_da658237aa376966f8852e3b33a045ef546498c0d51671456e896bc157e4975b.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2020-006-v1-31-intermediador-e-marketplace.json)

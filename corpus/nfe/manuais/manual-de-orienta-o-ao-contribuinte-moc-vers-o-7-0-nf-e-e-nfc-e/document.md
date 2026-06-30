@@ -5729,3 +5729,9 @@ FCP: FUNDO DE COMBATE À POBREZA DO ESTADO DESTINATÁRIO
 | Campos (tag)                                   | vFCPUFDest                                     | (soma dos itens)                               | R$ 40,00                                       | R$ 40,00                                       | R$ 40,00                                       | R$ 40,00                                       |
 | Campos (tag)                                   | vICMSUFDest                                    | (soma dos itens)                               | R$ 156,00                                      | R$ 156,00                                      | R$ 156,00                                      | R$ 156,00                                      |
 | Campos (tag)                                   | vICMSUFRemet                                   | (soma dos itens)                               | R$ 234,00                                      | R$ 234,00                                      | R$ 234,00                                      | R$ 234,00                                      |
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/manuais/manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e/source.json)
+- [Dados normalizados](../../../../normalized/nfe/manuais/manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e/normalized.json)
+- [Changelog](../../../../changelog/nfe/manuais/manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e.md)
+- [Proveniência resumida](../../../../sources/provenance/manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e.json)

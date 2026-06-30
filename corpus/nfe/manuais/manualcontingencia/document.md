@@ -1389,3 +1389,9 @@ URL da página web para consulta de DPEC do ambiente de produção:
 https://www.nfe.fazenda.gov.br/portal/DPEC/ConsultaDPEC.aspx
 
 ![Image](assets/image_000080_dc3e0141ee4bae2e70e4835987f0a761bbd56b7ba200359eec527570d5ad1b27.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/manuais/manualcontingencia/source.json)
+- [Dados normalizados](../../../../normalized/nfe/manuais/manualcontingencia/normalized.json)
+- [Changelog](../../../../changelog/nfe/manuais/manualcontingencia.md)
+- [Proveniência resumida](../../../../sources/provenance/manualcontingencia.json)

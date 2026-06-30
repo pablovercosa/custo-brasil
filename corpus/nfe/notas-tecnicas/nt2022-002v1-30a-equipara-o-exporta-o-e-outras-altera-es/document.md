@@ -320,3 +320,9 @@ NT 2022.002
 | poderão ser preenchidos com o CNPJ do próprio emitente do documento fiscal. (NT 2015.002)                                                                                                                                                                                                                                                                                                           |          |       |        |                                                                 |                                                                 |                                                                 |                                                                 |                                                                 |                                                                 |                                                                 |                                                                 |                                                                 |                                                                 |                                                                 |                                                                 |                                                                 |                                                                 |
 
 13
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es.json)

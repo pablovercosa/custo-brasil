@@ -88,3 +88,9 @@ Conteúdo acessível em Libras usando o VLibras Widget com opções dos Avatares
 Conteúdo acessível em Libras usando o VLibras Widget com opções dos Avatares Ícaro, Hosana ou Guga.
 
 <!-- image -->
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources//nfe/Estado de RJ/cbenef-rj-html/source.json)
+- [Dados normalizados](../../../../normalized/nfe/Estado de RJ/cbenef-rj-html/normalized.json)
+- [Changelog](../../../../changelog/nfe/Estado de RJ/cbenef-rj-html.md)
+- [Proveniência resumida](../../../../sources/provenance/cbenef-rj-html.json)

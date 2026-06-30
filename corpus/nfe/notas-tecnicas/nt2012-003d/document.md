@@ -585,3 +585,9 @@ Exemplo de alguns Códigos da ANP para combustíveis e lubrificantes.
 | TURBINA LEVE                             | 610101007 |
 | TURBINA PESADO                           | 610101008 |
 | VASELINA                                 | 640301001 |
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2012-003d/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2012-003d/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2012-003d.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2012-003d.json)

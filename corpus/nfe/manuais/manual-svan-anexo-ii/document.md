@@ -179,3 +179,10 @@ t.  No local definido e com o nome do arquivo especificado, estará salvo um arq
 |                                                                                                                                                                                                                |
 | Na seção 6 do documento "Orientações de Utilização do Sefaz Virtual Ambiente Nacional para as Empresas" estão apresentadas as URLs de todos os serviços disponibilizados pela Sefaz Virtual aos contribuintes. |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/manuais/manual-svan-anexo-ii/source.json)
+- [Dados normalizados](../../../../normalized/nfe/manuais/manual-svan-anexo-ii/normalized.json)
+- [Changelog](../../../../changelog/nfe/manuais/manual-svan-anexo-ii.md)
+- [Proveniência resumida](../../../../sources/provenance/manual-svan-anexo-ii.json)

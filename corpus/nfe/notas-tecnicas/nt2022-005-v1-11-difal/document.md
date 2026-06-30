@@ -144,3 +144,9 @@ NT 2022.005 - ICMS na Operação Interestadual em Venda a Consumidor Final
 |      694 | Rejeição: Não informado o grupo de ICMS para a UF de destino [nItem:999]              |
 
 ![Image](assets/image_000009_aae72a9f0f5ccc87fb5330edf90aecc9a8996adb17b17d4a252129aacc6fdce0.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2022-005-v1-11-difal/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2022-005-v1-11-difal/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2022-005-v1-11-difal.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2022-005-v1-11-difal.json)

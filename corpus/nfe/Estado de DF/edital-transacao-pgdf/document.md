@@ -367,3 +367,9 @@ CASSINO TEIXEIRA
 Subsecretaria da Receita
 
 SBN. Qd. 02 Ed. Vale do Rio Doce 7º andar CEP: 70.040-909 Secretaria de Estado de Economia do Distrito Federal Central 156, Opção 3 (ligações locais) 0800-644-0156 (demais localidades)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources//nfe/Estado de DF/edital-transacao-pgdf/source.json)
+- [Dados normalizados](../../../../normalized/nfe/Estado de DF/edital-transacao-pgdf/normalized.json)
+- [Changelog](../../../../changelog/nfe/Estado de DF/edital-transacao-pgdf.md)
+- [Proveniência resumida](../../../../sources/provenance/edital-transacao-pgdf.json)

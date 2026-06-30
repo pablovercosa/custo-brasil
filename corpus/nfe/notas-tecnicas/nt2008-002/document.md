@@ -79,3 +79,9 @@ Divulga  a  errata  de  correção  de  texto  do  Manual  de  Integração  do 
 |   245 | N23   | vICMSST   | Valor do ICMS ST                 | E   | N10   | N   | 1-1   |  15 |   2 | Valor do ICMS ST retido |
 
 As dúvidas e sugestões devem ser encaminhadas através do Canal Fale Conosco da Secretaria da Fazenda de São Paulo (http://www.fazenda.sp.gov.br/email/default2.asp) referente à 'Portaria CAT 104/07'.
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2008-002/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2008-002/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2008-002.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2008-002.json)

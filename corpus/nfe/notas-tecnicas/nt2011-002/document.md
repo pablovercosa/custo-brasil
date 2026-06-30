@@ -101,3 +101,9 @@ Esta regra será aplicada a partir do dia 01/05/2011  em ambiente de homologaç�
 |   597 | Rejeição: NF-e emitida em ambiente de homologação c om CNPJ do destinatário diferente de 99999999000191                                                      |
 |   598 | Rejeição: NF-e emitida em ambiente de homologação c om Razão Social do destinatário diferente de NF-E E MITIDA EM AMBIENTE DE HOMOLOGACAO - SEM VALOR FISCAL |
 |   599 | Rejeição: NF-e emitida em ambiente de homologação c om IE do destinatário diferente de vazio                                                                 |
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2011-002/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2011-002/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2011-002.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2011-002.json)

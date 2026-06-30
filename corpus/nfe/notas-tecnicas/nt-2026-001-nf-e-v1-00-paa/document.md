@@ -311,3 +311,9 @@ NT 2026.001 Versão 1.00
 | P09-10 | Tipo do ambiente difere do ambiente do Web Service (*1) Para DF-e emitido com PAA ambiente deve ser o da SVRS. Observação: Deve ser implementado em todos ambientes autorizadores de NF-e / NFC-e. | Obrig.   |   252 | Rej.     | Rejeição: Ambiente informado diverge do Ambiente de recebimento |
 
 ![Image](assets/image_000022_6d5b0ef803bc3d1c799f36100b7755ff5046a9f47065a8c47f58ac4315b987e2.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2026-001-nf-e-v1-00-paa/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2026-001-nf-e-v1-00-paa/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2026-001-nf-e-v1-00-paa.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2026-001-nf-e-v1-00-paa.json)

@@ -4007,3 +4007,9 @@ Alterada a descrição de alguns Códigos de Erros no Manual do Contribuinte (it
 ## D02.2 Mensagens de Erro: Novas Mensagens
 
 Alterada a tabela de Códigos de Erro, no Manual do Contribuinte (item 5.1.1), com a inclusão de novas regras de validação. Vide as novas Regras de Validação descritas nesta NT.
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2013-005-v1-22/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2013-005-v1-22/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2013-005-v1-22.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2013-005-v1-22.json)

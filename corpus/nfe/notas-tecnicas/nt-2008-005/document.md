@@ -86,3 +86,9 @@ A  alteração  cria  uma  exceção  na  regra  de  validação da  Inscrição
 | G14                                      | IE ST informada: verificar o DV da IE do Substituto Tributário informada. UF a ser utilizada na validação: • UF do Local de Entrega (UF - G09 do grupo entrega - G01) caso o campo Tipo da operação (tpOP - J02 do grupo VeicProd - J01) tenha sido informado com '2 - Faturamento direto'; • UF do destinatário (UF - E12 do grupo enderDest -E05) nos demais casos. A aplicação deve normalizar a IE ST informada pelo emissor, acrescentando zeros à esquerda para atingir o tamanho padrão da IE da UF de destino se necessário. | Obrig.                                   | 211                                      | Rej.                                     |
 
 A alteração do Manual de Integração para registro d a implementação será realizada quando publicarmos uma nova versão oficial do Manual de In tegração.
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2008-005/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2008-005/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2008-005.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2008-005.json)

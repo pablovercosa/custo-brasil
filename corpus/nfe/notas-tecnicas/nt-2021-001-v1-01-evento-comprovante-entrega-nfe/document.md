@@ -550,3 +550,9 @@ A existência de um evento de 'Comprovante de Entrega da NF-e', não cancelado, 
 ![Image](assets/image_000027_36ddc48532d200a1de991c74aa3d9959a4a9ca79eb8ecd04be226bc73093ac41.png)
 
 ![Image](assets/image_000028_0f582ef61748cd1375d854b8e0cb248f57ec085a2bf87b9528633b25e2f49028.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2021-001-v1-01-evento-comprovante-entrega-nfe/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2021-001-v1-01-evento-comprovante-entrega-nfe/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2021-001-v1-01-evento-comprovante-entrega-nfe.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2021-001-v1-01-evento-comprovante-entrega-nfe.json)

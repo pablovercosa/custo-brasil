@@ -62,3 +62,9 @@ Alterações:
 ## Pesquisa de Satisfação
 
 Responder
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources//nfe/Estado de SP/cbenef-sp-html/source.json)
+- [Dados normalizados](../../../../normalized/nfe/Estado de SP/cbenef-sp-html/normalized.json)
+- [Changelog](../../../../changelog/nfe/Estado de SP/cbenef-sp-html.md)
+- [Proveniência resumida](../../../../sources/provenance/cbenef-sp-html.json)

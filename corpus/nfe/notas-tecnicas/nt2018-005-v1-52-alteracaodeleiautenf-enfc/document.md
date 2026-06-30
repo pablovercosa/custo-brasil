@@ -640,3 +640,9 @@ FONE/FAX
 |                                            978 | Rejeição: Hash do CSRT diverge do calculado                                       |
 
 ![Image](assets/image_000024_e99a5365b1f231fbf242e0460f4e03590f72ccbf914d8f3044fc0c96c952ed35.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2018-005-v1-52-alteracaodeleiautenf-enfc/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2018-005-v1-52-alteracaodeleiautenf-enfc/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2018-005-v1-52-alteracaodeleiautenf-enfc.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2018-005-v1-52-alteracaodeleiautenf-enfc.json)

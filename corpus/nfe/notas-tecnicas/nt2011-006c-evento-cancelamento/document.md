@@ -395,3 +395,9 @@ O arquivo digital do Evento de Cancelamento, com a respectiva informação do Re
 
 1.  Recomendamos  a  não  utilização  de  caracteres  espe ciais  ou  acentuação  nos  textos  das mensagens de erro.
 2. Recomendamos que o campo xMotivo da mensagem de erro para o código 999 seja informado com a mensagem de erro do aplicativo ou do sistema que gerou a exceção não prevista.
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2011-006c-evento-cancelamento/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2011-006c-evento-cancelamento/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2011-006c-evento-cancelamento.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2011-006c-evento-cancelamento.json)

@@ -464,3 +464,9 @@ Classificam-se neste código os registros relativos aos documentos fiscais emiti
 ![Image](assets/image_000034_2cdb85138f6f492c5927602ae09b3e83306c67784ecf69e1793c4c47bed04a4d.png)
 
 ' 2.657 - Retorno de remessa de combustível ou lubrificante para venda fora do estabelecimento. Classificam-se  neste  código  as  entradas  em  retorno  de  combustível  ou  lubrificante  remetidos  para  venda  fora  do  estabelecimento, inclusive por meio de veículos, e não comercializados.'.
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2017-002-v1-40-tabela-cfop/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2017-002-v1-40-tabela-cfop/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2017-002-v1-40-tabela-cfop.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2017-002-v1-40-tabela-cfop.json)

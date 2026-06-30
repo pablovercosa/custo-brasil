@@ -39,3 +39,9 @@ Nestes   casos,   é   possível   o   preenchimento   alternativo   do   campo 
 122 I23 dDesemb Data do Desembaraço Aduaneiro ou Data da Entrega da mercadoria pelo recinto
 
 alfandegado quando ocorrida antes do desembaraço aduaneiro.
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2011-001/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2011-001/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2011-001.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2011-001.json)

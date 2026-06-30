@@ -387,3 +387,9 @@ O processamento do lote pode resultar em:
 |      831 | Rejeição: Transportador Contratado não autorizado a a liberar acesso a NF-e        |
 
 ![Image](assets/image_000014_38634ee29cb5757427c04a1b82d3a078055468a4f3c809e099a1f3b829b90ab3.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2020-007-v1-40-evento-ator-nfe-transportador/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2020-007-v1-40-evento-ator-nfe-transportador/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2020-007-v1-40-evento-ator-nfe-transportador.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2020-007-v1-40-evento-ator-nfe-transportador.json)

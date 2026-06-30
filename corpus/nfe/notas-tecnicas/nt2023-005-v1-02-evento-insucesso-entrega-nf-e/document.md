@@ -550,3 +550,9 @@ O processamento do lote pode resultar em:
 |      826 | Rejeição: Pedido de Cancelamento para NF-e com Evento de Entrega (*1)            |
 
 ![Image](assets/image_000020_338385b75eb78f2e51e0f9b3fd7a6e404a979d4fbda6524b402b5cef495ced02.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2023-005-v1-02-evento-insucesso-entrega-nf-e/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2023-005-v1-02-evento-insucesso-entrega-nf-e/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2023-005-v1-02-evento-insucesso-entrega-nf-e.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2023-005-v1-02-evento-insucesso-entrega-nf-e.json)

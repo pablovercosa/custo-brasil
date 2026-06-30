@@ -1281,3 +1281,9 @@ A tabela relaciona todas as mensagens de validações utilizadas na consulta de 
 |   247 | A chave de acesso informada não se refere a uma NFC-e emitida por contribuinte da UF indicada.                        | Problema na Chave de Acesso                |
 
 Tabela 8:Mensagens de validações de consulta da NFC-e
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfce/manuais/20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code/source.json)
+- [Dados normalizados](../../../../normalized/nfce/manuais/20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code/normalized.json)
+- [Changelog](../../../../changelog/nfce/manuais/20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code.md)
+- [Proveniência resumida](../../../../sources/provenance/20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code.json)

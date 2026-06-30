@@ -76,3 +76,9 @@ IT 2026.002 v.1.00
 O  presente  Informe  Técnico  tem  como  objetivo  divulgar  tabela  de  alíquota  da  CBS  a  ser utilização nos documentos fiscais.
 
 A tabela está disponível no Portal Nacional da NFe, na aba 'Documentos', opção 'Diversos .
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/reforma-tributaria/informes-tecnicos/it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs/source.json)
+- [Dados normalizados](../../../../normalized/reforma-tributaria/informes-tecnicos/it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs/normalized.json)
+- [Changelog](../../../../changelog/reforma-tributaria/informes-tecnicos/it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs.md)
+- [Proveniência resumida](../../../../sources/provenance/it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs.json)

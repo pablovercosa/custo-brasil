@@ -1553,3 +1553,9 @@ Nesta nova versão não haverá alteração no leiaute do DANFE. As informaçõe
 
 -  No  campo  de  "Informações  Adicionais  do  Produto,  tag:  infAdProd",  os  valores  informados  por  item  nos  campos  (vBCFCP,  pFCP, vFCP,  vBCFCPST, pFCPST, vFCPST), quando existirem.
 -  Os valores de totais do FCP (id: W04b e W06a) devem ser informados em "Informações Adicionais de Interesse do Fisco, campo 'infAdFisco", quando existirem."
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2016-002-v1-61/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2016-002-v1-61/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2016-002-v1-61.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2016-002-v1-61.json)

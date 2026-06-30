@@ -272,3 +272,9 @@ A validação da solicitação poderá resultar em:
 |      411 | Rejeição: Campo versaoDados inexistente no elemento nfeCabecMsg do SOAP Header |
 |      695 | Rejeição: Solicitante não autorizado para a consulta                           |
 |      999 | Rejeição: Erro não catalogado                                                  |
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfce/notas-tecnicas/nt-nfce-2014-001/source.json)
+- [Dados normalizados](../../../../normalized/nfce/notas-tecnicas/nt-nfce-2014-001/normalized.json)
+- [Changelog](../../../../changelog/nfce/notas-tecnicas/nt-nfce-2014-001.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-nfce-2014-001.json)

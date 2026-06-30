@@ -1193,3 +1193,9 @@ Nota: O evento de Registro de Passagem da NF-e bloqueia o cancelamento da Nota F
 | 606     | Redução        | Bens de informática não incluídos no art. 142 do Decreto 7.212/2010- Art. 143, II do Decreto 7.212/2010                                                                                                                                                          |
 | 607     | Redução        | Padis - Art. 150 do Decreto 7.212/2010                                                                                                                                                                                                                           |
 | 608 999 | Redução Outros | Patvd - Art. 158 do Decreto 7.212/2010 Tributação normal IPI; Outros;                                                                                                                                                                                            |
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2015-002-v141-23-08-2016/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2015-002-v141-23-08-2016/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2015-002-v141-23-08-2016.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2015-002-v141-23-08-2016.json)

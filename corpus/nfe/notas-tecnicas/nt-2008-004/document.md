@@ -191,3 +191,9 @@ O código de País do BACEN dos seguintes países tem o DV - dígito verificador
 - 7370 - SERVIA;
 
 As aplicações dos Estados e dos emissores devem utilizar os códigos de País do BACEN sem validação do DV - dígito verificador, da mesma forma que consta da tabela de código de país do BACEN.
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2008-004/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2008-004/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2008-004.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2008-004.json)

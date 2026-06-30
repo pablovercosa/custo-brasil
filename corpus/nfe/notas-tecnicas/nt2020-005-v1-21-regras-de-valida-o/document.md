@@ -645,3 +645,9 @@ Somente é aceita autorização assíncrona da NFC-e se o Lote contiver mais do 
 |      307 | Uso Denegado: Emitente bloqueado pela UF de destino, em operação com consumidor final |
 
 ![Image](assets/image_000020_f75e311528847b799a14adab99a404d59449c25d61737cf5906e79456ad94ff4.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2020-005-v1-21-regras-de-valida-o/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2020-005-v1-21-regras-de-valida-o/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2020-005-v1-21-regras-de-valida-o.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2020-005-v1-21-regras-de-valida-o.json)

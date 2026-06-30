@@ -331,3 +331,9 @@ Incluída  a  regra  N12a-90  que  verifica  o  correto  preenchimento  dos  CFO
 |      966 | Rejeição: Obrigatório o preenchimento da origem da mercadoria [nItem:nnn]                                  |
 
 ![Image](assets/image_000015_a8282b44f995829881c56752c5bf2fb4d8df41e66cb3771ea9f418a1fd8b96e4.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2024-001-v1-20/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2024-001-v1-20/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2024-001-v1-20.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2024-001-v1-20.json)

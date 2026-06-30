@@ -1147,3 +1147,9 @@ Nota Técnica 2021.003 - Validação de GTIN
 |  7.127 | Venda de produção do estabelecimento sob o regime de drawback                                                                                        |
 
 ![Image](assets/image_000050_800c3855b17ee5bdc1d61da16d27e15da1c05252ed4e1e1ed0ee74c4fb03dbb1.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2021-003-v1-40-valida-o-gtin-grupo-iv/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2021-003-v1-40-valida-o-gtin-grupo-iv/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2021-003-v1-40-valida-o-gtin-grupo-iv.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2021-003-v1-40-valida-o-gtin-grupo-iv.json)

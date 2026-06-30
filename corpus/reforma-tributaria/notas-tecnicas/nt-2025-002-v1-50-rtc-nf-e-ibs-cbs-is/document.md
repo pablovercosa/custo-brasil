@@ -2507,3 +2507,9 @@ Tabela publicada na aba 'Documentos', opção 'Diversos' do Portal Nacional da N
 Tabela publicada na aba 'Documentos', opção 'Diversos' do Portal Nacional da Nota Fiscal Eletrônica
 
 ![Image](assets/image_000105_16f9b44d7aa8346688b5a463e2469c0dc4ed39aa02bfe2bba6f17dc4048fbdf6.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-50-rtc-nf-e-ibs-cbs-is/source.json)
+- [Dados normalizados](../../../../normalized/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-50-rtc-nf-e-ibs-cbs-is/normalized.json)
+- [Changelog](../../../../changelog/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-50-rtc-nf-e-ibs-cbs-is.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2025-002-v1-50-rtc-nf-e-ibs-cbs-is.json)

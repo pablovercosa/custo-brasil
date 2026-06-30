@@ -409,3 +409,9 @@ MOC - ANEXO II - v 1.00
 MOC - ANEXO II - v 1.00
 
 ![Image](assets/image_000028_06b00dd54ee540476bb7c3f89ef08ce1e20e07f9693071e3170a6b1d6d0e0705.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfgas/manuais/moc-nfgas-anexo-ii-danfgas-v1-00/source.json)
+- [Dados normalizados](../../../../normalized/nfgas/manuais/moc-nfgas-anexo-ii-danfgas-v1-00/normalized.json)
+- [Changelog](../../../../changelog/nfgas/manuais/moc-nfgas-anexo-ii-danfgas-v1-00.md)
+- [Proveniência resumida](../../../../sources/provenance/moc-nfgas-anexo-ii-danfgas-v1-00.json)

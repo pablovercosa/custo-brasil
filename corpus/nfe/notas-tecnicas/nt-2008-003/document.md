@@ -89,3 +89,9 @@ Alteração das regras de validação G30 e G31 para aceitar a informação de N
 O contribuinte deve emitir a NF-e complementar de NF-e ou NF modelo 1/1A, informando o campo finNFe (B26) com o código 1-NF-e normal e a respectiva NF referenciada (campo refNFe - B13 ou grupo refNF - B14), até que a alteração seja implementada em ambiente de produção.
 
 As  dúvidas  e  sugestões  devem  ser  encaminhadas  através  do  Canal  Fale  Conosco  da Secretaria  da  Fazenda  de  São  Paulo  (http://www.fazenda.sp.gov.br/email/default2.asp) referente à 'Portaria CAT 104/07'.
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2008-003/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2008-003/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2008-003.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2008-003.json)

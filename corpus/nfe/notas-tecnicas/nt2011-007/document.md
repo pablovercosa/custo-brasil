@@ -49,3 +49,9 @@ Alterada  tabela  de  Códigos  de  Erros  e  Descrições  de   Mensagens  de  
 |   Código | RESULTADO DO PROCESSAMENTO DA SOLICITAÇÃO                           |
 |----------|---------------------------------------------------------------------|
 |      220 | Rejeição: Prazo de Cancelamento Superior ao Pre visto na Legislação |
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2011-007/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2011-007/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2011-007.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2011-007.json)

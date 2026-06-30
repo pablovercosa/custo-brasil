@@ -163,3 +163,9 @@ Os 57 (cinquenta e sete) códigos incluídos na tabela de NCM publicada no Porta
 |              |            | 9002.90.90   | Outros                                                                                                                                                            |
 
 ![Image](assets/image_000011_1f54e19566afd710f1f277539cb018269255199ca6895c8b2da95415632e4f29.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024.json)

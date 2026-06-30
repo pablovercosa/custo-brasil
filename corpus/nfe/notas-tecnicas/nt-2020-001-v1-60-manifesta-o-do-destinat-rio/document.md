@@ -567,3 +567,9 @@ Os testes no ambiente de  produção,  quando  liberado este ambiente,  por falh
 | GRAXAS MINERAIS                          |   650101001 |
 | OUTRAS GRAXAS                            |   650101002 |
 | ÓLEOS LUB. PARAF E GRAXAS INTERMEDIÁRIOS |   660101001 |
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2020-001-v1-60-manifesta-o-do-destinat-rio/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2020-001-v1-60-manifesta-o-do-destinat-rio/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2020-001-v1-60-manifesta-o-do-destinat-rio.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2020-001-v1-60-manifesta-o-do-destinat-rio.json)

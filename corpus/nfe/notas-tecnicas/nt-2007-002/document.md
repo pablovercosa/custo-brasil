@@ -159,3 +159,9 @@ Correção no " type " e no " name " do elemento atuCadEmiNFe  do  Schema cadEmi
 | cadEmiDFe_v1.01.xsd                 | 10dc830b745ef32fd2670416cf71bbcd   | -                  |
 
 As  dúvidas  e  sugestões  devem  ser  encaminhadas  através  do  Canal  Fale  Conosco  da Secretaria  da  Fazenda  de  São  Paulo  (http://www.fazenda.sp.gov.br/email/default2.asp) referente à 'Portaria CAT 65/06'.
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2007-002/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2007-002/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2007-002.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2007-002.json)

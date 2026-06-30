@@ -58,3 +58,9 @@ O objetivo deste Informe Técnico é divulgar a criação de novo município de 
 As  alterações  na  tabela  de  municípios  para  29/01/2025  no  ambiente  de  homologação  e produção.
 
 ![Image](assets/image_000004_320ce71d1eb081a7bf1cebc2fc95112e6fc933ea1e98d057f64948b9f529f73e.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/geral/informes-tecnicos/it2025-001v1-00-atualiza-tabela-municipios/source.json)
+- [Dados normalizados](../../../../normalized/geral/informes-tecnicos/it2025-001v1-00-atualiza-tabela-municipios/normalized.json)
+- [Changelog](../../../../changelog/geral/informes-tecnicos/it2025-001v1-00-atualiza-tabela-municipios.md)
+- [Proveniência resumida](../../../../sources/provenance/it2025-001v1-00-atualiza-tabela-municipios.json)

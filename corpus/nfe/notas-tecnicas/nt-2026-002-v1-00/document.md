@@ -581,3 +581,9 @@ NT 2026.002 v1.00
 | Campo   |   Modelo | Regra de Validação                                                                                                                                             | Aplic.   |   Msg | Efeito   | Descrição Erro                                                              |
 |---------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------|----------|-----------------------------------------------------------------------------|
 | 5E17-65 |       65 | - Destinatário em situação irregular perante o Fisco, vedada operação na UF (CCC.cSitCNPJ=3-Vedado) ou Destinatário bloqueado na UF (CCC.cSitCNPJ=2-Bloqueado) | Obrig.   |   172 | Alerta   | Alerta: Situação do CNPJ destinatário inabilitado no momento da autorização |
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2026-002-v1-00/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2026-002-v1-00/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2026-002-v1-00.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2026-002-v1-00.json)

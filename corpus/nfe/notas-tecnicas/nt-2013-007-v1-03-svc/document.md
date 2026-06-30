@@ -431,3 +431,9 @@ Consta no Número do Protocolo o 'Tipo de Autorizado r', que agora assume os val
 - -6: Ambiente da Sefaz Virtual de Contingência do Am biente Nacional (SVC-AN);
 - -4: Sefaz Virtual do Ambiente Nacional (SVAN);
 - -7: Ambiente da Sefaz Virtual de Contingência do RS  (SVC-RS).
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2013-007-v1-03-svc/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2013-007-v1-03-svc/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2013-007-v1-03-svc.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2013-007-v1-03-svc.json)

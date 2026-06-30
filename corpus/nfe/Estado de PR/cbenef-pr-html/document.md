@@ -273,3 +273,9 @@ Obrigado por compartilhar!
 [AddToAny](https://www.addtoany.com/)
 
 [Mais...](https://sped.fazenda.pr.gov.br/NFe/Pagina/CODIGO-DE-BENEFICIO-FISCAL#addtoany)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources//nfe/Estado de PR/cbenef-pr-html/source.json)
+- [Dados normalizados](../../../../normalized/nfe/Estado de PR/cbenef-pr-html/normalized.json)
+- [Changelog](../../../../changelog/nfe/Estado de PR/cbenef-pr-html.md)
+- [Proveniência resumida](../../../../sources/provenance/cbenef-pr-html.json)

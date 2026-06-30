@@ -117,3 +117,9 @@ Obs:  Ficam  mantidas  as  demais  alterações  previstas  na  versão  3.70  d
 - Atenção:  Até  01/02/2026  (inclusive),  serão  autorizadas  NF-e  com  códigos  de NCMs extintos.  Entretanto,  no caso de NF-e de exportação, a partir de 01/02/2026 não deve ser utilizado código de NCM extinto, a fim de evitar incompatibilidade com a Declaração Única de Exportação (DU-E).
 
 ![Image](assets/image_000007_4f9a488334e876a9d02c08445552814b5c3c359ee900e373fdddfea5bd3a9161.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/geral/informes-tecnicos/it2024-001v2-30-atualiza-tabela-de-ncm/source.json)
+- [Dados normalizados](../../../../normalized/geral/informes-tecnicos/it2024-001v2-30-atualiza-tabela-de-ncm/normalized.json)
+- [Changelog](../../../../changelog/geral/informes-tecnicos/it2024-001v2-30-atualiza-tabela-de-ncm.md)
+- [Proveniência resumida](../../../../sources/provenance/it2024-001v2-30-atualiza-tabela-de-ncm.json)

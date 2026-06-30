@@ -68,3 +68,9 @@ Rejeição: CFOP de Operação Estadual e UF emitente d ifere da UF remetente pa
 Rejeição: Código numérico informado na Chave de Ace sso difere do Código Numérico da NF-e
 
 [chNFe:99999999999999999999999999999999999999999999]
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2010-007/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2010-007/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2010-007.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2010-007.json)

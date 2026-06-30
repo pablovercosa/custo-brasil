@@ -120,3 +120,9 @@ Nesta modalidade de contingência eletrônica o emiss or deve gerar o DPEC que c
 Após o  registro  do  DPEC  o  emissor  poderá  emitir  os  DANFE  em  papel  comum  devendo consignar o número e data e hora do registro do DPE C no campo 2.
 
 ![Image](assets/image_000011_6c29b311b6c4eb02575426184cf1e9bbf6bd259a8f8b70642424b20f0f6912f1.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2009-003/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2009-003/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2009-003.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2009-003.json)

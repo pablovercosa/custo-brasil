@@ -43,3 +43,9 @@ leia-se:
 'Código numérico que compõe a Chave de Acesso. Número aleatório gerado pelo emitente para cada NF-e para evitar acessos indevidos da NF-e.'
 
 As  dúvidas  e  sugestões  devem  ser  encaminhadas  através  do  Canal  Fale  Conosco  da Secretaria  da  Fazenda  de  São  Paulo  (http://www.fazenda.sp.gov.br/email/default2.asp) referente à 'Portaria CAT 104/07'.
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2008-001/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2008-001/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2008-001.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2008-001.json)
