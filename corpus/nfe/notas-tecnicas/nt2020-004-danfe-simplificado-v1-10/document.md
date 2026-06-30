@@ -106,3 +106,9 @@ e)  Dados dos totais da NF-e: Valor total da Nota Fiscal.
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2020-004-danfe-simplificado-v1-10/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2020-004-danfe-simplificado-v1-10.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2020-004-danfe-simplificado-v1-10.json)
+
+
+## Documentos relacionados
+
+- [[nt-2026-003-v1-00-danfe-simplificado-tipo-2]]
+- [[nt2020-002v-1-01-espec-fica-para-ipi]]

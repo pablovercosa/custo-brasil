@@ -107,3 +107,10 @@ O tipo dos campos nSerie e nCano do Detalhamento Específico de Armamentos passa
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2010-005/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2010-005.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2010-005.json)
+
+
+## Documentos relacionados
+
+- [[nota-t-cnica-2010-002-publicada-em-29-11-2010]]
+- [[nota-t-cnica-2010-005-publicada-em-06-07-2010]]
+- [[nota-t-cnica-2010-009-publicada-em-10-12-2010]]

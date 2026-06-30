@@ -2513,3 +2513,15 @@ Tabela publicada na aba 'Documentos', opção 'Diversos' do Portal Nacional da N
 - [Dados normalizados](../../../../normalized/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-50-rtc-nf-e-ibs-cbs-is/normalized.json)
 - [Changelog](../../../../changelog/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-50-rtc-nf-e-ibs-cbs-is.md)
 - [Proveniência resumida](../../../../sources/provenance/nt-2025-002-v1-50-rtc-nf-e-ibs-cbs-is.json)
+
+
+## Documentos relacionados
+
+- [[20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code]]
+- [[dfe-ntcj-2025-001-cnpj-alfa-v1-00]]
+- [[it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15]]
+- [[it-2025-003-altera-o-endere-o-qrcode-nfc-e-go]]
+- [[it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel]]
+- [[it2025-001v1-00-atualiza-tabela-municipios]]
+- [[nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is]]
+- [[nt-2025-002-v1-40-rtc-nf-e-ibs-cbs-is-final]]

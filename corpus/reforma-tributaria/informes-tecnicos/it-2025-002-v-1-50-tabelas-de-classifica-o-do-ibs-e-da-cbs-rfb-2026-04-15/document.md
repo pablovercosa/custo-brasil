@@ -362,3 +362,10 @@ associado não sujeito ao regime regular do IBS e da CBS.
 - [Dados normalizados](../../../../normalized/reforma-tributaria/informes-tecnicos/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15/normalized.json)
 - [Changelog](../../../../changelog/reforma-tributaria/informes-tecnicos/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15.md)
 - [Proveniência resumida](../../../../sources/provenance/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15.json)
+
+
+## Documentos relacionados
+
+- [[it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel]]
+- [[it-2026-001-v-1-00-tabelas-de-meios-de-pagamento-para-vincula-o-com-o-split]]
+- [[it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs]]

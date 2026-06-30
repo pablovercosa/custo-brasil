@@ -796,3 +796,9 @@ R$      108,00
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2015-003-v194/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2015-003-v194.md)
 - [Proveniência resumida](../../../../sources/provenance/nt-2015-003-v194.json)
+
+
+## Documentos relacionados
+
+- [[nt-2015-001-v-1-30]]
+- [[nt-2015-002-v141-23-08-2016]]

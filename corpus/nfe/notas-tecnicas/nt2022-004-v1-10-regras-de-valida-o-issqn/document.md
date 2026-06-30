@@ -104,3 +104,12 @@ Essa NT não gera grandes impactos de desenvolvimento para os contribuintes, per
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2022-004-v1-10-regras-de-valida-o-issqn/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2022-004-v1-10-regras-de-valida-o-issqn.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2022-004-v1-10-regras-de-valida-o-issqn.json)
+
+
+## Documentos relacionados
+
+- [[anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e]]
+- [[moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k]]
+- [[moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f]]
+- [[nt2019-001-v1-70-regras-de-valida-o]]
+- [[nt2020-005-v1-21-regras-de-valida-o]]

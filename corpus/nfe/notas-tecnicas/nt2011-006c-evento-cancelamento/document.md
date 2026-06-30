@@ -401,3 +401,10 @@ O arquivo digital do Evento de Cancelamento, com a respectiva informação do Re
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2011-006c-evento-cancelamento/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2011-006c-evento-cancelamento.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2011-006c-evento-cancelamento.json)
+
+
+## Documentos relacionados
+
+- [[nota-t-cnica-2011-001-publicada-em-25-02-2011]]
+- [[nota-t-cnica-2011-005-publicada-em-21-10-2011]]
+- [[nota-t-cnica-2011-007-publicada-em-26-12-2011]]

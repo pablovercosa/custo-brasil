@@ -37,3 +37,15 @@ A tag foi definida como tipo dateTime no Schema XML, contudo o tipo dateTime ace
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nota-t-cnica-2010-002-publicada-em-29-11-2010/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nota-t-cnica-2010-002-publicada-em-29-11-2010.md)
 - [Proveniência resumida](../../../../sources/provenance/nota-t-cnica-2010-002-publicada-em-29-11-2010.json)
+
+
+## Documentos relacionados
+
+- [[nota-t-cnica-2007-004-publicada-em-15-09-2011]]
+- [[nota-t-cnica-2007-007-publicada-em-30-11-2010]]
+- [[nota-t-cnica-2008-001-publicada-em-30-11-2010]]
+- [[nota-t-cnica-2008-003-publicada-em-30-11-2010]]
+- [[nota-t-cnica-2008-005-publicada-em-30-11-2010]]
+- [[nota-t-cnica-2009-001-publicada-em-29-11-2010]]
+- [[nota-t-cnica-2009-002-publicada-em-29-11-2010]]
+- [[nota-t-cnica-2009-004-publicada-em-30-11-2010]]

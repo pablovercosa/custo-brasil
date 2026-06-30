@@ -40,3 +40,9 @@
 - Adicionados `corpus_category` e `created_at` no normalized.json.
 - Adicionado `original_public_path_hint` no source.json (para documentos que nao possuiam).
 - Corrigida `source_url` em branco (33 documentos) e `authority` com placeholder SEFAZ (5 documentos).
+
+
+## Documento relacionado
+
+- [Ver no corpus](../../../corpus/nfe/manuais/manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e/document.md)
+- [Metadados do corpus](../../../corpus/nfe/manuais/manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e/metadata.json)

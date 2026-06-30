@@ -320,3 +320,8 @@ Deve se esperar um tempo de processamento inferior a 1 segundo no processamento 
 - [Dados normalizados](../../../../normalized/nfce/manuais/manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0/normalized.json)
 - [Changelog](../../../../changelog/nfce/manuais/manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0.md)
 - [Proveniência resumida](../../../../sources/provenance/manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0.json)
+
+
+## Documentos relacionados
+
+- [[manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e]]

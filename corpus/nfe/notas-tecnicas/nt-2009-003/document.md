@@ -126,3 +126,15 @@ Após o  registro  do  DPEC  o  emissor  poderá  emitir  os  DANFE  em  papel  
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2009-003/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2009-003.md)
 - [Proveniência resumida](../../../../sources/provenance/nt-2009-003.json)
+
+
+## Documentos relacionados
+
+- [[nota-t-cnica-2009-001-publicada-em-29-11-2010]]
+- [[nota-t-cnica-2009-002-publicada-em-29-11-2010]]
+- [[nota-t-cnica-2009-004-publicada-em-30-11-2010]]
+- [[nt2009-001]]
+- [[nt2009-002]]
+- [[nt2009-004]]
+- [[nt2009-005]]
+- [[nt2009-006]]

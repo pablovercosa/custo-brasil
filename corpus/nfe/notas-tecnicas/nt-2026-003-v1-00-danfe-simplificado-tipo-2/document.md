@@ -750,3 +750,8 @@ Tabela 3: Mensagens de validação de consulta da NF-e
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2026-003-v1-00-danfe-simplificado-tipo-2/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2026-003-v1-00-danfe-simplificado-tipo-2.md)
 - [Proveniência resumida](../../../../sources/provenance/nt-2026-003-v1-00-danfe-simplificado-tipo-2.json)
+
+
+## Documentos relacionados
+
+- [[nt2020-004-danfe-simplificado-v1-10]]

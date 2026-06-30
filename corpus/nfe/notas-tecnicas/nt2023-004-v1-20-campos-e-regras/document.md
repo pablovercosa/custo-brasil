@@ -399,3 +399,8 @@ NT 2023.004 - Informações de Pagamentos e Outros
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2023-004-v1-20-campos-e-regras/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2023-004-v1-20-campos-e-regras.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2023-004-v1-20-campos-e-regras.json)
+
+
+## Documentos relacionados
+
+- [[nt2021-004v1-35-novos-campos-e-regras]]

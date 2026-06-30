@@ -1287,3 +1287,9 @@ Tabela 8:Mensagens de validações de consulta da NFC-e
 - [Dados normalizados](../../../../normalized/nfce/manuais/20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code/normalized.json)
 - [Changelog](../../../../changelog/nfce/manuais/20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code.md)
 - [Proveniência resumida](../../../../sources/provenance/20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code.json)
+
+
+## Documentos relacionados
+
+- [[anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras]]
+- [[nt2020-002v-1-01-espec-fica-para-ipi]]

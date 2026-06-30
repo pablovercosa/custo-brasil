@@ -573,3 +573,13 @@ Os testes no ambiente de  produção,  quando  liberado este ambiente,  por falh
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2020-001-v1-60-manifesta-o-do-destinat-rio/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2020-001-v1-60-manifesta-o-do-destinat-rio.md)
 - [Proveniência resumida](../../../../sources/provenance/nt-2020-001-v1-60-manifesta-o-do-destinat-rio.json)
+
+
+## Documentos relacionados
+
+- [[nt2020-002v-1-01-espec-fica-para-ipi]]
+- [[nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica]]
+- [[nt2020-004-danfe-simplificado-v1-10]]
+- [[nt2020-005-v1-21-regras-de-valida-o]]
+- [[nt2020-006-v1-31-intermediador-e-marketplace]]
+- [[nt2020-007-v1-40-evento-ator-nfe-transportador]]

@@ -1320,3 +1320,13 @@ SNFeNFCe
 - [Dados normalizados](../../../../normalized/nfe/manuais/anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras/normalized.json)
 - [Changelog](../../../../changelog/nfe/manuais/anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras.md)
 - [Proveniência resumida](../../../../sources/provenance/anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras.json)
+
+
+## Documentos relacionados
+
+- [[20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code]]
+- [[anexo-iii-manual-de-conting-ncia-nf-e]]
+- [[anexo-iv-manual-de-conting-ncia-nfc-e]]
+- [[manual-svan-anexo-i]]
+- [[manual-svan-anexo-ii]]
+- [[nt2020-002v-1-01-espec-fica-para-ipi]]

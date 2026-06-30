@@ -73,3 +73,12 @@ Os códigos contidos na Tabela CFOP disponível no Portal Nacional da NF-e são 
 - [Dados normalizados](../../../../normalized/nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/normalized.json)
 - [Changelog](../../../../changelog/nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023.md)
 - [Proveniência resumida](../../../../sources/provenance/it2023-002v1-00-tabela-cfop-11-04-2023.json)
+
+
+## Documentos relacionados
+
+- [[it-2023-001-v1-10-tabela-cprodanp]]
+- [[it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica]]
+- [[it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026]]
+- [[nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024]]
+- [[nt-2017-002-v1-40-tabela-cfop]]

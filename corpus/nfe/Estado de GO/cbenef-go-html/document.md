@@ -72,3 +72,10 @@ Gantry 5
 - [Dados normalizados](../../../../normalized/nfe/Estado de GO/cbenef-go-html/normalized.json)
 - [Changelog](../../../../changelog/nfe/Estado de GO/cbenef-go-html.md)
 - [Proveniência resumida](../../../../sources/provenance/cbenef-go-html.json)
+
+
+## Documentos relacionados
+
+- [[cbenef-pr-html]]
+- [[cbenef-rj-html]]
+- [[cbenef-sp-html]]

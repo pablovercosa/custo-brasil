@@ -1113,3 +1113,14 @@ Ocorr: 0 - 1 (opcional sem repetição), 1 - 1 (obrigatório sem repetição), 0
 - [Dados normalizados](../../../../normalized/nfgas/manuais/moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f/normalized.json)
 - [Changelog](../../../../changelog/nfgas/manuais/moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f.md)
 - [Proveniência resumida](../../../../sources/provenance/moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f.json)
+
+
+## Documentos relacionados
+
+- [[anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e]]
+- [[moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k]]
+- [[moc-nfeabi-anexo-i-leiaute-e-rv-v2-00]]
+- [[moc-nfgas-anexo-ii-danfgas-v1-00]]
+- [[nt2019-001-v1-70-regras-de-valida-o]]
+- [[nt2020-005-v1-21-regras-de-valida-o]]
+- [[nt2022-004-v1-10-regras-de-valida-o-issqn]]

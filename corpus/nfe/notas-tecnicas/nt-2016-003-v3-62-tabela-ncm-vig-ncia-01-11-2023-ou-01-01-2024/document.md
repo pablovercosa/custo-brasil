@@ -89,3 +89,11 @@ Os códigos incluídos na tabela de NCM publicada no Portal Nacional da NF-e est
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024.md)
 - [Proveniência resumida](../../../../sources/provenance/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024.json)
+
+
+## Documentos relacionados
+
+- [[it-2023-001-v1-10-tabela-cprodanp]]
+- [[it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica]]
+- [[it2023-002v1-00-tabela-cfop-11-04-2023]]
+- [[nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024]]

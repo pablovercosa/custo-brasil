@@ -470,3 +470,8 @@ Classificam-se neste código os registros relativos aos documentos fiscais emiti
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2017-002-v1-40-tabela-cfop/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2017-002-v1-40-tabela-cfop.md)
 - [Proveniência resumida](../../../../sources/provenance/nt-2017-002-v1-40-tabela-cfop.json)
+
+
+## Documentos relacionados
+
+- [[it2023-002v1-00-tabela-cfop-11-04-2023]]

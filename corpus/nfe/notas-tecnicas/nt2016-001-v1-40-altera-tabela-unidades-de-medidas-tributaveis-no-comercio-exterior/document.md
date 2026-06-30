@@ -130,3 +130,11 @@ Observação: A Secretaria da Receita Federal do Brasil - RFB emitirá ato norma
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior.json)
+
+
+## Documentos relacionados
+
+- [[it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica]]
+- [[nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024]]
+- [[nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024]]
+- [[nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis]]

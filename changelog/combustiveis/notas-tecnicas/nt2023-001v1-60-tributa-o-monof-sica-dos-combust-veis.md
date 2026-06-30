@@ -40,3 +40,9 @@
 - Adicionados `corpus_category` e `created_at` no normalized.json.
 - Adicionado `original_public_path_hint` no source.json (para documentos que nao possuiam).
 - Corrigida `source_url` em branco (33 documentos) e `authority` com placeholder SEFAZ (5 documentos).
+
+
+## Documento relacionado
+
+- [Ver no corpus](../../../corpus/combustiveis/notas-tecnicas/nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis/document.md)
+- [Metadados do corpus](../../../corpus/combustiveis/notas-tecnicas/nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis/metadata.json)

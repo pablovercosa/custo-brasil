@@ -437,3 +437,14 @@ Consta no Número do Protocolo o 'Tipo de Autorizado r', que agora assume os val
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2013-007-v1-03-svc/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2013-007-v1-03-svc.md)
 - [Proveniência resumida](../../../../sources/provenance/nt-2013-007-v1-03-svc.json)
+
+
+## Documentos relacionados
+
+- [[nt2013-001-manifestacao-combustivel]]
+- [[nt2013-002-b2b-v1-00b]]
+- [[nt2013-003-v1-00a-lei-transparencia]]
+- [[nt2013-004-v1-00-resol-13]]
+- [[nt2013-005-v1-22]]
+- [[nt2013-006-v1-00-resol-13-fci]]
+- [[nt2013-008-v1-00-cancelamento-nfe]]

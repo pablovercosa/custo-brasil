@@ -104,3 +104,8 @@ Eliminada a exceção 2 da validação da alíquota máxi ma nas operações int
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2013-006-v1-00-resol-13-fci/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2013-006-v1-00-resol-13-fci.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2013-006-v1-00-resol-13-fci.json)
+
+
+## Documentos relacionados
+
+- [[nt2013-004-v1-00-resol-13]]

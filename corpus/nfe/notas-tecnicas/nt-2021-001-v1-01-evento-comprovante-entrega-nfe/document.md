@@ -556,3 +556,8 @@ A existência de um evento de 'Comprovante de Entrega da NF-e', não cancelado, 
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2021-001-v1-01-evento-comprovante-entrega-nfe/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2021-001-v1-01-evento-comprovante-entrega-nfe.md)
 - [Proveniência resumida](../../../../sources/provenance/nt-2021-001-v1-01-evento-comprovante-entrega-nfe.json)
+
+
+## Documentos relacionados
+
+- [[nt2023-005-v1-02-evento-insucesso-entrega-nf-e]]

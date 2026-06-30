@@ -1039,3 +1039,14 @@ MOC 1.00h
 - [Dados normalizados](../../../../normalized/nfag/manuais/moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k/normalized.json)
 - [Changelog](../../../../changelog/nfag/manuais/moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k.md)
 - [Proveniência resumida](../../../../sources/provenance/moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k.json)
+
+
+## Documentos relacionados
+
+- [[anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e]]
+- [[moc-nfag-anexo-ii-danfag-v1-01]]
+- [[moc-nfeabi-anexo-i-leiaute-e-rv-v2-00]]
+- [[moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f]]
+- [[nt2019-001-v1-70-regras-de-valida-o]]
+- [[nt2020-005-v1-21-regras-de-valida-o]]
+- [[nt2022-004-v1-10-regras-de-valida-o-issqn]]

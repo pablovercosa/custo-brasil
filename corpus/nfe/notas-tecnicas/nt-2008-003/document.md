@@ -95,3 +95,15 @@ As  dúvidas  e  sugestões  devem  ser  encaminhadas  através  do  Canal  Fale
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2008-003/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2008-003.md)
 - [Proveniência resumida](../../../../sources/provenance/nt-2008-003.json)
+
+
+## Documentos relacionados
+
+- [[nota-t-cnica-2008-001-publicada-em-30-11-2010]]
+- [[nota-t-cnica-2008-003-publicada-em-30-11-2010]]
+- [[nota-t-cnica-2008-005-publicada-em-30-11-2010]]
+- [[nt-2008-001]]
+- [[nt-2008-004]]
+- [[nt-2008-005]]
+- [[nt-2008-006]]
+- [[nt2008-002]]

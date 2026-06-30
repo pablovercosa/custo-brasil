@@ -186,3 +186,12 @@ t.  No local definido e com o nome do arquivo especificado, estará salvo um arq
 - [Dados normalizados](../../../../normalized/nfe/manuais/manual-svan-anexo-ii/normalized.json)
 - [Changelog](../../../../changelog/nfe/manuais/manual-svan-anexo-ii.md)
 - [Proveniência resumida](../../../../sources/provenance/manual-svan-anexo-ii.json)
+
+
+## Documentos relacionados
+
+- [[anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras]]
+- [[anexo-iii-manual-de-conting-ncia-nf-e]]
+- [[anexo-iv-manual-de-conting-ncia-nfc-e]]
+- [[manual-svan-anexo-i]]
+- [[manual-svan-v1-00]]

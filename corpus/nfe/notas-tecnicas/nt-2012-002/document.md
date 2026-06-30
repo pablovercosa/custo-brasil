@@ -1026,3 +1026,11 @@ Os testes no ambiente de produção, quando liberado  este ambiente, por falha d
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2012-002/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2012-002.md)
 - [Proveniência resumida](../../../../sources/provenance/nt-2012-002.json)
+
+
+## Documentos relacionados
+
+- [[nt2012-001]]
+- [[nt2012-003d]]
+- [[nt2012-004-v1-2-nfce]]
+- [[nt2012-005c-resol-13]]

@@ -651,3 +651,12 @@ Somente é aceita autorização assíncrona da NFC-e se o Lote contiver mais do 
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2020-005-v1-21-regras-de-valida-o/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2020-005-v1-21-regras-de-valida-o.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2020-005-v1-21-regras-de-valida-o.json)
+
+
+## Documentos relacionados
+
+- [[anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e]]
+- [[moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k]]
+- [[moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f]]
+- [[nt2019-001-v1-70-regras-de-valida-o]]
+- [[nt2022-004-v1-10-regras-de-valida-o-issqn]]

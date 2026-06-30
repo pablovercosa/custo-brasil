@@ -400,3 +400,8 @@ Schema XML: retInutNFe\_v4.00.xsd
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa.md)
 - [Proveniência resumida](../../../../sources/provenance/nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa.json)
+
+
+## Documentos relacionados
+
+- [[dfe-ntcj-2025-001-cnpj-alfa-v1-00]]

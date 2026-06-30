@@ -167,3 +167,14 @@ Para aquela que ficou pendente de retorno (a nota n° 20 desse exemplo):
 - [Dados normalizados](../../../../normalized/nfce/manuais/manual-de-especificacoes-tecnicas-da-contingencia-off-line-versao-2-0/normalized.json)
 - [Changelog](../../../../changelog/nfce/manuais/manual-de-especificacoes-tecnicas-da-contingencia-off-line-versao-2-0.md)
 - [Proveniência resumida](../../../../sources/provenance/manual-de-especificacoes-tecnicas-da-contingencia-off-line-versao-2-0.json)
+
+
+## Documentos relacionados
+
+- [[20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code]]
+- [[anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras]]
+- [[anexo-iii-manual-de-conting-ncia-nf-e]]
+- [[anexo-iv-manual-de-conting-ncia-nfc-e]]
+- [[manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0]]
+- [[manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e]]
+- [[nt2020-002v-1-01-espec-fica-para-ipi]]

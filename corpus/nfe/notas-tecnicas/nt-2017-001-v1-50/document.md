@@ -324,3 +324,8 @@ Cronograma para validar a exigência de preenchimento do GTIN no campo cEAN (RV 
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2017-001-v1-50/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2017-001-v1-50.md)
 - [Proveniência resumida](../../../../sources/provenance/nt-2017-001-v1-50.json)
+
+
+## Documentos relacionados
+
+- [[nt-2017-002-v1-40-tabela-cfop]]

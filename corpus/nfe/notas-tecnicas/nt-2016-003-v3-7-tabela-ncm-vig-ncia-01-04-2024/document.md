@@ -169,3 +169,8 @@ Os 57 (cinquenta e sete) códigos incluídos na tabela de NCM publicada no Porta
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024.md)
 - [Proveniência resumida](../../../../sources/provenance/nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024.json)
+
+
+## Documentos relacionados
+
+- [[nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024]]

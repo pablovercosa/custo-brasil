@@ -556,3 +556,8 @@ O processamento do lote pode resultar em:
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2023-005-v1-02-evento-insucesso-entrega-nf-e/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2023-005-v1-02-evento-insucesso-entrega-nf-e.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2023-005-v1-02-evento-insucesso-entrega-nf-e.json)
+
+
+## Documentos relacionados
+
+- [[nt-2021-001-v1-01-evento-comprovante-entrega-nfe]]

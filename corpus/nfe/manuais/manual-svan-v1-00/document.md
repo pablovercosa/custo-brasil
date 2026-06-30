@@ -345,3 +345,9 @@ Disponível em: <http://www.nfe.fazenda.gov.br/portal>
 - [Dados normalizados](../../../../normalized/nfe/manuais/manual-svan-v1-00/normalized.json)
 - [Changelog](../../../../changelog/nfe/manuais/manual-svan-v1-00.md)
 - [Proveniência resumida](../../../../sources/provenance/manual-svan-v1-00.json)
+
+
+## Documentos relacionados
+
+- [[manual-svan-anexo-i]]
+- [[manual-svan-anexo-ii]]

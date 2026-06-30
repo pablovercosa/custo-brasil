@@ -326,3 +326,8 @@ NT 2022.002
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2022-002v1-30a-equipara-o-exporta-o-e-outras-altera-es.json)
+
+
+## Documentos relacionados
+
+- [[nt2020-002v-1-01-espec-fica-para-ipi]]

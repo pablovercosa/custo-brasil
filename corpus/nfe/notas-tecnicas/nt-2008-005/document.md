@@ -92,3 +92,15 @@ A alteração do Manual de Integração para registro d a implementação será 
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2008-005/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2008-005.md)
 - [Proveniência resumida](../../../../sources/provenance/nt-2008-005.json)
+
+
+## Documentos relacionados
+
+- [[nota-t-cnica-2008-001-publicada-em-30-11-2010]]
+- [[nota-t-cnica-2008-003-publicada-em-30-11-2010]]
+- [[nota-t-cnica-2008-005-publicada-em-30-11-2010]]
+- [[nt-2008-001]]
+- [[nt-2008-003]]
+- [[nt-2008-004]]
+- [[nt-2008-006]]
+- [[nt2008-002]]

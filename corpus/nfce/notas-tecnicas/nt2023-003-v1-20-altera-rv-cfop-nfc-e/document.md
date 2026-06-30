@@ -135,3 +135,8 @@ Para permitir a emissão NF-e utilizando o CFOP 5.403 ou 5.405 com o CST 90 ou c
 - [Dados normalizados](../../../../normalized/nfce/notas-tecnicas/nt2023-003-v1-20-altera-rv-cfop-nfc-e/normalized.json)
 - [Changelog](../../../../changelog/nfce/notas-tecnicas/nt2023-003-v1-20-altera-rv-cfop-nfc-e.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2023-003-v1-20-altera-rv-cfop-nfc-e.json)
+
+
+## Documentos relacionados
+
+- [[it2023-002v1-00-tabela-cfop-11-04-2023]]

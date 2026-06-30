@@ -674,3 +674,11 @@ NFe
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2014-001-v1-30-evento-epec/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2014-001-v1-30-evento-epec.md)
 - [Proveniência resumida](../../../../sources/provenance/nt-2014-001-v1-30-evento-epec.json)
+
+
+## Documentos relacionados
+
+- [[nt-nfce-2014-001]]
+- [[nt2014-002-v1-30-wsnfedistribuicaodfe]]
+- [[nt2014-003-v1-02]]
+- [[nt2014-004-v1-10-ncm-pais-fuso-evento]]

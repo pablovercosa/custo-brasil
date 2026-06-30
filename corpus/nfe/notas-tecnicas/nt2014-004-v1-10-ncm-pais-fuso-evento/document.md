@@ -158,3 +158,8 @@ Eliminadas as regras de validação abaixo:
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2014-004-v1-10-ncm-pais-fuso-evento/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2014-004-v1-10-ncm-pais-fuso-evento.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2014-004-v1-10-ncm-pais-fuso-evento.json)
+
+
+## Documentos relacionados
+
+- [[nt-2014-001-v1-30-evento-epec]]

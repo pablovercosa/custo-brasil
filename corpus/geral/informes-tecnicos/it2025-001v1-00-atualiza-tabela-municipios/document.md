@@ -64,3 +64,10 @@ As  alterações  na  tabela  de  municípios  para  29/01/2025  no  ambiente  d
 - [Dados normalizados](../../../../normalized/geral/informes-tecnicos/it2025-001v1-00-atualiza-tabela-municipios/normalized.json)
 - [Changelog](../../../../changelog/geral/informes-tecnicos/it2025-001v1-00-atualiza-tabela-municipios.md)
 - [Proveniência resumida](../../../../sources/provenance/it2025-001v1-00-atualiza-tabela-municipios.json)
+
+
+## Documentos relacionados
+
+- [[it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel]]
+- [[it2024-001v2-30-atualiza-tabela-de-ncm]]
+- [[it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026]]

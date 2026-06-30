@@ -3993,3 +3993,10 @@ MOC 7.0 - Anexo  I, Leiaute e Regras  de Validação da NF-e e da NFC-e
 - [Dados normalizados](../../../../normalized/nfe/manuais/anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e/normalized.json)
 - [Changelog](../../../../changelog/nfe/manuais/anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e.md)
 - [Proveniência resumida](../../../../sources/provenance/anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e.json)
+
+
+## Documentos relacionados
+
+- [[moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k]]
+- [[moc-nfeabi-anexo-i-leiaute-e-rv-v2-00]]
+- [[moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f]]

@@ -11,3 +11,9 @@
 - Conversao: Markdown via Docling Server, com imagens referenciadas em `assets/`.
 - Validacao: sem Base64, sem `data:image`, 4 referencia(s) de imagem, 4 asset(s) presentes.
 - Publicado em: 2026-06-30T14:59:28.499138+00:00.
+
+
+## Documento relacionado
+
+- [Ver no corpus](../../../corpus/nfe/notas-tecnicas/nota-t-cnica-2007-004-publicada-em-15-09-2011/document.md)
+- [Metadados do corpus](../../../corpus/nfe/notas-tecnicas/nota-t-cnica-2007-004-publicada-em-15-09-2011/metadata.json)

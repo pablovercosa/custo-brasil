@@ -107,3 +107,10 @@ Esta regra será aplicada a partir do dia 01/05/2011  em ambiente de homologaç�
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2011-002/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2011-002.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2011-002.json)
+
+
+## Documentos relacionados
+
+- [[nota-t-cnica-2011-001-publicada-em-25-02-2011]]
+- [[nota-t-cnica-2011-005-publicada-em-21-10-2011]]
+- [[nota-t-cnica-2011-007-publicada-em-26-12-2011]]

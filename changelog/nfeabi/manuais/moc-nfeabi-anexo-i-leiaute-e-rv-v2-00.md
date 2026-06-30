@@ -40,3 +40,9 @@
 - Adicionados `corpus_category` e `created_at` no normalized.json.
 - Adicionado `original_public_path_hint` no source.json (para documentos que nao possuiam).
 - Corrigida `source_url` em branco (33 documentos) e `authority` com placeholder SEFAZ (5 documentos).
+
+
+## Documento relacionado
+
+- [Ver no corpus](../../../corpus/nfeabi/manuais/moc-nfeabi-anexo-i-leiaute-e-rv-v2-00/document.md)
+- [Metadados do corpus](../../../corpus/nfeabi/manuais/moc-nfeabi-anexo-i-leiaute-e-rv-v2-00/metadata.json)

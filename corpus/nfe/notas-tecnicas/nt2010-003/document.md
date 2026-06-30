@@ -506,3 +506,10 @@ No Anexo I - Leiaute da NF-e, linhas 16, 19, 20b, 39, 71, 86, 95, 323, 372, onde
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2010-003/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2010-003.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2010-003.json)
+
+
+## Documentos relacionados
+
+- [[nota-t-cnica-2010-002-publicada-em-29-11-2010]]
+- [[nota-t-cnica-2010-005-publicada-em-06-07-2010]]
+- [[nota-t-cnica-2010-009-publicada-em-10-12-2010]]

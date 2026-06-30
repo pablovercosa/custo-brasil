@@ -5735,3 +5735,8 @@ FCP: FUNDO DE COMBATE À POBREZA DO ESTADO DESTINATÁRIO
 - [Dados normalizados](../../../../normalized/nfe/manuais/manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e/normalized.json)
 - [Changelog](../../../../changelog/nfe/manuais/manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e.md)
 - [Proveniência resumida](../../../../sources/provenance/manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e.json)
+
+
+## Documentos relacionados
+
+- [[manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0]]

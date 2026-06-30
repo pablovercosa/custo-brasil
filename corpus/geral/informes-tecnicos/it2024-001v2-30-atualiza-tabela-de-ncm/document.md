@@ -123,3 +123,11 @@ Obs:  Ficam  mantidas  as  demais  alterações  previstas  na  versão  3.70  d
 - [Dados normalizados](../../../../normalized/geral/informes-tecnicos/it2024-001v2-30-atualiza-tabela-de-ncm/normalized.json)
 - [Changelog](../../../../changelog/geral/informes-tecnicos/it2024-001v2-30-atualiza-tabela-de-ncm.md)
 - [Proveniência resumida](../../../../sources/provenance/it2024-001v2-30-atualiza-tabela-de-ncm.json)
+
+
+## Documentos relacionados
+
+- [[it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026]]
+- [[it2025-001v1-00-atualiza-tabela-municipios]]
+- [[nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024]]
+- [[nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024]]

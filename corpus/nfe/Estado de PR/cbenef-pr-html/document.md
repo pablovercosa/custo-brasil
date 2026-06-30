@@ -279,3 +279,10 @@ Obrigado por compartilhar!
 - [Dados normalizados](../../../../normalized/nfe/Estado de PR/cbenef-pr-html/normalized.json)
 - [Changelog](../../../../changelog/nfe/Estado de PR/cbenef-pr-html.md)
 - [Proveniência resumida](../../../../sources/provenance/cbenef-pr-html.json)
+
+
+## Documentos relacionados
+
+- [[cbenef-go-html]]
+- [[cbenef-rj-html]]
+- [[cbenef-sp-html]]

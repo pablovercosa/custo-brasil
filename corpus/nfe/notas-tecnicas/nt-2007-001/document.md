@@ -118,3 +118,15 @@ As  dúvidas  e  sugestões  devem  ser  encaminhadas  através  do  Canal  Fale
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2007-001/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2007-001.md)
 - [Proveniência resumida](../../../../sources/provenance/nt-2007-001.json)
+
+
+## Documentos relacionados
+
+- [[nota-t-cnica-2007-004-publicada-em-15-09-2011]]
+- [[nota-t-cnica-2007-007-publicada-em-30-11-2010]]
+- [[nt-2007-002]]
+- [[nt-2007-003]]
+- [[nt-2007-004]]
+- [[nt-2007-007]]
+- [[nt-2007-008]]
+- [[nt-2007-009]]

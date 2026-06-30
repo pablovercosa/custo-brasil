@@ -105,3 +105,14 @@ O objetivo deste Informe Técnico é divulgar as alterações da Tabela de Meios
 - [Dados normalizados](../../../../normalized/nfe/informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026/normalized.json)
 - [Changelog](../../../../changelog/nfe/informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026.md)
 - [Proveniência resumida](../../../../sources/provenance/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026.json)
+
+
+## Documentos relacionados
+
+- [[it-2026-001-v-1-00-tabelas-de-meios-de-pagamento-para-vincula-o-com-o-split]]
+- [[it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs]]
+- [[it2023-002v1-00-tabela-cfop-11-04-2023]]
+- [[it2024-001v2-30-atualiza-tabela-de-ncm]]
+- [[it2025-001v1-00-atualiza-tabela-municipios]]
+- [[nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024]]
+- [[nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024]]

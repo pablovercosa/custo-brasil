@@ -123,3 +123,13 @@ NT 2018.002
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2018-002-v1-00/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2018-002-v1-00.md)
 - [Proveniência resumida](../../../../sources/provenance/nt-2018-002-v1-00.json)
+
+
+## Documentos relacionados
+
+- [[manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0]]
+- [[nota-t-cnica-2016-001-v-1-40-publicada-em-16-07-2018]]
+- [[nt-2018-003-v1-01-tabela-de-pa-ses]]
+- [[nt-2018-004-cancelamento-por-substitui-o-da-nfc-e]]
+- [[nt2018-001-v1-10-emitente-cpf]]
+- [[nt2018-005-v1-52-alteracaodeleiautenf-enfc]]

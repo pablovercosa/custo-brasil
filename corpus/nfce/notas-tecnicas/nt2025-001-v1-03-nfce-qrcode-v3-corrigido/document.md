@@ -372,3 +372,8 @@ Nota 4: Nesta nova versão do layout do qrCode não existe a necessidade de info
 - [Dados normalizados](../../../../normalized/nfce/notas-tecnicas/nt2025-001-v1-03-nfce-qrcode-v3-corrigido/normalized.json)
 - [Changelog](../../../../changelog/nfce/notas-tecnicas/nt2025-001-v1-03-nfce-qrcode-v3-corrigido.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2025-001-v1-03-nfce-qrcode-v3-corrigido.json)
+
+
+## Documentos relacionados
+
+- [[it-2025-003-altera-o-endere-o-qrcode-nfc-e-go]]

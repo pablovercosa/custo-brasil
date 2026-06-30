@@ -40,3 +40,9 @@
 - Adicionados `corpus_category` e `created_at` no normalized.json.
 - Adicionado `original_public_path_hint` no source.json (para documentos que nao possuiam).
 - Corrigida `source_url` em branco (33 documentos) e `authority` com placeholder SEFAZ (5 documentos).
+
+
+## Documento relacionado
+
+- [Ver no corpus](../../../corpus/nfe/notas-tecnicas/nt2022-003v1-11-referenciamento/document.md)
+- [Metadados do corpus](../../../corpus/nfe/notas-tecnicas/nt2022-003v1-11-referenciamento/metadata.json)

@@ -94,3 +94,10 @@ Conteúdo acessível em Libras usando o VLibras Widget com opções dos Avatares
 - [Dados normalizados](../../../../normalized/nfe/Estado de RJ/cbenef-rj-html/normalized.json)
 - [Changelog](../../../../changelog/nfe/Estado de RJ/cbenef-rj-html.md)
 - [Proveniência resumida](../../../../sources/provenance/cbenef-rj-html.json)
+
+
+## Documentos relacionados
+
+- [[cbenef-go-html]]
+- [[cbenef-pr-html]]
+- [[cbenef-sp-html]]

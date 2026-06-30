@@ -1559,3 +1559,12 @@ Nesta nova versão não haverá alteração no leiaute do DANFE. As informaçõe
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2016-002-v1-61/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2016-002-v1-61.md)
 - [Proveniência resumida](../../../../sources/provenance/nt-2016-002-v1-61.json)
+
+
+## Documentos relacionados
+
+- [[nota-t-cnica-2016-001-v-1-40-publicada-em-16-07-2018]]
+- [[nt-2015-002-v141-23-08-2016]]
+- [[nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024]]
+- [[nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024]]
+- [[nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior]]

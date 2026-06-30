@@ -40,3 +40,9 @@
 - Adicionados `corpus_category` e `created_at` no normalized.json.
 - Adicionado `original_public_path_hint` no source.json (para documentos que nao possuiam).
 - Corrigida `source_url` em branco (33 documentos) e `authority` com placeholder SEFAZ (5 documentos).
+
+
+## Documento relacionado
+
+- [Ver no corpus](../../../corpus/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)
+- [Metadados do corpus](../../../corpus/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/metadata.json)

@@ -68,3 +68,10 @@ Responder
 - [Dados normalizados](../../../../normalized/nfe/Estado de SP/cbenef-sp-html/normalized.json)
 - [Changelog](../../../../changelog/nfe/Estado de SP/cbenef-sp-html.md)
 - [Proveniência resumida](../../../../sources/provenance/cbenef-sp-html.json)
+
+
+## Documentos relacionados
+
+- [[cbenef-go-html]]
+- [[cbenef-pr-html]]
+- [[cbenef-rj-html]]

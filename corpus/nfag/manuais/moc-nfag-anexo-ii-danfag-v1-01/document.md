@@ -291,3 +291,8 @@ MINUTA
 - [Dados normalizados](../../../../normalized/nfag/manuais/moc-nfag-anexo-ii-danfag-v1-01/normalized.json)
 - [Changelog](../../../../changelog/nfag/manuais/moc-nfag-anexo-ii-danfag-v1-01.md)
 - [Proveniência resumida](../../../../sources/provenance/moc-nfag-anexo-ii-danfag-v1-01.json)
+
+
+## Documentos relacionados
+
+- [[moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k]]

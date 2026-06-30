@@ -88,3 +88,8 @@ Os prazos dessa atualização de tabelas estão documentados anteriormente, no i
 - [Dados normalizados](../../../../normalized/nfe/informes-tecnicos/it2023-004v1-03-atualiza-fcp/normalized.json)
 - [Changelog](../../../../changelog/nfe/informes-tecnicos/it2023-004v1-03-atualiza-fcp.md)
 - [Proveniência resumida](../../../../sources/provenance/it2023-004v1-03-atualiza-fcp.json)
+
+
+## Documentos relacionados
+
+- [[it2023-002v1-00-tabela-cfop-11-04-2023]]

@@ -101,10 +101,11 @@ Cada documento contém `document.md` (ou `README.md` para dados tabulares), `met
 
 ## Documentos incluídos
 
-- **169 documentos** convertidos: 136 PDFs (Docling), 28 planilhas (XLSX/XLS/ODS → CSV), 5 páginas HTML
+- **160 documentos** convertidos: 151 PDFs (Docling), 5 páginas HTML
 - **8 categorias fiscais** ocupadas, 3 reservadas para expansão
 - **239 schemas XSD** organizados por PL
-- **3.415 imagens** extraídas e referenciadas como assets
+- **3495 imagens** extraídas e referenciadas como assets
+
 
 ## Licença
 

@@ -415,3 +415,8 @@ MOC - ANEXO II - v 1.00
 - [Dados normalizados](../../../../normalized/nfgas/manuais/moc-nfgas-anexo-ii-danfgas-v1-00/normalized.json)
 - [Changelog](../../../../changelog/nfgas/manuais/moc-nfgas-anexo-ii-danfgas-v1-00.md)
 - [Proveniência resumida](../../../../sources/provenance/moc-nfgas-anexo-ii-danfgas-v1-00.json)
+
+
+## Documentos relacionados
+
+- [[moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f]]

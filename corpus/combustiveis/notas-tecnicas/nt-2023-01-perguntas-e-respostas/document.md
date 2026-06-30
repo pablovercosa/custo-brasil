@@ -401,3 +401,15 @@ OBS: As regras de validação atuais não serão aplicadas até 31/08/2023. Poss
 - [Dados normalizados](../../../../normalized/combustiveis/notas-tecnicas/nt-2023-01-perguntas-e-respostas/normalized.json)
 - [Changelog](../../../../changelog/combustiveis/notas-tecnicas/nt-2023-01-perguntas-e-respostas.md)
 - [Proveniência resumida](../../../../sources/provenance/nt-2023-01-perguntas-e-respostas.json)
+
+
+## Documentos relacionados
+
+- [[it-2023-001-v1-10-tabela-cprodanp]]
+- [[it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica]]
+- [[it2023-002v1-00-tabela-cfop-11-04-2023]]
+- [[it2023-004v1-03-atualiza-fcp]]
+- [[nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024]]
+- [[nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis]]
+- [[nt2023-002-v1-01-emitente-cpf-nfce]]
+- [[nt2023-003-v1-20-altera-rv-cfop-nfc-e]]

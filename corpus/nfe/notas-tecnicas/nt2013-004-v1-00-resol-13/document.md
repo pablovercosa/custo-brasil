@@ -66,3 +66,8 @@ Incluída nova regra de validação, conforme segue:
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2013-004-v1-00-resol-13/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2013-004-v1-00-resol-13.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2013-004-v1-00-resol-13.json)
+
+
+## Documentos relacionados
+
+- [[nt2013-006-v1-00-resol-13-fci]]

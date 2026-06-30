@@ -708,3 +708,12 @@ Inclusão do campo cBenefRBC após o campo pRedBC para informar código de benef
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2019-001-v1-70-regras-de-valida-o/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2019-001-v1-70-regras-de-valida-o.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2019-001-v1-70-regras-de-valida-o.json)
+
+
+## Documentos relacionados
+
+- [[anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e]]
+- [[moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k]]
+- [[moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f]]
+- [[nt2020-005-v1-21-regras-de-valida-o]]
+- [[nt2022-004-v1-10-regras-de-valida-o-issqn]]

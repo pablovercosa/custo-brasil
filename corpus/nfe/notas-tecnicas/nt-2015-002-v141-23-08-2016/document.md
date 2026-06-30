@@ -1199,3 +1199,9 @@ Nota: O evento de Registro de Passagem da NF-e bloqueia o cancelamento da Nota F
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2015-002-v141-23-08-2016/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2015-002-v141-23-08-2016.md)
 - [Proveniência resumida](../../../../sources/provenance/nt-2015-002-v141-23-08-2016.json)
+
+
+## Documentos relacionados
+
+- [[nt-2015-001-v-1-30]]
+- [[nt-2015-003-v194]]

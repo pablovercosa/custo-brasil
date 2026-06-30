@@ -578,3 +578,8 @@ NT 2021.004 v1.33 - Regras de Validação e Novos Campos
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2021-004v1-35-novos-campos-e-regras/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2021-004v1-35-novos-campos-e-regras.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2021-004v1-35-novos-campos-e-regras.json)
+
+
+## Documentos relacionados
+
+- [[nt2023-004-v1-20-campos-e-regras]]
