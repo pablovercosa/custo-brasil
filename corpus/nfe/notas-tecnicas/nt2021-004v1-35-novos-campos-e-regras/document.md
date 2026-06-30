@@ -582,4 +582,4 @@ NT 2021.004 v1.33 - Regras de Validação e Novos Campos
 
 ## Documentos relacionados
 
-- [[nt2023-004-v1-20-campos-e-regras]]
+- [nt2023-004-v1-20-campos-e-regras](../nt2023-004-v1-20-campos-e-regras/document.md)

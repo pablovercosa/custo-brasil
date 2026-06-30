@@ -162,4 +162,4 @@ Eliminadas as regras de validação abaixo:
 
 ## Documentos relacionados
 
-- [[nt-2014-001-v1-30-evento-epec]]
+- [nt-2014-001-v1-30-evento-epec](../nt-2014-001-v1-30-evento-epec/document.md)

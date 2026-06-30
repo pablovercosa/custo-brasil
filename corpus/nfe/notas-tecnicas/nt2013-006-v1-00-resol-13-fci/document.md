@@ -108,4 +108,4 @@ Eliminada a exceção 2 da validação da alíquota máxi ma nas operações int
 
 ## Documentos relacionados
 
-- [[nt2013-004-v1-00-resol-13]]
+- [nt2013-004-v1-00-resol-13](../nt2013-004-v1-00-resol-13/document.md)

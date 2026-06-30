@@ -150,8 +150,8 @@ Abaixo, segue um modelo do e-mail:
 
 ## Documentos relacionados
 
-- [[anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras]]
-- [[anexo-iii-manual-de-conting-ncia-nf-e]]
-- [[anexo-iv-manual-de-conting-ncia-nfc-e]]
-- [[manual-svan-anexo-ii]]
-- [[manual-svan-v1-00]]
+- [anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras](../anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras/document.md)
+- [anexo-iii-manual-de-conting-ncia-nf-e](../anexo-iii-manual-de-conting-ncia-nf-e/document.md)
+- [anexo-iv-manual-de-conting-ncia-nfc-e](../../../nfce/manuais/anexo-iv-manual-de-conting-ncia-nfc-e/document.md)
+- [manual-svan-anexo-ii](../manual-svan-anexo-ii/document.md)
+- [manual-svan-v1-00](../manual-svan-v1-00/document.md)

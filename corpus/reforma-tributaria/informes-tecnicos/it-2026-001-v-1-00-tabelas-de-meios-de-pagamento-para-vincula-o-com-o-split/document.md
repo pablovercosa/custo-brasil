@@ -62,6 +62,6 @@ A inclusão de códigos válidos será realizada através de atualizações dest
 
 ## Documentos relacionados
 
-- [[it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15]]
-- [[it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs]]
-- [[it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026]]
+- [it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15](../it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15/document.md)
+- [it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs](../it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs/document.md)
+- [it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026](../../../nfe/informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026/document.md)

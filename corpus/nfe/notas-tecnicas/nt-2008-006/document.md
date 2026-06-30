@@ -114,11 +114,11 @@ A alteração do Manual de Integração para registro da implementação será r
 
 ## Documentos relacionados
 
-- [[nota-t-cnica-2008-001-publicada-em-30-11-2010]]
-- [[nota-t-cnica-2008-003-publicada-em-30-11-2010]]
-- [[nota-t-cnica-2008-005-publicada-em-30-11-2010]]
-- [[nt-2008-001]]
-- [[nt-2008-003]]
-- [[nt-2008-004]]
-- [[nt-2008-005]]
-- [[nt2008-002]]
+- [nota-t-cnica-2008-001-publicada-em-30-11-2010](../nota-t-cnica-2008-001-publicada-em-30-11-2010/document.md)
+- [nota-t-cnica-2008-003-publicada-em-30-11-2010](../nota-t-cnica-2008-003-publicada-em-30-11-2010/document.md)
+- [nota-t-cnica-2008-005-publicada-em-30-11-2010](../nota-t-cnica-2008-005-publicada-em-30-11-2010/document.md)
+- [nt-2008-001](../nt-2008-001/document.md)
+- [nt-2008-003](../nt-2008-003/document.md)
+- [nt-2008-004](../nt-2008-004/document.md)
+- [nt-2008-005](../nt-2008-005/document.md)
+- [nt2008-002](../nt2008-002/document.md)

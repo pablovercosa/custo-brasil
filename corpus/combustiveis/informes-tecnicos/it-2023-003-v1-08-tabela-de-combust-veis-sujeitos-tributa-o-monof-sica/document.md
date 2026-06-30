@@ -78,7 +78,7 @@ Caso seja necessário conhecer mais sobre as tabelas da ANP que dão origem a es
 
 ## Documentos relacionados
 
-- [[it-2023-001-v1-10-tabela-cprodanp]]
-- [[it2023-002v1-00-tabela-cfop-11-04-2023]]
-- [[nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024]]
-- [[nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis]]
+- [it-2023-001-v1-10-tabela-cprodanp](../it-2023-001-v1-10-tabela-cprodanp/document.md)
+- [it2023-002v1-00-tabela-cfop-11-04-2023](../../../nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/document.md)
+- [nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024](../../../nfe/notas-tecnicas/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/document.md)
+- [nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis](../../notas-tecnicas/nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis/document.md)

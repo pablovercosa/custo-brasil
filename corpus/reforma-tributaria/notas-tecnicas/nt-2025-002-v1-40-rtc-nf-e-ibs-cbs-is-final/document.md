@@ -2304,11 +2304,11 @@ Tabela publicada na aba 'Documentos', opção 'Diversos' do Portal Nacional da N
 
 ## Documentos relacionados
 
-- [[20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code]]
-- [[dfe-ntcj-2025-001-cnpj-alfa-v1-00]]
-- [[it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15]]
-- [[it-2025-003-altera-o-endere-o-qrcode-nfc-e-go]]
-- [[it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel]]
-- [[it2025-001v1-00-atualiza-tabela-municipios]]
-- [[nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is]]
-- [[nt-2025-002-v1-50-rtc-nf-e-ibs-cbs-is]]
+- [20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code](../../../nfce/manuais/20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code/document.md)
+- [dfe-ntcj-2025-001-cnpj-alfa-v1-00](../../../geral/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00/document.md)
+- [it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15](../../informes-tecnicos/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15/document.md)
+- [it-2025-003-altera-o-endere-o-qrcode-nfc-e-go](../../../nfce/informes-tecnicos/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go/document.md)
+- [it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel](../../../combustiveis/informes-tecnicos/it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel/document.md)
+- [it2025-001v1-00-atualiza-tabela-municipios](../../../geral/informes-tecnicos/it2025-001v1-00-atualiza-tabela-municipios/document.md)
+- [nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)
+- [nt-2025-002-v1-50-rtc-nf-e-ibs-cbs-is](../nt-2025-002-v1-50-rtc-nf-e-ibs-cbs-is/document.md)

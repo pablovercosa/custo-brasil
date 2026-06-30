@@ -171,10 +171,10 @@ Para aquela que ficou pendente de retorno (a nota n° 20 desse exemplo):
 
 ## Documentos relacionados
 
-- [[20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code]]
-- [[anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras]]
-- [[anexo-iii-manual-de-conting-ncia-nf-e]]
-- [[anexo-iv-manual-de-conting-ncia-nfc-e]]
-- [[manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0]]
-- [[manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e]]
-- [[nt2020-002v-1-01-espec-fica-para-ipi]]
+- [20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code](../20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code/document.md)
+- [anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras](../../../nfe/manuais/anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras/document.md)
+- [anexo-iii-manual-de-conting-ncia-nf-e](../../../nfe/manuais/anexo-iii-manual-de-conting-ncia-nf-e/document.md)
+- [anexo-iv-manual-de-conting-ncia-nfc-e](../anexo-iv-manual-de-conting-ncia-nfc-e/document.md)
+- [manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0](../manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0/document.md)
+- [manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e](../../../nfe/manuais/manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e/document.md)
+- [nt2020-002v-1-01-espec-fica-para-ipi](../../../nfe/notas-tecnicas/nt2020-002v-1-01-espec-fica-para-ipi/document.md)

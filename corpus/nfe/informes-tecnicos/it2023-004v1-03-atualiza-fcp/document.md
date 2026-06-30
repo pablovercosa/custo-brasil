@@ -92,4 +92,4 @@ Os prazos dessa atualização de tabelas estão documentados anteriormente, no i
 
 ## Documentos relacionados
 
-- [[it2023-002v1-00-tabela-cfop-11-04-2023]]
+- [it2023-002v1-00-tabela-cfop-11-04-2023](../it2023-002v1-00-tabela-cfop-11-04-2023/document.md)

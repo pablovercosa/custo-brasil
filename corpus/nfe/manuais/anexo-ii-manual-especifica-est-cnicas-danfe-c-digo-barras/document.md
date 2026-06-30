@@ -1324,9 +1324,9 @@ SNFeNFCe
 
 ## Documentos relacionados
 
-- [[20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code]]
-- [[anexo-iii-manual-de-conting-ncia-nf-e]]
-- [[anexo-iv-manual-de-conting-ncia-nfc-e]]
-- [[manual-svan-anexo-i]]
-- [[manual-svan-anexo-ii]]
-- [[nt2020-002v-1-01-espec-fica-para-ipi]]
+- [20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code](../../../nfce/manuais/20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code/document.md)
+- [anexo-iii-manual-de-conting-ncia-nf-e](../anexo-iii-manual-de-conting-ncia-nf-e/document.md)
+- [anexo-iv-manual-de-conting-ncia-nfc-e](../../../nfce/manuais/anexo-iv-manual-de-conting-ncia-nfc-e/document.md)
+- [manual-svan-anexo-i](../manual-svan-anexo-i/document.md)
+- [manual-svan-anexo-ii](../manual-svan-anexo-ii/document.md)
+- [nt2020-002v-1-01-espec-fica-para-ipi](../../notas-tecnicas/nt2020-002v-1-01-espec-fica-para-ipi/document.md)

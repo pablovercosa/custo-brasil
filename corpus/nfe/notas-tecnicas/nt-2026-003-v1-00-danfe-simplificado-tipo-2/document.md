@@ -754,4 +754,4 @@ Tabela 3: Mensagens de validação de consulta da NF-e
 
 ## Documentos relacionados
 
-- [[nt2020-004-danfe-simplificado-v1-10]]
+- [nt2020-004-danfe-simplificado-v1-10](../nt2020-004-danfe-simplificado-v1-10/document.md)

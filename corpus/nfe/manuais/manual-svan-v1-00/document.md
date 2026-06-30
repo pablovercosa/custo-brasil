@@ -349,5 +349,5 @@ Disponível em: <http://www.nfe.fazenda.gov.br/portal>
 
 ## Documentos relacionados
 
-- [[manual-svan-anexo-i]]
-- [[manual-svan-anexo-ii]]
+- [manual-svan-anexo-i](../manual-svan-anexo-i/document.md)
+- [manual-svan-anexo-ii](../manual-svan-anexo-ii/document.md)

@@ -190,8 +190,8 @@ t.  No local definido e com o nome do arquivo especificado, estará salvo um arq
 
 ## Documentos relacionados
 
-- [[anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras]]
-- [[anexo-iii-manual-de-conting-ncia-nf-e]]
-- [[anexo-iv-manual-de-conting-ncia-nfc-e]]
-- [[manual-svan-anexo-i]]
-- [[manual-svan-v1-00]]
+- [anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras](../anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras/document.md)
+- [anexo-iii-manual-de-conting-ncia-nf-e](../anexo-iii-manual-de-conting-ncia-nf-e/document.md)
+- [anexo-iv-manual-de-conting-ncia-nfc-e](../../../nfce/manuais/anexo-iv-manual-de-conting-ncia-nfc-e/document.md)
+- [manual-svan-anexo-i](../manual-svan-anexo-i/document.md)
+- [manual-svan-v1-00](../manual-svan-v1-00/document.md)

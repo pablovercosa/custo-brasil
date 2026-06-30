@@ -330,4 +330,4 @@ NT 2022.002
 
 ## Documentos relacionados
 
-- [[nt2020-002v-1-01-espec-fica-para-ipi]]
+- [nt2020-002v-1-01-espec-fica-para-ipi](../nt2020-002v-1-01-espec-fica-para-ipi/document.md)

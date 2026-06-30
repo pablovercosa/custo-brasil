@@ -441,10 +441,10 @@ Consta no Número do Protocolo o 'Tipo de Autorizado r', que agora assume os val
 
 ## Documentos relacionados
 
-- [[nt2013-001-manifestacao-combustivel]]
-- [[nt2013-002-b2b-v1-00b]]
-- [[nt2013-003-v1-00a-lei-transparencia]]
-- [[nt2013-004-v1-00-resol-13]]
-- [[nt2013-005-v1-22]]
-- [[nt2013-006-v1-00-resol-13-fci]]
-- [[nt2013-008-v1-00-cancelamento-nfe]]
+- [nt2013-001-manifestacao-combustivel](../nt2013-001-manifestacao-combustivel/document.md)
+- [nt2013-002-b2b-v1-00b](../nt2013-002-b2b-v1-00b/document.md)
+- [nt2013-003-v1-00a-lei-transparencia](../nt2013-003-v1-00a-lei-transparencia/document.md)
+- [nt2013-004-v1-00-resol-13](../nt2013-004-v1-00-resol-13/document.md)
+- [nt2013-005-v1-22](../nt2013-005-v1-22/document.md)
+- [nt2013-006-v1-00-resol-13-fci](../nt2013-006-v1-00-resol-13-fci/document.md)
+- [nt2013-008-v1-00-cancelamento-nfe](../nt2013-008-v1-00-cancelamento-nfe/document.md)

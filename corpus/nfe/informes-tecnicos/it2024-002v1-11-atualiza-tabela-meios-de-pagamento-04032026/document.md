@@ -109,10 +109,10 @@ O objetivo deste Informe Técnico é divulgar as alterações da Tabela de Meios
 
 ## Documentos relacionados
 
-- [[it-2026-001-v-1-00-tabelas-de-meios-de-pagamento-para-vincula-o-com-o-split]]
-- [[it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs]]
-- [[it2023-002v1-00-tabela-cfop-11-04-2023]]
-- [[it2024-001v2-30-atualiza-tabela-de-ncm]]
-- [[it2025-001v1-00-atualiza-tabela-municipios]]
-- [[nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024]]
-- [[nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024]]
+- [it-2026-001-v-1-00-tabelas-de-meios-de-pagamento-para-vincula-o-com-o-split](../../../reforma-tributaria/informes-tecnicos/it-2026-001-v-1-00-tabelas-de-meios-de-pagamento-para-vincula-o-com-o-split/document.md)
+- [it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs](../../../reforma-tributaria/informes-tecnicos/it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs/document.md)
+- [it2023-002v1-00-tabela-cfop-11-04-2023](../it2023-002v1-00-tabela-cfop-11-04-2023/document.md)
+- [it2024-001v2-30-atualiza-tabela-de-ncm](../../../geral/informes-tecnicos/it2024-001v2-30-atualiza-tabela-de-ncm/document.md)
+- [it2025-001v1-00-atualiza-tabela-municipios](../../../geral/informes-tecnicos/it2025-001v1-00-atualiza-tabela-municipios/document.md)
+- [nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024](../../notas-tecnicas/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/document.md)
+- [nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024](../../notas-tecnicas/nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024/document.md)

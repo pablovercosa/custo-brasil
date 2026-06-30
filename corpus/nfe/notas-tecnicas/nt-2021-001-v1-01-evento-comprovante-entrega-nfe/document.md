@@ -560,4 +560,4 @@ A existência de um evento de 'Comprovante de Entrega da NF-e', não cancelado, 
 
 ## Documentos relacionados
 
-- [[nt2023-005-v1-02-evento-insucesso-entrega-nf-e]]
+- [nt2023-005-v1-02-evento-insucesso-entrega-nf-e](../nt2023-005-v1-02-evento-insucesso-entrega-nf-e/document.md)

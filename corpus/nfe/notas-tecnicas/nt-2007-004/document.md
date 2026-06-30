@@ -51,11 +51,11 @@ A versão do Pacote de Liberação 006 (Versão 1.11), será liberada, em ambien
 
 ## Documentos relacionados
 
-- [[nota-t-cnica-2007-004-publicada-em-15-09-2011]]
-- [[nota-t-cnica-2007-007-publicada-em-30-11-2010]]
-- [[nt-2007-001]]
-- [[nt-2007-002]]
-- [[nt-2007-003]]
-- [[nt-2007-007]]
-- [[nt-2007-008]]
-- [[nt-2007-009]]
+- [nota-t-cnica-2007-004-publicada-em-15-09-2011](../nota-t-cnica-2007-004-publicada-em-15-09-2011/document.md)
+- [nota-t-cnica-2007-007-publicada-em-30-11-2010](../nota-t-cnica-2007-007-publicada-em-30-11-2010/document.md)
+- [nt-2007-001](../nt-2007-001/document.md)
+- [nt-2007-002](../nt-2007-002/document.md)
+- [nt-2007-003](../nt-2007-003/document.md)
+- [nt-2007-007](../nt-2007-007/document.md)
+- [nt-2007-008](../nt-2007-008/document.md)
+- [nt-2007-009](../nt-2007-009/document.md)

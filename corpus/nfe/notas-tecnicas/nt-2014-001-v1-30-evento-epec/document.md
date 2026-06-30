@@ -678,7 +678,7 @@ NFe
 
 ## Documentos relacionados
 
-- [[nt-nfce-2014-001]]
-- [[nt2014-002-v1-30-wsnfedistribuicaodfe]]
-- [[nt2014-003-v1-02]]
-- [[nt2014-004-v1-10-ncm-pais-fuso-evento]]
+- [nt-nfce-2014-001](../../../nfce/notas-tecnicas/nt-nfce-2014-001/document.md)
+- [nt2014-002-v1-30-wsnfedistribuicaodfe](../nt2014-002-v1-30-wsnfedistribuicaodfe/document.md)
+- [nt2014-003-v1-02](../../../nfce/notas-tecnicas/nt2014-003-v1-02/document.md)
+- [nt2014-004-v1-10-ncm-pais-fuso-evento](../nt2014-004-v1-10-ncm-pais-fuso-evento/document.md)

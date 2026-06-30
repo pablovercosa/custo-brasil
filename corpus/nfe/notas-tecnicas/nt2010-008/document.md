@@ -558,6 +558,6 @@ O  arquivo  digital  da  Carta  de  Correção  com  a  respec tiva  informaçã
 
 ## Documentos relacionados
 
-- [[nota-t-cnica-2010-002-publicada-em-29-11-2010]]
-- [[nota-t-cnica-2010-005-publicada-em-06-07-2010]]
-- [[nota-t-cnica-2010-009-publicada-em-10-12-2010]]
+- [nota-t-cnica-2010-002-publicada-em-29-11-2010](../nota-t-cnica-2010-002-publicada-em-29-11-2010/document.md)
+- [nota-t-cnica-2010-005-publicada-em-06-07-2010](../nota-t-cnica-2010-005-publicada-em-06-07-2010/document.md)
+- [nota-t-cnica-2010-009-publicada-em-10-12-2010](../nota-t-cnica-2010-009-publicada-em-10-12-2010/document.md)

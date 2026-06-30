@@ -93,7 +93,7 @@ Os códigos incluídos na tabela de NCM publicada no Portal Nacional da NF-e est
 
 ## Documentos relacionados
 
-- [[it-2023-001-v1-10-tabela-cprodanp]]
-- [[it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica]]
-- [[it2023-002v1-00-tabela-cfop-11-04-2023]]
-- [[nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024]]
+- [it-2023-001-v1-10-tabela-cprodanp](../../../combustiveis/informes-tecnicos/it-2023-001-v1-10-tabela-cprodanp/document.md)
+- [it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica](../../../combustiveis/informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica/document.md)
+- [it2023-002v1-00-tabela-cfop-11-04-2023](../../informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/document.md)
+- [nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024](../nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024/document.md)

@@ -139,4 +139,4 @@ Para permitir a emissão NF-e utilizando o CFOP 5.403 ou 5.405 com o CST 90 ou c
 
 ## Documentos relacionados
 
-- [[it2023-002v1-00-tabela-cfop-11-04-2023]]
+- [it2023-002v1-00-tabela-cfop-11-04-2023](../../../nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/document.md)

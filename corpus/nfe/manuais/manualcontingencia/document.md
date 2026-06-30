@@ -1399,6 +1399,6 @@ https://www.nfe.fazenda.gov.br/portal/DPEC/ConsultaDPEC.aspx
 
 ## Documentos relacionados
 
-- [[anexo-iii-manual-de-conting-ncia-nf-e]]
-- [[anexo-iv-manual-de-conting-ncia-nfc-e]]
-- [[manual-de-especificacoes-tecnicas-da-contingencia-off-line-versao-2-0]]
+- [anexo-iii-manual-de-conting-ncia-nf-e](../anexo-iii-manual-de-conting-ncia-nf-e/document.md)
+- [anexo-iv-manual-de-conting-ncia-nfc-e](../../../nfce/manuais/anexo-iv-manual-de-conting-ncia-nfc-e/document.md)
+- [manual-de-especificacoes-tecnicas-da-contingencia-off-line-versao-2-0](../../../nfce/manuais/manual-de-especificacoes-tecnicas-da-contingencia-off-line-versao-2-0/document.md)

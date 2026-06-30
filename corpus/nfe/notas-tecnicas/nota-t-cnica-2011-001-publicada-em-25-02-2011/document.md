@@ -41,11 +41,11 @@ alfandegado quando ocorrida antes do desembaraço aduaneiro.
 
 ## Documentos relacionados
 
-- [[nota-t-cnica-2007-004-publicada-em-15-09-2011]]
-- [[nota-t-cnica-2007-007-publicada-em-30-11-2010]]
-- [[nota-t-cnica-2008-001-publicada-em-30-11-2010]]
-- [[nota-t-cnica-2008-003-publicada-em-30-11-2010]]
-- [[nota-t-cnica-2008-005-publicada-em-30-11-2010]]
-- [[nota-t-cnica-2009-001-publicada-em-29-11-2010]]
-- [[nota-t-cnica-2009-002-publicada-em-29-11-2010]]
-- [[nota-t-cnica-2009-004-publicada-em-30-11-2010]]
+- [nota-t-cnica-2007-004-publicada-em-15-09-2011](../nota-t-cnica-2007-004-publicada-em-15-09-2011/document.md)
+- [nota-t-cnica-2007-007-publicada-em-30-11-2010](../nota-t-cnica-2007-007-publicada-em-30-11-2010/document.md)
+- [nota-t-cnica-2008-001-publicada-em-30-11-2010](../nota-t-cnica-2008-001-publicada-em-30-11-2010/document.md)
+- [nota-t-cnica-2008-003-publicada-em-30-11-2010](../nota-t-cnica-2008-003-publicada-em-30-11-2010/document.md)
+- [nota-t-cnica-2008-005-publicada-em-30-11-2010](../nota-t-cnica-2008-005-publicada-em-30-11-2010/document.md)
+- [nota-t-cnica-2009-001-publicada-em-29-11-2010](../nota-t-cnica-2009-001-publicada-em-29-11-2010/document.md)
+- [nota-t-cnica-2009-002-publicada-em-29-11-2010](../nota-t-cnica-2009-002-publicada-em-29-11-2010/document.md)
+- [nota-t-cnica-2009-004-publicada-em-30-11-2010](../nota-t-cnica-2009-004-publicada-em-30-11-2010/document.md)

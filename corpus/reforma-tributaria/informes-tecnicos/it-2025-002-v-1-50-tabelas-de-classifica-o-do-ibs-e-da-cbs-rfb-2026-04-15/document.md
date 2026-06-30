@@ -366,6 +366,6 @@ associado não sujeito ao regime regular do IBS e da CBS.
 
 ## Documentos relacionados
 
-- [[it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel]]
-- [[it-2026-001-v-1-00-tabelas-de-meios-de-pagamento-para-vincula-o-com-o-split]]
-- [[it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs]]
+- [it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel](../../../combustiveis/informes-tecnicos/it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel/document.md)
+- [it-2026-001-v-1-00-tabelas-de-meios-de-pagamento-para-vincula-o-com-o-split](../it-2026-001-v-1-00-tabelas-de-meios-de-pagamento-para-vincula-o-com-o-split/document.md)
+- [it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs](../it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs/document.md)

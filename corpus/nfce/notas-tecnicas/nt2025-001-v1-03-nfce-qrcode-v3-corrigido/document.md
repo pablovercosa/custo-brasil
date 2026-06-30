@@ -376,4 +376,4 @@ Nota 4: Nesta nova versão do layout do qrCode não existe a necessidade de info
 
 ## Documentos relacionados
 
-- [[it-2025-003-altera-o-endere-o-qrcode-nfc-e-go]]
+- [it-2025-003-altera-o-endere-o-qrcode-nfc-e-go](../../informes-tecnicos/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go/document.md)

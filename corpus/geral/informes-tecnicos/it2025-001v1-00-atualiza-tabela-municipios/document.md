@@ -68,6 +68,6 @@ As  alterações  na  tabela  de  municípios  para  29/01/2025  no  ambiente  d
 
 ## Documentos relacionados
 
-- [[it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel]]
-- [[it2024-001v2-30-atualiza-tabela-de-ncm]]
-- [[it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026]]
+- [it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel](../../../combustiveis/informes-tecnicos/it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel/document.md)
+- [it2024-001v2-30-atualiza-tabela-de-ncm](../it2024-001v2-30-atualiza-tabela-de-ncm/document.md)
+- [it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026](../../../nfe/informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026/document.md)

@@ -560,4 +560,4 @@ O processamento do lote pode resultar em:
 
 ## Documentos relacionados
 
-- [[nt-2021-001-v1-01-evento-comprovante-entrega-nfe]]
+- [nt-2021-001-v1-01-evento-comprovante-entrega-nfe](../nt-2021-001-v1-01-evento-comprovante-entrega-nfe/document.md)

@@ -474,4 +474,4 @@ Classificam-se neste código os registros relativos aos documentos fiscais emiti
 
 ## Documentos relacionados
 
-- [[it2023-002v1-00-tabela-cfop-11-04-2023]]
+- [it2023-002v1-00-tabela-cfop-11-04-2023](../../informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/document.md)

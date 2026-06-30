@@ -321,10 +321,10 @@ NT 2026.001 Versão 1.00
 
 ## Documentos relacionados
 
-- [[it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15]]
-- [[it-2026-001-v-1-00-tabelas-de-meios-de-pagamento-para-vincula-o-com-o-split]]
-- [[it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs]]
-- [[it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026]]
-- [[nt-2026-002-v1-00]]
-- [[nt-2026-003-v1-00-danfe-simplificado-tipo-2]]
-- [[nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa]]
+- [it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15](../../../reforma-tributaria/informes-tecnicos/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15/document.md)
+- [it-2026-001-v-1-00-tabelas-de-meios-de-pagamento-para-vincula-o-com-o-split](../../../reforma-tributaria/informes-tecnicos/it-2026-001-v-1-00-tabelas-de-meios-de-pagamento-para-vincula-o-com-o-split/document.md)
+- [it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs](../../../reforma-tributaria/informes-tecnicos/it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs/document.md)
+- [it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026](../../informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026/document.md)
+- [nt-2026-002-v1-00](../nt-2026-002-v1-00/document.md)
+- [nt-2026-003-v1-00-danfe-simplificado-tipo-2](../nt-2026-003-v1-00-danfe-simplificado-tipo-2/document.md)
+- [nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa](../nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa/document.md)

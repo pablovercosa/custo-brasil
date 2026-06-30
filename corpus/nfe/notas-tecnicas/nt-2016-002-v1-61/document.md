@@ -1563,8 +1563,8 @@ Nesta nova versão não haverá alteração no leiaute do DANFE. As informaçõe
 
 ## Documentos relacionados
 
-- [[nota-t-cnica-2016-001-v-1-40-publicada-em-16-07-2018]]
-- [[nt-2015-002-v141-23-08-2016]]
-- [[nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024]]
-- [[nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024]]
-- [[nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior]]
+- [nota-t-cnica-2016-001-v-1-40-publicada-em-16-07-2018](../nota-t-cnica-2016-001-v-1-40-publicada-em-16-07-2018/document.md)
+- [nt-2015-002-v141-23-08-2016](../nt-2015-002-v141-23-08-2016/document.md)
+- [nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024](../nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/document.md)
+- [nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024](../nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024/document.md)
+- [nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior](../nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior/document.md)

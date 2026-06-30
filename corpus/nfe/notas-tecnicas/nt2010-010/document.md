@@ -352,6 +352,6 @@ A informação de que o imposto foi parcialmente diferido e o seu valor seguido 
 
 ## Documentos relacionados
 
-- [[nota-t-cnica-2010-002-publicada-em-29-11-2010]]
-- [[nota-t-cnica-2010-005-publicada-em-06-07-2010]]
-- [[nota-t-cnica-2010-009-publicada-em-10-12-2010]]
+- [nota-t-cnica-2010-002-publicada-em-29-11-2010](../nota-t-cnica-2010-002-publicada-em-29-11-2010/document.md)
+- [nota-t-cnica-2010-005-publicada-em-06-07-2010](../nota-t-cnica-2010-005-publicada-em-06-07-2010/document.md)
+- [nota-t-cnica-2010-009-publicada-em-10-12-2010](../nota-t-cnica-2010-009-publicada-em-10-12-2010/document.md)

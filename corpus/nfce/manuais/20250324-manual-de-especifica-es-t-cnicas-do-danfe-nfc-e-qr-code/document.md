@@ -1291,5 +1291,5 @@ Tabela 8:Mensagens de validações de consulta da NFC-e
 
 ## Documentos relacionados
 
-- [[anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras]]
-- [[nt2020-002v-1-01-espec-fica-para-ipi]]
+- [anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras](../../../nfe/manuais/anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras/document.md)
+- [nt2020-002v-1-01-espec-fica-para-ipi](../../../nfe/notas-tecnicas/nt2020-002v-1-01-espec-fica-para-ipi/document.md)

@@ -130,11 +130,11 @@ Após o  registro  do  DPEC  o  emissor  poderá  emitir  os  DANFE  em  papel  
 
 ## Documentos relacionados
 
-- [[nota-t-cnica-2009-001-publicada-em-29-11-2010]]
-- [[nota-t-cnica-2009-002-publicada-em-29-11-2010]]
-- [[nota-t-cnica-2009-004-publicada-em-30-11-2010]]
-- [[nt2009-001]]
-- [[nt2009-002]]
-- [[nt2009-004]]
-- [[nt2009-005]]
-- [[nt2009-006]]
+- [nota-t-cnica-2009-001-publicada-em-29-11-2010](../nota-t-cnica-2009-001-publicada-em-29-11-2010/document.md)
+- [nota-t-cnica-2009-002-publicada-em-29-11-2010](../nota-t-cnica-2009-002-publicada-em-29-11-2010/document.md)
+- [nota-t-cnica-2009-004-publicada-em-30-11-2010](../nota-t-cnica-2009-004-publicada-em-30-11-2010/document.md)
+- [nt2009-001](../nt2009-001/document.md)
+- [nt2009-002](../nt2009-002/document.md)
+- [nt2009-004](../nt2009-004/document.md)
+- [nt2009-005](../nt2009-005/document.md)
+- [nt2009-006](../nt2009-006/document.md)

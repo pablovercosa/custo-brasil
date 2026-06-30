@@ -110,5 +110,5 @@ e)  Dados dos totais da NF-e: Valor total da Nota Fiscal.
 
 ## Documentos relacionados
 
-- [[nt-2026-003-v1-00-danfe-simplificado-tipo-2]]
-- [[nt2020-002v-1-01-espec-fica-para-ipi]]
+- [nt-2026-003-v1-00-danfe-simplificado-tipo-2](../nt-2026-003-v1-00-danfe-simplificado-tipo-2/document.md)
+- [nt2020-002v-1-01-espec-fica-para-ipi](../nt2020-002v-1-01-espec-fica-para-ipi/document.md)

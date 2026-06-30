@@ -511,7 +511,7 @@ Cabe à aplicação do contribuinte tratar adequadamente a situação das NF-e P
 
 ## Documentos relacionados
 
-- [[anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras]]
-- [[anexo-iv-manual-de-conting-ncia-nfc-e]]
-- [[manual-svan-anexo-i]]
-- [[manual-svan-anexo-ii]]
+- [anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras](../anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras/document.md)
+- [anexo-iv-manual-de-conting-ncia-nfc-e](../../../nfce/manuais/anexo-iv-manual-de-conting-ncia-nfc-e/document.md)
+- [manual-svan-anexo-i](../manual-svan-anexo-i/document.md)
+- [manual-svan-anexo-ii](../manual-svan-anexo-ii/document.md)

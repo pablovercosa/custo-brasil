@@ -1117,6 +1117,6 @@ NF-e ABI - Anexo I, Leiaute e Regras de Validação
 
 ## Documentos relacionados
 
-- [[anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e]]
-- [[moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k]]
-- [[moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f]]
+- [anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e](../../../nfe/manuais/anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e/document.md)
+- [moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k](../../../nfag/manuais/moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k/document.md)
+- [moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f](../../../nfgas/manuais/moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f/document.md)

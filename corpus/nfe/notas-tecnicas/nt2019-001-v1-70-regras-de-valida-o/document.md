@@ -712,8 +712,8 @@ Inclusão do campo cBenefRBC após o campo pRedBC para informar código de benef
 
 ## Documentos relacionados
 
-- [[anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e]]
-- [[moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k]]
-- [[moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f]]
-- [[nt2020-005-v1-21-regras-de-valida-o]]
-- [[nt2022-004-v1-10-regras-de-valida-o-issqn]]
+- [anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e](../../manuais/anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e/document.md)
+- [moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k](../../../nfag/manuais/moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k/document.md)
+- [moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f](../../../nfgas/manuais/moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f/document.md)
+- [nt2020-005-v1-21-regras-de-valida-o](../nt2020-005-v1-21-regras-de-valida-o/document.md)
+- [nt2022-004-v1-10-regras-de-valida-o-issqn](../nt2022-004-v1-10-regras-de-valida-o-issqn/document.md)

@@ -281,7 +281,7 @@ MOC 7.0 - Anexo  IV, Padrões Técnicos de Contingência  O ff-line NFC-e
 
 ## Documentos relacionados
 
-- [[anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras]]
-- [[anexo-iii-manual-de-conting-ncia-nf-e]]
-- [[manual-svan-anexo-i]]
-- [[manual-svan-anexo-ii]]
+- [anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras](../../../nfe/manuais/anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras/document.md)
+- [anexo-iii-manual-de-conting-ncia-nf-e](../../../nfe/manuais/anexo-iii-manual-de-conting-ncia-nf-e/document.md)
+- [manual-svan-anexo-i](../../../nfe/manuais/manual-svan-anexo-i/document.md)
+- [manual-svan-anexo-ii](../../../nfe/manuais/manual-svan-anexo-ii/document.md)

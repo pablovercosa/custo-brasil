@@ -251,9 +251,9 @@ Grupo ZF. Informações de Produtos da Agricultura, Pecuária e Produção Flore
 
 ## Documentos relacionados
 
-- [[it2024-001v2-30-atualiza-tabela-de-ncm]]
-- [[it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026]]
-- [[nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024]]
-- [[nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024]]
-- [[nt2024-001-v1-20]]
-- [[nt2024-002-v1-00-econf]]
+- [it2024-001v2-30-atualiza-tabela-de-ncm](../../../geral/informes-tecnicos/it2024-001v2-30-atualiza-tabela-de-ncm/document.md)
+- [it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026](../../informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026/document.md)
+- [nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024](../nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/document.md)
+- [nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024](../nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024/document.md)
+- [nt2024-001-v1-20](../nt2024-001-v1-20/document.md)
+- [nt2024-002-v1-00-econf](../nt2024-002-v1-00-econf/document.md)

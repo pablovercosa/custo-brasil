@@ -577,9 +577,9 @@ Os testes no ambiente de  produção,  quando  liberado este ambiente,  por falh
 
 ## Documentos relacionados
 
-- [[nt2020-002v-1-01-espec-fica-para-ipi]]
-- [[nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica]]
-- [[nt2020-004-danfe-simplificado-v1-10]]
-- [[nt2020-005-v1-21-regras-de-valida-o]]
-- [[nt2020-006-v1-31-intermediador-e-marketplace]]
-- [[nt2020-007-v1-40-evento-ator-nfe-transportador]]
+- [nt2020-002v-1-01-espec-fica-para-ipi](../nt2020-002v-1-01-espec-fica-para-ipi/document.md)
+- [nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica](../nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica/document.md)
+- [nt2020-004-danfe-simplificado-v1-10](../nt2020-004-danfe-simplificado-v1-10/document.md)
+- [nt2020-005-v1-21-regras-de-valida-o](../nt2020-005-v1-21-regras-de-valida-o/document.md)
+- [nt2020-006-v1-31-intermediador-e-marketplace](../nt2020-006-v1-31-intermediador-e-marketplace/document.md)
+- [nt2020-007-v1-40-evento-ator-nfe-transportador](../nt2020-007-v1-40-evento-ator-nfe-transportador/document.md)

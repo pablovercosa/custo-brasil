@@ -5739,4 +5739,4 @@ FCP: FUNDO DE COMBATE À POBREZA DO ESTADO DESTINATÁRIO
 
 ## Documentos relacionados
 
-- [[manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0]]
+- [manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0](../../../nfce/manuais/manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0/document.md)

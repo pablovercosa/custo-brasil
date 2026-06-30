@@ -610,6 +610,6 @@ O  arquivo  digital  da  Carta  de  Correção  com  a  respec tiva  informaçã
 
 ## Documentos relacionados
 
-- [[nota-t-cnica-2011-001-publicada-em-25-02-2011]]
-- [[nota-t-cnica-2011-005-publicada-em-21-10-2011]]
-- [[nota-t-cnica-2011-007-publicada-em-26-12-2011]]
+- [nota-t-cnica-2011-001-publicada-em-25-02-2011](../nota-t-cnica-2011-001-publicada-em-25-02-2011/document.md)
+- [nota-t-cnica-2011-005-publicada-em-21-10-2011](../nota-t-cnica-2011-005-publicada-em-21-10-2011/document.md)
+- [nota-t-cnica-2011-007-publicada-em-26-12-2011](../nota-t-cnica-2011-007-publicada-em-26-12-2011/document.md)

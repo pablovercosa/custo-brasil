@@ -403,4 +403,4 @@ NT 2023.004 - Informações de Pagamentos e Outros
 
 ## Documentos relacionados
 
-- [[nt2021-004v1-35-novos-campos-e-regras]]
+- [nt2021-004v1-35-novos-campos-e-regras](../nt2021-004v1-35-novos-campos-e-regras/document.md)

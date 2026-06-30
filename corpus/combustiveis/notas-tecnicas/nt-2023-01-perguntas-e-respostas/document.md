@@ -405,11 +405,11 @@ OBS: As regras de validação atuais não serão aplicadas até 31/08/2023. Poss
 
 ## Documentos relacionados
 
-- [[it-2023-001-v1-10-tabela-cprodanp]]
-- [[it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica]]
-- [[it2023-002v1-00-tabela-cfop-11-04-2023]]
-- [[it2023-004v1-03-atualiza-fcp]]
-- [[nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024]]
-- [[nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis]]
-- [[nt2023-002-v1-01-emitente-cpf-nfce]]
-- [[nt2023-003-v1-20-altera-rv-cfop-nfc-e]]
+- [it-2023-001-v1-10-tabela-cprodanp](../../informes-tecnicos/it-2023-001-v1-10-tabela-cprodanp/document.md)
+- [it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica](../../informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica/document.md)
+- [it2023-002v1-00-tabela-cfop-11-04-2023](../../../nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/document.md)
+- [it2023-004v1-03-atualiza-fcp](../../../nfe/informes-tecnicos/it2023-004v1-03-atualiza-fcp/document.md)
+- [nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024](../../../nfe/notas-tecnicas/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/document.md)
+- [nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis](../nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis/document.md)
+- [nt2023-002-v1-01-emitente-cpf-nfce](../../../nfce/notas-tecnicas/nt2023-002-v1-01-emitente-cpf-nfce/document.md)
+- [nt2023-003-v1-20-altera-rv-cfop-nfc-e](../../../nfce/notas-tecnicas/nt2023-003-v1-20-altera-rv-cfop-nfc-e/document.md)

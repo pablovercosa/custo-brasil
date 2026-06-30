@@ -419,4 +419,4 @@ MOC - ANEXO II - v 1.00
 
 ## Documentos relacionados
 
-- [[moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f]]
+- [moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f](../moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f/document.md)

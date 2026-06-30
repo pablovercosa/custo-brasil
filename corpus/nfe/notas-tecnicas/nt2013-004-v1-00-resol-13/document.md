@@ -70,4 +70,4 @@ Incluída nova regra de validação, conforme segue:
 
 ## Documentos relacionados
 
-- [[nt2013-006-v1-00-resol-13-fci]]
+- [nt2013-006-v1-00-resol-13-fci](../nt2013-006-v1-00-resol-13-fci/document.md)

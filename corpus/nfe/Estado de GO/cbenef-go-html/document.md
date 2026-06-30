@@ -76,6 +76,6 @@ Gantry 5
 
 ## Documentos relacionados
 
-- [[cbenef-pr-html]]
-- [[cbenef-rj-html]]
-- [[cbenef-sp-html]]
+- [cbenef-pr-html](../../Estado de PR/cbenef-pr-html/document.md)
+- [cbenef-rj-html](../../Estado de RJ/cbenef-rj-html/document.md)
+- [cbenef-sp-html](../../Estado de SP/cbenef-sp-html/document.md)

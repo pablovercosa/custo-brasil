@@ -404,4 +404,4 @@ Schema XML: retInutNFe\_v4.00.xsd
 
 ## Documentos relacionados
 
-- [[dfe-ntcj-2025-001-cnpj-alfa-v1-00]]
+- [dfe-ntcj-2025-001-cnpj-alfa-v1-00](../../../geral/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00/document.md)

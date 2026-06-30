@@ -1043,10 +1043,10 @@ MOC 1.00h
 
 ## Documentos relacionados
 
-- [[anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e]]
-- [[moc-nfag-anexo-ii-danfag-v1-01]]
-- [[moc-nfeabi-anexo-i-leiaute-e-rv-v2-00]]
-- [[moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f]]
-- [[nt2019-001-v1-70-regras-de-valida-o]]
-- [[nt2020-005-v1-21-regras-de-valida-o]]
-- [[nt2022-004-v1-10-regras-de-valida-o-issqn]]
+- [anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e](../../../nfe/manuais/anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e/document.md)
+- [moc-nfag-anexo-ii-danfag-v1-01](../moc-nfag-anexo-ii-danfag-v1-01/document.md)
+- [moc-nfeabi-anexo-i-leiaute-e-rv-v2-00](../../../nfeabi/manuais/moc-nfeabi-anexo-i-leiaute-e-rv-v2-00/document.md)
+- [moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f](../../../nfgas/manuais/moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f/document.md)
+- [nt2019-001-v1-70-regras-de-valida-o](../../../nfe/notas-tecnicas/nt2019-001-v1-70-regras-de-valida-o/document.md)
+- [nt2020-005-v1-21-regras-de-valida-o](../../../nfe/notas-tecnicas/nt2020-005-v1-21-regras-de-valida-o/document.md)
+- [nt2022-004-v1-10-regras-de-valida-o-issqn](../../../nfe/notas-tecnicas/nt2022-004-v1-10-regras-de-valida-o-issqn/document.md)

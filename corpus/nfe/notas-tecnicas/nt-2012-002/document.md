@@ -1030,7 +1030,7 @@ Os testes no ambiente de produção, quando liberado  este ambiente, por falha d
 
 ## Documentos relacionados
 
-- [[nt2012-001]]
-- [[nt2012-003d]]
-- [[nt2012-004-v1-2-nfce]]
-- [[nt2012-005c-resol-13]]
+- [nt2012-001](../nt2012-001/document.md)
+- [nt2012-003d](../nt2012-003d/document.md)
+- [nt2012-004-v1-2-nfce](../../../nfce/notas-tecnicas/nt2012-004-v1-2-nfce/document.md)
+- [nt2012-005c-resol-13](../nt2012-005c-resol-13/document.md)

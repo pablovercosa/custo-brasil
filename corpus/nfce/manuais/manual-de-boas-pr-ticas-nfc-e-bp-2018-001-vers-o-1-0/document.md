@@ -324,4 +324,4 @@ Deve se esperar um tempo de processamento inferior a 1 segundo no processamento 
 
 ## Documentos relacionados
 
-- [[manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e]]
+- [manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e](../../../nfe/manuais/manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e/document.md)

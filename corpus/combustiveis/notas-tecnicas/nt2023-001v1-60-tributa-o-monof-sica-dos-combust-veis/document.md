@@ -828,4 +828,4 @@ Na  venda  de  óleo  diesel  B  realizada  pela  refinaria  de  petróleo  ou  
 
 ## Documentos relacionados
 
-- [[it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica]]
+- [it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica](../../informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica/document.md)

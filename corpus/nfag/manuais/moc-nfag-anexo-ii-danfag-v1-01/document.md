@@ -295,4 +295,4 @@ MINUTA
 
 ## Documentos relacionados
 
-- [[moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k]]
+- [moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k](../moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k/document.md)

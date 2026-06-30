@@ -283,6 +283,6 @@ Obrigado por compartilhar!
 
 ## Documentos relacionados
 
-- [[cbenef-go-html]]
-- [[cbenef-rj-html]]
-- [[cbenef-sp-html]]
+- [cbenef-go-html](../../Estado de GO/cbenef-go-html/document.md)
+- [cbenef-rj-html](../../Estado de RJ/cbenef-rj-html/document.md)
+- [cbenef-sp-html](../../Estado de SP/cbenef-sp-html/document.md)

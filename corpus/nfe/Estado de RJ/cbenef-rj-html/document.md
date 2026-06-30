@@ -98,6 +98,6 @@ Conteúdo acessível em Libras usando o VLibras Widget com opções dos Avatares
 
 ## Documentos relacionados
 
-- [[cbenef-go-html]]
-- [[cbenef-pr-html]]
-- [[cbenef-sp-html]]
+- [cbenef-go-html](../../Estado de GO/cbenef-go-html/document.md)
+- [cbenef-pr-html](../../Estado de PR/cbenef-pr-html/document.md)
+- [cbenef-sp-html](../../Estado de SP/cbenef-sp-html/document.md)

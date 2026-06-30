@@ -328,4 +328,4 @@ Cronograma para validar a exigência de preenchimento do GTIN no campo cEAN (RV 
 
 ## Documentos relacionados
 
-- [[nt-2017-002-v1-40-tabela-cfop]]
+- [nt-2017-002-v1-40-tabela-cfop](../nt-2017-002-v1-40-tabela-cfop/document.md)

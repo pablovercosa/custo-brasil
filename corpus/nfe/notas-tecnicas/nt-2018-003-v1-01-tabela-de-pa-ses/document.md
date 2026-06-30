@@ -81,9 +81,9 @@ Países que tiveram alteração no Nome
 
 ## Documentos relacionados
 
-- [[manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0]]
-- [[nota-t-cnica-2016-001-v-1-40-publicada-em-16-07-2018]]
-- [[nt-2018-002-v1-00]]
-- [[nt-2018-004-cancelamento-por-substitui-o-da-nfc-e]]
-- [[nt2018-001-v1-10-emitente-cpf]]
-- [[nt2018-005-v1-52-alteracaodeleiautenf-enfc]]
+- [manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0](../../../nfce/manuais/manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0/document.md)
+- [nota-t-cnica-2016-001-v-1-40-publicada-em-16-07-2018](../nota-t-cnica-2016-001-v-1-40-publicada-em-16-07-2018/document.md)
+- [nt-2018-002-v1-00](../nt-2018-002-v1-00/document.md)
+- [nt-2018-004-cancelamento-por-substitui-o-da-nfc-e](../../../nfce/notas-tecnicas/nt-2018-004-cancelamento-por-substitui-o-da-nfc-e/document.md)
+- [nt2018-001-v1-10-emitente-cpf](../nt2018-001-v1-10-emitente-cpf/document.md)
+- [nt2018-005-v1-52-alteracaodeleiautenf-enfc](../nt2018-005-v1-52-alteracaodeleiautenf-enfc/document.md)

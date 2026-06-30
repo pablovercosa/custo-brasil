@@ -1203,5 +1203,5 @@ Nota: O evento de Registro de Passagem da NF-e bloqueia o cancelamento da Nota F
 
 ## Documentos relacionados
 
-- [[nt-2015-001-v-1-30]]
-- [[nt-2015-003-v194]]
+- [nt-2015-001-v-1-30](../nt-2015-001-v-1-30/document.md)
+- [nt-2015-003-v194](../nt-2015-003-v194/document.md)

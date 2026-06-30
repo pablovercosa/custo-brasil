@@ -1524,5 +1524,5 @@ A tabela do item Web Service - NFeDistribuicaoDFe da NT2014.002 fica acrescida c
 
 ## Documentos relacionados
 
-- [[nt-2015-002-v141-23-08-2016]]
-- [[nt-2015-003-v194]]
+- [nt-2015-002-v141-23-08-2016](../nt-2015-002-v141-23-08-2016/document.md)
+- [nt-2015-003-v194](../nt-2015-003-v194/document.md)

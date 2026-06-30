@@ -173,4 +173,4 @@ Os 57 (cinquenta e sete) códigos incluídos na tabela de NCM publicada no Porta
 
 ## Documentos relacionados
 
-- [[nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024]]
+- [nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024](../nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/document.md)
