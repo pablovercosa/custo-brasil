@@ -1,0 +1,34 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nota-t-cnica-2008-003-publicada-em-30-11-2010",
+  "category": "nota_tecnica",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/nfe/notas-tecnicas/nota-t-cnica-2008-003-publicada-em-30-11-2010/document.md",
+    "corpus/nfe/notas-tecnicas/nota-t-cnica-2008-003-publicada-em-30-11-2010/metadata.json",
+    "corpus/nfe/notas-tecnicas/nota-t-cnica-2008-003-publicada-em-30-11-2010/assets/image_000000_dd2ad4f71d8efb2ebbc167d4a35ac83aefebc704148aab528431cea111f93f29.png",
+    "corpus/nfe/notas-tecnicas/nota-t-cnica-2008-003-publicada-em-30-11-2010/assets/image_000001_23df8919fce260704a8bc46cec3a6b03e65bf2d92b7a434232ab1120ee9bc7fd.png",
+    "corpus/nfe/notas-tecnicas/nota-t-cnica-2008-003-publicada-em-30-11-2010/assets/image_000002_2db0526f72795fe9ff9421284d9453a0577cd1d4af4f969ffd71d79f0ceba909.png",
+    "corpus/nfe/notas-tecnicas/nota-t-cnica-2008-003-publicada-em-30-11-2010/assets/image_000003_2cf3aec89793c818f2bf1905551957621d1081334be23b3949ac12fb0a032a13.png",
+    "corpus/nfe/notas-tecnicas/nota-t-cnica-2008-003-publicada-em-30-11-2010/assets/image_000004_2cf3aec89793c818f2bf1905551957621d1081334be23b3949ac12fb0a032a13.png",
+    "sources/portal_nacional_nfe/nfe/notas-tecnicas/nota-t-cnica-2008-003-publicada-em-30-11-2010/source.json",
+    "normalized/nfe/notas-tecnicas/nota-t-cnica-2008-003-publicada-em-30-11-2010/normalized.json",
+    "changelog/nfe/notas-tecnicas/nota-t-cnica-2008-003-publicada-em-30-11-2010.md"
+  ],
+  "original_filename": "Nota T\u00e9cnica 2008.003 - Publicada em 30_11_2010.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/Nota T\u00e9cnica 2008.003 - Publicada em 30_11_2010.pdf",
+  "original_sha256": "a8e55f351721068d340236c15bd284e6816a00405548c4aeb5932203a9e6400d",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-30T15:04:50.030791+00:00",
+  "slug": "nota-t-cnica-2008-003-publicada-em-30-11-2010",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 5,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 5,
+    "missing_image_refs_count": 0
+  }
+}

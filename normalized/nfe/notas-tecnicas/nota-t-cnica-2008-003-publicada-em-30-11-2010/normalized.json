@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nota-t-cnica-2008-003-publicada-em-30-11-2010",
+  "category": "nota_tecnica",
+  "document_path": "corpus/nfe/notas-tecnicas/nota-t-cnica-2008-003-publicada-em-30-11-2010/document.md",
+  "metadata_path": "corpus/nfe/notas-tecnicas/nota-t-cnica-2008-003-publicada-em-30-11-2010/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "Nota T\u00e9cnica 2008.003 - Publicada em 30_11_2010.pdf",
+  "original_sha256": "a8e55f351721068d340236c15bd284e6816a00405548c4aeb5932203a9e6400d",
+  "published_at_utc": "2026-06-30T15:04:50.030791+00:00",
+  "slug": "nota-t-cnica-2008-003-publicada-em-30-11-2010",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal_nacional_nfe/nfe/notas-tecnicas/nota-t-cnica-2008-003-publicada-em-30-11-2010/source.json",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 5,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 5,
+    "missing_image_refs_count": 0
+  }
+}
