@@ -1,0 +1,32 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nota-t-cnica-2007-007-publicada-em-30-11-2010",
+  "category": "nota_tecnica",
+  "conversion": {
+    "image_export_mode": "referenced",
+    "output_format": "md",
+    "target_type": "zip",
+    "tool": "docling-server"
+  },
+  "converted_at_utc": "2026-06-30T15:01:45.651310+00:00",
+  "original_filename": "Nota T\u00e9cnica 2007.007 - Publicada em 30_11_2010.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/Nota T\u00e9cnica 2007.007 - Publicada em 30_11_2010.pdf",
+  "original_sha256": "c35c63d3905c2f16aa78e92e27c3d648111c687263d5e1204baf08d3e927d5af",
+  "public_paths": {
+    "assets": "corpus/nfe/notas-tecnicas/nota-t-cnica-2007-007-publicada-em-30-11-2010/assets/",
+    "document": "corpus/nfe/notas-tecnicas/nota-t-cnica-2007-007-publicada-em-30-11-2010/document.md",
+    "metadata": "corpus/nfe/notas-tecnicas/nota-t-cnica-2007-007-publicada-em-30-11-2010/metadata.json"
+  },
+  "slug": "nota-t-cnica-2007-007-publicada-em-30-11-2010",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 4,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 4,
+    "missing_image_refs_count": 0
+  }
+}
