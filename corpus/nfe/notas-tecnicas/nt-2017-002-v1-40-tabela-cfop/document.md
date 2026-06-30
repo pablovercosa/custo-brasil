@@ -8,9 +8,13 @@ converted_at_utc: "2026-06-25T16:46:44.927587+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_f6167cb2224f7b3dbce7b0f0948b2a7f20f5d189f8d78c28d416b7ae90e16c18.png)
 
-![Image](assets/image_000001_5dd5d5e16748c7abcded3a0035d3a12ebd8073cdc66cfc62ca495386dd8ab477.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2017-002-v1-40-tabela-cfop/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2017-002-v1-40-tabela-cfop/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2017-002-v1-40-tabela-cfop.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2017-002-v1-40-tabela-cfop.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -87,7 +91,7 @@ Grupo L. Item / Combustível
 
 | Campo- Seq   | Modelo   | Regra de Validação                                                                                                                                                                                                                                                                                                                      | Aplic.   |   Msg | Efeito   | Descrição Erro                                                                 |
 |--------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------|----------|--------------------------------------------------------------------------------|
-| LA01-20      | 55/65    | Obrigatória a informação do grupo de combustível para os CFOP constantes na Tabela CFOP, indComb=1 ou 2. (NT 2012/003) Observação: Para a NFC-e, a regra de validação é opcional, a critério da UF. Exceção: Para a NFC-e, a regra de validação não se aplica, em produção, para Nota Fiscal com Data de Emissão anterior a 01/01/2016. | Facul.   |   660 | Rej.     | Rejeição: CFOP de Combustível e não informado grupo de combustível [nItem:nnn] |
+| LA01-20      | 55/65    | Obrigatória a informação do grupo de combustível para os CFOP constantes na Tabela CFOP, indComb=1 ou 2. ([NT 2012/003](../nt2012-003d/document.md)) Observação: Para a NFC-e, a regra de validação é opcional, a critério da UF. Exceção: Para a NFC-e, a regra de validação não se aplica, em produção, para Nota Fiscal com Data de Emissão anterior a 01/01/2016. | Facul.   |   660 | Rej.     | Rejeição: CFOP de Combustível e não informado grupo de combustível [nItem:nnn] |
 
 ## Grupo N. Item / Tributo: ICMS
 
@@ -122,7 +126,7 @@ Exceção 8: A critério da UF, a regra de validação não se aplica para o CST
 
 ![Image](assets/image_000010_e5e658f597e756fe798e5fbd441c102104a92602bdcc5337434492d52eda2a23.png)
 
-| N16-04   | 55   | Validação alíquota do ICMS na operação interestadual de produtos importados (NT 2012/005 e NT2013/006): - Operação Interestadual de Saída (idDest=2 e tpNF=1); - Origem da mercadoria = 1, 2, 3 ou 8; - CST de ICMS = 00, 10, 20, 70 ou 90; - Data de Emissão igual ou superior a 01/01/2013; - Valor alíquota do ICMS maior do que '4.00' (4 por cento). Exceção 0: Para as NF-e com Data de Emissão anterior a 01/07/2016, a regra de validação acima não se aplica para destinatário Não Contribuinte (tag:dest/indIEDest=9). Exceção 1: A regra acima não se aplica para as operações de Devolução (finNFe=4). Exceção 2: A regra de validação acima não se aplica para as operações com CFOP de Retorno de Mercadorias (Tabela CFOP, indRetor=1). Exceção 3: A regra de validação acima não se aplica na venda de veículos novos (grupo 'veicProd') se existir ao menos um item de Venda direta para grandes consumidores (tpOp=3), ou de Faturamento direto para consumidor final (tpOp=2). Exceção 4: Para as NF-e com Data de Emissão anterior a 01/07/2016, mesmo que informada a IE do destinatário, a regra de validação acima não se aplica para as operações com os CFOP 6107, 6108 (Não Contribuinte). Exceção 5: A regra de validação acima não se aplica para a NF Complementar (finNFe=2) quando: - Se referenciada uma NF-e, a NF-e referenciada tem a Data de Emissão anterior a 01/01/13; - Se referenciada uma NF modelo 1, a Data de Emissão é anterior a 1301 (tag refNF/AAMM). Exceção 6: Para as NF-e com Data de Emissão anterior a 01/07/2016, mesmo que informada a IE do destinatário, a regra de validação acima não se aplica para as operações com o CFOP 6.929 - Lançamento   | Facul.   | 663   | Rej   | Rejeição: Alíquota do ICMS com valor superior a 4 por cento na operação de saída interestadual com produtos importados [nItem:999]   |
+| N16-04   | 55   | Validação alíquota do ICMS na operação interestadual de produtos importados ([NT 2012/005](../nt2012-005c-resol-13/document.md) e NT2013/006): - Operação Interestadual de Saída (idDest=2 e tpNF=1); - Origem da mercadoria = 1, 2, 3 ou 8; - CST de ICMS = 00, 10, 20, 70 ou 90; - Data de Emissão igual ou superior a 01/01/2013; - Valor alíquota do ICMS maior do que '4.00' (4 por cento). Exceção 0: Para as NF-e com Data de Emissão anterior a 01/07/2016, a regra de validação acima não se aplica para destinatário Não Contribuinte (tag:dest/indIEDest=9). Exceção 1: A regra acima não se aplica para as operações de Devolução (finNFe=4). Exceção 2: A regra de validação acima não se aplica para as operações com CFOP de Retorno de Mercadorias (Tabela CFOP, indRetor=1). Exceção 3: A regra de validação acima não se aplica na venda de veículos novos (grupo 'veicProd') se existir ao menos um item de Venda direta para grandes consumidores (tpOp=3), ou de Faturamento direto para consumidor final (tpOp=2). Exceção 4: Para as NF-e com Data de Emissão anterior a 01/07/2016, mesmo que informada a IE do destinatário, a regra de validação acima não se aplica para as operações com os CFOP 6107, 6108 (Não Contribuinte). Exceção 5: A regra de validação acima não se aplica para a NF Complementar (finNFe=2) quando: - Se referenciada uma NF-e, a NF-e referenciada tem a Data de Emissão anterior a 01/01/13; - Se referenciada uma NF modelo 1, a Data de Emissão é anterior a 1301 (tag refNF/AAMM). Exceção 6: Para as NF-e com Data de Emissão anterior a 01/07/2016, mesmo que informada a IE do destinatário, a regra de validação acima não se aplica para as operações com o CFOP 6.929 - Lançamento   | Facul.   | 663   | Rej   | Rejeição: Alíquota do ICMS com valor superior a 4 por cento na operação de saída interestadual com produtos importados [nItem:999]   |
 |----------|------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------|-------|--------------------------------------------------------------------------------------------------------------------------------------|
 
 ![Image](assets/image_000011_e5e658f597e756fe798e5fbd441c102104a92602bdcc5337434492d52eda2a23.png)
@@ -170,14 +174,14 @@ A Tabela CFOP, disponibilizada no Portal Nacional da NF-e, fica atualizada com n
 
 ![Image](assets/image_000016_f66be249e132ade000e2313e4b53fc085ea0562a99f88339cc061062a359afa1.png)
 
-A Tabela de CFOP publicada no Portal da NF-e mantém controles por CFOP para os indicadores abaixo, conforme consta na NT 2015.002:
+A Tabela de CFOP publicada no Portal da NF-e mantém controles por CFOP para os indicadores abaixo, conforme consta na [NT 2015.002](../nt-2015-002-v141-23-08-2016/document.md):
 
 - Indicador de CFOP que pode ser utilizado na NF-e (indNFe=1);
 - Indicador de CFOP de comunicação (indComunica=1);
 - Indicador de CFOP de transporte (indTransp=1);
 - Indicador de CFOP de devolução (indDevol=1);
 
-Nesta NT está sendo eliminado o 'Anexo III - CFOP Específicos', constante no MOC, e a ampliação deste 'Anexo III - CFOP Específicos', constante na NT 2015.003.
+Nesta NT está sendo eliminado o 'Anexo III - CFOP Específicos', constante no MOC, e a ampliação deste 'Anexo III - CFOP Específicos', constante na [NT 2015.003](../nt-2015-003-v194/document.md).
 
 Para suprir a necessidade de controle sobre os CFOP, foram incluídos novos indicadores na Tabela de CFOP, alterando as RV que citavam os anexos eliminados.
 
@@ -464,14 +468,6 @@ Classificam-se neste código os registros relativos aos documentos fiscais emiti
 ![Image](assets/image_000034_2cdb85138f6f492c5927602ae09b3e83306c67784ecf69e1793c4c47bed04a4d.png)
 
 ' 2.657 - Retorno de remessa de combustível ou lubrificante para venda fora do estabelecimento. Classificam-se  neste  código  as  entradas  em  retorno  de  combustível  ou  lubrificante  remetidos  para  venda  fora  do  estabelecimento, inclusive por meio de veículos, e não comercializados.'.
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2017-002-v1-40-tabela-cfop/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2017-002-v1-40-tabela-cfop/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2017-002-v1-40-tabela-cfop.md)
-- [Proveniência resumida](../../../../sources/provenance/nt-2017-002-v1-40-tabela-cfop.json)
-
 
 ## Documentos relacionados
-
-- [it2023-002v1-00-tabela-cfop-11-04-2023](../../informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/document.md)
+_Nenhum documento relacionado conhecido._

@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T14:54:45.274312+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_dd2ad4f71d8efb2ebbc167d4a35ac83aefebc704148aab528431cea111f93f29.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2008-003/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2008-003/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2008-003.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2008-003.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -89,21 +95,6 @@ Alteração das regras de validação G30 e G31 para aceitar a informação de N
 O contribuinte deve emitir a NF-e complementar de NF-e ou NF modelo 1/1A, informando o campo finNFe (B26) com o código 1-NF-e normal e a respectiva NF referenciada (campo refNFe - B13 ou grupo refNF - B14), até que a alteração seja implementada em ambiente de produção.
 
 As  dúvidas  e  sugestões  devem  ser  encaminhadas  através  do  Canal  Fale  Conosco  da Secretaria  da  Fazenda  de  São  Paulo  (http://www.fazenda.sp.gov.br/email/default2.asp) referente à 'Portaria CAT 104/07'.
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2008-003/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2008-003/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2008-003.md)
-- [Proveniência resumida](../../../../sources/provenance/nt-2008-003.json)
-
 
 ## Documentos relacionados
-
-- [nota-t-cnica-2008-001-publicada-em-30-11-2010](../nota-t-cnica-2008-001-publicada-em-30-11-2010/document.md)
-- [nota-t-cnica-2008-003-publicada-em-30-11-2010](../nota-t-cnica-2008-003-publicada-em-30-11-2010/document.md)
-- [nota-t-cnica-2008-005-publicada-em-30-11-2010](../nota-t-cnica-2008-005-publicada-em-30-11-2010/document.md)
-- [nt-2008-001](../nt-2008-001/document.md)
-- [nt-2008-004](../nt-2008-004/document.md)
-- [nt-2008-005](../nt-2008-005/document.md)
-- [nt-2008-006](../nt-2008-006/document.md)
-- [nt2008-002](../nt2008-002/document.md)
+_Nenhum documento relacionado conhecido._

@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T16:54:11.310052+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_49849da777e036bae4b1f079583a3d292c7d4718850826d59409b0240842aace.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2013-007-v1-03-svc/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2013-007-v1-03-svc/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2013-007-v1-03-svc.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2013-007-v1-03-svc.json)
 
 ## Sistema Nota Fiscal Eletrônica
 
@@ -169,13 +175,13 @@ Nota: Futuramente, poderá ser analisada a possibilidade  de cancelamento na SVC
 
 A critério da SVC-XX, as regras de validação que verificam se a UF é atendida pela SVC serão implementadas  na  validação  dos  campos  do  SOAP  Heade r,  ou  na  validação  dos  campos normais da mensagem.
 
-## B.1 Validação das informações de controle da chamada ao Web Service (item 4.9.6 da NT 2011.006)
+## B.1 Validação das informações de controle da chamada ao Web Service (item 4.9.6 da [NT 2011.006](../nt2011-006c-evento-cancelamento/document.md))
 
 | #     | Regra de Validação                           | Aplic.    | Msg Descrição                              |
 |-------|----------------------------------------------|-----------|--------------------------------------------|
 | C03.1 | UF do SOAP Header não é atendida pela SVC-XX | Obrig 582 | Rejeição: UF não atendida pela SVC-[AN/RS] |
 
-## B.2 Validação das regras de negócio (item 4.9.7-e d a NT 2011.006)
+## B.2 Validação das regras de negócio (item 4.9.7-e d a [NT 2011.006](../nt2011-006c-evento-cancelamento/document.md))
 
 | #      | Regra de Validação                                        | Aplic.   | Msg Msg/Descrição                                               |
 |--------|-----------------------------------------------------------|----------|-----------------------------------------------------------------|
@@ -431,20 +437,6 @@ Consta no Número do Protocolo o 'Tipo de Autorizado r', que agora assume os val
 - -6: Ambiente da Sefaz Virtual de Contingência do Am biente Nacional (SVC-AN);
 - -4: Sefaz Virtual do Ambiente Nacional (SVAN);
 - -7: Ambiente da Sefaz Virtual de Contingência do RS  (SVC-RS).
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2013-007-v1-03-svc/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2013-007-v1-03-svc/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2013-007-v1-03-svc.md)
-- [Proveniência resumida](../../../../sources/provenance/nt-2013-007-v1-03-svc.json)
-
 
 ## Documentos relacionados
-
-- [nt2013-001-manifestacao-combustivel](../nt2013-001-manifestacao-combustivel/document.md)
-- [nt2013-002-b2b-v1-00b](../nt2013-002-b2b-v1-00b/document.md)
-- [nt2013-003-v1-00a-lei-transparencia](../nt2013-003-v1-00a-lei-transparencia/document.md)
-- [nt2013-004-v1-00-resol-13](../nt2013-004-v1-00-resol-13/document.md)
-- [nt2013-005-v1-22](../nt2013-005-v1-22/document.md)
-- [nt2013-006-v1-00-resol-13-fci](../nt2013-006-v1-00-resol-13-fci/document.md)
-- [nt2013-008-v1-00-cancelamento-nfe](../nt2013-008-v1-00-cancelamento-nfe/document.md)
+_Nenhum documento relacionado conhecido._

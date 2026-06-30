@@ -8,6 +8,14 @@ converted_at_utc: "2026-06-25T15:10:30.771820+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/combustiveis/notas-tecnicas/nt-2023-01-perguntas-e-respostas/source.json)
+- [Dados normalizados](../../../../normalized/combustiveis/notas-tecnicas/nt-2023-01-perguntas-e-respostas/normalized.json)
+- [Changelog](../../../../changelog/combustiveis/notas-tecnicas/nt-2023-01-perguntas-e-respostas.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2023-01-perguntas-e-respostas.json)
+
 ## NT 2023.01 -PERGUNTAS E RESPOSTAS Versão 22/05/2023
 
 ## (Trechos alterados e incluídos nesta versão estarão destacados em verde) Alertamos que as menções ao Convênio ICMS 15/23, no que se refere à Gasolina e Etanol
@@ -395,21 +403,6 @@ O valor do campo vICMSMonoOp, neste exemplo, corresponderia a:
 Da mesma forma, considerando o diferimento integral (100%), o campo vICMSMonoDif deve receber o mesmo valor.
 
 OBS: As regras de validação atuais não serão aplicadas até 31/08/2023. Possíveis ajustes poderão ser avaliados.
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/combustiveis/notas-tecnicas/nt-2023-01-perguntas-e-respostas/source.json)
-- [Dados normalizados](../../../../normalized/combustiveis/notas-tecnicas/nt-2023-01-perguntas-e-respostas/normalized.json)
-- [Changelog](../../../../changelog/combustiveis/notas-tecnicas/nt-2023-01-perguntas-e-respostas.md)
-- [Proveniência resumida](../../../../sources/provenance/nt-2023-01-perguntas-e-respostas.json)
-
 
 ## Documentos relacionados
-
-- [it-2023-001-v1-10-tabela-cprodanp](../../informes-tecnicos/it-2023-001-v1-10-tabela-cprodanp/document.md)
-- [it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica](../../informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica/document.md)
-- [it2023-002v1-00-tabela-cfop-11-04-2023](../../../nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/document.md)
-- [it2023-004v1-03-atualiza-fcp](../../../nfe/informes-tecnicos/it2023-004v1-03-atualiza-fcp/document.md)
-- [nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024](../../../nfe/notas-tecnicas/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/document.md)
-- [nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis](../nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis/document.md)
-- [nt2023-002-v1-01-emitente-cpf-nfce](../../../nfce/notas-tecnicas/nt2023-002-v1-01-emitente-cpf-nfce/document.md)
-- [nt2023-003-v1-20-altera-rv-cfop-nfc-e](../../../nfce/notas-tecnicas/nt2023-003-v1-20-altera-rv-cfop-nfc-e/document.md)
+_Nenhum documento relacionado conhecido._

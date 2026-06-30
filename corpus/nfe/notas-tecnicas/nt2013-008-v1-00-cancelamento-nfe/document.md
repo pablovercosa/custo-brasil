@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T15:04:32.157794+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_800a4b8a63597a6bb63fdd06a6d16b80b3898d87148b745aa839a7997426426d.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2013-008-v1-00-cancelamento-nfe/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2013-008-v1-00-cancelamento-nfe/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2013-008-v1-00-cancelamento-nfe.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2013-008-v1-00-cancelamento-nfe.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -37,7 +43,7 @@ De forma geral, segue abaixo o prazo previsto para entrada em vigência das alte
 
 ## 02. Evento de Cancelamento
 
-## 02.1 Validação das Regras de Negócio específicas do Evento (item 4.9.8 do MOC, conforme NT 2011/006)
+## 02.1 Validação das Regras de Negócio específicas do Evento (item 4.9.8 do MOC, conforme [NT 2011/006](../nt2011-006c-evento-cancelamento/document.md))
 
 | #    | Regra de validação                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Aplic.   |   Msg | Efeito   | Descrição Erro                                                                       |
 |------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------|----------|--------------------------------------------------------------------------------------|
@@ -73,12 +79,6 @@ Nota  (*3):  Evento  da  NF-e  em  processo  de  implantaçã o,  com  a  leitur
 |      690 | Rejeição: Pedido de Cancelamento para NF-e com CT-e ou MDF-e                         |
 
 Obs.: Alterada a descrição da mensagem de erro 690,  já existente, incluindo no final da descrição a re ferência ao 'MDF-e'.
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2013-008-v1-00-cancelamento-nfe/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2013-008-v1-00-cancelamento-nfe/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2013-008-v1-00-cancelamento-nfe.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2013-008-v1-00-cancelamento-nfe.json)
 
 ## Documentos relacionados
 _Nenhum documento relacionado conhecido._

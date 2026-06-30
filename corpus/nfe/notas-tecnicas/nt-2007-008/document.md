@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T15:29:49.842809+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_772887f126e5c274736c852a998f6aaffd031a3fc30b6e90de4b243faeb418d6.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2007-008/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2007-008/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2007-008.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2007-008.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -1079,21 +1085,6 @@ trocar para '... posterior à data de recebimento da NF-e na SEFAZ '
 - Anexo VI (pg. 140) : trocar para 'Zona Franca de Man au s':
 
 As dúvidas e sugestões devem ser encaminhadas através do Canal Fale Conosco da Secretaria da Fazenda de São Paulo (http://www.fazenda.sp.gov.br/email/default2.asp) referente à 'Portaria CAT 104/07'.
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2007-008/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2007-008/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2007-008.md)
-- [Proveniência resumida](../../../../sources/provenance/nt-2007-008.json)
-
 
 ## Documentos relacionados
-
-- [nota-t-cnica-2007-004-publicada-em-15-09-2011](../nota-t-cnica-2007-004-publicada-em-15-09-2011/document.md)
-- [nota-t-cnica-2007-007-publicada-em-30-11-2010](../nota-t-cnica-2007-007-publicada-em-30-11-2010/document.md)
-- [nt-2007-001](../nt-2007-001/document.md)
-- [nt-2007-002](../nt-2007-002/document.md)
-- [nt-2007-003](../nt-2007-003/document.md)
-- [nt-2007-004](../nt-2007-004/document.md)
-- [nt-2007-007](../nt-2007-007/document.md)
-- [nt-2007-009](../nt-2007-009/document.md)
+_Nenhum documento relacionado conhecido._

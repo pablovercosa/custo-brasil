@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T16:22:56.193702+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_4647f474e1d78ce005cd81ea1956584d0331ef0eb894e7bd11dbd5ef9703bb46.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2009-006/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2009-006/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2009-006.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2009-006.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -16,7 +22,7 @@ type: "nota_tecnica"
 
 ## Nota Técnica 2009/006
 
-Substitui NT 2009/005
+Substitui [NT 2009/005](../nt2009-005/document.md)
 
 ![Image](assets/image_000002_71e682ad71c8bdf6631a003ebf38027126a50b04515f6a03dfbbc58f99bb3dbc.png)
 
@@ -1625,7 +1631,7 @@ Os nomes dos campos vBCST e vICMSST foram alterados para vBCSTRet e vICMSSTRet p
 
 ## 9.31 Acréscimo do grupo de informação de ICMSPart
 
-As informações relativas ao ICMS da operação de fat uramento direito de veículos devem ser informada ne ste grupo, ficando revogada a orientação de preenchimento do ICMS divulgada no it em 3 da NT 2008/004.
+As informações relativas ao ICMS da operação de fat uramento direito de veículos devem ser informada ne ste grupo, ficando revogada a orientação de preenchimento do ICMS divulgada no it em 3 da [NT 2008/004](../nt-2008-004/document.md).
 
 |   245.01 | N10a   | ICMSPart   | Partilha do ICMS entre a UF de origem e UF de destino ou a UF definida na legislação.   | CG   | N01   |    | 1-1   |    | Operação interestadual para consumidor final com partilha do ICMS devido na operação entre a UF de origem e a UF do destinatário ou a UF definida na legislação. (Ex. UF da concessionária de entrega do veículos) (v2.0)   |
 |----------|--------|------------|-----------------------------------------------------------------------------------------|------|-------|----|-------|----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2002,12 +2008,6 @@ A identificação de que o SCAN foi ativado pela SEFAZ será através do serviç
 - 107 - Serviço em Operação;
 - 114 - SCAN desabilitado pela SEFAZ Origem;
 - 113 - SCAN será desabilitado para a UF às hh:mm;
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2009-006/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2009-006/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2009-006.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2009-006.json)
 
 ## Documentos relacionados
 _Nenhum documento relacionado conhecido._

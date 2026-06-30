@@ -8,9 +8,13 @@ converted_at_utc: "2026-06-25T20:43:20.243064+00:00"
 status: "published"
 type: "informe_tecnico"
 ---
-![Image](assets/image_000000_f4fe5a9b76c8defab871426be314dc2f911cb40812e313304fe06f9fc9315b02.png)
 
-![Image](assets/image_000001_da1946a487b8e6731b1473267258bb83090aee84ab0c4bd6c7280208f9a55f4f.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/combustiveis/informes-tecnicos/it-2023-001-v1-10-tabela-cprodanp/source.json)
+- [Dados normalizados](../../../../normalized/combustiveis/informes-tecnicos/it-2023-001-v1-10-tabela-cprodanp/normalized.json)
+- [Changelog](../../../../changelog/combustiveis/informes-tecnicos/it-2023-001-v1-10-tabela-cprodanp.md)
+- [Proveniência resumida](../../../../sources/provenance/it-2023-001-v1-10-tabela-cprodanp.json)
 
 ## Sistema Nota Fiscal Eletrônica
 
@@ -71,16 +75,6 @@ No link informado, pode se efetuar o download de um arquivo ZIP com as Tabelas d
 Nesta versão 1.10 foram acrescentados 16 novos códigos, quais sejam: 840101003 - 840101004 - 620101009 - 610502001 - 610502002 - 620501003 - 620503001 - 420107001 - 611402001 - 611302001 - 610601002 - 610702001 - 611501001 - 611401001 - 611402002 - 610503001
 
 ![Image](assets/image_000005_320ce71d1eb081a7bf1cebc2fc95112e6fc933ea1e98d057f64948b9f529f73e.png)
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/combustiveis/informes-tecnicos/it-2023-001-v1-10-tabela-cprodanp/source.json)
-- [Dados normalizados](../../../../normalized/combustiveis/informes-tecnicos/it-2023-001-v1-10-tabela-cprodanp/normalized.json)
-- [Changelog](../../../../changelog/combustiveis/informes-tecnicos/it-2023-001-v1-10-tabela-cprodanp.md)
-- [Proveniência resumida](../../../../sources/provenance/it-2023-001-v1-10-tabela-cprodanp.json)
-
 
 ## Documentos relacionados
-
-- [it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica](../it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica/document.md)
-- [it2023-002v1-00-tabela-cfop-11-04-2023](../../../nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/document.md)
-- [nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024](../../../nfe/notas-tecnicas/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/document.md)
+_Nenhum documento relacionado conhecido._

@@ -15,6 +15,22 @@ created_at: 2025-06-26
 updated_at: 2025-06-26
 ---
 
+## Metadados
+
+### Fontes normativas
+- [nt2010-005](corpus/nfe/notas-tecnicas/nt2010-005/document.md)
+- [nt2011-004](corpus/nfe/notas-tecnicas/nt2011-004/document.md)
+- [nt-2026-002-v1-00](corpus/nfe/notas-tecnicas/nt-2026-002-v1-00/document.md)
+- [nt2009-004](corpus/nfe/notas-tecnicas/nt2009-004/document.md)
+- mc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k
+
+### Fontes normativas
+- [nt2010-005](corpus/nfe/notas-tecnicas/nt2010-005/document.md)
+- [nt2011-004](corpus/nfe/notas-tecnicas/nt2011-004/document.md)
+- [nt-2026-002-v1-00](corpus/nfe/notas-tecnicas/nt-2026-002-v1-00/document.md)
+- [nt2009-004](corpus/nfe/notas-tecnicas/nt2009-004/document.md)
+- mc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k
+
 # PIS/COFINS — Regime Não Cumulativo
 
 ## Visão geral
@@ -26,10 +42,10 @@ No regime não cumulativo, o contribuinte apura débitos sobre receitas e crédi
 - Lei 10.637/2002 (PIS não cumulativo)
 - Lei 10.833/2003 (COFINS não cumulativo)
 - IN RFB 1.009/2010 — CST do PIS/COFINS
-- NT 2010.005 — novos CFOP e CST do PIS/COFINS
-- NT 2009.004 — grupos de tributos PIS e COFINS no leiaute
-- NT 2011.004 — PIS-ST e COFINS-ST (grupos R e T)
-- NT 2026.002 — restrições de PIS-ST e COFINS-ST na NFC-e
+- [NT 2010.005](../../corpus/nfe/notas-tecnicas/nt2010-005/document.md) — novos CFOP e CST do PIS/COFINS
+- [NT 2009.004](../../corpus/nfe/notas-tecnicas/nt2009-004/document.md) — grupos de tributos PIS e COFINS no leiaute
+- [NT 2011.004](../../corpus/nfe/notas-tecnicas/nt2011-004/document.md) — PIS-ST e COFINS-ST (grupos R e T)
+- [NT 2026.002](../../corpus/nfe/notas-tecnicas/nt-2026-002-v1-00/document.md) — restrições de PIS-ST e COFINS-ST na NFC-e
 
 ## Variáveis
 
@@ -143,7 +159,7 @@ _\* CST 02: alíquota específica por produto (ex: medicamentos — 2,1% PIS / 9
 
 ## Observações
 
-### CST do PIS/COFINS (NT 2010.005)
+### CST do PIS/COFINS ([NT 2010.005](../../corpus/nfe/notas-tecnicas/nt2010-005/document.md))
 
 | CST | Descrição |
 |-----|-----------|
@@ -185,10 +201,10 @@ PIS = Receita × 0,65%
 
 COFINS = Receita × 3,0%
 
-### PIS-ST e COFINS-ST (NT 2011.004)
+### PIS-ST e COFINS-ST ([NT 2011.004](../../corpus/nfe/notas-tecnicas/nt2011-004/document.md))
 
 PIS e COFINS também podem ser recolhidos por substituição tributária, com CST = 05 nos grupos R (PIS) e T (COFINS). A sistemática é similar ao ICMS-ST, com MVA e dedução do PIS/COFINS próprio.
 
 ### Exclusões da NBC do IBS/CBS
 
-A partir da Reforma Tributária (NT 2025.002), o PIS e a COFINS são excluídos da base de cálculo do IBS e da CBS: "Não subtrair o valor do PIS por Substituição Tributária quando compor o valor total da NF-e."
+A partir da Reforma Tributária ([NT 2025.002](../../corpus/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)), o PIS e a COFINS são excluídos da base de cálculo do IBS e da CBS: "Não subtrair o valor do PIS por Substituição Tributária quando compor o valor total da NF-e."

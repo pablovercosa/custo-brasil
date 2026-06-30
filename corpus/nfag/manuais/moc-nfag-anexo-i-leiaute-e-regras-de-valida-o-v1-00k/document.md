@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T17:43:14.376121+00:00"
 status: "published"
 type: "manual"
 ---
-![Image](assets/image_000000_759e2857e2bf3e6161408a3f5893e6498d4c763b22bb2f19229c98c610a0909d.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfag/manuais/moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k/source.json)
+- [Dados normalizados](../../../../normalized/nfag/manuais/moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k/normalized.json)
+- [Changelog](../../../../changelog/nfag/manuais/moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k.md)
+- [Proveniência resumida](../../../../sources/provenance/moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k.json)
 
 ## Projeto Nota Fiscal de Água e Saneamento Eletrônica
 
@@ -58,7 +64,7 @@ Este documento é parte integrante do Manual de Orientação do Contribuinte (MO
 
 O Manual de Orientação do Contribuinte 1.00 é composto pelos seguintes documentos:
 
--  MOC - Visão Geral
+-  [MOC - Visão Geral](../../../nfe/manuais/manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e/document.md)
 -  MOC - Anexo I - Leiaute e Regras de Validação da NFAg
 -  MOC - Anexo II - Manual de Especificações Técnicas do DANFE-AG
 
@@ -1033,20 +1039,6 @@ Nota Fiscal de Água e Saneamento Eletrônica
 MOC 1.00h
 
 ![Image](assets/image_000050_f34eb2ad8de0f0b9acbf1babbac23d32a6d47976a7c1d3fb849ceee096f09945.png)
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfag/manuais/moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k/source.json)
-- [Dados normalizados](../../../../normalized/nfag/manuais/moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k/normalized.json)
-- [Changelog](../../../../changelog/nfag/manuais/moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k.md)
-- [Proveniência resumida](../../../../sources/provenance/moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k.json)
-
 
 ## Documentos relacionados
-
-- [anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e](../../../nfe/manuais/anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e/document.md)
-- [moc-nfag-anexo-ii-danfag-v1-01](../moc-nfag-anexo-ii-danfag-v1-01/document.md)
-- [moc-nfeabi-anexo-i-leiaute-e-rv-v2-00](../../../nfeabi/manuais/moc-nfeabi-anexo-i-leiaute-e-rv-v2-00/document.md)
-- [moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f](../../../nfgas/manuais/moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f/document.md)
-- [nt2019-001-v1-70-regras-de-valida-o](../../../nfe/notas-tecnicas/nt2019-001-v1-70-regras-de-valida-o/document.md)
-- [nt2020-005-v1-21-regras-de-valida-o](../../../nfe/notas-tecnicas/nt2020-005-v1-21-regras-de-valida-o/document.md)
-- [nt2022-004-v1-10-regras-de-valida-o-issqn](../../../nfe/notas-tecnicas/nt2022-004-v1-10-regras-de-valida-o-issqn/document.md)
+_Nenhum documento relacionado conhecido._

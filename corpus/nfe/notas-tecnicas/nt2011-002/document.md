@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T14:55:29.654339+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_83c23eb121948b933e255e5cfa5405d567f44d6beae3a199330cc2dcb5a97816.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2011-002/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2011-002/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2011-002.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2011-002.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -101,16 +107,6 @@ Esta regra será aplicada a partir do dia 01/05/2011  em ambiente de homologaç�
 |   597 | Rejeição: NF-e emitida em ambiente de homologação c om CNPJ do destinatário diferente de 99999999000191                                                      |
 |   598 | Rejeição: NF-e emitida em ambiente de homologação c om Razão Social do destinatário diferente de NF-E E MITIDA EM AMBIENTE DE HOMOLOGACAO - SEM VALOR FISCAL |
 |   599 | Rejeição: NF-e emitida em ambiente de homologação c om IE do destinatário diferente de vazio                                                                 |
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2011-002/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2011-002/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2011-002.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2011-002.json)
-
 
 ## Documentos relacionados
-
-- [nota-t-cnica-2011-001-publicada-em-25-02-2011](../nota-t-cnica-2011-001-publicada-em-25-02-2011/document.md)
-- [nota-t-cnica-2011-005-publicada-em-21-10-2011](../nota-t-cnica-2011-005-publicada-em-21-10-2011/document.md)
-- [nota-t-cnica-2011-007-publicada-em-26-12-2011](../nota-t-cnica-2011-007-publicada-em-26-12-2011/document.md)
+_Nenhum documento relacionado conhecido._

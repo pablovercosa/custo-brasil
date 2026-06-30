@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T15:04:07.723577+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_cf0dd90c3722c3f434a6fdefc5694a09d60c3cce31f02fdf1132013c8c4c7f51.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2010-006/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2010-006/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2010-006.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2010-006.json)
 
 ## Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica
 
@@ -58,16 +64,6 @@ O grupo do detalhamento específico de medicamentos  passa a ter a seguinte estr
 | 157b    | K08               | cxMed              | Grupo de Caixa de Medicamento                                                     | G        | K01            |                | 0-N            |                         |       | Grupo de Caixa de Medicamento. Informar quando o medicamento estiver acondicionado em Unidade Logística identificado com o IUC - Identificador Único de Caixa de Medicamento.                                                                                                                                                                       |
 | 157c    | K09               | IUC                | Identificador Único de Caixa de Medicamento                                       | A        | K08            | N              | 1-1            | 18                      |       | Identificador Único de Caixa de Medicamento. Estrutura numérica de 18 dígitos que permite uma identificação única e inequívoca de cada Caixa de Medicamento (Unidade Logística).                                                                                                                                                                    |
 | 157d    | K10               | IUM                | Identificador Único de Medicamento                                                | E        | K08            | N              | 1-N            | 13                      |       | Identificadores Único de Medicamento - IUM das unidades de medicamento contidas na caixa de Medicamento.                                                                                                                                                                                                                                            |
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2010-006/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2010-006/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2010-006.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2010-006.json)
-
 
 ## Documentos relacionados
-
-- [nota-t-cnica-2010-002-publicada-em-29-11-2010](../nota-t-cnica-2010-002-publicada-em-29-11-2010/document.md)
-- [nota-t-cnica-2010-005-publicada-em-06-07-2010](../nota-t-cnica-2010-005-publicada-em-06-07-2010/document.md)
-- [nota-t-cnica-2010-009-publicada-em-10-12-2010](../nota-t-cnica-2010-009-publicada-em-10-12-2010/document.md)
+_Nenhum documento relacionado conhecido._

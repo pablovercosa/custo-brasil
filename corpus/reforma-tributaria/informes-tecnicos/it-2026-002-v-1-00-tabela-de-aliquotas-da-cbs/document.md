@@ -8,21 +8,13 @@ converted_at_utc: "2026-06-25T20:45:17.707909+00:00"
 status: "published"
 type: "informe_tecnico"
 ---
-![Image](assets/image_000000_757ca770c33c0f64438a32db5f42c3ff07c04033bf2607ac24dcb9758d7e1de1.png)
 
-Versão 1.00
-
-![Image](assets/image_000001_7011b941c0f20935accad7ffb4bf5a8b96ca039ef8c979f5da3caf6c0c9a3ae4.png)
-
-![Image](assets/image_000002_d363ea9f0628769c76a9f5d8e806c936ee8b91cbc81ebe1ae327a93119fca0a3.png)
-
-![Image](assets/image_000003_2dca816c50cca2efb9d026665321793542103d6c552d13067de699822ac740d1.png)
-
-![Image](assets/image_000004_5d0378f5d0bd1fff7c3647f7fbe9db2f16cd8ecb581e01c478dfce0456bb9a04.png)
-
-![Image](assets/image_000005_24f697e75b4b3b916b609be2e71c1e41430faeecf65659db135de005cfc0a578.png)
-
-![Image](assets/image_000006_d03b4d7b98ee3a12bc1ffc382a3883cd65b42fbbd0ac2cb50a1d280155faa643.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/reforma-tributaria/informes-tecnicos/it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs/source.json)
+- [Dados normalizados](../../../../normalized/reforma-tributaria/informes-tecnicos/it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs/normalized.json)
+- [Changelog](../../../../changelog/reforma-tributaria/informes-tecnicos/it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs.md)
+- [Proveniência resumida](../../../../sources/provenance/it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs.json)
 
 ## Projeto Reforma Tributária do Consumo
 
@@ -76,12 +68,6 @@ IT 2026.002 v.1.00
 O  presente  Informe  Técnico  tem  como  objetivo  divulgar  tabela  de  alíquota  da  CBS  a  ser utilização nos documentos fiscais.
 
 A tabela está disponível no Portal Nacional da NFe, na aba 'Documentos', opção 'Diversos .
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/reforma-tributaria/informes-tecnicos/it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs/source.json)
-- [Dados normalizados](../../../../normalized/reforma-tributaria/informes-tecnicos/it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs/normalized.json)
-- [Changelog](../../../../changelog/reforma-tributaria/informes-tecnicos/it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs.md)
-- [Proveniência resumida](../../../../sources/provenance/it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs.json)
 
 ## Documentos relacionados
 _Nenhum documento relacionado conhecido._

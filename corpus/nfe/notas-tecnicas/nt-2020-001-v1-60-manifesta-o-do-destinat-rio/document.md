@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T17:08:41.813769+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_27b2c984847ad2e0d7cc1cfc58f795b37c86087d8ae02bd6caad209a9fb1c13b.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2020-001-v1-60-manifesta-o-do-destinat-rio/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2020-001-v1-60-manifesta-o-do-destinat-rio/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2020-001-v1-60-manifesta-o-do-destinat-rio.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2020-001-v1-60-manifesta-o-do-destinat-rio.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -51,7 +57,7 @@ Nota Técnica 2020.001 Evento de manifestação do destinatário
 
 |   Versão | Histórico de atualizações                                                                                                                         | Implantação Teste   | Implantação Produção   |
 |----------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|------------------------|
-|     1.00 | • Junção das NT 2012.002 e 2013.001, ambas tratando da Manifestação do Destinatário • Inclusão da Manifestação para Pessoa Fisica (CPF)           | 16/03/2020          | 11/05/2020             |
+|     1.00 | • Junção das [NT 2012.002](../nt-2012-002/document.md) e 2013.001, ambas tratando da Manifestação do Destinatário • Inclusão da Manifestação para Pessoa Fisica (CPF)           | 16/03/2020          | 11/05/2020             |
 |     1.10 | • Atualização das regras de rejeição e adequação ao Ajuste SINIEF 44/20                                                                           | 01/03/2022          | 04/04/2022             |
 |     1.20 | • Alteração do prazo de implantação das alterações da versão 1.10                                                                                 | 04/04/2022          | 02/05/2022             |
 |     1.30 | • Alteração da regra de validação H08 para incluir tpEmis=3 (NFF)                                                                                 | 23/05/2022          | 25/05/2022             |
@@ -81,7 +87,7 @@ O evento de 'Confirmação da Operação' pelo destinatário confirma a operaç�
 
 Se ocorrer a devolução total ou parcial das mercadorias, além do procedimento atual de geração da Nota Fiscal de devolução, também poderá ser comandado o evento da 'Confirmação da operação'.
 
-O registro deste evento disponibiliza ao destinatário da NF-e todos os documentos fiscais previstos no item 3 da NT 2014.002.
+O registro deste evento disponibiliza ao destinatário da NF-e todos os documentos fiscais previstos no item 3 da [NT 2014.002](../nt2014-002-v1-30-wsnfedistribuicaodfe/document.md).
 
 Nota: Após a Confirmação da Operação pelo destinatário, a empresa emitente fica automaticamente impedida de cancelar a NF-e.
 
@@ -95,7 +101,7 @@ Em algumas situações, a empresa destinatária informa que a operação não fo
 
 Este  evento  permite  o  registro  da  declaração  de  Operação  não  Realizada  pelo  destinatário, permitindo também a informação complementar da justificativa desta informação.
 
-O registro deste evento disponibiliza ao destinatário da NF-e todos os documentos fiscais previstos no item 3 da NT 2014.002.
+O registro deste evento disponibiliza ao destinatário da NF-e todos os documentos fiscais previstos no item 3 da [NT 2014.002](../nt2014-002-v1-30-wsnfedistribuicaodfe/document.md).
 
 ![Image](assets/image_000006_490c80ade5c16e98136686c0240324078539f7842c4471116c2e92cce61d967f.png)
 
@@ -105,7 +111,7 @@ Neste evento, o destinatário declara ter ciência sobre uma determinada operaç
 
 O evento de 'Ciência da Emissão' é opcional, pois o contribuinte pode registrar diretamente os eventos  de  manifestação  final  (confirmação  da  operação,  desconhecimento  da  operação  ou operação não realizada).
 
-O registro deste evento disponibiliza ao destinatário da NF-e todos os documentos fiscais previstos no item 3 da NT 2014.002.
+O registro deste evento disponibiliza ao destinatário da NF-e todos os documentos fiscais previstos no item 3 da [NT 2014.002](../nt2014-002-v1-30-wsnfedistribuicaodfe/document.md).
 
 As NF-e com evento 'Ciência da Emissão' deverão ter a manifestação final do destinatário declarada (registro do evento de Confirmação da Operação ou Desconhecimento da Operação ou Operação não Realizada) no prazo máximo de 90 dias contados da data de autorização da NF-e, nos casos de obrigatoriedade previstos no Ajuste SINIEF 07/05.
 
@@ -156,7 +162,7 @@ III - acoberte, nos casos em que o destinatário for um estabelecimento distribu
 - b) bebidas alcoólicas, inclusive cervejas e chopes;
 - c) refrigerantes e água mineral.
 
-Obs: a NT 2012/003 (item 03.1), publicada em agosto/2012, define quais são os CFOP que obrigam a  informação  do  Grupo  de  Combustível  na  NF-e.  Os  CFOP  citados  estão  relacionados  com  as operações que envolvem 'Combustível derivado ou não de Petróleo e Lubrificantes'.
+Obs: a [NT 2012/003](../nt2012-003d/document.md) (item 03.1), publicada em agosto/2012, define quais são os CFOP que obrigam a  informação  do  Grupo  de  Combustível  na  NF-e.  Os  CFOP  citados  estão  relacionados  com  as operações que envolvem 'Combustível derivado ou não de Petróleo e Lubrificantes'.
 
 Como  as  operações  com  lubrificantes  são  exceção  à  obrigatoriedade  de  manifestação  do destinatário, consta no Anexo II a tabela de Códigos de Produto da ANP relativa a lubrificantes e que não estão obrigados à Manifestação do Destinatário.
 
@@ -567,19 +573,6 @@ Os testes no ambiente de  produção,  quando  liberado este ambiente,  por falh
 | GRAXAS MINERAIS                          |   650101001 |
 | OUTRAS GRAXAS                            |   650101002 |
 | ÓLEOS LUB. PARAF E GRAXAS INTERMEDIÁRIOS |   660101001 |
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2020-001-v1-60-manifesta-o-do-destinat-rio/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2020-001-v1-60-manifesta-o-do-destinat-rio/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2020-001-v1-60-manifesta-o-do-destinat-rio.md)
-- [Proveniência resumida](../../../../sources/provenance/nt-2020-001-v1-60-manifesta-o-do-destinat-rio.json)
-
 
 ## Documentos relacionados
-
-- [nt2020-002v-1-01-espec-fica-para-ipi](../nt2020-002v-1-01-espec-fica-para-ipi/document.md)
-- [nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica](../nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica/document.md)
-- [nt2020-004-danfe-simplificado-v1-10](../nt2020-004-danfe-simplificado-v1-10/document.md)
-- [nt2020-005-v1-21-regras-de-valida-o](../nt2020-005-v1-21-regras-de-valida-o/document.md)
-- [nt2020-006-v1-31-intermediador-e-marketplace](../nt2020-006-v1-31-intermediador-e-marketplace/document.md)
-- [nt2020-007-v1-40-evento-ator-nfe-transportador](../nt2020-007-v1-40-evento-ator-nfe-transportador/document.md)
+_Nenhum documento relacionado conhecido._

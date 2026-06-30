@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T15:15:09.775253+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_fe8f118aa04ea98fc839c288596f20650f7f31ec0a0cd909b520e6b2090a5f57.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2010-003/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2010-003/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2010-003.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2010-003.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -500,16 +506,6 @@ No Anexo I - Leiaute da NF-e, linhas 16, 19, 20b, 39, 71, 86, 95, 323, 372, onde
 ## Leia-se:
 
 '(Anexo IX - Tabela de UF, Município e País).'
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2010-003/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2010-003/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2010-003.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2010-003.json)
-
 
 ## Documentos relacionados
-
-- [nota-t-cnica-2010-002-publicada-em-29-11-2010](../nota-t-cnica-2010-002-publicada-em-29-11-2010/document.md)
-- [nota-t-cnica-2010-005-publicada-em-06-07-2010](../nota-t-cnica-2010-005-publicada-em-06-07-2010/document.md)
-- [nota-t-cnica-2010-009-publicada-em-10-12-2010](../nota-t-cnica-2010-009-publicada-em-10-12-2010/document.md)
+_Nenhum documento relacionado conhecido._

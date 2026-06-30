@@ -56,3 +56,6 @@ Thumbs.db
 # Documento operacional local
 README-BOOTSTRAP.md
 ledger/
+specs/
+openspec/
+adr/

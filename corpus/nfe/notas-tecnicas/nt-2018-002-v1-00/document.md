@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T15:27:41.624740+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_33bc90e3d0b38c2d35755a3212489879b66d1b89881673a0582970b00df7fd1c.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2018-002-v1-00/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2018-002-v1-00/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2018-002-v1-00.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2018-002-v1-00.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -117,19 +123,6 @@ Seguem alguns exemplos de 'Consumo Indevido' dos Web Services existentes:
 | Consulta Status Serviço                         |  Aplicação em 'loop' consumindo o Web service em uma frequência maior do que a prevista.                                                                                                                                                                                                                                                                                                                                                                                 |
 
 NT 2018.002
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2018-002-v1-00/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2018-002-v1-00/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2018-002-v1-00.md)
-- [Proveniência resumida](../../../../sources/provenance/nt-2018-002-v1-00.json)
-
 
 ## Documentos relacionados
-
-- [manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0](../../../nfce/manuais/manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0/document.md)
-- [nota-t-cnica-2016-001-v-1-40-publicada-em-16-07-2018](../nota-t-cnica-2016-001-v-1-40-publicada-em-16-07-2018/document.md)
-- [nt-2018-003-v1-01-tabela-de-pa-ses](../nt-2018-003-v1-01-tabela-de-pa-ses/document.md)
-- [nt-2018-004-cancelamento-por-substitui-o-da-nfc-e](../../../nfce/notas-tecnicas/nt-2018-004-cancelamento-por-substitui-o-da-nfc-e/document.md)
-- [nt2018-001-v1-10-emitente-cpf](../nt2018-001-v1-10-emitente-cpf/document.md)
-- [nt2018-005-v1-52-alteracaodeleiautenf-enfc](../nt2018-005-v1-52-alteracaodeleiautenf-enfc/document.md)
+_Nenhum documento relacionado conhecido._

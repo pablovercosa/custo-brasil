@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T15:07:47.894623+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_dd2ad4f71d8efb2ebbc167d4a35ac83aefebc704148aab528431cea111f93f29.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2008-006/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2008-006/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2008-006.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2008-006.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -104,21 +110,6 @@ O domínio do campo tpEmis (ID=B22) foi alterado para aceitar os seguintes valor
 - Campo cProdANP (ID=L102)  -  alterado  para  preenchimento  obrigatório  quando  o grupo de informações específicas para combustíveis líquidos ( comb ) for informado. Caso  o  produto  não  seja  regulado  pela  ANP  -  Agência  Nacional  de  Petróleo,  o campo deverá ser preenchido com o literal 999999999.
 
 A alteração do Manual de Integração para registro da implementação será realizada quando publicarmos uma nova versão oficial do Manual de Integração.
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2008-006/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2008-006/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2008-006.md)
-- [Proveniência resumida](../../../../sources/provenance/nt-2008-006.json)
-
 
 ## Documentos relacionados
-
-- [nota-t-cnica-2008-001-publicada-em-30-11-2010](../nota-t-cnica-2008-001-publicada-em-30-11-2010/document.md)
-- [nota-t-cnica-2008-003-publicada-em-30-11-2010](../nota-t-cnica-2008-003-publicada-em-30-11-2010/document.md)
-- [nota-t-cnica-2008-005-publicada-em-30-11-2010](../nota-t-cnica-2008-005-publicada-em-30-11-2010/document.md)
-- [nt-2008-001](../nt-2008-001/document.md)
-- [nt-2008-003](../nt-2008-003/document.md)
-- [nt-2008-004](../nt-2008-004/document.md)
-- [nt-2008-005](../nt-2008-005/document.md)
-- [nt2008-002](../nt2008-002/document.md)
+_Nenhum documento relacionado conhecido._

@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T15:02:32.731192+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_03ca96dd47c3c944f1e1f5e8116e5ec97276920c675b8587f83e37ae1cc6fe3d.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2013-004-v1-00-resol-13/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2013-004-v1-00-resol-13/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2013-004-v1-00-resol-13.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2013-004-v1-00-resol-13.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -26,7 +32,7 @@ Versão 1.00 Maio 2013
 
 ## 01. Resumo
 
-A  Resolução  13/2012  do  Senado  Federal  teve  sua  impl ementação  regulamentada  pelo  Ajuste SINIEF 19/2012 e pelo Ajuste SINIEF 20/2012. editados pelo CONFAZ - Conselho Nacional de Política  Fazendária.  A  repercussão  destas  legislaçõ es  sobre  a  NF-e  foram  tratadas  na  NT 2012.005.
+A  Resolução  13/2012  do  Senado  Federal  teve  sua  impl ementação  regulamentada  pelo  Ajuste SINIEF 19/2012 e pelo Ajuste SINIEF 20/2012. editados pelo CONFAZ - Conselho Nacional de Política  Fazendária.  A  repercussão  destas  legislaçõ es  sobre  a  NF-e  foram  tratadas  na  [NT 2012.005](../nt2012-005c-resol-13/document.md).
 
 Esta NT documenta algumas adaptações necessárias na implementação da regra de validação GN16, com:
 
@@ -60,14 +66,6 @@ Incluída nova regra de validação, conforme segue:
 | #   | Campo   | Regra de validação                                                                                                                                                                                                                        | Aplic.   | Msg   | Efeito Descrição Erro   |
 |-----|---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------|-------------------------|
 |     |         | Emissão é anterior a 1301 (tag refNF/AAMM). Exceção 6 : Mesmo que informada a IE do destinatário, a regra de validação acima não se aplica para as operações com o CFOP 6.929 (Lançamento relativo a operação registrada em Cupom Fiscal) |          |       |                         |
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2013-004-v1-00-resol-13/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2013-004-v1-00-resol-13/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2013-004-v1-00-resol-13.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2013-004-v1-00-resol-13.json)
-
 
 ## Documentos relacionados
-
-- [nt2013-006-v1-00-resol-13-fci](../nt2013-006-v1-00-resol-13-fci/document.md)
+_Nenhum documento relacionado conhecido._

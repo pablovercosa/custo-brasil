@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T14:57:12.720361+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_c4e6daffbc318bd841fc00aef9f87a94e2b919c94e64e8100d060f4f9064a90b.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2008-002/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2008-002/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2008-002.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2008-002.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -79,12 +85,6 @@ Divulga  a  errata  de  correção  de  texto  do  Manual  de  Integração  do 
 |   245 | N23   | vICMSST   | Valor do ICMS ST                 | E   | N10   | N   | 1-1   |  15 |   2 | Valor do ICMS ST retido |
 
 As dúvidas e sugestões devem ser encaminhadas através do Canal Fale Conosco da Secretaria da Fazenda de São Paulo (http://www.fazenda.sp.gov.br/email/default2.asp) referente à 'Portaria CAT 104/07'.
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2008-002/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2008-002/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2008-002.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2008-002.json)
 
 ## Documentos relacionados
 _Nenhum documento relacionado conhecido._

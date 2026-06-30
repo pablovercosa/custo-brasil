@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T15:03:39.413591+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_dd2ad4f71d8efb2ebbc167d4a35ac83aefebc704148aab528431cea111f93f29.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2007-003/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2007-003/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2007-003.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2007-003.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -171,21 +177,6 @@ Alteração  do  tipo  do  elemento versaoDados do  schema  cabecMsg  de  " type
 | cadEmiDFe_v1.01.xsd                 | 10dc830b745ef32fd2670416cf71bbcd   | -                  |
 
 As  dúvidas  e  sugestões  devem  ser  encaminhadas  através  do  Canal  Fale  Conosco  da Secretaria  da  Fazenda  de  São  Paulo  (http://www.fazenda.sp.gov.br/email/default2.asp) referente à 'Portaria CAT 65/06'.
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2007-003/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2007-003/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2007-003.md)
-- [Proveniência resumida](../../../../sources/provenance/nt-2007-003.json)
-
 
 ## Documentos relacionados
-
-- [nota-t-cnica-2007-004-publicada-em-15-09-2011](../nota-t-cnica-2007-004-publicada-em-15-09-2011/document.md)
-- [nota-t-cnica-2007-007-publicada-em-30-11-2010](../nota-t-cnica-2007-007-publicada-em-30-11-2010/document.md)
-- [nt-2007-001](../nt-2007-001/document.md)
-- [nt-2007-002](../nt-2007-002/document.md)
-- [nt-2007-004](../nt-2007-004/document.md)
-- [nt-2007-007](../nt-2007-007/document.md)
-- [nt-2007-008](../nt-2007-008/document.md)
-- [nt-2007-009](../nt-2007-009/document.md)
+_Nenhum documento relacionado conhecido._

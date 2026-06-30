@@ -8,9 +8,13 @@ converted_at_utc: "2026-06-25T20:44:04.870707+00:00"
 status: "published"
 type: "informe_tecnico"
 ---
-![Image](assets/image_000000_98f3651deb3779045a3d05955a12dcae77e60f44ee54773b092ff854d875d1d5.png)
 
-![Image](assets/image_000001_a9b1d1601c4484180d757697cd0ab40d19f0c9cd9166651b416a83a8f25897bc.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/geral/informes-tecnicos/it2024-001v2-30-atualiza-tabela-de-ncm/source.json)
+- [Dados normalizados](../../../../normalized/geral/informes-tecnicos/it2024-001v2-30-atualiza-tabela-de-ncm/normalized.json)
+- [Changelog](../../../../changelog/geral/informes-tecnicos/it2024-001v2-30-atualiza-tabela-de-ncm.md)
+- [Proveniência resumida](../../../../sources/provenance/it2024-001v2-30-atualiza-tabela-de-ncm.json)
 
 ## Sistema Nota Fiscal Eletrônica
 
@@ -117,17 +121,6 @@ Obs:  Ficam  mantidas  as  demais  alterações  previstas  na  versão  3.70  d
 - Atenção:  Até  01/02/2026  (inclusive),  serão  autorizadas  NF-e  com  códigos  de NCMs extintos.  Entretanto,  no caso de NF-e de exportação, a partir de 01/02/2026 não deve ser utilizado código de NCM extinto, a fim de evitar incompatibilidade com a Declaração Única de Exportação (DU-E).
 
 ![Image](assets/image_000007_4f9a488334e876a9d02c08445552814b5c3c359ee900e373fdddfea5bd3a9161.png)
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/geral/informes-tecnicos/it2024-001v2-30-atualiza-tabela-de-ncm/source.json)
-- [Dados normalizados](../../../../normalized/geral/informes-tecnicos/it2024-001v2-30-atualiza-tabela-de-ncm/normalized.json)
-- [Changelog](../../../../changelog/geral/informes-tecnicos/it2024-001v2-30-atualiza-tabela-de-ncm.md)
-- [Proveniência resumida](../../../../sources/provenance/it2024-001v2-30-atualiza-tabela-de-ncm.json)
-
 
 ## Documentos relacionados
-
-- [it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026](../../../nfe/informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026/document.md)
-- [it2025-001v1-00-atualiza-tabela-municipios](../it2025-001v1-00-atualiza-tabela-municipios/document.md)
-- [nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024](../../../nfe/notas-tecnicas/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/document.md)
-- [nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024](../../../nfe/notas-tecnicas/nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024/document.md)
+_Nenhum documento relacionado conhecido._

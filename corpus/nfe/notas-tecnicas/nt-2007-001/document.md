@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T14:55:03.434282+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_c4e6daffbc318bd841fc00aef9f87a94e2b919c94e64e8100d060f4f9064a90b.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2007-001/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2007-001/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2007-001.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2007-001.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -112,21 +118,6 @@ Correção do erro de referência no " include " existente no Schema cadEmiDFe\_
 - &lt; xs:include schemaLocation =" LeiauteCadastroEmissorDFe\_v1.01.xsd " /&gt;
 
 As  dúvidas  e  sugestões  devem  ser  encaminhadas  através  do  Canal  Fale  Conosco  da Secretaria  da  Fazenda  de  São  Paulo  (http://www.fazenda.sp.gov.br/email/default2.asp) referente à 'Nota Fiscal eletrônica'.
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2007-001/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2007-001/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2007-001.md)
-- [Proveniência resumida](../../../../sources/provenance/nt-2007-001.json)
-
 
 ## Documentos relacionados
-
-- [nota-t-cnica-2007-004-publicada-em-15-09-2011](../nota-t-cnica-2007-004-publicada-em-15-09-2011/document.md)
-- [nota-t-cnica-2007-007-publicada-em-30-11-2010](../nota-t-cnica-2007-007-publicada-em-30-11-2010/document.md)
-- [nt-2007-002](../nt-2007-002/document.md)
-- [nt-2007-003](../nt-2007-003/document.md)
-- [nt-2007-004](../nt-2007-004/document.md)
-- [nt-2007-007](../nt-2007-007/document.md)
-- [nt-2007-008](../nt-2007-008/document.md)
-- [nt-2007-009](../nt-2007-009/document.md)
+_Nenhum documento relacionado conhecido._

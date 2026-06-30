@@ -8,9 +8,13 @@ converted_at_utc: "2026-06-25T15:44:38.995556+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_975bd05a3ab06b85a1358e579848423398136a02d02cc151ca9537724d7a10cf.png)
 
-![Image](assets/image_000001_c3c79ff3cb9c23e9d89bce2ecb5b2941be6b535806b51e2e54b0d7bc7f3c1459.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfce/notas-tecnicas/nt2023-002-v1-01-emitente-cpf-nfce/source.json)
+- [Dados normalizados](../../../../normalized/nfce/notas-tecnicas/nt2023-002-v1-01-emitente-cpf-nfce/normalized.json)
+- [Changelog](../../../../changelog/nfce/notas-tecnicas/nt2023-002-v1-01-emitente-cpf-nfce.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2023-002-v1-01-emitente-cpf-nfce.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -106,7 +110,7 @@ No caso de emissão com software próprio:
 No caso de emissão com aplicativo NFF:
 
 - O CPF deverá constar na Chave de Acesso, precedido por zeros, completando 14 posições;
-- Não terá série reservada, mas identifica se o emitente é CPF por outro campo na chave de acesso (NT 2021.002);
+- Não terá série reservada, mas identifica se o emitente é CPF por outro campo na chave de acesso ([NT 2021.002](../../../nfe/notas-tecnicas/nt2021-002-v1-12-nota-fiscal-f-cil/document.md));
 - A NFC-e deverá ser assinada com o Certificado Digital do Emitente da Sefaz Virtual do Rio Grande do Sul (SVRS).
 
 ## 2.2 Alteração de Schema para evitar caracteres inválidos
@@ -133,7 +137,7 @@ Para a NFC-e será eliminada a requisição assíncrona, portanto o Lote de NFC-
 
 ## 4.1 Leiaute da Nota Fiscal Eletrônica (Anexo I do MOC)
 
-Esta Nota Técnica não altera o leiaute da NFC-e, mas para efeito de documentação, são destacadas as séries que serão utilizadas para emissão de NFC-e com sistema próprio. Deverá ser utilizada a mesma série reservada [920-969] da NF-e, conforme documentado na NT 2018.001
+Esta Nota Técnica não altera o leiaute da NFC-e, mas para efeito de documentação, são destacadas as séries que serão utilizadas para emissão de NFC-e com sistema próprio. Deverá ser utilizada a mesma série reservada [920-969] da NF-e, conforme documentado na [NT 2018.001](../../../nfe/notas-tecnicas/nt2018-001-v1-10-emitente-cpf/document.md)
 
 ## B. Identificação da NF-e (Não altera leiaute)
 
@@ -156,7 +160,7 @@ Nesta NT, são melhor documentadas algumas regras de validação já existentes 
 
 | Campo-Seq   | Modelo   | Regra de Validação                                                                                                                                                                                                                                                                                    | Aplic.   |   Msg | Efeito   | Descrição Erro                                                        |
 |-------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------|----------|-----------------------------------------------------------------------|
-| B26-30      | 55/65    | Se Processo de Emissão pelo Fisco (procEmi=1 ou 2): - Tipo de Emissão difere de 1-Emissão Normal ou Emissão na SVC (tpEmis<>1, 6 e 7) (NT 2018.001/ NT 2015.002) Exceção 1: Para a UF SC, aceitar Tipo de Emissão igual a 9=Contingência off-line da NFC-e.                                           | Obrig.   |   370 | Rej.     | Rejeição: Processo de emissão pelo Fisco com Tipo de Emissão inválido |
+| B26-30      | 55/65    | Se Processo de Emissão pelo Fisco (procEmi=1 ou 2): - Tipo de Emissão difere de 1-Emissão Normal ou Emissão na SVC (tpEmis<>1, 6 e 7) ([NT 2018.001](../../../nfe/notas-tecnicas/nt2018-001-v1-10-emitente-cpf/document.md)/ [NT 2015.002](../../../nfe/notas-tecnicas/nt-2015-002-v141-23-08-2016/document.md)) Exceção 1: Para a UF SC, aceitar Tipo de Emissão igual a 9=Contingência off-line da NFC-e.                                           | Obrig.   |   370 | Rej.     | Rejeição: Processo de emissão pelo Fisco com Tipo de Emissão inválido |
 | B26-50      | 65       | Se Tipo de Emissão da NFC-e diferente de Regime Especial NFF (tpEmis<>3): - Processo de Emissão pelo Contribuinte diferente de '0=Emissão de NF-e com aplicativo do contribuinte' (procEmi<>0) Exceção 1: Para a UF SC, a regra não se aplica se Processo de Emissão é pelo Fisco (procEmi = 1 ou 2). | Obrig.   |   957 | Rej.     | Rejeição: Tipo de emissão incompatível com o Processo de Emissão      |
 
 ## C. Identificação do Emitente
@@ -165,8 +169,8 @@ Nesta NT, são melhor documentadas algumas regras de validação já existentes 
 
 | Campo-Seq   | Modelo   | Regra de Validação                                                                                                                                     | Aplic.   |   Msg | Efeito   | Descrição Erro                                                                                |
 |-------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------|----------|-----------------------------------------------------------------------------------------------|
-| C02a-10     | 55/65    | Se informado CPF do emitente e tpEmis <> 3-NFF (NT 2021.002): - Série difere da faixa para emitente CPF: 890-899 e 910-969 (NT 2018.001 / NT 2015.002) | Obrig.   |   495 | Rej.     | Rejeição: CPF do Emitente com Série incompatível                                              |
-| C02a-20     | 55/65    | Se informado CPF do emitente: - CPF com zeros, nulo, 111..., 222..., ..., ou DV inválido (NT 2012/003)                                                 | Obrig.   |   401 | Rej.     | Rejeição: CPF do emitente inválido                                                            |
+| C02a-10     | 55/65    | Se informado CPF do emitente e tpEmis <> 3-NFF ([NT 2021.002](../../../nfe/notas-tecnicas/nt2021-002-v1-12-nota-fiscal-f-cil/document.md)): - Série difere da faixa para emitente CPF: 890-899 e 910-969 ([NT 2018.001](../../../nfe/notas-tecnicas/nt2018-001-v1-10-emitente-cpf/document.md) / [NT 2015.002](../../../nfe/notas-tecnicas/nt-2015-002-v141-23-08-2016/document.md)) | Obrig.   |   495 | Rej.     | Rejeição: CPF do Emitente com Série incompatível                                              |
+| C02a-20     | 55/65    | Se informado CPF do emitente: - CPF com zeros, nulo, 111..., 222..., ..., ou DV inválido ([NT 2012/003](../../../nfe/notas-tecnicas/nt2012-003d/document.md))                                                 | Obrig.   |   401 | Rej.     | Rejeição: CPF do emitente inválido                                                            |
 | C02a-30     | 55/65    | Se informado CPF do emitente: - CPF do Emitente difere do CPF da primeira NF-e do Lote recebido                                                        | Facult.  |   560 | Rej.     | Rejeição: CNPJ Base/CPF do emitente difere do CNPJ Base/CPF da primeira NF-e do lote recebido |
 
 ## 5. Serviço: Evento de Cancelamento (Item 4.3 do MOC)
@@ -212,12 +216,6 @@ Quando o emissor tiver em situação irregular deverá ter a rejeição '781 - R
 |      961 | Rejeição: Enviado lote com mais de 1 NFC-e                                                    |
 
 ![Image](assets/image_000016_8702429d557b971b5753934f67216900e4ec7b1bf8f8f561497d41bd9007440a.png)
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfce/notas-tecnicas/nt2023-002-v1-01-emitente-cpf-nfce/source.json)
-- [Dados normalizados](../../../../normalized/nfce/notas-tecnicas/nt2023-002-v1-01-emitente-cpf-nfce/normalized.json)
-- [Changelog](../../../../changelog/nfce/notas-tecnicas/nt2023-002-v1-01-emitente-cpf-nfce.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2023-002-v1-01-emitente-cpf-nfce.json)
 
 ## Documentos relacionados
 _Nenhum documento relacionado conhecido._

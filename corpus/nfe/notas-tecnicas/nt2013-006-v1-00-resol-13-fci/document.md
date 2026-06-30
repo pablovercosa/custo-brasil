@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T15:05:00.372583+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_03ca96dd47c3c944f1e1f5e8116e5ec97276920c675b8587f83e37ae1cc6fe3d.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2013-006-v1-00-resol-13-fci/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2013-006-v1-00-resol-13-fci/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2013-006-v1-00-resol-13-fci.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2013-006-v1-00-resol-13-fci.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -28,7 +34,7 @@ Versão 1.00 Agosto 2013
 
 A  Resolução  13/2012  do  Senado  Federal  teve  sua  impl ementação  regulamentada  inicialmente pelo Ajuste SINIEF 19/2012 e pelo Ajuste SINIEF 20/2012, editados pelo CONFAZ - Conselho Nacional de Política Fazendária. O Ajuste 19/2012 f oi revogado e a regulamentação sobre este assunto passou a constar no Convênio ICMS 38/2013.  Tratam deste assunto também o Ajuste SINIEF 15/2013 e o Convênio ICMS 88/2013, recém pub licados.
 
-A repercussão destas legislações sobre a NF-e foram tratadas inicialmente nas NT 2012.005 e NT 2013.004.
+A repercussão destas legislações sobre a NF-e foram tratadas inicialmente nas [NT 2012.005](../nt2012-005c-resol-13/document.md) e [NT 2013.004](../nt2013-004-v1-00-resol-13/document.md).
 
 Esta NT documenta as adaptações no leiaute necessár ias para registrar a informação do Número da FCI, conforme previsto na legislação e outras mu danças.
 
@@ -98,14 +104,6 @@ Eliminada a exceção 2 da validação da alíquota máxi ma nas operações int
 | #   | Campo   | Regra de validação                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Aplic.   | Msg   | Efeito   | Descrição Erro   |
 |-----|---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------|----------|------------------|
 |     |         | Exceção 4: Mesmo que informada a IE do destinatário, a regra de validação acima não se aplica para as operações com os CFOP 6107, 6108 (Não Contribuinte). Exceção 5: A regra de validação acima não se aplica para a NF Complementar (finNFe=2) quando: - se referenciada uma NF-e, a NF-e referenciada tem a Data de Emissão anterior a 01/01/13; - se referenciada uma NF modelo 1, a Data de Emissão é anterior a 1301 (tag refNF/AAMM). Exceção 6 : Mesmo que informada a IE do destinatário, a regra de validação acima não se aplica para as operações com o CFOP 6.929 (Lançamento relativo a operação registrada em Cupom Fiscal) |          |       |          |                  |
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2013-006-v1-00-resol-13-fci/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2013-006-v1-00-resol-13-fci/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2013-006-v1-00-resol-13-fci.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2013-006-v1-00-resol-13-fci.json)
-
 
 ## Documentos relacionados
-
-- [nt2013-004-v1-00-resol-13](../nt2013-004-v1-00-resol-13/document.md)
+_Nenhum documento relacionado conhecido._

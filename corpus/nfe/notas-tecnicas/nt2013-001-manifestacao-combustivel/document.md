@@ -8,6 +8,14 @@ converted_at_utc: "2026-06-25T15:00:47.754132+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2013-001-manifestacao-combustivel/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2013-001-manifestacao-combustivel/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2013-001-manifestacao-combustivel.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2013-001-manifestacao-combustivel.json)
+
 ## Projeto Nota Fiscal Eletrônica
 
 ![Image](assets/image_000000_0df586485bb7c1a0619b339846f8d57ac14af62aa549eb3409d229bddc35805c.png)
@@ -55,7 +63,7 @@ Seguem informações sobre estas definições.
 
 ## 02.2 Quais as Operações precisam da Manifestação do Destinatário
 
-A obrigatoriedade da Manifestação do Destinatário é para toda a NF-e que exija o preenchimento do Grupo Detalhamento Específico de Combustíveis e a NT 2012/003 (item 03.1), publicada em Agosto/2012, define quais são os CFOP que obrigam a informação do Grupo de Combustível na NF-e.
+A obrigatoriedade da Manifestação do Destinatário é para toda a NF-e que exija o preenchimento do Grupo Detalhamento Específico de Combustíveis e a [NT 2012/003](../nt2012-003d/document.md) (item 03.1), publicada em Agosto/2012, define quais são os CFOP que obrigam a informação do Grupo de Combustível na NF-e.
 
 Os CFOP citados estão relacionados com as operações que envolvem 'Combustível derivado ou não de Petróleo e Lubrificantes'.
 
@@ -63,7 +71,7 @@ Como  neste  momento  inicial  (Março/2013)  estão  obrigados  a  Manifestaç�
 
 ## 03. Sobre a Manifestação do Destinatário
 
-De  uma  forma  mais  ampla,  os  serviços  vinculados  com  a  Manifestação  do  Destinatário  foram descritos na NT 2012/002, publicada em março/2012.
+De  uma  forma  mais  ampla,  os  serviços  vinculados  com  a  Manifestação  do  Destinatário  foram descritos na [NT 2012/002](../nt-2012-002/document.md), publicada em março/2012.
 
 Os serviços vinculados a Manifestação do Destinatário são:
 
@@ -77,7 +85,7 @@ A  consulta  as  Chaves  de  Acesso  destinadas  a  um  determinado  CNPJ é  op
 
 ## B. Serviço de Registro de Eventos
 
-Disponibilizado  um  serviço  centralizado  no  Ambiente  Nacional  para  registrar  os  eventos vinculados a Manifestação do Destinatário. Conforme descrito na NT 2012/002, os eventos são:
+Disponibilizado  um  serviço  centralizado  no  Ambiente  Nacional  para  registrar  os  eventos vinculados a Manifestação do Destinatário. Conforme descrito na [NT 2012/002](../nt-2012-002/document.md), os eventos são:
 
 -  Ciência da Operação (ou Ciência da Emissão);
 -  Confirmação da Operação;
@@ -194,12 +202,6 @@ Também é critério da UF o estabelecimento de outras medidas de controle, de a
 | GRAXAS INTERMEDIÁRIOS                      |    660101001 |
 
 ![Image](assets/image_000007_1579623726fbb78ac459a3bcdbd83bb1967e3fb1f957a20ab69c4af094c461d7.png)
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2013-001-manifestacao-combustivel/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2013-001-manifestacao-combustivel/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2013-001-manifestacao-combustivel.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2013-001-manifestacao-combustivel.json)
 
 ## Documentos relacionados
 _Nenhum documento relacionado conhecido._

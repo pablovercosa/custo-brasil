@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T14:54:06.827178+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_83c23eb121948b933e255e5cfa5405d567f44d6beae3a199330cc2dcb5a97816.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2011-005/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2011-005/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2011-005.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2011-005.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -16,7 +22,7 @@ type: "nota_tecnica"
 
 Nota Técnica 2011/005
 
-Divulga informações complementares necessárias para implantação da NT 2011/004 em produção
+Divulga informações complementares necessárias para implantação da [NT 2011/004](../nt2011-004/document.md) em produção
 
 ![Image](assets/image_000002_cbb651cb4ed2e9b6ed9bd55360445781a822ec51f3774c31a835e143776b2ef2.png)
 
@@ -26,9 +32,9 @@ Outubro-2011
 
 ## 1.  Resumo
 
-Esta edição divulga as informações complementares n ecessárias para implantação da NT 2011/004 em produção:
+Esta edição divulga as informações complementares n ecessárias para implantação da [NT 2011/004](../nt2011-004/document.md) em produção:
 
-- Data da implantação da NT 2011/004 em produção - a NT 2011/004 será  implantada  em  produção  em  01/11/2011,  exceto  a s  seguintes regras de validação que serão implantadas a partir  de 01/02/2012:
+- Data da implantação da [NT 2011/004](../nt2011-004/document.md) em produção - a [NT 2011/004](../nt2011-004/document.md) será  implantada  em  produção  em  01/11/2011,  exceto  a s  seguintes regras de validação que serão implantadas a partir  de 01/02/2012:
 - o GI10a Validação do valor unitário de comercialização do item do produto - código de rejeição: 629;
 - o GI14a  Validação  do  valor  unitário  de  tributação  do  item  do produto - código de rejeição: 630;
 - o GW16 - Validação do valor total da NF - código de rejei ção: 610.
@@ -37,9 +43,9 @@ Esta edição divulga as informações complementares n ecessárias para implant
 
 ![Image](assets/image_000004_7b87083748ea063b4562401c68494993ee1370a49ecee64ce0eaefaff0318912.png)
 
-## 2.  Implantação da NT 2011/004 em produção
+## 2.  Implantação da [NT 2011/004](../nt2011-004/document.md) em produção
 
-Os aperfeiçoamentos de schema XML da NF-e e das regras de validação da NT 2011/004 serão implantadas n o ambiente de produção em 01/11/2011, exceto as seguintes regras de validação que serão implantadas em 01/02/2012:
+Os aperfeiçoamentos de schema XML da NF-e e das regras de validação da [NT 2011/004](../nt2011-004/document.md) serão implantadas n o ambiente de produção em 01/11/2011, exceto as seguintes regras de validação que serão implantadas em 01/02/2012:
 
 - GI10a - Validação do valor unitário de comercialização do item do produto - código de rejeição: 629;
 - GW16 - Validação do valor total da NF - código de rejei ção: 610.
@@ -105,16 +111,6 @@ A placa do veículo estrangeiro deverá ser informada em  informações  complem
 - A regra será aplicada somente nas notas fiscais de  saída;
 - A validação do valor total das notas fiscais de fa turamento de veículos novos não deve considerar o valor informado no campo vST ( id:W06);
 - Esta regra será aplicada no ambiente de produção a  partir de 01/02/2012.
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2011-005/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2011-005/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2011-005.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2011-005.json)
-
 
 ## Documentos relacionados
-
-- [nota-t-cnica-2011-001-publicada-em-25-02-2011](../nota-t-cnica-2011-001-publicada-em-25-02-2011/document.md)
-- [nota-t-cnica-2011-005-publicada-em-21-10-2011](../nota-t-cnica-2011-005-publicada-em-21-10-2011/document.md)
-- [nota-t-cnica-2011-007-publicada-em-26-12-2011](../nota-t-cnica-2011-007-publicada-em-26-12-2011/document.md)
+_Nenhum documento relacionado conhecido._

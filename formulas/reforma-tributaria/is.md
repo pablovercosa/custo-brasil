@@ -12,6 +12,16 @@ created_at: 2025-06-26
 updated_at: 2025-06-26
 ---
 
+## Metadados
+
+### Fontes normativas
+- [nt-2025-002-v1-40-rtc-nf-e-ibs-cbs-is-final](corpus/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-40-rtc-nf-e-ibs-cbs-is-final/document.md)
+- [nt-2025-002-v1-50-rtc-nf-e-ibs-cbs-is](corpus/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-50-rtc-nf-e-ibs-cbs-is/document.md)
+
+### Fontes normativas
+- [nt-2025-002-v1-40-rtc-nf-e-ibs-cbs-is-final](corpus/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-40-rtc-nf-e-ibs-cbs-is-final/document.md)
+- [nt-2025-002-v1-50-rtc-nf-e-ibs-cbs-is](corpus/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-50-rtc-nf-e-ibs-cbs-is/document.md)
+
 # Imposto Seletivo (IS)
 
 ## Visão geral
@@ -21,7 +31,7 @@ O Imposto Seletivo (IS) é um tributo federal instituído pela Reforma Tributár
 ## Base legal
 
 - EC 132/2023
-- NT 2025.002 — leiaute do IS na NF-e/NFC-e
+- [NT 2025.002](../../corpus/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md) — leiaute do IS na NF-e/NFC-e
 
 ## Variáveis
 
@@ -85,5 +95,5 @@ vIS = 1.000 × 0,10 + 100 × 0,50 / 100 = 100,00 + 0,50 = 100,50
 - A alíquota máxima será definida por lei complementar (estimativa: até 20% para produtos selecionados)
 - O IS incide mesmo sobre produtos sujeitos a IBS e CBS — são cumulativos
 - A arrecadação do IS será federal (não partilhada com estados/municípios)
-- O IS integra a BC do IBS e da CBS na forma definida pela NT 2025.002
+- O IS integra a BC do IBS e da CBS na forma definida pela [NT 2025.002](../../corpus/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)
 - **Período de transição:** o IS começa a valer integralmente com o novo regime (2027-2033)

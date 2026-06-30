@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T15:07:31.227144+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_5ea50f18afa4fbebab2faeb3926b1c12b29a69e3334c061fb448fc6955f3f163.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2013-003-v1-00a-lei-transparencia/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2013-003-v1-00a-lei-transparencia/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2013-003-v1-00a-lei-transparencia.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2013-003-v1-00a-lei-transparencia.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -134,9 +140,9 @@ As regras de validações citadas acima serão reinclu ídas dentro do grupo de 
 
 Nota: Observe que foi eliminado o Ano no acesso ao Banco de Dados para a Regra de Validação 'I08'.
 
-## 05. Evento de Cancelamento (item 4.9 do MOC, conforme NT 2011/006)
+## 05. Evento de Cancelamento (item 4.9 do MOC, conforme [NT 2011/006](../nt2011-006c-evento-cancelamento/document.md))
 
-## 05.1 Validação das Regras de Negócio específicas do Evento (item 4.9.8 do MOC, conforme NT 2011/006)
+## 05.1 Validação das Regras de Negócio específicas do Evento (item 4.9.8 do MOC, conforme [NT 2011/006](../nt2011-006c-evento-cancelamento/document.md))
 
 | #    | Regra de validação                                                                                      | Aplic.   |   Msg | Efeito   | Descrição Erro                                      |
 |------|---------------------------------------------------------------------------------------------------------|----------|-------|----------|-----------------------------------------------------|
@@ -171,12 +177,6 @@ O 'Valor Aproximado dos Tributos', poderá opcionalm ente constar no DANFE em ca
 |      688 | Rejeição: NF referenciada de Produtor com IE inexis tente [nRef: xxx]                         |
 |      689 | Rejeição: NF referenciada de Produtor com IE não vi nculada ao CNPJ/CPF informado [nRef: xxx] |
 |      690 | Rejeição: Pedido de Cancelamento para NF-e com CT-e                                           |
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2013-003-v1-00a-lei-transparencia/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2013-003-v1-00a-lei-transparencia/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2013-003-v1-00a-lei-transparencia.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2013-003-v1-00a-lei-transparencia.json)
 
 ## Documentos relacionados
 _Nenhum documento relacionado conhecido._

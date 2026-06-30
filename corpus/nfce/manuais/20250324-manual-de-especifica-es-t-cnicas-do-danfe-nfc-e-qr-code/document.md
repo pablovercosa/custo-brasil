@@ -8,9 +8,13 @@ converted_at_utc: "2026-06-25T18:31:12.793996+00:00"
 status: "published"
 type: "manual"
 ---
-![Image](assets/image_000000_66f8a70e74c503458e7e7a8adbdf0fbb6a619afe9becd228c4b5547d1b138adf.png)
 
-![Image](assets/image_000001_1a05d4a521ec455247f6101dd0641b728ca5b1be303e5336ed53870e69b5885a.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfce/manuais/20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code/source.json)
+- [Dados normalizados](../../../../normalized/nfce/manuais/20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code/normalized.json)
+- [Changelog](../../../../changelog/nfce/manuais/20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code.md)
+- [Proveniência resumida](../../../../sources/provenance/20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code.json)
 
 ## CONTROLE DE VERSÕES
 
@@ -215,7 +219,7 @@ Figura C: DANFE NFC-e
 
 As informações de valores devem ter as casas decimais separadas por vírgula e ser utilizado ponto para a indicação de milhar.
 
-A informação do troco será obrigatória a partir da nova versão do leiaute da NFCe, conforme NT 2016.002.
+A informação do troco será obrigatória a partir da nova versão do leiaute da NFCe, conforme [NT 2016.002](../../../nfe/notas-tecnicas/nt-2016-002-v1-61/document.md).
 
 ## 3.1.4 Divisão IV - Informações da consulta via chave de acesso
 
@@ -1281,15 +1285,6 @@ A tabela relaciona todas as mensagens de validações utilizadas na consulta de 
 |   247 | A chave de acesso informada não se refere a uma NFC-e emitida por contribuinte da UF indicada.                        | Problema na Chave de Acesso                |
 
 Tabela 8:Mensagens de validações de consulta da NFC-e
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfce/manuais/20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code/source.json)
-- [Dados normalizados](../../../../normalized/nfce/manuais/20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code/normalized.json)
-- [Changelog](../../../../changelog/nfce/manuais/20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code.md)
-- [Proveniência resumida](../../../../sources/provenance/20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code.json)
-
 
 ## Documentos relacionados
-
-- [anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras](../../../nfe/manuais/anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras/document.md)
-- [nt2020-002v-1-01-espec-fica-para-ipi](../../../nfe/notas-tecnicas/nt2020-002v-1-01-espec-fica-para-ipi/document.md)
+_Nenhum documento relacionado conhecido._

@@ -8,9 +8,13 @@ converted_at_utc: "2026-06-25T16:24:15.493579+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_fb7492c9815fc92aa4d06c7459e53a5e1b29f063408767ed6f687628e719d9ea.png)
 
-![Image](assets/image_000001_9dcbed07271170bf8c86f9f1f3d5014c44077f81ee1c971c4c01859606c93129.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2020-006-v1-31-intermediador-e-marketplace.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -270,7 +274,7 @@ NT 2020.006
 
 | Campo-Seq   |   Modelo | Regra de Validação                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Aplic.   |   Msg | Efeito   | Descrição Erro                                                                               |
 |-------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------|----------|----------------------------------------------------------------------------------------------|
-| I08-90      |       55 | CFOP é de operação interestadual (inicia por 2 ou 6) e UF emitente = UF destinatário e CNPJ/CPF emissor diferente do CNPJ/CPF destinatário (NT 2010/004) Exceção 1: Se a tag UFCons (id:LA06) foi informada com UF diversa do emitente: CFOP iniciado com 2 ou 6 é válido. (NT 2010/010) Exceção 2: Se [UF emitente = UF destinatário] e [a tag finNFe (id:B25) indicar que esta é uma nota de ajuste (=3)]: será aceito o CFOP 6206 Exceção 3: A regra de validação acima não se aplica se informada UF do local de entrega (tag: entrega/UF) diferente da UF do emitente (tag: emit/enderEmit/UF). Exceção 4: A regra de validação não se aplica se informada UF do local de retirada (tag: retirada/UF) diferente da UF do destinatário (tag: enderDest/UF); Observação: Regra de validação opcional, a critério da UF | Facul.   |   523 | Rej.     | Rejeição: CFOP não é de Operação Estadual e UF emitente igual à UF destinatário [nItem: 999] |
+| I08-90      |       55 | CFOP é de operação interestadual (inicia por 2 ou 6) e UF emitente = UF destinatário e CNPJ/CPF emissor diferente do CNPJ/CPF destinatário ([NT 2010/004](../nt2010-004/document.md)) Exceção 1: Se a tag UFCons (id:LA06) foi informada com UF diversa do emitente: CFOP iniciado com 2 ou 6 é válido. ([NT 2010/010](../nt2010-010/document.md)) Exceção 2: Se [UF emitente = UF destinatário] e [a tag finNFe (id:B25) indicar que esta é uma nota de ajuste (=3)]: será aceito o CFOP 6206 Exceção 3: A regra de validação acima não se aplica se informada UF do local de entrega (tag: entrega/UF) diferente da UF do emitente (tag: emit/enderEmit/UF). Exceção 4: A regra de validação não se aplica se informada UF do local de retirada (tag: retirada/UF) diferente da UF do destinatário (tag: enderDest/UF); Observação: Regra de validação opcional, a critério da UF | Facul.   |   523 | Rej.     | Rejeição: CFOP não é de Operação Estadual e UF emitente igual à UF destinatário [nItem: 999] |
 
 ## 4.3. YA. Informações de Pagamento
 
@@ -346,12 +350,6 @@ NT 2020.006
 Portanto, para efeitos do CNPJ da instituição de pagamento, deve ser informada a instituição/empresa que fez o repasse de pagamento para o vendedor/remetente. Em outras palavras, o CNPJ do adquirente, subadquirente, intermediador ou instituição similar que efetuou o pagamento ao vendedor.
 
 ![Image](assets/image_000013_da658237aa376966f8852e3b33a045ef546498c0d51671456e896bc157e4975b.png)
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2020-006-v1-31-intermediador-e-marketplace.json)
 
 ## Documentos relacionados
 _Nenhum documento relacionado conhecido._

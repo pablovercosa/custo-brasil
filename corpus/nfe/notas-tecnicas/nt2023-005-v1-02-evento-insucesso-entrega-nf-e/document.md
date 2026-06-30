@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T15:43:46.524758+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_c4a369f6ec4a6141c3621adf6f85bfedc6c84d465d7bffd151b55e628ef0929a.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2023-005-v1-02-evento-insucesso-entrega-nf-e/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2023-005-v1-02-evento-insucesso-entrega-nf-e/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2023-005-v1-02-evento-insucesso-entrega-nf-e.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2023-005-v1-02-evento-insucesso-entrega-nf-e.json)
 
 ## Sistema Nota Fiscal Eletrônica
 
@@ -83,7 +89,7 @@ Quando a entrega da mercadoria não envolver um Conhecimento de Transporte Eletr
 
 O novo evento fiscal da NF-e visa registrar as operações de transporte que ocorreram, mas que por algum motivo (recusa do destinatário ou a sua não localização, por exemplo), não foi possível a conclusão do serviço com a efetivação da entrega da mercadoria ao recebedor.
 
-O evento permite ao remetente, quando a entrega for realizada acobertada pela NF-e, registrar, por meio de um evento fiscal, na respectiva nota fiscal eletrônica que acoberta a entrega da mercadoria os motivos que impediram a entrega. Evento similar foi criado na NT 2023.002 para as entregas realizadas por meio do Conhecimento de Transporte Eletrônico - CT-e.
+O evento permite ao remetente, quando a entrega for realizada acobertada pela NF-e, registrar, por meio de um evento fiscal, na respectiva nota fiscal eletrônica que acoberta a entrega da mercadoria os motivos que impediram a entrega. Evento similar foi criado na [NT 2023.002](../../../nfce/notas-tecnicas/nt2023-002-v1-01-emitente-cpf-nfce/document.md) para as entregas realizadas por meio do Conhecimento de Transporte Eletrônico - CT-e.
 
 Tais eventos visam substituir a ressalva que atualmente é aposta no verso do DANFE conforme previsto no § 3° da cláusula décima do Ajuste SINIEF 07/05, ao informar que o motivo do fato que ensejou o retorno da mercadoria não entregue ao destinatário deverá estar indicado no verso do DANFE:
 
@@ -550,14 +556,6 @@ O processamento do lote pode resultar em:
 |      826 | Rejeição: Pedido de Cancelamento para NF-e com Evento de Entrega (*1)            |
 
 ![Image](assets/image_000020_338385b75eb78f2e51e0f9b3fd7a6e404a979d4fbda6524b402b5cef495ced02.png)
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2023-005-v1-02-evento-insucesso-entrega-nf-e/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2023-005-v1-02-evento-insucesso-entrega-nf-e/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2023-005-v1-02-evento-insucesso-entrega-nf-e.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2023-005-v1-02-evento-insucesso-entrega-nf-e.json)
-
 
 ## Documentos relacionados
-
-- [nt-2021-001-v1-01-evento-comprovante-entrega-nfe](../nt-2021-001-v1-01-evento-comprovante-entrega-nfe/document.md)
+_Nenhum documento relacionado conhecido._

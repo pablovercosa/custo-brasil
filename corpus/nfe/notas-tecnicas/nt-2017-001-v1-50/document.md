@@ -8,9 +8,13 @@ converted_at_utc: "2026-06-25T16:34:41.846160+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_84d4eef79575d27335666b2a3b3169fad118b70f2838a6b6638287c0cabefe4c.png)
 
-![Image](assets/image_000001_7da8cf1f925bada57160cd07153b833eb35a57516ae04a94e7d481e9aebe0ec5.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2017-001-v1-50/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2017-001-v1-50/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2017-001-v1-50.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2017-001-v1-50.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -318,14 +322,6 @@ Cronograma para validar a exigência de preenchimento do GTIN no campo cEAN (RV 
 |    | Qualquer   | Qualquer NCM   |           | futura               |
 |----|------------|----------------|-----------|----------------------|
 | XI | CNAE       |                | 01/dez/18 | Implementação futura |
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2017-001-v1-50/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2017-001-v1-50/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2017-001-v1-50.md)
-- [Proveniência resumida](../../../../sources/provenance/nt-2017-001-v1-50.json)
-
 
 ## Documentos relacionados
-
-- [nt-2017-002-v1-40-tabela-cfop](../nt-2017-002-v1-40-tabela-cfop/document.md)
+_Nenhum documento relacionado conhecido._

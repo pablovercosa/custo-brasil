@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T14:51:08.329682+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_a1ddf80f83ddbed6af32a4d1739add27dead74b0300dd250715ab015df2fc942.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2007-004/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2007-004/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2007-004.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2007-004.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -41,21 +47,6 @@ Os  schemas  XML  e  instruções  para  a  implantação  do  Pacote  de  Liber
 Até  o  dia  30/11/2007,  será  publicado  o  Pacote  de  Liberação  006  (Versão  1.11), contendo  as  alterações "mínimas" descritas  no  Manual  de  Contingência  e necessárias para implementação do Sistema de Contingência do Ambiente Nacional (SCAN).
 
 A versão do Pacote de Liberação 006 (Versão 1.11), será liberada, em ambiente de homologação, a partir de 28/02/2008.  Esta versão entrará em produção a partir de 24/03/2008.
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2007-004/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2007-004/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2007-004.md)
-- [Proveniência resumida](../../../../sources/provenance/nt-2007-004.json)
-
 
 ## Documentos relacionados
-
-- [nota-t-cnica-2007-004-publicada-em-15-09-2011](../nota-t-cnica-2007-004-publicada-em-15-09-2011/document.md)
-- [nota-t-cnica-2007-007-publicada-em-30-11-2010](../nota-t-cnica-2007-007-publicada-em-30-11-2010/document.md)
-- [nt-2007-001](../nt-2007-001/document.md)
-- [nt-2007-002](../nt-2007-002/document.md)
-- [nt-2007-003](../nt-2007-003/document.md)
-- [nt-2007-007](../nt-2007-007/document.md)
-- [nt-2007-008](../nt-2007-008/document.md)
-- [nt-2007-009](../nt-2007-009/document.md)
+_Nenhum documento relacionado conhecido._

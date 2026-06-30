@@ -8,9 +8,13 @@ converted_at_utc: "2026-06-25T20:42:59.884218+00:00"
 status: "published"
 type: "informe_tecnico"
 ---
-![Image](assets/image_000000_a9de4cc7f57563311b8b3912d3fbf9959e734040d075a1d2a78bc86db67ec3df.png)
 
-![Image](assets/image_000001_050dd047183368c3224146f5a1711f1741aa657b5ef86eb0ef3aefb71b049c24.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/combustiveis/informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica/source.json)
+- [Dados normalizados](../../../../normalized/combustiveis/informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica/normalized.json)
+- [Changelog](../../../../changelog/combustiveis/informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica.md)
+- [Proveniência resumida](../../../../sources/provenance/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica.json)
 
 ## Sistema Nota Fiscal Eletrônica
 
@@ -59,7 +63,7 @@ De forma geral, o Informe Técnico tem a finalidade de:
 
 ## 01. Objetivo
 
-O objetivo deste Informe Técnico é divulgar a atualização da Tabela de Combustíveis Sujeitos à Tributação  Monofásica  do  ICMS,  cujos  códigos  são  utilizados  na  Nota  Técnica  2023.001 (NT2023.001),  visando  atender  à  Lei  Complementar  nº  192/2022  e  alterações  legislativas decorrentes.
+O objetivo deste Informe Técnico é divulgar a atualização da Tabela de Combustíveis Sujeitos à Tributação  Monofásica  do  ICMS,  cujos  códigos  são  utilizados  na  Nota  Técnica  2023.001 ([NT2023.001](../../notas-tecnicas/nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis/document.md)),  visando  atender  à  Lei  Complementar  nº  192/2022  e  alterações  legislativas decorrentes.
 
 Os prazos dessa atualização de tabelas estão documentados anteriormente, no item que trata de 'Controle de Versões', para a versão mais recente deste Informe Técnico.
 
@@ -68,17 +72,6 @@ Os prazos dessa atualização de tabelas estão documentados anteriormente, no i
 A tabela de combustíveis sujeitos à tributação monofásica do ICMS a ser utilizada na autorização de NF-e/NFC-e (modelos 55/65) é a tabela publicada no Portal Nacional da NF-e (www.nfe.fazenda.gov.br)  no  menu  "Documentos", "Diversos", "Vigentes",  denominada 'Tabela de códigos de combustíveis sujeitos à tributação monofásica de ICMS'. Essa tabela utiliza os códigos de produtos mantidos pela Agência Nacional de Petróleo, a ANP.
 
 Caso seja necessário conhecer mais sobre as tabelas da ANP que dão origem a esses códigos, outras informações podem ser obtidas no link: https://csa.anp.gov.br/informacoes/simp. Essas tabelas não são usadas no Serviço de Autorização dos Documentos Fiscais Eletrônicos, mas são úteis para as empresas que operam com combustível. Nesse link pode se efetuar o download de  um  arquivo  ZIP  com  as  Tabelas  de  Apoio  ao  I-SIMP  (Sistema  de  Informações  de Movimentação  de  Produtos),  da  Agência  Nacional  de  Petróleo,  sendo  o  arquivo  'T012 -Codigos\_de\_produtos' a principal referência para os códigos de combustíveis.
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/combustiveis/informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica/source.json)
-- [Dados normalizados](../../../../normalized/combustiveis/informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica/normalized.json)
-- [Changelog](../../../../changelog/combustiveis/informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica.md)
-- [Proveniência resumida](../../../../sources/provenance/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica.json)
-
 
 ## Documentos relacionados
-
-- [it-2023-001-v1-10-tabela-cprodanp](../it-2023-001-v1-10-tabela-cprodanp/document.md)
-- [it2023-002v1-00-tabela-cfop-11-04-2023](../../../nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/document.md)
-- [nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024](../../../nfe/notas-tecnicas/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/document.md)
-- [nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis](../../notas-tecnicas/nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis/document.md)
+_Nenhum documento relacionado conhecido._

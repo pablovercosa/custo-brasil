@@ -8,6 +8,14 @@ converted_at_utc: "2026-06-26T15:51:44.213295+00:00"
 status: "published"
 type: "manual"
 ---
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/manuais/manual-svan-anexo-i/source.json)
+- [Dados normalizados](../../../../normalized/nfe/manuais/manual-svan-anexo-i/normalized.json)
+- [Changelog](../../../../changelog/nfe/manuais/manual-svan-anexo-i.md)
+- [Proveniência resumida](../../../../sources/provenance/manual-svan-anexo-i.json)
+
 ## **Anexo I**
 
 # Inclusão de Contribuinte no Ambiente de Homologação
@@ -140,18 +148,5 @@ Abaixo, segue um modelo do e-mail:
 
 **Modelo de e-mail para exclusão de contribuinte**
 
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/manuais/manual-svan-anexo-i/source.json)
-- [Dados normalizados](../../../../normalized/nfe/manuais/manual-svan-anexo-i/normalized.json)
-- [Changelog](../../../../changelog/nfe/manuais/manual-svan-anexo-i.md)
-- [Proveniência resumida](../../../../sources/provenance/manual-svan-anexo-i.json)
-
-
 ## Documentos relacionados
-
-- [anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras](../anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras/document.md)
-- [anexo-iii-manual-de-conting-ncia-nf-e](../anexo-iii-manual-de-conting-ncia-nf-e/document.md)
-- [anexo-iv-manual-de-conting-ncia-nfc-e](../../../nfce/manuais/anexo-iv-manual-de-conting-ncia-nfc-e/document.md)
-- [manual-svan-anexo-ii](../manual-svan-anexo-ii/document.md)
-- [manual-svan-v1-00](../manual-svan-v1-00/document.md)
+_Nenhum documento relacionado conhecido._

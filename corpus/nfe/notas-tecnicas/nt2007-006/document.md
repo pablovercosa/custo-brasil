@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T14:58:07.208738+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_c4e6daffbc318bd841fc00aef9f87a94e2b919c94e64e8100d060f4f9064a90b.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2007-006/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2007-006/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2007-006.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2007-006.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -26,7 +32,7 @@ Novembro-2007
 
 ## 1.  Resumo
 
-Divulga a versão preliminar de homologação do Pacote de Liberação 006 -PL\_006\_Hom\_v1.00, com os Schemas XML compatíveis com os leiautes de arquivos do Manual de Integração do Contribuinte - versão 2.0.3, que foi atualizada com as alterações necessárias  para  a  implementação  do  Sistema  de  Contingência  do  Ambiente  Nacional (SCAN) descritas no Manual de Contingência versão 5.01, sendo altamente recomendada a leitura da NT 2007/005 para conhecimento de todas alterações ocorridas na atualização do Manual de Integração do Contribuinte - versão 2.03.
+Divulga a versão preliminar de homologação do Pacote de Liberação 006 -PL\_006\_Hom\_v1.00, com os Schemas XML compatíveis com os leiautes de arquivos do Manual de Integração do Contribuinte - versão 2.0.3, que foi atualizada com as alterações necessárias  para  a  implementação  do  Sistema  de  Contingência  do  Ambiente  Nacional (SCAN) descritas no Manual de Contingência versão 5.01, sendo altamente recomendada a leitura da [NT 2007/005](../nt2007-005/document.md) para conhecimento de todas alterações ocorridas na atualização do Manual de Integração do Contribuinte - versão 2.03.
 
 Este Pacote de liberação destina-se ao uso exclusivo no ambiente de homologação da NF-e e  deverá  ser  substituído  pela  versão  do  ambiente  de  produção  que  será  divulgado oportunamente.
 
@@ -110,12 +116,6 @@ As alterações acima implicam na alteração da versão do leiaute de da NF-e e
 | leiauteConsRecibo_v1.11.xsd         | 9a19c2b13cabfe9085f5a471d211e3da   | (3)                |
 
 As  dúvidas  e  sugestões  devem  ser  encaminhadas  através  do  Canal  Fale  Conosco  da Secretaria  da  Fazenda  de  São  Paulo  (http://www.fazenda.sp.gov.br/email/default2.asp) referente à 'Portaria CAT 104/07'.
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2007-006/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2007-006/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2007-006.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2007-006.json)
 
 ## Documentos relacionados
 _Nenhum documento relacionado conhecido._

@@ -8,9 +8,13 @@ converted_at_utc: "2026-06-25T16:28:02.165522+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_b99ce6ecd4c1d044f602fecc97027f67c2f6c0878f6ceb8c7b5be4212d027840.png)
 
-![Image](assets/image_000001_55843cdb6e86ec03a0e8303faaa9c88b0581d763d1c0e592d943e0d68c25d2fa.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2024-002-v1-00-econf/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2024-002-v1-00-econf/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2024-002-v1-00-econf.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2024-002-v1-00-econf.json)
 
 ## Sistema Nota Fiscal Eletrônica
 
@@ -480,12 +484,6 @@ O processamento do lote pode resultar em:
 - Rejeição: o Evento será rejeitado, retornando do código do status do motivo da rejeição;
 - Evento Autorizado, com vinculação à respectiva NF-e : Encontrada a NF-e no banco de dados. Retornar cStat='135-Evento registrado e vinculado a NF-e';
 - Evento Autorizado, sem vinculação à respectiva NF-e: Não encontrada a NF-e no banco de dados. Retornar cStat='136-Evento registrado, mas não vinculado a NF-e';
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2024-002-v1-00-econf/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2024-002-v1-00-econf/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2024-002-v1-00-econf.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2024-002-v1-00-econf.json)
 
 ## Documentos relacionados
 _Nenhum documento relacionado conhecido._

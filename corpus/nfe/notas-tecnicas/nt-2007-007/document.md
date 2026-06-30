@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T14:52:45.727414+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_25d8ba8b8e0d7e1364ad0ddd5c65dae80d47eed5c3acf9e1032bb4f8262c9cf6.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2007-007/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2007-007/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2007-007.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2007-007.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -35,21 +41,6 @@ A versão 2.03 do Manual de Integração do Contribuinte e o PL\_006 se tornaram
 As alterações divulgadas na versão 2.03 do Manual de Integração do Contribuinte que não foram afetadas pelas alterações decorrentes da versão 6.00 do Modelo de Contingência do SCAN serão mantidas.
 
 A  versão  2.04  do  Manual  de  Integração  do  Contribuinte  e  a  versão  preliminar  do PL\_007 de homologação serão publicadas até o dia 30/12/2007.
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2007-007/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2007-007/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2007-007.md)
-- [Proveniência resumida](../../../../sources/provenance/nt-2007-007.json)
-
 
 ## Documentos relacionados
-
-- [nota-t-cnica-2007-004-publicada-em-15-09-2011](../nota-t-cnica-2007-004-publicada-em-15-09-2011/document.md)
-- [nota-t-cnica-2007-007-publicada-em-30-11-2010](../nota-t-cnica-2007-007-publicada-em-30-11-2010/document.md)
-- [nt-2007-001](../nt-2007-001/document.md)
-- [nt-2007-002](../nt-2007-002/document.md)
-- [nt-2007-003](../nt-2007-003/document.md)
-- [nt-2007-004](../nt-2007-004/document.md)
-- [nt-2007-008](../nt-2007-008/document.md)
-- [nt-2007-009](../nt-2007-009/document.md)
+_Nenhum documento relacionado conhecido._

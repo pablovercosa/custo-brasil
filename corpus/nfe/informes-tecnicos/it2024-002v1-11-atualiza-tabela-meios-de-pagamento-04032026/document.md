@@ -8,9 +8,13 @@ converted_at_utc: "2026-06-25T20:44:27.185656+00:00"
 status: "published"
 type: "informe_tecnico"
 ---
-![Image](assets/image_000000_b70516377e3077df5bb3360e0483e01c27b71fa42f20e2c54c151fac9b119ea3.png)
 
-![Image](assets/image_000001_a9b1d1601c4484180d757697cd0ab40d19f0c9cd9166651b416a83a8f25897bc.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026/source.json)
+- [Dados normalizados](../../../../normalized/nfe/informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026/normalized.json)
+- [Changelog](../../../../changelog/nfe/informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026.md)
+- [Proveniência resumida](../../../../sources/provenance/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026.json)
 
 ## Sistema Nota Fiscal Eletrônica
 
@@ -99,20 +103,6 @@ O objetivo deste Informe Técnico é divulgar as alterações da Tabela de Meios
 - Alteração da descrição do código 18 e da observação código 20.
 
 ![Image](assets/image_000005_4f9a488334e876a9d02c08445552814b5c3c359ee900e373fdddfea5bd3a9161.png)
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026/source.json)
-- [Dados normalizados](../../../../normalized/nfe/informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026/normalized.json)
-- [Changelog](../../../../changelog/nfe/informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026.md)
-- [Proveniência resumida](../../../../sources/provenance/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026.json)
-
 
 ## Documentos relacionados
-
-- [it-2026-001-v-1-00-tabelas-de-meios-de-pagamento-para-vincula-o-com-o-split](../../../reforma-tributaria/informes-tecnicos/it-2026-001-v-1-00-tabelas-de-meios-de-pagamento-para-vincula-o-com-o-split/document.md)
-- [it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs](../../../reforma-tributaria/informes-tecnicos/it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs/document.md)
-- [it2023-002v1-00-tabela-cfop-11-04-2023](../it2023-002v1-00-tabela-cfop-11-04-2023/document.md)
-- [it2024-001v2-30-atualiza-tabela-de-ncm](../../../geral/informes-tecnicos/it2024-001v2-30-atualiza-tabela-de-ncm/document.md)
-- [it2025-001v1-00-atualiza-tabela-municipios](../../../geral/informes-tecnicos/it2025-001v1-00-atualiza-tabela-municipios/document.md)
-- [nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024](../../notas-tecnicas/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/document.md)
-- [nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024](../../notas-tecnicas/nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024/document.md)
+_Nenhum documento relacionado conhecido._

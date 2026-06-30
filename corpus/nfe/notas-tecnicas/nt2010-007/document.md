@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T14:55:55.967854+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_cf0dd90c3722c3f434a6fdefc5694a09d60c3cce31f02fdf1132013c8c4c7f51.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2010-007/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2010-007/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2010-007.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2010-007.json)
 
 ## Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica
 
@@ -68,16 +74,6 @@ Rejeição: CFOP de Operação Estadual e UF emitente d ifere da UF remetente pa
 Rejeição: Código numérico informado na Chave de Ace sso difere do Código Numérico da NF-e
 
 [chNFe:99999999999999999999999999999999999999999999]
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2010-007/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2010-007/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2010-007.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2010-007.json)
-
 
 ## Documentos relacionados
-
-- [nota-t-cnica-2010-002-publicada-em-29-11-2010](../nota-t-cnica-2010-002-publicada-em-29-11-2010/document.md)
-- [nota-t-cnica-2010-005-publicada-em-06-07-2010](../nota-t-cnica-2010-005-publicada-em-06-07-2010/document.md)
-- [nota-t-cnica-2010-009-publicada-em-10-12-2010](../nota-t-cnica-2010-009-publicada-em-10-12-2010/document.md)
+_Nenhum documento relacionado conhecido._

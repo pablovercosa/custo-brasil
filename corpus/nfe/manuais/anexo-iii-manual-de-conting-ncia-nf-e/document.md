@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T17:24:40.540665+00:00"
 status: "published"
 type: "manual"
 ---
-![Image](assets/image_000000_8443a42388208107c63034efcae387547c17f02bb82839f29632cc8d07cd4401.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/manuais/anexo-iii-manual-de-conting-ncia-nf-e/source.json)
+- [Dados normalizados](../../../../normalized/nfe/manuais/anexo-iii-manual-de-conting-ncia-nf-e/normalized.json)
+- [Changelog](../../../../changelog/nfe/manuais/anexo-iii-manual-de-conting-ncia-nf-e.md)
+- [Proveniência resumida](../../../../sources/provenance/anexo-iii-manual-de-conting-ncia-nf-e.json)
 
 ## Sistema Nota Fiscal Eletrônica
 
@@ -69,8 +75,8 @@ Este documento é parte integrante do Manual de Orientação do Contribuinte (MO
 
 O Manual de Orientação do Contribuinte 7.0 é composto pelos seguintes documentos:
 
-- MOC - Visão Geral
-- MOC - Anexo I - Leiaute NF-e/NFC-e e Regras de Validação
+- [MOC - Visão Geral](../manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e/document.md)
+- [MOC - Anexo I - Leiaute NF-e/NFC-e e Regras de Validação](../anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e/document.md)
 - MOC - Anexo II - Manual de Especificações  Técnicas do DANFE e Código de Barras
 - MOC - Anexo III - Manual de Contingência NF-e
 - MOC - Anexo IV - Manual de Contingência NFC-e
@@ -501,17 +507,6 @@ Cabe à aplicação do contribuinte tratar adequadamente a situação das NF-e P
 
 - Cancelar  as  NF-e  Pendentes  de  Retorno  que  tenham  sido  autorizadas  pela  SEFAZ  origem,  mas  que tiveram as operações comerciais correspondentes registradas em NF-e emitidas em contingência.
 - Inutilizar a numeração das NF-e Pendentes de Retorno que não foram autorizadas ou denegadas.
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/manuais/anexo-iii-manual-de-conting-ncia-nf-e/source.json)
-- [Dados normalizados](../../../../normalized/nfe/manuais/anexo-iii-manual-de-conting-ncia-nf-e/normalized.json)
-- [Changelog](../../../../changelog/nfe/manuais/anexo-iii-manual-de-conting-ncia-nf-e.md)
-- [Proveniência resumida](../../../../sources/provenance/anexo-iii-manual-de-conting-ncia-nf-e.json)
-
 
 ## Documentos relacionados
-
-- [anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras](../anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras/document.md)
-- [anexo-iv-manual-de-conting-ncia-nfc-e](../../../nfce/manuais/anexo-iv-manual-de-conting-ncia-nfc-e/document.md)
-- [manual-svan-anexo-i](../manual-svan-anexo-i/document.md)
-- [manual-svan-anexo-ii](../manual-svan-anexo-ii/document.md)
+_Nenhum documento relacionado conhecido._

@@ -12,6 +12,16 @@ created_at: 2025-06-26
 updated_at: 2025-06-26
 ---
 
+## Metadados
+
+### Fontes normativas
+- [nt-2015-001-v-1-30](corpus/nfe/notas-tecnicas/nt-2015-001-v-1-30/document.md)
+- [nt-2015-003-v194](corpus/nfe/notas-tecnicas/nt-2015-003-v194/document.md)
+
+### Fontes normativas
+- [nt-2015-001-v-1-30](corpus/nfe/notas-tecnicas/nt-2015-001-v-1-30/document.md)
+- [nt-2015-003-v194](corpus/nfe/notas-tecnicas/nt-2015-003-v194/document.md)
+
 # DIFAL ICMS — Diferencial de Alíquotas
 
 ## Visão geral
@@ -22,8 +32,8 @@ O DIFAL (Diferencial de Alíquotas do ICMS) é aplicado nas operações interest
 
 - EC 87/2015
 - Lei Kandir (LC 87/1996)
-- NT 2015.001 — sistemática de cálculo (base de cálculo única)
-- NT 2015.003 — exemplos e regras de validação
+- [NT 2015.001](../../corpus/nfe/notas-tecnicas/nt-2015-001-v-1-30/document.md) — sistemática de cálculo (base de cálculo única)
+- [NT 2015.003](../../corpus/nfe/notas-tecnicas/nt-2015-003-v194/document.md) — exemplos e regras de validação
 
 ## Variáveis
 

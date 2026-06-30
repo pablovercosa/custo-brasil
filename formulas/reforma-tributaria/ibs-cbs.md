@@ -16,6 +16,24 @@ created_at: 2025-06-26
 updated_at: 2025-06-26
 ---
 
+## Metadados
+
+### Fontes normativas
+- [nt-2025-002-v1-50-rtc-nf-e-ibs-cbs-is](corpus/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-50-rtc-nf-e-ibs-cbs-is/document.md)
+- aliquotas-cbs-2026
+- cclass-trib-2026
+- [it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs](corpus/reforma-tributaria/informes-tecnicos/it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs/document.md)
+- [it-2026-001-v-1-00-tabelas-de-meios-de-pagamento-para-vincula-o-com-o-split](corpus/reforma-tributaria/informes-tecnicos/it-2026-001-v-1-00-tabelas-de-meios-de-pagamento-para-vincula-o-com-o-split/document.md)
+- ccredpres-2025
+
+### Fontes normativas
+- [nt-2025-002-v1-50-rtc-nf-e-ibs-cbs-is](corpus/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-50-rtc-nf-e-ibs-cbs-is/document.md)
+- aliquotas-cbs-2026
+- cclass-trib-2026
+- [it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs](corpus/reforma-tributaria/informes-tecnicos/it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs/document.md)
+- [it-2026-001-v-1-00-tabelas-de-meios-de-pagamento-para-vincula-o-com-o-split](corpus/reforma-tributaria/informes-tecnicos/it-2026-001-v-1-00-tabelas-de-meios-de-pagamento-para-vincula-o-com-o-split/document.md)
+- ccredpres-2025
+
 # IBS e CBS — Reforma Tributária
 
 ## Visão geral
@@ -25,7 +43,7 @@ A Reforma Tributária (EC 132/2023) institui o IBS (Imposto sobre Bens e Serviç
 ## Base legal
 
 - EC 132/2023
-- NT 2025.002 — RTC NF-e IBS/CBS/IS (leiaute e regras)
+- [NT 2025.002](../../corpus/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md) — RTC NF-e IBS/CBS/IS (leiaute e regras)
 - IT 2025.002 — tabelas de classificação tributária do IBS e da CBS
 - IT 2026.002 — tabela de alíquotas da CBS
 - IT 2026.001 — meios de pagamento vinculados ao split
@@ -51,7 +69,7 @@ A Reforma Tributária (EC 132/2023) institui o IBS (Imposto sobre Bens e Serviç
 
 ## Fórmula
 
-### Base de Cálculo do IBS/CBS (conforme NT 2025.002)
+### Base de Cálculo do IBS/CBS (conforme [NT 2025.002](../../corpus/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md))
 
 BC_IBS_CBS = vProd + vServ + vFrete + vSeg + vOutro + vII - vDesc - vPIS - vCOFINS - vICMS
 
@@ -259,6 +277,6 @@ Consulte `corpus/geral/tabelas-federais/cclass-trib-2026/` para a tabela complet
 - **Zona Franca de Manaus:** mantém diferencial competitivo (crédito presumido)
 - **Serviços financeiros, seguros, planos de saúde:** regimes específicos
 - **IS (Imposto Seletivo):** tributo extra sobre bens prejudiciais à saúde/meio ambiente
-- A NT 2025.002 define que o PIS-ST e COFINS-ST **não** são excluídos da BC quando compõem o valor total
+- A [NT 2025.002](../../corpus/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md) define que o PIS-ST e COFINS-ST **não** são excluídos da BC quando compõem o valor total
 - O split payment não se aplica a pagamentos em espécie ou não vinculados
 - O ICMS integra a BC do IBS/CBS (não é excluído por ser imposto não cumulativo)

@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T15:09:36.305626+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_29ce088f7b0be9100e51d6f6feab07a958b959809e0cf990dc387b6c7e7f3462.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2013-002-b2b-v1-00b/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2013-002-b2b-v1-00b/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2013-002-b2b-v1-00b.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2013-002-b2b-v1-00b.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -150,12 +156,6 @@ No caso de troca de arquivo entre as empresas, é sugerida a adoção do nome do
 - ­ &lt;999...999&gt;: corresponde a Chave de Acesso da NF-e;
 - ­ &lt;888888&gt;: identifica o tipo de evento (CC-e=110110, Cancelamento=110111, ...)
 - ­ '-procEventoNFe': identifica o processamento do documento autorizado.
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2013-002-b2b-v1-00b/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2013-002-b2b-v1-00b/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2013-002-b2b-v1-00b.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2013-002-b2b-v1-00b.json)
 
 ## Documentos relacionados
 _Nenhum documento relacionado conhecido._

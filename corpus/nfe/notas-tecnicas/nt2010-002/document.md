@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T14:51:28.690644+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_83c23eb121948b933e255e5cfa5405d567f44d6beae3a199330cc2dcb5a97816.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2010-002/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2010-002/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2010-002.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2010-002.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -39,16 +45,6 @@ A tag foi definida como tipo dateTime no Schema XML, contudo o tipo dateTime ace
 ```
 <xs:element name="dhCont"> <xs:annotation> <xs:documentation>Informar a data e hora de entrada em contingência c ontingência no formato AAAA-MMDDTHH:MM:SS (v.2.0).</xs:documentation> </xs:annotation> <xs:simpleType> <xs:restriction base="xs:dateTime"/> </xs:simpleType> </xs:element> para: <xs:element name="dhCont"> <xs:annotation> <xs:documentation>Informar a data e hora de entrada em contingência c ontingência no formato AAAA-MMDDTHH:MM:SS (v.2.0).</xs:documentation> </xs:annotation> <xs:simpleType> <xs:restriction base="xs:string"> <xs:whiteSpace value="preserve"/> <xs:pattern value="(((20(([02468][048])|([13579][26]))-02-29))|(20[0-9][0-9])-((((0[1-9])|(1[0-2]))-((0[19])|(1\d)|(2[0-8])))|((((0[13578])|(1[02]))-31)|(((0[1,3-9])|(1[0-2]))-(29|30)))))T(20|21|22|23|[0-1]\d):[0-5]\d:[0-5]\d"/> </xs:restriction> </xs:simpleType> </xs:element>
 ```
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2010-002/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2010-002/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2010-002.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2010-002.json)
-
 
 ## Documentos relacionados
-
-- [nota-t-cnica-2010-002-publicada-em-29-11-2010](../nota-t-cnica-2010-002-publicada-em-29-11-2010/document.md)
-- [nota-t-cnica-2010-005-publicada-em-06-07-2010](../nota-t-cnica-2010-005-publicada-em-06-07-2010/document.md)
-- [nota-t-cnica-2010-009-publicada-em-10-12-2010](../nota-t-cnica-2010-009-publicada-em-10-12-2010/document.md)
+_Nenhum documento relacionado conhecido._

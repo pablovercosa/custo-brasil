@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T16:06:46.176316+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_45b8b9eb6148eb29f02310837548fb2ce84335fb48a47ba886440e745ea70d43.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2009-005/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2009-005/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2009-005.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2009-005.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -1316,7 +1322,7 @@ Os nomes dos campos vBCST e vICMSST foram alterados para vBCSTRet e vICMSSTRet p
 
 ## 9.31 Acréscimo do grupo de informação de ICMSPart
 
-As informações relativas ao ICMS da operação de fat uramento direito de veículos devem ser informada ne ste grupo, ficando revogada a orientação de preenchimento do ICMS divulgada no it em 3 da NT 2008/004.
+As informações relativas ao ICMS da operação de fat uramento direito de veículos devem ser informada ne ste grupo, ficando revogada a orientação de preenchimento do ICMS divulgada no it em 3 da [NT 2008/004](../nt-2008-004/document.md).
 
 |   245.01 | N10a   | ICMSPart   | Partilha do ICMS entre a UF de origem e UF de destino ou a UF definida na legislação.   | CG   | N01   |    | 1-1   |    | Operação interestadual para consumidor final com partilha do ICMS devido na operação entre a UF de origem e a UF do destinatário ou ou a UF definida na legislação. (Ex. UF da concessionária de entrega do veículos) (v2.0)   |
 |----------|--------|------------|-----------------------------------------------------------------------------------------|------|-------|----|-------|----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1659,12 +1665,6 @@ Código de Situação da Operação - Simples Nacional ( CSOSN)
 |   421 | ZC13   | vFor      | Valor dos Fornecimentos                          | E   | ZC01   | N   | 1-1   | 15     |    2 | Valor dos Fornecimentos v2.0                      |
 |   422 | ZC14   | vTotDed   | Valor Total da Dedução                           | E   | ZC01   | N   | 1-1   | 15     |    2 | Valor das deduções v2.0                           |
 |   423 | ZC15   | vLiqFor   | Valor Líquido dos Fornecimentos                  | E   | ZC01   | N   | 1-1   | 15     |    2 | Valor Líquido dos Fornecimentos v 2.0             |
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2009-005/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2009-005/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2009-005.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2009-005.json)
 
 ## Documentos relacionados
 _Nenhum documento relacionado conhecido._

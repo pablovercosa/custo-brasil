@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T18:38:14.911759+00:00"
 status: "published"
 type: "manual"
 ---
-![Image](assets/image_000000_e9702de4a65d4d6a9840853a44d20fe534506297b05600242359dad2c3463dd6.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfeabi/manuais/moc-nfeabi-anexo-i-leiaute-e-rv-v2-00/source.json)
+- [Dados normalizados](../../../../normalized/nfeabi/manuais/moc-nfeabi-anexo-i-leiaute-e-rv-v2-00/normalized.json)
+- [Changelog](../../../../changelog/nfeabi/manuais/moc-nfeabi-anexo-i-leiaute-e-rv-v2-00.md)
+- [Proveniência resumida](../../../../sources/provenance/moc-nfeabi-anexo-i-leiaute-e-rv-v2-00.json)
 
 ## Sistema Nota Fiscal Eletrônica
 
@@ -84,9 +90,9 @@ Este documento tem por objetivo a definição do leiaute da NF-e de Alienação 
 
 O Manual de Orientação do Contribuinte 2.0 é composto pelos seguintes documentos:
 
--  MOC - Visão Geral
+-  [MOC - Visão Geral](../../../nfe/manuais/manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e/document.md)
 -  MOC - Anexo I - Leiaute NF-e ABI e Regras de Validação
--  MOC - Anexo II - Manual de Especificações Técnicas do DANFE e Código de Barras (a ser publicado)
+-  [MOC - Anexo II - Manual de Especificações Técnicas do DANFE e Código de Barras](../../../nfe/manuais/anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras/document.md) (a ser publicado)
 
 ![Image](assets/image_000006_5c685c3c8b46c731f2c5c97b56f0cc59f8b0a522e23ff2b83bea97bab085bc32.png)
 
@@ -732,7 +738,7 @@ A escolha do Schema XML aplicável para o evento é realizado com base no tipo d
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|----------|----------------------------------------------------------------|
 | E01 | Certificado de Assinatura inválido: - Certificado de Assinatura inexistente na mensagem (*validado também pelo Schema) - Versão difere "3" - Se informado o Basic Constraint deve ser true (não pode ser Certificado de AC) - KeyUsage não define "Assinatura Digital" e 'Não Recusa' |   290 | Rej.     | Rejeição: Certificado Assinatura inválido                      |
 | E02 | Validade do Certificado (data início e data fim)                                                                                                                                                                                                                                      |   291 | Rej.     | Rejeição: Certificado Assinatura Data Validade                 |
-| E03 | Falta a extensão de CNPJ no Certificado (OtherName OID=2.16.76.1.3.3) ou a extensão de CPF (OtherName OID=2.16.76.1.3.1) (NT 2018.001)                                                                                                                                                |   292 | Rej.     | Rejeição: Certificado de Assinatura sem CNPJ/CPF               |
+| E03 | Falta a extensão de CNPJ no Certificado (OtherName OID=2.16.76.1.3.3) ou a extensão de CPF (OtherName OID=2.16.76.1.3.1) ([NT 2018.001](../../../nfe/notas-tecnicas/nt2018-001-v1-10-emitente-cpf/document.md))                                                                                                                                                |   292 | Rej.     | Rejeição: Certificado de Assinatura sem CNPJ/CPF               |
 | E04 | Verifica Cadeia de Certificação: - Certificado da AC emissora não cadastrado na SEFAZ - Certificado de AC revogado - Certificado não assinado pela AC emissora do Certificado                                                                                                         |   293 | Rej.     | Rejeição: Certificado Assinatura - erro Cadeia de Certificação |
 | E05 | LCR do Certificado de Assinatura: - Falta o endereço da LCR (CRLDistributionPoint) - Erro no acesso a LCR ou LCR inexistente                                                                                                                                                          |   296 | Rej.     | Rejeição: Certificado Assinatura erro no acesso a LCR          |
 | E06 | Certificado de Assinatura revogado                                                                                                                                                                                                                                                    |   294 | Rej.     | Rejeição: Certificado Assinatura revogado                      |
@@ -746,8 +752,8 @@ A escolha do Schema XML aplicável para o evento é realizado com base no tipo d
 |------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|----------|----------------------------------------------------------------------------|
 | F01  | Assinatura difere do padrão do Sistema: - Não assinado o atributo "Id" (falta "Reference URI" na assinatura) (*validado também pelo Schema) - Faltam os "Transform Algorithm" previstos na assinatura ("C14N" e "Enveloped") Estas validações são implementadas pelo Schema XML da Signature |   298 | Rej.     | Rejeição: Assinatura difere do padrão do Sistema                           |
 | F02  | Valor da assinatura (SignatureValue) difere do valor calculado                                                                                                                                                                                                                               |   297 | Rej.     | Rejeição: Assinatura difere do calculado                                   |
-| F03  | Se Certificado de Assinatura com CNPJ e CNPJ do Certificado difere do CNPJ da SEFAZ para a UF: - CNPJ-Base doEmitente difere do CNPJ-Base do Certificado Digital (NT 2018.001)                                                                                                               |   213 | Rej.     | Rejeição: CNPJ-Base do Emitente difere do CNPJ-Base do Certificado Digital |
-| F03A | Se Certificado de Assinatura com CPF: - CPF do Emitente difere do CPF do Certificado Digital (NT 2018.001)                                                                                                                                                                                   |   227 | Rej.     | Rejeição: CPF do Emitente difere do CPF do Certificado Digital             |
+| F03  | Se Certificado de Assinatura com CNPJ e CNPJ do Certificado difere do CNPJ da SEFAZ para a UF: - CNPJ-Base doEmitente difere do CNPJ-Base do Certificado Digital ([NT 2018.001](../../../nfe/notas-tecnicas/nt2018-001-v1-10-emitente-cpf/document.md))                                                                                                               |   213 | Rej.     | Rejeição: CNPJ-Base do Emitente difere do CNPJ-Base do Certificado Digital |
+| F03A | Se Certificado de Assinatura com CPF: - CPF do Emitente difere do CPF do Certificado Digital ([NT 2018.001](../../../nfe/notas-tecnicas/nt2018-001-v1-10-emitente-cpf/document.md))                                                                                                                                                                                   |   227 | Rej.     | Rejeição: CPF do Emitente difere do CPF do Certificado Digital             |
 
 ## Regras de Negócio específicas
 
@@ -816,7 +822,7 @@ NF-e ABI - Anexo I, Leiaute e Regras de Validação
 | C02-10       | Se informado CNPJ do emitente:  CNPJ comzeros, nulo ou DV inválido                                                                                                                                                                                     |   207 | Rej.     | Rejeição: CNPJ do emitente inválido                                                                                                                        |
 | C02a-20      | Se informado CPF do emitente:  CPFcom zeros, nulo, 111..., 222..., ..., ou DV inválido                                                                                                                                                                 |   401 | Rej.     | Rejeição: CPF do emitente inválido                                                                                                                         |
 | C04-10       | Se tpAmb (id:B24) = 2 e informado xNome (C04)  xNome (C04) deve ser informado comaliteral 'NF-E ABI EMITIDA EMAMBIENTE DE HOMOLOGACAO- SEMVALOR FISCAL'                                                                                                |   800 | Rej.     | Rejeição: NF-e emitida em ambiente de homologação com Razão Social do emitente diferente de NF-E ABI EMITIDA EM AMBIENTE DE HOMOLOGACAO - SEM VALOR FISCAL |
-| C10-10       | Código do Município do Emitente inexistente (Tabela Municípios IBGE) (NT 2015.002)                                                                                                                                                                      |   272 | Rej.     | Rejeição: Código Município do Emitente inexistente                                                                                                         |
+| C10-10       | Código do Município do Emitente inexistente (Tabela Municípios IBGE) ([NT 2015.002](../../../nfe/notas-tecnicas/nt-2015-002-v141-23-08-2016/document.md))                                                                                                                                                                      |   272 | Rej.     | Rejeição: Código Município do Emitente inexistente                                                                                                         |
 | C10-20       | Código do Município do Emitente (2 primeiras posições) difere do Código da UF do emitente                                                                                                                                                               |   273 | Rej.     | Rejeição: Código Município do Emitente: difere da UF do emitente                                                                                           |
 | C18-10       | Se modalidade da operação diferente de '02=Arrematação, Adjudicação ou Remição' (tag: modOper<>02):  Proibido informar os Tipos de Emitente (tag: tpEmit) '02=Comprador, Adquirente ouCessionário' ou '03=Leiloeiro (em nome do arrematante)'          |   274 | Rej.     | Rejeição: Tipo de Emitente inválido para a modalidade da operação [tpEmit=XX, modOper=XX]                                                                  |
 | C18-20       | Se modalidade da operação igual a '02=Arrematação, Adjudicação ou Remição' (tag: modOper=02):  Tipo de Emitente não pode ser diferente de '02=Comprador, Adquirente ou Cessionário' ou '03=Leiloeiro (em nome do arrematante)' (tag: tpEmit<>02 ou 03) |   274 | Rej.     | Rejeição: Tipo de Emitente inválido para a modalidade da operação [tpEmit=XX, modOper=XX]                                                                  |
@@ -1044,7 +1050,7 @@ NF-e ABI - Anexo I, Leiaute e Regras de Validação
 | ZX02-228     | Parâmetro Chave de Acesso no QR-Code diverge da Chave de Acesso da Nota Fiscal Observação: NF-e ABI ONLINE ou OFFLINE é 1º parâmetro da URL do QR Code                                                                                                                                          |   397 | Rej.     | Rejeição: Parâmetro do QR-Code divergente da Nota Fiscal [Param: xxx)].      |
 | ZX02-236     | Parâmetro Versão informada no QR-Code diverge do previsto ('1') Observação: Para NF-e ABI ONLINE ou OFFLINE é o 2º parâmetro da URLdoQR Code                                                                                                                                                    |   398 | Rej.     | Rejeição: Parâmetro Versão informada no QR-Code diverge do previsto ('1')    |
 | ZX02-244     | Parâmetro Tipo de Ambiente do QR-Code diverge do Tipo de Ambiente da Nota Fiscal (tag: tpAmb) Observação: Para NF-e ABI ONLINE ou OFFLINE é o 3º parâmetro da URLdoQR Code                                                                                                                      |   397 | Rej.     | Rejeição: Parâmetro do QR-Code divergente da Nota Fiscal: [Param: xxx)]      |
-| ZX02-268     | NF-e ABI de contingência (tpEmis=9): Parâmetro Dia da Data de Emissão no QR-Code diverge do Dia Data de Emissão da Nota Fiscal (tag: dhEmi) Observação 1: Para NF-e ABI ONLINE esse parâmetro não existe. Observação 2: Para NF-e ABI OFFLINE é o 4º parâmetro da URL doQR Code ) (NT 2016.002) |   397 | Rej.     | Rejeição: Parâmetro do QR-Code divergente da Nota Fiscal: [Param: xxx)]      |
+| ZX02-268     | NF-e ABI de contingência (tpEmis=9): Parâmetro Dia da Data de Emissão no QR-Code diverge do Dia Data de Emissão da Nota Fiscal (tag: dhEmi) Observação 1: Para NF-e ABI ONLINE esse parâmetro não existe. Observação 2: Para NF-e ABI OFFLINE é o 4º parâmetro da URL doQR Code ) ([NT 2016.002](../../../nfe/notas-tecnicas/nt-2016-002-v1-61/document.md)) |   397 | Rej.     | Rejeição: Parâmetro do QR-Code divergente da Nota Fiscal: [Param: xxx)]      |
 
 ![Image](assets/image_000045_33d8d844951eae8026d2b4be9cff62a1204136f1a2551c7cbacde273af8f5797.png)
 
@@ -1107,16 +1113,6 @@ NF-e ABI - Anexo I, Leiaute e Regras de Validação
 | 7E10-10     | Código do Município do Destinatário diverge do cadastrado na UF |   482 | Rej.     | Rejeição: Código do Município do Destinatário diverge do cadastrado na UF |
 
 ![Image](assets/image_000047_33d8d844951eae8026d2b4be9cff62a1204136f1a2551c7cbacde273af8f5797.png)
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfeabi/manuais/moc-nfeabi-anexo-i-leiaute-e-rv-v2-00/source.json)
-- [Dados normalizados](../../../../normalized/nfeabi/manuais/moc-nfeabi-anexo-i-leiaute-e-rv-v2-00/normalized.json)
-- [Changelog](../../../../changelog/nfeabi/manuais/moc-nfeabi-anexo-i-leiaute-e-rv-v2-00.md)
-- [Proveniência resumida](../../../../sources/provenance/moc-nfeabi-anexo-i-leiaute-e-rv-v2-00.json)
-
 
 ## Documentos relacionados
-
-- [anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e](../../../nfe/manuais/anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e/document.md)
-- [moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k](../../../nfag/manuais/moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k/document.md)
-- [moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f](../../../nfgas/manuais/moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f/document.md)
+_Nenhum documento relacionado conhecido._

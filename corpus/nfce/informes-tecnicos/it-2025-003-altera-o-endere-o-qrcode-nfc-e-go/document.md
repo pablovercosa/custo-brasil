@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T20:44:53.350585+00:00"
 status: "published"
 type: "informe_tecnico"
 ---
-![Image](assets/image_000000_7a5c608ebf2476aa4427ba5891caf57dabe8e756de4dd3585ae5bdc5eb507aee.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfce/informes-tecnicos/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go/source.json)
+- [Dados normalizados](../../../../normalized/nfce/informes-tecnicos/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go/normalized.json)
+- [Changelog](../../../../changelog/nfce/informes-tecnicos/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go.md)
+- [Proveniência resumida](../../../../sources/provenance/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go.json)
 
 ## Nota Fiscal de Consumidor Eletrônica
 
@@ -69,19 +75,13 @@ Não há alteração na RV, apenas mudou a URL de Goiás utilizada para fazer a 
 
 | Campo- Seq   |   Modelo | Regra de Validação                                                                                                                                                                                                                                                                                                                                                                    | Aplic .   |   Msg | Efeito   | Descrição Erro                                                               |
 |--------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|-------|----------|------------------------------------------------------------------------------|
-| ZX02-20      |       65 | Endereço do site da UF para a Consulta via QR-Code difere do previsto. Nota: O uso diferenciado de maiúsculas ou minúsculas não deve ser considerado na validação. Observação 1: Regra de Validação opcional até 01/11/2016, a critério da UF. Observação 2: Para consultar as URLs por UF utilizadas no QR Code, acesse: http://nfce.encat.org/desenvolvedo r/qrcode/" (NT 2015.002) | Obrig .   |   395 | Rej.     | Rejeição: Endereço do site da UF da Consulta via QR-Code diverge do previsto |
+| ZX02-20      |       65 | Endereço do site da UF para a Consulta via QR-Code difere do previsto. Nota: O uso diferenciado de maiúsculas ou minúsculas não deve ser considerado na validação. Observação 1: Regra de Validação opcional até 01/11/2016, a critério da UF. Observação 2: Para consultar as URLs por UF utilizadas no QR Code, acesse: http://nfce.encat.org/desenvolvedo r/qrcode/" ([NT 2015.002](../../../nfe/notas-tecnicas/nt-2015-002-v141-23-08-2016/document.md)) | Obrig .   |   395 | Rej.     | Rejeição: Endereço do site da UF da Consulta via QR-Code diverge do previsto |
 
 ## 2.2 - Fluxograma da alteração
 
 ## Fluxo temporal da alteracao da URL da consulta QRCode da NFC-e em Goias
 
 ![Image](assets/image_000005_fc3ea1cbba907e745691e5ca3faeb301f9824ac9e46bd451dd17d689d650e9f7.png)
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfce/informes-tecnicos/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go/source.json)
-- [Dados normalizados](../../../../normalized/nfce/informes-tecnicos/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go/normalized.json)
-- [Changelog](../../../../changelog/nfce/informes-tecnicos/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go.md)
-- [Proveniência resumida](../../../../sources/provenance/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go.json)
 
 ## Documentos relacionados
 _Nenhum documento relacionado conhecido._

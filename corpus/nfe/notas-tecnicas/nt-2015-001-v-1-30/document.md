@@ -8,9 +8,13 @@ converted_at_utc: "2026-06-25T19:27:21.883056+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_0d9e0044de052479161c8a2efe305011012a0178dbe588003ca2bf0bab01f436.png)
 
-![Image](assets/image_000001_ecd7edcedd3ab0751ba73e1eade3f8bb0bcc61ba41d0c9bf599e340d20f63f7a.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2015-001-v-1-30/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2015-001-v-1-30/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2015-001-v-1-30.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2015-001-v-1-30.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -267,7 +271,7 @@ Esta NT define o layout e a operacionalização da petição da prorrogação da
 - 2.1.6. Item 5.2 - Descrição do campo R20:
 - 2.1.7. Item 5.11 - Inclusão de mensagens:
 - 2.1.8. Item 6 - Pedido de Cancelamento da NF-e versus Evento de Pedido de Prorrogação de Prazo
-- 2.1.9. Item 7 - A tabela do item 2 (Web Service - NFeDistribuicaoDFe) da NT2014.002\_v1.01:
+- 2.1.9. Item 7 - A tabela do item 2 (Web Service - NFeDistribuicaoDFe) da [NT2014.002](../nt2014-002-v1-30-wsnfedistribuicaodfe/document.md)\_v1.01:
 
 ## De:
 
@@ -1498,7 +1502,7 @@ Método:
 
 nfeDistDFeInteresse
 
-A tabela do item Web Service - NFeDistribuicaoDFe da NT2014.002 fica acrescida com estes eventos.
+A tabela do item Web Service - NFeDistribuicaoDFe da [NT2014.002](../nt2014-002-v1-30-wsnfedistribuicaodfe/document.md) fica acrescida com estes eventos.
 
 | Documento                                                | Emitente   | Destinatário   | Transportador   | Terceiros   |
 |----------------------------------------------------------|------------|----------------|-----------------|-------------|
@@ -1514,15 +1518,6 @@ A tabela do item Web Service - NFeDistribuicaoDFe da NT2014.002 fica acrescida c
 | Evento Fisco de Resposta ao Cancelamento de Pedido de Prorrogação 2º prazo | Sim   | Sim   | Não   | Não   |
 
 ![Image](assets/image_000079_464a6728e91a6edb186cbd0444b1abbdfeb28a3c8a9106b56289a42a7742ecb2.png)
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2015-001-v-1-30/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2015-001-v-1-30/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2015-001-v-1-30.md)
-- [Proveniência resumida](../../../../sources/provenance/nt-2015-001-v-1-30.json)
-
 
 ## Documentos relacionados
-
-- [nt-2015-002-v141-23-08-2016](../nt-2015-002-v141-23-08-2016/document.md)
-- [nt-2015-003-v194](../nt-2015-003-v194/document.md)
+_Nenhum documento relacionado conhecido._

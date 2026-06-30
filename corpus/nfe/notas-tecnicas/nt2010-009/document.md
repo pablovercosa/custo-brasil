@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T14:50:20.112871+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_08b68d3191e0bd1152ffff6b91641bd1818a89e9224becb8d80d9e9070ba40e0.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2010-009/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2010-009/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2010-009.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2010-009.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -95,16 +101,6 @@ Esta mensagem será  rejeitada pelo Web Service da SEFAZ com motivo: Rejeição:
 Todos os caracteres de ed caracteres de edição devem ser eliminados como segue: ão devem ser eliminados como segue:
 
 &lt;?xml version="1.0" encoding="UTF ttp://www.portalfiscal.inf.br/nfe" versao=" pAmb&gt;&lt;cUF&gt;35&lt;/cUF&gt;&lt;xServ&gt;STATUS&lt;/xServ&gt;&lt;/consStatServ " encoding="UTF-8"?&gt;&lt;consStatServ xmlns="h rtalfiscal.inf.br/nfe" versao="2.00"&gt;&lt;tpAmb&gt;2&lt;/t pAmb&gt;&lt;cUF&gt;35&lt;/cUF&gt;&lt;xServ&gt;STATUS&lt;/xServ&gt;&lt;/consStatServ 8"?&gt;&lt;consStatServ xmlns="h "&gt;&lt;tpAmb&gt;2&lt;/t pAmb&gt;&lt;cUF&gt;35&lt;/cUF&gt;&lt;xServ&gt;STATUS&lt;/xServ&gt;&lt;/consStatServ&gt;
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2010-009/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2010-009/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2010-009.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2010-009.json)
-
 
 ## Documentos relacionados
-
-- [nota-t-cnica-2010-002-publicada-em-29-11-2010](../nota-t-cnica-2010-002-publicada-em-29-11-2010/document.md)
-- [nota-t-cnica-2010-005-publicada-em-06-07-2010](../nota-t-cnica-2010-005-publicada-em-06-07-2010/document.md)
-- [nota-t-cnica-2010-009-publicada-em-10-12-2010](../nota-t-cnica-2010-009-publicada-em-10-12-2010/document.md)
+_Nenhum documento relacionado conhecido._

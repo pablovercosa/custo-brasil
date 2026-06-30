@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T15:25:44.298914+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_70393e623d5c208a50c9b568d3f5d7be90ba2c1a98cdedb2679b2a57092bf088.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2011-004/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2011-004/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2011-004.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2011-004.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -326,9 +332,9 @@ Alteração realizada para permitir a venda de peças e material de consumo para
 
 ![Image](assets/image_000017_480f1e110f277b96e1d2411d017610051027f8bd104912ff759438b9cca06118.png)
 
-| GE02.3   | E02   | Se tpAmb (B24) = 2: o CNPJ (E02) deve ser 99.999.999/0001-91 ou ter conteúdovazio (NT 2011.002)   | Facult.   |   597 | Rej.   | Rejeição: NF-e emitida em ambiente de homologação com CNPJ do destinatário diferente 99999999000191   |
+| GE02.3   | E02   | Se tpAmb (B24) = 2: o CNPJ (E02) deve ser 99.999.999/0001-91 ou ter conteúdovazio ([NT 2011.002](../nt2011-002/document.md))   | Facult.   |   597 | Rej.   | Rejeição: NF-e emitida em ambiente de homologação com CNPJ do destinatário diferente 99999999000191   |
 |----------|-------|---------------------------------------------------------------------------------------------------|-----------|-------|--------|-------------------------------------------------------------------------------------------------------|
-| GE17.2   | E17   | Se tpAmb (B24) = 2: a IE (E17) deve ter conteúdo vazio (NT 2011.002)                              | Facult.   |   599 | Rej.   | Rejeição: NF-e emitida em ambiente de homologação com IE do destinatário diferente de vazio           |
+| GE17.2   | E17   | Se tpAmb (B24) = 2: a IE (E17) deve ter conteúdo vazio ([NT 2011.002](../nt2011-002/document.md))                              | Facult.   |   599 | Rej.   | Rejeição: NF-e emitida em ambiente de homologação com IE do destinatário diferente de vazio           |
 
 ## 6.2 Regras de validação da Carta de Correção eletrônica
 
@@ -632,16 +638,6 @@ IE do Transportador informada e diferente de 'ISENTO':
 - Item 8.6.9 - b, linha H05, coluna RV: eliminar texto 'vide Anexo I -';
 - Item 4.2: trocar para '... ser consultada pelo número de Reg istro de DPEC ...';
 - Item 8.6.10: eliminar texto 'vide Anexo I -';
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2011-004/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2011-004/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2011-004.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2011-004.json)
-
 
 ## Documentos relacionados
-
-- [nota-t-cnica-2011-001-publicada-em-25-02-2011](../nota-t-cnica-2011-001-publicada-em-25-02-2011/document.md)
-- [nota-t-cnica-2011-005-publicada-em-21-10-2011](../nota-t-cnica-2011-005-publicada-em-21-10-2011/document.md)
-- [nota-t-cnica-2011-007-publicada-em-26-12-2011](../nota-t-cnica-2011-007-publicada-em-26-12-2011/document.md)
+_Nenhum documento relacionado conhecido._

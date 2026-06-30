@@ -8,13 +8,17 @@ converted_at_utc: "2026-06-25T17:06:36.591784+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_a3ff6632ccdedec923f4e64a4ff70ed052836443e56a0385ed01a1e9c124b328.png)
 
-![Image](assets/image_000001_5797ae04b720524dc668d2277f2a92110f8cf0f73a52e9294a339a4c62a1f43a.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2021-003-v1-40-valida-o-gtin-grupo-iv/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2021-003-v1-40-valida-o-gtin-grupo-iv/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2021-003-v1-40-valida-o-gtin-grupo-iv.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2021-003-v1-40-valida-o-gtin-grupo-iv.json)
 
 ## Sistema Nota Fiscal Eletrônica
 
-Nota Técnica 2021.003 Validação GTIN Substitui a NT 2017.001
+Nota Técnica 2021.003 Validação GTIN Substitui a [NT 2017.001](../nt-2017-001-v1-50/document.md)
 
 ![Image](assets/image_000002_3ca44402c054ec6c88f3531d2f556d05a94a3f74afd405aee08340b4687985ea.png)
 
@@ -97,9 +101,9 @@ Os Ajustes SINIEF citados também estipulam que os sistemas autorizadores da NF-
 
 Estes Ajustes SINIEF podem ser encontrados seguintes endereços: https://www.confaz.fazenda.gov.br/legislacao/ajustes/2005/AJ007\_05 https://www.confaz.fazenda.gov.br/legislacao/ajustes/2016/AJ\_019\_16
 
-Esta matéria já havia sido tratada na Nota Técnica 2017.001 e suas versões. A presente Nota Técnica substitui a NT 2017.001, em virtude de as disposições daquela NT já terem sido recepcionadas na Versão  7.0  do  Manual  de  Orientação  do  Contribuinte  -  MOC,  e  seus  anexos,  publicado  pelo  Ato COTEPE/ICMS 69, de 26 de novembro de 2020.
+Esta matéria já havia sido tratada na Nota Técnica 2017.001 e suas versões. A presente Nota Técnica substitui a [NT 2017.001](../nt-2017-001-v1-50/document.md), em virtude de as disposições daquela NT já terem sido recepcionadas na Versão  7.0  do  Manual  de  Orientação  do  Contribuinte  -  MOC,  e  seus  anexos,  publicado  pelo  Ato COTEPE/ICMS 69, de 26 de novembro de 2020.
 
-As regras de validação que estavam documentadas como de implementação futura na NT2017.001 serão ativadas em duas etapas, conforme disposto no Capítulo 4.
+As regras de validação que estavam documentadas como de implementação futura na [NT2017.001](../nt-2017-001-v1-50/document.md) serão ativadas em duas etapas, conforme disposto no Capítulo 4.
 
 ## 1.1  Alterações introduzidas na Versão 1.10
 
@@ -260,8 +264,8 @@ Para facilitar a referência dentro desta NT foram copiadas neste capítulo as d
 |   # | ID   | Campo    | Descrição                                                                                    | Ele   | Pai   | Tipo   | Ocor.   | Tam.           | Observação                                                                                                                                                                                                                                                                                                                                                                        |
 |-----|------|----------|----------------------------------------------------------------------------------------------|-------|-------|--------|---------|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 100 | I01  | prod     | Detalhamento de Produtos e Serviços                                                          | G     | H01   |        | 1-1     |                |                                                                                                                                                                                                                                                                                                                                                                                   |
-| 102 | I03  | cEAN     | GTIN (Global Trade Item Number) do produto, antigo código EAN ou código de barras            | E     | I01   | C      | 1-1     | 0,8,12, 13, 14 | Preencher com o código GTIN-8, GTIN-12, GTIN-13 ou GTIN- 14 (antigos códigos EAN, UPC e DUN-14) Para produtos que não possuem código de barras com GTIN, deve ser informado o literal 'SEM GTIN'; (atualizado NT 2017/001)                                                                                                                                                        |
-| 111 | I12  | cEANTrib | GTIN (Global Trade Item Number) da unidade tributável, antigo código EAN ou código de barras | E     | I01   | C      | 1-1     | 0,8,12, 13, 14 | Preencher com o código GTIN-8, GTIN-12, GTIN-13 ou GTIN- 14 (antigos códigos EAN, UPC e DUN-14) da unidade tributável do produto. O GTIN da unidade tributável deve corresponder àquele da menor unidade comercializável identificada por código GTIN. Para produtos que não possuem código de barras com GTIN, deve ser informado o literal "SEM GTIN'; (Atualizado NT 2017/001) |
+| 102 | I03  | cEAN     | GTIN (Global Trade Item Number) do produto, antigo código EAN ou código de barras            | E     | I01   | C      | 1-1     | 0,8,12, 13, 14 | Preencher com o código GTIN-8, GTIN-12, GTIN-13 ou GTIN- 14 (antigos códigos EAN, UPC e DUN-14) Para produtos que não possuem código de barras com GTIN, deve ser informado o literal 'SEM GTIN'; (atualizado [NT 2017/001](../nt-2017-001-v1-50/document.md))                                                                                                                                                        |
+| 111 | I12  | cEANTrib | GTIN (Global Trade Item Number) da unidade tributável, antigo código EAN ou código de barras | E     | I01   | C      | 1-1     | 0,8,12, 13, 14 | Preencher com o código GTIN-8, GTIN-12, GTIN-13 ou GTIN- 14 (antigos códigos EAN, UPC e DUN-14) da unidade tributável do produto. O GTIN da unidade tributável deve corresponder àquele da menor unidade comercializável identificada por código GTIN. Para produtos que não possuem código de barras com GTIN, deve ser informado o literal "SEM GTIN'; (Atualizado [NT 2017/001](../nt-2017-001-v1-50/document.md)) |
 
 ![Image](assets/image_000012_800c3855b17ee5bdc1d61da16d27e15da1c05252ed4e1e1ed0ee74c4fb03dbb1.png)
 
@@ -269,7 +273,7 @@ Para facilitar a referência dentro desta NT foram copiadas neste capítulo as d
 
 ## 4.1  Ativação das Regras de Validação
 
-As regras de validação do GTIN serão implantadas por etapas, conforme plano de implantação a seguir. A etapa inicial já ocorreu, com as exceções que podem ser vistas na Tabela 2, e corresponde às regras que foram ativadas em função do disposto na versão 1.10 da NT 2017.001.
+As regras de validação do GTIN serão implantadas por etapas, conforme plano de implantação a seguir. A etapa inicial já ocorreu, com as exceções que podem ser vistas na Tabela 2, e corresponde às regras que foram ativadas em função do disposto na versão 1.10 da [NT 2017.001](../nt-2017-001-v1-50/document.md).
 
 - Etapa 1: Conforme prazos previstos no 'Histórico de Alterações / Cronograma', documentado no início desta NT.
 - o Regras I03-30, I12-60, U01-30, 9I03-10 e 9I12-10
@@ -290,18 +294,18 @@ A respeito da Tabela 2 valem as seguintes definições:
 
 ## 4.2  I. Produtos e Serviços
 
-Embora as regras de validação que obrigam a informação dos campos cEAN e cEANTrib (I03-30, I12-60) fizessem inicialmente parte da etapa inicial implantada na versão 1.10 da NT 2017.001, foram posteriormente desativadas devido a problemas operacionais. Estas regras voltarão a ser ativadas na Etapa 1 do plano de implantação. As demais regras foram ativadas na etapa inicial.
+Embora as regras de validação que obrigam a informação dos campos cEAN e cEANTrib (I03-30, I12-60) fizessem inicialmente parte da etapa inicial implantada na versão 1.10 da [NT 2017.001](../nt-2017-001-v1-50/document.md), foram posteriormente desativadas devido a problemas operacionais. Estas regras voltarão a ser ativadas na Etapa 1 do plano de implantação. As demais regras foram ativadas na etapa inicial.
 
 | Campo-Seq   | Modelo   | Regra de Validação                                                                                                                                                                                                                                                                                                     | Aplic.   |   Msg | Efeito   | Descrição Erro                                                                       |
 |-------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------|----------|--------------------------------------------------------------------------------------|
-| I03-10      | 55/65    | Se informado GTIN (tag: cEAN) <> 'SEM GTIN' ou Nulo): - cEAN com dígito de controle inválido Observação : Cálculo do dígito verificador em www.gs1.org/check-digit-calculator. (NT 2017.001)                                                                                                                           | Obrig.   |   611 | Rej.     | Rejeição: GTIN (cEAN) inválido [nItem:999]                                           |
-| I03-20      | 55/65    | Se informado GTIN (tag: cEAN) <> 'SEM GTIN' ou Nulo): - Prefixo GS1 inválido, conforme tabela de prefixos publicada no Portal da NF-e Observação : Validação efetuada conforme prefixos e orientações constantes na 'Tabela Prefixo GS1' publicada no Portal Nacional da NF-e. (NT 2017.001)                           | Obrig.   |   882 | Rej.     | Rejeição: GTIN (cEAN) com prefixo inválido [nItem:999]                               |
-| I03-30      | 55/65    | GTIN (tag: cEAN) em branco, campo sem informação. Observação 1: Para produtos que não possuem GTIN, utilizar a informação de "SEM GTIN" (NT 2017.001) (NT 2021.003, Etapa 1)                                                                                                                                           | Obrig.   |   883 | Rej.     | Rejeição: GTIN (cEAN) sem informação [nItem: 999]                                    |
-| I12-10      | 55/65    | Se informado GTIN da unidade tributável (tag: cEANTrib) <> 'SEM GTIN' ou Nulo): - cEANTrib com dígito de controle inválido Observação : Cálculo do dígito verificador em www.gs1.org/check-digit-calculator (NT 2017.001)                                                                                              | Obrig.   |   612 | Rej.     | Rejeição: GTIN da unidade tributável (cEANTrib) inválido [nItem:999]                 |
-| I12-20      | 55/65    | Se informado GTIN da unidade tributável (tag: cEANTrib) <> 'SEM GTIN' ou Nulo): - Prefixo GS1 inválido, conforme tabela de prefixos publicada no Portal da NF-e Observação : Validação efetuada conforme prefixos e orientações constantes na 'Tabela Prefixo GS1' publicada no Portal Nacional da NF-e. (NT 2017.001) | Obrig.   |   884 | Rej.     | Rejeição: GTIN da unidade tributável (cEANTrib) com prefixo inválido [nItem:999]     |
-| I12-30      | 55/65    | Informado GTIN específico (cEAN<>'SEM GTIN' ou Nulo) e informado GTIN da unidade tributável igual a "SEM GTIN" ou Nulo (cEANTrib='SEM GTIN' ou Nulo) (NT 2017.001)                                                                                                                                                     | Obrig.   |   885 | Rej.     | Rejeição: GTIN informado, mas não informado o GTIN da unidade tributável [nItem:999] |
-| I12-40      | 55/65    | Informado GTIN da unidade tributável específico (cEANTrib<>'SEM GTIN' ou Nulo) e informado GTIN igual a "SEM GTIN" ou Nulo (cEAN='SEM GTIN' ou Nulo) (NT 2017.001)                                                                                                                                                     | Obrig.   |   886 | Rej.     | Rejeição: GTIN da unidade tributável informado, mas não informado o GTIN [nItem:999] |
-| I12-60      | 55/65    | GTIN da unidade tributável (tag: cEANTrib) em branco, campo sem informação. Observação: Para produtos que não possuem GTIN da unidade tributável, utilizar a informação de "SEM GTIN". (NT 2017.001) (NT 2021.003, Etapa 1)                                                                                            | Obrig.   |   888 | Rej.     | Rejeição: GTIN da unidade tributável (cEANTrib) sem informação [nItem:999]           |
+| I03-10      | 55/65    | Se informado GTIN (tag: cEAN) <> 'SEM GTIN' ou Nulo): - cEAN com dígito de controle inválido Observação : Cálculo do dígito verificador em www.gs1.org/check-digit-calculator. ([NT 2017.001](../nt-2017-001-v1-50/document.md))                                                                                                                           | Obrig.   |   611 | Rej.     | Rejeição: GTIN (cEAN) inválido [nItem:999]                                           |
+| I03-20      | 55/65    | Se informado GTIN (tag: cEAN) <> 'SEM GTIN' ou Nulo): - Prefixo GS1 inválido, conforme tabela de prefixos publicada no Portal da NF-e Observação : Validação efetuada conforme prefixos e orientações constantes na 'Tabela Prefixo GS1' publicada no Portal Nacional da NF-e. ([NT 2017.001](../nt-2017-001-v1-50/document.md))                           | Obrig.   |   882 | Rej.     | Rejeição: GTIN (cEAN) com prefixo inválido [nItem:999]                               |
+| I03-30      | 55/65    | GTIN (tag: cEAN) em branco, campo sem informação. Observação 1: Para produtos que não possuem GTIN, utilizar a informação de "SEM GTIN" ([NT 2017.001](../nt-2017-001-v1-50/document.md)) (NT 2021.003, Etapa 1)                                                                                                                                           | Obrig.   |   883 | Rej.     | Rejeição: GTIN (cEAN) sem informação [nItem: 999]                                    |
+| I12-10      | 55/65    | Se informado GTIN da unidade tributável (tag: cEANTrib) <> 'SEM GTIN' ou Nulo): - cEANTrib com dígito de controle inválido Observação : Cálculo do dígito verificador em www.gs1.org/check-digit-calculator ([NT 2017.001](../nt-2017-001-v1-50/document.md))                                                                                              | Obrig.   |   612 | Rej.     | Rejeição: GTIN da unidade tributável (cEANTrib) inválido [nItem:999]                 |
+| I12-20      | 55/65    | Se informado GTIN da unidade tributável (tag: cEANTrib) <> 'SEM GTIN' ou Nulo): - Prefixo GS1 inválido, conforme tabela de prefixos publicada no Portal da NF-e Observação : Validação efetuada conforme prefixos e orientações constantes na 'Tabela Prefixo GS1' publicada no Portal Nacional da NF-e. ([NT 2017.001](../nt-2017-001-v1-50/document.md)) | Obrig.   |   884 | Rej.     | Rejeição: GTIN da unidade tributável (cEANTrib) com prefixo inválido [nItem:999]     |
+| I12-30      | 55/65    | Informado GTIN específico (cEAN<>'SEM GTIN' ou Nulo) e informado GTIN da unidade tributável igual a "SEM GTIN" ou Nulo (cEANTrib='SEM GTIN' ou Nulo) ([NT 2017.001](../nt-2017-001-v1-50/document.md))                                                                                                                                                     | Obrig.   |   885 | Rej.     | Rejeição: GTIN informado, mas não informado o GTIN da unidade tributável [nItem:999] |
+| I12-40      | 55/65    | Informado GTIN da unidade tributável específico (cEANTrib<>'SEM GTIN' ou Nulo) e informado GTIN igual a "SEM GTIN" ou Nulo (cEAN='SEM GTIN' ou Nulo) ([NT 2017.001](../nt-2017-001-v1-50/document.md))                                                                                                                                                     | Obrig.   |   886 | Rej.     | Rejeição: GTIN da unidade tributável informado, mas não informado o GTIN [nItem:999] |
+| I12-60      | 55/65    | GTIN da unidade tributável (tag: cEANTrib) em branco, campo sem informação. Observação: Para produtos que não possuem GTIN da unidade tributável, utilizar a informação de "SEM GTIN". ([NT 2017.001](../nt-2017-001-v1-50/document.md)) (NT 2021.003, Etapa 1)                                                                                            | Obrig.   |   888 | Rej.     | Rejeição: GTIN da unidade tributável (cEANTrib) sem informação [nItem:999]           |
 
 ![Image](assets/image_000015_800c3855b17ee5bdc1d61da16d27e15da1c05252ed4e1e1ed0ee74c4fb03dbb1.png)
 
@@ -319,7 +323,7 @@ Eliminada a regra 7I03-10, por duplicidade de objeto com regra I03-10.
 
 | Campo-Seq   | Modelo   | Regra de Validação                                                                                                                                            | Aplic.   |   Msg | Efeito   | Descrição Erro                                                         |
 |-------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------|----------|------------------------------------------------------------------------|
-| 7I03-10     | 55/65    | Se não informado GTIN (cEAN=Nulo). Observação : Para produtos que não possuem GTIN, utilizar a informação de GTIN" (NT 2017.001) (eliminada pela NT 2021.003) | Obrig.   |   889 | Rej.     | Rejeição: Obrigatória a informação do GTIN para o produto [nItem: 999] |
+| 7I03-10     | 55/65    | Se não informado GTIN (cEAN=Nulo). Observação : Para produtos que não possuem GTIN, utilizar a informação de GTIN" ([NT 2017.001](../nt-2017-001-v1-50/document.md)) (eliminada pela NT 2021.003) | Obrig.   |   889 | Rej.     | Rejeição: Obrigatória a informação do GTIN para o produto [nItem: 999] |
 
 ## 4.5  9. Banco de Dados: Cadastro Centralizado de GTIN (CCG)
 
@@ -1147,12 +1151,6 @@ Nota Técnica 2021.003 - Validação de GTIN
 |  7.127 | Venda de produção do estabelecimento sob o regime de drawback                                                                                        |
 
 ![Image](assets/image_000050_800c3855b17ee5bdc1d61da16d27e15da1c05252ed4e1e1ed0ee74c4fb03dbb1.png)
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2021-003-v1-40-valida-o-gtin-grupo-iv/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2021-003-v1-40-valida-o-gtin-grupo-iv/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2021-003-v1-40-valida-o-gtin-grupo-iv.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2021-003-v1-40-valida-o-gtin-grupo-iv.json)
 
 ## Documentos relacionados
 _Nenhum documento relacionado conhecido._

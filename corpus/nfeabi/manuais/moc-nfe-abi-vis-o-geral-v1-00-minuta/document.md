@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T17:28:42.202158+00:00"
 status: "published"
 type: "manual"
 ---
-![Image](assets/image_000000_86ee764c3f75abd5e2567413878780f648d091693920cd927b9c4d31dfcab951.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta/source.json)
+- [Dados normalizados](../../../../normalized/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta/normalized.json)
+- [Changelog](../../../../changelog/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta.md)
+- [Proveniência resumida](../../../../sources/provenance/moc-nfe-abi-vis-o-geral-v1-00-minuta.json)
 
 ## Sistema Nota Fiscal Eletrônica
 
@@ -172,7 +178,7 @@ Este documento tem por objetivo a definição das especificações e critérios 
 
 O Manual de Orientação do Contribuinte é composto pelos seguintes documentos:
 
-- MOC - Visão Geral NF-e ABI
+- [MOC - Visão Geral](../../../nfe/manuais/manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e/document.md) NF-e ABI
 - MOC - Anexo I - Leiaute e Regras de Validação da NF-e ABI
 - MOC - Anexo II - Manual de Especificações Técnicas do DANFE-ABI e Código de Barras
 
@@ -192,7 +198,7 @@ A  NF-e  de  ABI  é  um  documento  de  existência  exclusivamente  digital,  
 
 ## 2.2.2. DANFE-ABI
 
-O DANFE-ABI (Documento Auxiliar da Nota Fiscal Eletrônica) é um documento fiscal auxiliar, que pode ser  impresso  em  papel;  sua  especificação  e  modelos  de  leiaute  encontram-se  disponíveis  no documento MOC - Anexo II - Manual de Especificações Técnicas do DANFE e Código de Barras .
+O DANFE-ABI (Documento Auxiliar da Nota Fiscal Eletrônica) é um documento fiscal auxiliar, que pode ser  impresso  em  papel;  sua  especificação  e  modelos  de  leiaute  encontram-se  disponíveis  no documento [MOC - Anexo II - Manual de Especificações Técnicas do DANFE e Código de Barras](../../../nfe/manuais/anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras/document.md) .
 
 O DANFE-ABI não é nota fiscal, nem a substitui, servindo apenas como instrumento auxiliar para consulta da NF-e ABI, pois contém a chave de acesso da NF-e ABI, que permite ao detentor desse documento  confirmar  a  efetiva  existência  de  uma  NF-e  que  tenha  tido  seu  uso  regularmente autorizado.
 
@@ -1189,12 +1195,6 @@ A Consulta Completa, individualmente realizada através da Internet nos portais 
 ## 6.2. Consulta Resumida da NF-e ABI
 
 Para as situações não enquadradas na Consulta Completa, o acesso aos dados da NF-e ABI só será possível através da consulta resumida.
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta/source.json)
-- [Dados normalizados](../../../../normalized/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta/normalized.json)
-- [Changelog](../../../../changelog/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta.md)
-- [Proveniência resumida](../../../../sources/provenance/moc-nfe-abi-vis-o-geral-v1-00-minuta.json)
 
 ## Documentos relacionados
 _Nenhum documento relacionado conhecido._

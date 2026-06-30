@@ -11,6 +11,14 @@ created_at: 2025-06-26
 updated_at: 2025-06-26
 ---
 
+## Metadados
+
+### Fontes normativas
+- [nt2020-002v-1-01-espec-fica-para-ipi](corpus/nfe/notas-tecnicas/nt2020-002v-1-01-espec-fica-para-ipi/document.md)
+
+### Fontes normativas
+- [nt2020-002v-1-01-espec-fica-para-ipi](corpus/nfe/notas-tecnicas/nt2020-002v-1-01-espec-fica-para-ipi/document.md)
+
 # IPI — Cálculo Básico
 
 ## Visão geral
@@ -20,7 +28,7 @@ O IPI (Imposto sobre Produtos Industrializados) é um imposto federal não cumul
 ## Base legal
 
 - Decreto 7.212/2010 (RIPI)
-- NT 2020.002 — especificações para IPI
+- [NT 2020.002](../../corpus/nfe/notas-tecnicas/nt2020-002v-1-01-espec-fica-para-ipi/document.md) — especificações para IPI
 - Tabela de Incidência do IPI (TIPI)
 
 ## Variáveis

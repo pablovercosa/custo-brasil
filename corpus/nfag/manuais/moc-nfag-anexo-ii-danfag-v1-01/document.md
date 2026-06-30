@@ -8,13 +8,13 @@ converted_at_utc: "2026-06-25T19:30:09.837089+00:00"
 status: "published"
 type: "manual"
 ---
-![Image](assets/image_000000_0cdc0c4a9d695a094e9e7f1071a36f09e2ed4199fe5b93f66d809561d5819202.png)
 
-MINUTA Projeto Nota Fiscal da Água e Saneamento Eletrônica Manual de Orientação do Contribuinte Anexo II - DANFAG Versão 1.01 - Janeiro 2026
-
-![Image](assets/image_000001_5b6ef69e95bccaf91a1f4b379700d7711729f3ed3c5d577d7953639608cb5175.png)
-
-![Image](assets/image_000002_3adf4499682e3cdaa9cc1e70c9d120cf2b8610cf2d3d617fd1e7cf8155d36ffc.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfag/manuais/moc-nfag-anexo-ii-danfag-v1-01/source.json)
+- [Dados normalizados](../../../../normalized/nfag/manuais/moc-nfag-anexo-ii-danfag-v1-01/normalized.json)
+- [Changelog](../../../../changelog/nfag/manuais/moc-nfag-anexo-ii-danfag-v1-01.md)
+- [Proveniência resumida](../../../../sources/provenance/moc-nfag-anexo-ii-danfag-v1-01.json)
 
 ## Sumário
 
@@ -81,7 +81,7 @@ MINUTA Histórico de Alterações / Cronograma
 
 Este  documento  é  parte integrante do Manual de Orientação do Contribuinte (MOC) e tem por objetivo a definição das especificações técnicas do Documento Auxiliar da Nota Fiscal da Água e Saneamento Eletrônica - DANFAG.
 
-MINUTA O Manual de Orientação do Contribuinte 1.00a é composto pelos seguintes documentos: ● MOC - Visão Geral ● MOC - Anexo I - Leiaute e Regras de Validação da NFAG ● MOC - Anexo II - Manual de Especificações Técnicas do DANFAG
+MINUTA O Manual de Orientação do Contribuinte 1.00a é composto pelos seguintes documentos: ● [MOC - Visão Geral](../../../nfe/manuais/manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e/document.md) ● MOC - Anexo I - Leiaute e Regras de Validação da NFAG ● MOC - Anexo II - Manual de Especificações Técnicas do DANFAG
 
 ![Image](assets/image_000005_530ba51d1cb99a7207d90b60e1c8b6a2de9b69799f295e09d8dc48dbc75b7967.png)
 
@@ -285,14 +285,6 @@ MINUTA
 ![Image](assets/image_000030_e2b103055be6643989270016c7322e4497af13d0974606afa7fdcad5faec3cd4.png)
 
 ![Image](assets/image_000031_530ba51d1cb99a7207d90b60e1c8b6a2de9b69799f295e09d8dc48dbc75b7967.png)
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfag/manuais/moc-nfag-anexo-ii-danfag-v1-01/source.json)
-- [Dados normalizados](../../../../normalized/nfag/manuais/moc-nfag-anexo-ii-danfag-v1-01/normalized.json)
-- [Changelog](../../../../changelog/nfag/manuais/moc-nfag-anexo-ii-danfag-v1-01.md)
-- [Proveniência resumida](../../../../sources/provenance/moc-nfag-anexo-ii-danfag-v1-01.json)
-
 
 ## Documentos relacionados
-
-- [moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k](../moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k/document.md)
+_Nenhum documento relacionado conhecido._

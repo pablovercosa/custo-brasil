@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T14:53:16.478814+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_c4e6daffbc318bd841fc00aef9f87a94e2b919c94e64e8100d060f4f9064a90b.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2009-001/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2009-001/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2009-001.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2009-001.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -106,12 +112,6 @@ alterado de: <xs:attribute name="Id" type="xs:ID" use="required"/> para: <xs:att
 ```
 consDPEC_v1.00.xsd para consDPEC_v1.01; envDPEC_v1.00.xsd para envDPEC_v1.01; retConsDPEC_v1.00.xsd para retConsDPEC_v1.01.xsd; retDPEC_v1.00.xsd para retDPEC_v1.01.xsd; leiauteDPEC_v1.00 para leiauteDPEC_v1.01.xsd;
 ```
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2009-001/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2009-001/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2009-001.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2009-001.json)
 
 ## Documentos relacionados
 _Nenhum documento relacionado conhecido._

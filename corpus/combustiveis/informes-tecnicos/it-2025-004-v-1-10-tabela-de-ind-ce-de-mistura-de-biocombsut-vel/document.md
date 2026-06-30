@@ -8,13 +8,13 @@ converted_at_utc: "2026-06-25T20:43:40.568497+00:00"
 status: "published"
 type: "informe_tecnico"
 ---
-IT 2025.004 v.1.10
 
-Versão 1.00
-
-![Image](assets/image_000000_6415b5e045f5d2f1aac61b2b64ec34dc962f2af908900f6ab181bb1cc5e1461e.png)
-
-![Image](assets/image_000001_db08fa15a00968fff22d000a184a267cdabc3fb682182138dc40f2f9c03db2aa.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/combustiveis/informes-tecnicos/it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel/source.json)
+- [Dados normalizados](../../../../normalized/combustiveis/informes-tecnicos/it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel/normalized.json)
+- [Changelog](../../../../changelog/combustiveis/informes-tecnicos/it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel.md)
+- [Proveniência resumida](../../../../sources/provenance/it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel.json)
 
 ## Projeto Reforma Tributária do Consumo
 
@@ -100,12 +100,6 @@ Atualização dos percentuais obrigatórios de adição de etanol anidro à gaso
 - 25% para Gasolina Premium.
 
 ![Image](assets/image_000008_505d76c46d6e2e33cd477595be3ec966f75ec448aa49ab4bc7b588cbaa28def4.png)
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/combustiveis/informes-tecnicos/it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel/source.json)
-- [Dados normalizados](../../../../normalized/combustiveis/informes-tecnicos/it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel/normalized.json)
-- [Changelog](../../../../changelog/combustiveis/informes-tecnicos/it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel.md)
-- [Proveniência resumida](../../../../sources/provenance/it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel.json)
 
 ## Documentos relacionados
 _Nenhum documento relacionado conhecido._

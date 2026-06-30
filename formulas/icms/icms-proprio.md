@@ -14,6 +14,20 @@ created_at: 2025-06-26
 updated_at: 2025-06-26
 ---
 
+## Metadados
+
+### Fontes normativas
+- [nt-2015-003-v194](corpus/nfe/notas-tecnicas/nt-2015-003-v194/document.md)
+- [nt2019-001-v1-70-regras-de-valida-o](corpus/nfe/notas-tecnicas/nt2019-001-v1-70-regras-de-valida-o/document.md)
+- [nt-2026-002-v1-00](corpus/nfe/notas-tecnicas/nt-2026-002-v1-00/document.md)
+- tabela-fcp-uf-2025
+
+### Fontes normativas
+- [nt-2015-003-v194](corpus/nfe/notas-tecnicas/nt-2015-003-v194/document.md)
+- [nt2019-001-v1-70-regras-de-valida-o](corpus/nfe/notas-tecnicas/nt2019-001-v1-70-regras-de-valida-o/document.md)
+- [nt-2026-002-v1-00](corpus/nfe/notas-tecnicas/nt-2026-002-v1-00/document.md)
+- tabela-fcp-uf-2025
+
 # ICMS Próprio — Cálculo Básico
 
 ## Visão geral
@@ -23,9 +37,9 @@ O ICMS próprio é o imposto devido pelo próprio contribuinte remetente na oper
 ## Base legal
 
 - LC 87/1996 (Lei Kandir)
-- NT 2015.003 — sistemática de cálculo do ICMS interestadual (EC 87/2015)
-- NT 2019.001 — regras de validação do ICMS
-- NT 2026.002 — alterações para NFC-e e leiaute
+- [NT 2015.003](../../corpus/nfe/notas-tecnicas/nt-2015-003-v194/document.md) — sistemática de cálculo do ICMS interestadual (EC 87/2015)
+- [NT 2019.001](../../corpus/nfe/notas-tecnicas/nt2019-001-v1-70-regras-de-valida-o/document.md) — regras de validação do ICMS
+- [NT 2026.002](../../corpus/nfe/notas-tecnicas/nt-2026-002-v1-00/document.md) — alterações para NFC-e e leiaute
 - Tabela FCP por UF (tabela-fcp-uf-2025)
 
 ## Variáveis

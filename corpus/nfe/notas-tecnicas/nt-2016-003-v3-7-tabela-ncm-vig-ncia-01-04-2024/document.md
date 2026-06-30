@@ -8,9 +8,13 @@ converted_at_utc: "2026-06-25T15:52:50.959971+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_71f191a8fc4a9a19897668052c6800a63bfb860f3c534c192b24ca5065832043.png)
 
-![Image](assets/image_000001_b80903ed1b93a07698a88ee32b6fd1f2b82afd156cb68fe5ddb7421247e7f2cb.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -163,14 +167,6 @@ Os 57 (cinquenta e sete) códigos incluídos na tabela de NCM publicada no Porta
 |              |            | 9002.90.90   | Outros                                                                                                                                                            |
 
 ![Image](assets/image_000011_1f54e19566afd710f1f277539cb018269255199ca6895c8b2da95415632e4f29.png)
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024.md)
-- [Proveniência resumida](../../../../sources/provenance/nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024.json)
-
 
 ## Documentos relacionados
-
-- [nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024](../nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/document.md)
+_Nenhum documento relacionado conhecido._

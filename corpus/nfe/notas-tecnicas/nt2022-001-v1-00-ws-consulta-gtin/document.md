@@ -8,9 +8,13 @@ converted_at_utc: "2026-06-25T16:29:14.576141+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_432cda0046c79349e50be53f9e1e0ac0d089c1aaecc2b26a1fd272c1c7c53589.png)
 
-![Image](assets/image_000001_5a878eecc1a7ccead95a841b65d9d367b947a062ba9278f04b104538a79e52f9.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2022-001-v1-00-ws-consulta-gtin/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2022-001-v1-00-ws-consulta-gtin/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2022-001-v1-00-ws-consulta-gtin.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2022-001-v1-00-ws-consulta-gtin.json)
 
 ## Sistema Nota Fiscal Eletrônica
 
@@ -340,12 +344,6 @@ A validação da mensagem de requisição poderá resultar em:
 |     9498 | Rejeição: GTIN existe no CCG com NCM inválido                                                                                     |
 
 ![Image](assets/image_000013_dfedcbd7e49f96b46a109d76975d01e022a836cc5def669505e5297cf099d15e.png)
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2022-001-v1-00-ws-consulta-gtin/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2022-001-v1-00-ws-consulta-gtin/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2022-001-v1-00-ws-consulta-gtin.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2022-001-v1-00-ws-consulta-gtin.json)
 
 ## Documentos relacionados
 _Nenhum documento relacionado conhecido._

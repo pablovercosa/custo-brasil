@@ -8,9 +8,13 @@ converted_at_utc: "2026-06-25T15:40:55.811669+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_6c545e385dc554d4f2538dc5f2f8e123229188ad3a37c64853552479f699396f.png)
 
-![Image](assets/image_000001_5dd5d5e16748c7abcded3a0035d3a12ebd8073cdc66cfc62ca495386dd8ab477.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica.json)
 
 ## Sistema Nota Fiscal Eletrônica
 
@@ -134,12 +138,6 @@ Ao  emitir  Nota  Fiscal  Eletrônica  Modelo  55  (NF-e),  os  transmissores  d
 Os  campos  relativos  aos  tributos  federais  (PIS,  COFINS  e  IPI)  deverão  ser  informados conforme as respectivas legislações.
 
 ![Image](assets/image_000008_fa0702d955869ce14748a0190d1d3dc7d8792f325387ac545cbff7b980d64a87.png)
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica.json)
 
 ## Documentos relacionados
 _Nenhum documento relacionado conhecido._

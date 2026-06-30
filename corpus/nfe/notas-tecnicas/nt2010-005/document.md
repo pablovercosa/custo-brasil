@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T14:52:03.150571+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_83c23eb121948b933e255e5cfa5405d567f44d6beae3a199330cc2dcb5a97816.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2010-005/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2010-005/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2010-005.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2010-005.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -101,16 +107,6 @@ O tipo dos campos nSerie e nCano do Detalhamento Específico de Armamentos passa
 - pedido de consulta Protocolo da NF-e;
 - pedido de inutilização de numeração de NF-e;
 - pedido de consulta cadastro
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2010-005/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2010-005/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2010-005.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2010-005.json)
-
 
 ## Documentos relacionados
-
-- [nota-t-cnica-2010-002-publicada-em-29-11-2010](../nota-t-cnica-2010-002-publicada-em-29-11-2010/document.md)
-- [nota-t-cnica-2010-005-publicada-em-06-07-2010](../nota-t-cnica-2010-005-publicada-em-06-07-2010/document.md)
-- [nota-t-cnica-2010-009-publicada-em-10-12-2010](../nota-t-cnica-2010-009-publicada-em-10-12-2010/document.md)
+_Nenhum documento relacionado conhecido._

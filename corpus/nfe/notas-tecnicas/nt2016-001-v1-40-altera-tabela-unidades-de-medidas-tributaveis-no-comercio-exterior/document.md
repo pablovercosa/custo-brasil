@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T14:52:33.319707+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_a22de9a632d41a91c3c8b1c2c1926dcfcda76eba440bf2853484818cf86956f6.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -124,17 +130,6 @@ Observação: A Secretaria da Receita Federal do Brasil - RFB emitirá ato norma
 |   Código | MOTIVOS DE NÃO ATENDIMENTO DASOLICITAÇÃO                                                              |
 |----------|-------------------------------------------------------------------------------------------------------|
 |      817 | Unidade Tributável incompa/g417vel com oNCM informado na operação com Comércio Exterior [ nItem :nnn] |
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2016-001-v1-40-altera-tabela-unidades-de-medidas-tributaveis-no-comercio-exterior.json)
-
 
 ## Documentos relacionados
-
-- [it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica](../../../combustiveis/informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica/document.md)
-- [nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024](../nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/document.md)
-- [nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024](../nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024/document.md)
-- [nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis](../../../combustiveis/notas-tecnicas/nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis/document.md)
+_Nenhum documento relacionado conhecido._

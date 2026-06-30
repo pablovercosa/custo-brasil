@@ -8,9 +8,13 @@ converted_at_utc: "2026-06-25T15:54:53.242329+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_756af5b28522e39d582185de7860b058ad0d10e855f9e49ea90ca289a3a596f3.png)
 
-![Image](assets/image_000001_929e5036105a5548862ca89ea1a8b5d03974f9b9e77128e8b70590711a5e4f54.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa.json)
 
 ## CNPJ Alfanumérico -Atualizações
 
@@ -73,8 +77,8 @@ Grupo BA. Documento Fiscal Referenciado
 |--------|-------|-----------|-------------------------------------------------------------------------------------|-------|-------|--------|---------|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 29x.1  | BA01  | NFref     | Informação de Documentos Fiscais referenciados                                      | G     | B01   |        | 0-999   |        | Grupo com informações de Documentos Fiscais referenciados. Informação utilizada nas hipóteses previstas na legislação. (Ex.: Devolução de mercadorias, Substituição de NF cancelada, Complementação de NF, etc.). |
 | 29x.2  | BA02  | refNFe    | Chave de acesso da NF-e referenciada                                                | CE    | BA01  | C      | 1-1     |     44 | Referencia uma NF-e (modelo 55) emitida anteriormente, vinculada a NF-e atual, ou uma NFC-e (modelo 65)                                                                                                           |
-| 29x.2a | BA02a | refNFeSig | Chave da NF-e com código numérico zerado (NT 2022.003)                              | CE    | BA01  | C      | 1-1     |     44 | Referencia uma NF-e (modelo 55) emitida anteriormente pela sua Chave de Acesso com código numérico zerado, permitindo manter o sigilo da NF-e referenciada.                                                       |
-| 29x.3  | BA03  | refNF     | Informação da NF modelo 1/1A ou NF modelo 2 referenciada (alterado pela NT2016.002) | CG    | BA01  |        | 1-1     |        |                                                                                                                                                                                                                   |
+| 29x.2a | BA02a | refNFeSig | Chave da NF-e com código numérico zerado ([NT 2022.003](../nt2022-003v1-11-referenciamento/document.md))                              | CE    | BA01  | C      | 1-1     |     44 | Referencia uma NF-e (modelo 55) emitida anteriormente pela sua Chave de Acesso com código numérico zerado, permitindo manter o sigilo da NF-e referenciada.                                                       |
+| 29x.3  | BA03  | refNF     | Informação da NF modelo 1/1A ou NF modelo 2 referenciada (alterado pela [NT2016.002](../nt-2016-002-v1-61/document.md)) | CG    | BA01  |        | 1-1     |        |                                                                                                                                                                                                                   |
 | 29x.6  | BA06  | CNPJ      | CNPJ do emitente                                                                    | E     | BA03  | C      | 1-1     |     14 | Informar o CNPJ do emitente da NF                                                                                                                                                                                 |
 | 29x.10 | BA10  | refNFP    | Informações da NF de produtor rural referenciada                                    | CG    | BA01  |        | 1-1     |        |                                                                                                                                                                                                                   |
 | 29x.13 | BA13  | CNPJ      | CNPJ do emitente                                                                    | CE    | BA10  | C      | 1-1     |     14 | Informar o CNPJ do emitente da NF de produtor (v2.0)                                                                                                                                                              |
@@ -128,8 +132,8 @@ Grupo E. Identificação do Destinatário da Nota Fiscal eletrônica
 |      # | ID   | Campo   | Descrição                           | Ele   | Pai   | Tipo   | Ocor.   |   Tam. | Observação                                                                                                    |
 |--------|------|---------|-------------------------------------|-------|-------|--------|---------|--------|---------------------------------------------------------------------------------------------------------------|
 |    100 | I01  | prod    | Detalhamento de Produtos e Serviços | G     |       | H01    | 1-1     |        |                                                                                                               |
-| 104.02 | l05b | -x-     | Sequência XML                       |       | G     | I01    | 0-1     |        | (Incluído na NT 2016.002)                                                                                     |
-| 104.05 | l05e | CNPJFab | CNPJ do Fabricante Mercadoria       | da    | E     | I05b C | 0-1     |     14 | CNPJ do Fabricante da Mercadoria, obrigatório para produto em escala NÃO relevante. (Incluído na NT 2016/002) |
+| 104.02 | l05b | -x-     | Sequência XML                       |       | G     | I01    | 0-1     |        | (Incluído na [NT 2016.002](../nt-2016-002-v1-61/document.md))                                                                                     |
+| 104.05 | l05e | CNPJFab | CNPJ do Fabricante Mercadoria       | da    | E     | I05b C | 0-1     |     14 | CNPJ do Fabricante da Mercadoria, obrigatório para produto em escala NÃO relevante. (Incluído na [NT 2016/002](../nt-2016-002-v1-61/document.md)) |
 
 ## Grupo I01. Produtos e Serviços / Declaração de Importação
 
@@ -178,7 +182,7 @@ Grupo E. Identificação do Destinatário da Nota Fiscal eletrônica
 
 |      # | ID   | Campo       | Descrição                                                                                                                 | Ele   | Pai   | Tipo   | Ocor.   |   Tam. | Observação                                                                                                                                                                                            |
 |--------|------|-------------|---------------------------------------------------------------------------------------------------------------------------|-------|-------|--------|---------|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 398.26 | YB01 | infIntermed | Grupo do Intermediador da Transação                                                                                       | G     | A01   |        | 0-1     |        | Obrigatório o preenchimento do Grupo de Informações do Intermediador da Transação nos casos de 'operação não presencial pela internet em site de terceiros (intermediadores) (Incluído na NT2020.006) |
+| 398.26 | YB01 | infIntermed | Grupo do Intermediador da Transação                                                                                       | G     | A01   |        | 0-1     |        | Obrigatório o preenchimento do Grupo de Informações do Intermediador da Transação nos casos de 'operação não presencial pela internet em site de terceiros (intermediadores) (Incluído na [NT2020.006](../nt2020-006-v1-31-intermediador-e-marketplace/document.md)) |
 | 398.27 | YB02 | CNPJ        | CNPJ do Intermediador da Transação (agenciador, plataforma de delivery, marketplace e similar) de serviços e de negócios. | E     | YB01  | C      | 1-1     |     14 | Informar o CNPJ do Intermediador da Transação (agenciador, plataforma de delivery, marketplace e similar) de serviços e de negócios.                                                                  |
 
 ![Image](assets/image_000013_de1640a9d1df46401f27bc5a18deeb8839b64219ad68f44444585d14765293f7.png)
@@ -394,14 +398,6 @@ Schema XML: retInutNFe\_v4.00.xsd
 | # Campo   | Ele    | Pai   | Tipo Ocor. Tam.   | Descrição/Observação   |
 |-----------|--------|-------|-------------------|------------------------|
 | DR11      | CNPJ E | DR03  | C 0-1             | 14 CNPJ do emitente    |
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa.md)
-- [Proveniência resumida](../../../../sources/provenance/nt-2026-004-v1-01-alteraschemanfcenfecnpjalfa.json)
-
 
 ## Documentos relacionados
-
-- [dfe-ntcj-2025-001-cnpj-alfa-v1-00](../../../geral/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00/document.md)
+_Nenhum documento relacionado conhecido._

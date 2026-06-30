@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T14:53:38.608460+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_5ad0381e64ba7319b698983eb52d4a417698676b0a62b10387ba3c1256b7e915.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2008-005/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2008-005/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2008-005.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2008-005.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -86,21 +92,6 @@ A  alteração  cria  uma  exceção  na  regra  de  validação da  Inscrição
 | G14                                      | IE ST informada: verificar o DV da IE do Substituto Tributário informada. UF a ser utilizada na validação: • UF do Local de Entrega (UF - G09 do grupo entrega - G01) caso o campo Tipo da operação (tpOP - J02 do grupo VeicProd - J01) tenha sido informado com '2 - Faturamento direto'; • UF do destinatário (UF - E12 do grupo enderDest -E05) nos demais casos. A aplicação deve normalizar a IE ST informada pelo emissor, acrescentando zeros à esquerda para atingir o tamanho padrão da IE da UF de destino se necessário. | Obrig.                                   | 211                                      | Rej.                                     |
 
 A alteração do Manual de Integração para registro d a implementação será realizada quando publicarmos uma nova versão oficial do Manual de In tegração.
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2008-005/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2008-005/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2008-005.md)
-- [Proveniência resumida](../../../../sources/provenance/nt-2008-005.json)
-
 
 ## Documentos relacionados
-
-- [nota-t-cnica-2008-001-publicada-em-30-11-2010](../nota-t-cnica-2008-001-publicada-em-30-11-2010/document.md)
-- [nota-t-cnica-2008-003-publicada-em-30-11-2010](../nota-t-cnica-2008-003-publicada-em-30-11-2010/document.md)
-- [nota-t-cnica-2008-005-publicada-em-30-11-2010](../nota-t-cnica-2008-005-publicada-em-30-11-2010/document.md)
-- [nt-2008-001](../nt-2008-001/document.md)
-- [nt-2008-003](../nt-2008-003/document.md)
-- [nt-2008-004](../nt-2008-004/document.md)
-- [nt-2008-006](../nt-2008-006/document.md)
-- [nt2008-002](../nt2008-002/document.md)
+_Nenhum documento relacionado conhecido._

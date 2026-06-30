@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T15:08:56.120829+00:00"
 status: "published"
 type: "manual"
 ---
-![Image](assets/image_000000_02abc7e384e65d1e7abe2ca0411d762b80b701462c2846d54f4d2d004c597ad7.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/manuais/manual-emissor-nfe/source.json)
+- [Dados normalizados](../../../../normalized/nfe/manuais/manual-emissor-nfe/normalized.json)
+- [Changelog](../../../../changelog/nfe/manuais/manual-emissor-nfe.md)
+- [Proveniência resumida](../../../../sources/provenance/manual-emissor-nfe.json)
 
 ## Emissor de Nota Fiscal Eletrônica
 
@@ -1268,12 +1274,6 @@ Observação : Nenhum emitente poderá estar iniciado.
 O Software Emissor NF-e também poderá ser atualizado automaticamente. Ao detectar novas atualizações, o Software informará o usuário e solicitará a confirmação.
 
 Para realizar o download das atualizações, clicar em OK . Após o download, o Software irá executar com as atualizações  já  instaladas.  Caso  não  deseje  realizar  a  atualização,  clicar  em Cancel .  O  programa  irá executar sem realizar a atualização.
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/manuais/manual-emissor-nfe/source.json)
-- [Dados normalizados](../../../../normalized/nfe/manuais/manual-emissor-nfe/normalized.json)
-- [Changelog](../../../../changelog/nfe/manuais/manual-emissor-nfe.md)
-- [Proveniência resumida](../../../../sources/provenance/manual-emissor-nfe.json)
 
 ## Documentos relacionados
 _Nenhum documento relacionado conhecido._

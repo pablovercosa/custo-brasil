@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T19:06:18.645000+00:00"
 status: "published"
 type: "manual"
 ---
-![Image](assets/image_000000_729498cc8e4ab5c1aff14d84f3d8281957391d906cb5a0826dd3d46d1ca0fd4b.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfag/manuais/moc-nfag-visaogeral-v1-00k/source.json)
+- [Dados normalizados](../../../../normalized/nfag/manuais/moc-nfag-visaogeral-v1-00k/normalized.json)
+- [Changelog](../../../../changelog/nfag/manuais/moc-nfag-visaogeral-v1-00k.md)
+- [Proveniência resumida](../../../../sources/provenance/moc-nfag-visaogeral-v1-00k.json)
 
 ## Projeto Nota Fiscal de Água e Saneamento Eletrônica
 
@@ -1772,12 +1778,6 @@ A  documentação  do  WSDL  pode  ser  obtida  na  internet  acessando  o  ende
 Exemplificando, para obter o WSDL de cada um dos Web Service acione o navegador Web (Internet Explorer, por exemplo) e digite o endereço desejado seguido do literal '?WSDL'.
 
 ![Image](assets/image_000066_ad7aedadfdc24b80918e168d8ffcc12251cb8c918c65c73937f2eac8d513519a.png)
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfag/manuais/moc-nfag-visaogeral-v1-00k/source.json)
-- [Dados normalizados](../../../../normalized/nfag/manuais/moc-nfag-visaogeral-v1-00k/normalized.json)
-- [Changelog](../../../../changelog/nfag/manuais/moc-nfag-visaogeral-v1-00k.md)
-- [Proveniência resumida](../../../../sources/provenance/moc-nfag-visaogeral-v1-00k.json)
 
 ## Documentos relacionados
 _Nenhum documento relacionado conhecido._

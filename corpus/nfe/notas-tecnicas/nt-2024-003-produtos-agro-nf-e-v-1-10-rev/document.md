@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T15:46:41.464919+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_da658f7b7e0934b297e095184573798c7f2b0e4846f42c462768b4c17783e190.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2024-003-produtos-agro-nf-e-v-1-10-rev/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2024-003-produtos-agro-nf-e-v-1-10-rev/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2024-003-produtos-agro-nf-e-v-1-10-rev.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2024-003-produtos-agro-nf-e-v-1-10-rev.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -44,7 +50,7 @@ NT 2024.003 Versão 1.10
 |----------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |     1.00 | 02/2024      | Criação desta NT como documento com campos e regras para informação de guia de trânsito em produtos primários (animal, vegetal e florestal) e dados do receituário no caso de produtos de agrotóxico.                                                                                                                                                                                  |
 |     1.03 | 02/2025      | Alteração nas regras de validação permitindo o controle das validações de Guias de Transporte Animal e Vegetal por UF e NCM, atendendo às especificidades de cada UF. O grupo de agrotóxico agora tem várias ocorrências, atendendo às situações em que mais de um agrotóxico é produto na mesma NF-e.                                                                                 |
-|     1.04 | 05/2025      | Alteração das datas para compatibilizar a disponibilização do schema XML em conjunto com a NT 2025.002. Não haverá prorrogação ou antecipação do prazo de vigência da NT em produção. Alteração na RV N12a-70, criando exceção para contribuintes do MEI em algumas operações. Correção no texto das RVs ZF02-10, ZF05-10, ZF05-20 e ZF05-30 identificando o item que causou rejeição. |
+|     1.04 | 05/2025      | Alteração das datas para compatibilizar a disponibilização do schema XML em conjunto com a [NT 2025.002](../../../reforma-tributaria/notas-tecnicas/nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md). Não haverá prorrogação ou antecipação do prazo de vigência da NT em produção. Alteração na RV N12a-70, criando exceção para contribuintes do MEI em algumas operações. Correção no texto das RVs ZF02-10, ZF05-10, ZF05-20 e ZF05-30 identificando o item que causou rejeição. |
 |     1.05 | 06/2025      | Correção de NCM.                                                                                                                                                                                                                                                                                                                                                                       |
 |     1.06 | 06/2025      | Alteração de datas de vigência.                                                                                                                                                                                                                                                                                                                                                        |
 |     1.07 | 10/2025      | Alteração de datas de vigência.                                                                                                                                                                                                                                                                                                                                                        |
@@ -61,11 +67,11 @@ NT 2024.003 Versão 1.10
 |     1.00 | Versão inicial                                                                                                                                                                                                                                                                                     | 02-10-2024                    | 01-04-2025             |
 |     1.01 | Versão revisada com inclusão do Responsável Técnico do Agrotóxico e explicações sobre as guias de trânsito.                                                                                                                                                                                        | 04-11-2024                    | 01-04-2025             |
 |     1.03 | RVs de Guias adaptáveis por UF e informação mais de um agrotóxico na NF-e                                                                                                                                                                                                                          | 01-08-2025                    | 06/10/2025             |
-|     1.04 | Padronização com a NT 2025.002, datas se aplicam a toda NT, não somente esta versão. Alteração na RV N12a-70, criando exceção para contribuintes do MEI em algumas operações. Correção no texto das RVs ZF02-10, ZF05-10, ZF05-20 e ZF05-30 identificando o item que causou rejeição.              | De 07/07/2025 até 11/08/2025* | 06/10/2025             |
+|     1.04 | Padronização com a [NT 2025.002](../../../reforma-tributaria/notas-tecnicas/nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md), datas se aplicam a toda NT, não somente esta versão. Alteração na RV N12a-70, criando exceção para contribuintes do MEI em algumas operações. Correção no texto das RVs ZF02-10, ZF05-10, ZF05-20 e ZF05-30 identificando o item que causou rejeição.              | De 07/07/2025 até 11/08/2025* | 06/10/2025             |
 |     1.05 | Correção de NCM                                                                                                                                                                                                                                                                                    | De 07/07/2025 até 11/08/2025* | 06/10/2025             |
-|     1.06 | Padronização das datas de vigência com a NT 2025.002. Não houve alteração de layout ou de regra de validação.                                                                                                                                                                                      | De 07/07/2025 até 11/08/2025  | 06/10/2025             |
-|     1.07 | Padronização das datas de vigência com a NT 2025.002. Não houve alteração de layout ou de regra de validação.                                                                                                                                                                                      | De 07/07/2025 até 11/08/2025  | 10/11/2025             |
-|     1.08 | Entrada em produção das Regras de Validação, visando não afetar a entrada em produção da NT 2025.002 - RTC.                                                                                                                                                                                        | -x-x-x                        | 01/03/2026             |
+|     1.06 | Padronização das datas de vigência com a [NT 2025.002](../../../reforma-tributaria/notas-tecnicas/nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md). Não houve alteração de layout ou de regra de validação.                                                                                                                                                                                      | De 07/07/2025 até 11/08/2025  | 06/10/2025             |
+|     1.07 | Padronização das datas de vigência com a [NT 2025.002](../../../reforma-tributaria/notas-tecnicas/nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md). Não houve alteração de layout ou de regra de validação.                                                                                                                                                                                      | De 07/07/2025 até 11/08/2025  | 10/11/2025             |
+|     1.08 | Entrada em produção das Regras de Validação, visando não afetar a entrada em produção da [NT 2025.002](../../../reforma-tributaria/notas-tecnicas/nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md) - RTC.                                                                                                                                                                                        | -x-x-x                        | 01/03/2026             |
 |     1.09 | Ajustes nas RVs de controle da GTA e Agrotóxicos Remoção da RV I08-94 que causa a rejeição 771, visando abarcar operações de consumo por embarcações estrangeiras em regime de cabotagem em outras UFs. Alteração contempla também operações de comércio eletrônico cujo adquirente é estrangeiro. | -x-x-x                        | Até 20/03/2026         |
 |     1.10 | Ajustes nas RVs de controle de Agrotóxicos                                                                                                                                                                                                                                                         | Até 15/05/2026                | Até 20/05/2026         |
 
@@ -182,7 +188,7 @@ Grupo ZF. Informações de Produtos da Agricultura, Pecuária e Produção Flore
 
 | Campo-Seq   |   Modelo | Regra de Validação                                                                                                                                                                                                                                                 | Aplic.   |   Msg | Efeito   | Descrição Erro                                              |
 |-------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------|----------|-------------------------------------------------------------|
-| I08-94      |       55 | Operação Interestadual (idDest=2) e informado idEstrangeiro Exceção: A regra acima não se aplica para o CFOP="6.667- Venda de combustível ou lubrificante a consumidor ou usuário final estabelecido em outra UF diferente da que ocorrer o consumo" (NT 2015.002) | Facult.  |   771 | Rej.     | Rejeição: Informado idEstrangeiro em operação interestadual |
+| I08-94      |       55 | Operação Interestadual (idDest=2) e informado idEstrangeiro Exceção: A regra acima não se aplica para o CFOP="6.667- Venda de combustível ou lubrificante a consumidor ou usuário final estabelecido em outra UF diferente da que ocorrer o consumo" ([NT 2015.002](../nt-2015-002-v141-23-08-2016/document.md)) | Facult.  |   771 | Rej.     | Rejeição: Informado idEstrangeiro em operação interestadual |
 
 ## N. Item / Tributo: ICMS
 
@@ -241,19 +247,6 @@ Grupo ZF. Informações de Produtos da Agricultura, Pecuária e Produção Flore
 | **** | ZF05-20 | ---      | ---                        | RV não ativada para nenhuma UF.      |
 
 ![Image](assets/image_000015_c75338bd221582fb869051770720789c8ff9a4a6d4c5e313a0f8ae94f923fbb3.png)
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2024-003-produtos-agro-nf-e-v-1-10-rev/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2024-003-produtos-agro-nf-e-v-1-10-rev/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2024-003-produtos-agro-nf-e-v-1-10-rev.md)
-- [Proveniência resumida](../../../../sources/provenance/nt-2024-003-produtos-agro-nf-e-v-1-10-rev.json)
-
 
 ## Documentos relacionados
-
-- [it2024-001v2-30-atualiza-tabela-de-ncm](../../../geral/informes-tecnicos/it2024-001v2-30-atualiza-tabela-de-ncm/document.md)
-- [it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026](../../informes-tecnicos/it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026/document.md)
-- [nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024](../nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/document.md)
-- [nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024](../nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024/document.md)
-- [nt2024-001-v1-20](../nt2024-001-v1-20/document.md)
-- [nt2024-002-v1-00-econf](../nt2024-002-v1-00-econf/document.md)
+_Nenhum documento relacionado conhecido._

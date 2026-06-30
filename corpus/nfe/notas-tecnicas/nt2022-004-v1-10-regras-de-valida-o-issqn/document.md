@@ -8,9 +8,13 @@ converted_at_utc: "2026-06-25T15:33:57.727441+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_6c545e385dc554d4f2538dc5f2f8e123229188ad3a37c64853552479f699396f.png)
 
-![Image](assets/image_000001_5dd5d5e16748c7abcded3a0035d3a12ebd8073cdc66cfc62ca495386dd8ab477.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2022-004-v1-10-regras-de-valida-o-issqn/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2022-004-v1-10-regras-de-valida-o-issqn/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2022-004-v1-10-regras-de-valida-o-issqn.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2022-004-v1-10-regras-de-valida-o-issqn.json)
 
 ## Sistema Nota Fiscal Eletrônica
 
@@ -95,21 +99,9 @@ Essa NT não gera grandes impactos de desenvolvimento para os contribuintes, per
 
 | Campo-Seq Modelo   | Regra de Validação                                                                                                                                                                                                                                                                                                                                                                                                        | Aplic.   | Msg Efeito   | Descrição Erro                                                           |
 |--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|--------------|--------------------------------------------------------------------------|
-| U01-20 55/65       | Informado grupo de tributação do ISSQN (id:U01) sem informar nenhum grupo de ICMS (id:N01) Exceção: A critério da UF poderá ser autorizada/vedada a emissão de NF-e/NFC-e que só tenham itens sujeitos ao ISSQN. (NT 2010/010); Parametrizações possíveis: - 0 =Não aceita item de Serviço; - 1 =Aceita item de Serviço; - 2 =Aceita item de Serviço somente na NF-e/NFC-e conjugada (que contenha também itens de ICMS). | Facul.   | 592 Rej.     | Rejeição: A NF-e deve ter pelo menos um item de produto sujeito ao ICMS. |
+| U01-20 55/65       | Informado grupo de tributação do ISSQN (id:U01) sem informar nenhum grupo de ICMS (id:N01) Exceção: A critério da UF poderá ser autorizada/vedada a emissão de NF-e/NFC-e que só tenham itens sujeitos ao ISSQN. ([NT 2010/010](../nt2010-010/document.md)); Parametrizações possíveis: - 0 =Não aceita item de Serviço; - 1 =Aceita item de Serviço; - 2 =Aceita item de Serviço somente na NF-e/NFC-e conjugada (que contenha também itens de ICMS). | Facul.   | 592 Rej.     | Rejeição: A NF-e deve ter pelo menos um item de produto sujeito ao ICMS. |
 
 ![Image](assets/image_000008_6cba6ea60d678d8b48b6098c14418cea2618e407b71128547241906d30a6da96.png)
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2022-004-v1-10-regras-de-valida-o-issqn/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2022-004-v1-10-regras-de-valida-o-issqn/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2022-004-v1-10-regras-de-valida-o-issqn.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2022-004-v1-10-regras-de-valida-o-issqn.json)
-
 
 ## Documentos relacionados
-
-- [anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e](../../manuais/anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e/document.md)
-- [moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k](../../../nfag/manuais/moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k/document.md)
-- [moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f](../../../nfgas/manuais/moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f/document.md)
-- [nt2019-001-v1-70-regras-de-valida-o](../nt2019-001-v1-70-regras-de-valida-o/document.md)
-- [nt2020-005-v1-21-regras-de-valida-o](../nt2020-005-v1-21-regras-de-valida-o/document.md)
+_Nenhum documento relacionado conhecido._

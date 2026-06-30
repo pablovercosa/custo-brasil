@@ -8,13 +8,21 @@ converted_at_utc: "2026-06-26T15:51:43.123370+00:00"
 status: "published"
 type: "tax_benefit_table"
 ---
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/Estado de RS/validacoes-cbenef-rs/source.json)
+- [Dados normalizados](../../../../normalized/nfe/Estado de RS/validacoes-cbenef-rs/normalized.json)
+- [Changelog](../../../../changelog/nfe/Estado de RS/validacoes-cbenef-rs.md)
+- [Proveniência resumida](../../../../sources/provenance/validacoes-cbenef-rs.json)
+
 ## Validações cBenef
 
 ## 
 
 ## Regras de validação:
 
-As regras de validação dos campos relacionados com código de benefício fiscal, valor desonerado e diferimento foram divulgadas na NT2019.001.
+As regras de validação dos campos relacionados com código de benefício fiscal, valor desonerado e diferimento foram divulgadas na [NT2019.001](../../notas-tecnicas/nt2019-001-v1-70-regras-de-valida-o/document.md).
 
 As regras de validação vigentes no Estado do Rio Grande do Sul, para os modelos 55 (NF-e) e 65 (NFC-e), são:
 
@@ -177,13 +185,6 @@ No Rio Grande do Sul, não será aplicada validação nas notas fiscais emitidas
 ## Tabela de códigos 
 
 A tabela de códigos utilizada para validação dos campos encontra-se disponível em nfe.fazenda.gov.br, opção, no menu, "Documentos", "Diversos".
-
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/Estado de RS/validacoes-cbenef-rs/source.json)
-- [Dados normalizados](../../../../normalized/nfe/Estado de RS/validacoes-cbenef-rs/normalized.json)
-- [Changelog](../../../../changelog/nfe/Estado de RS/validacoes-cbenef-rs.md)
-- [Proveniência resumida](../../../../sources/provenance/validacoes-cbenef-rs.json)
 
 ## Documentos relacionados
 _Nenhum documento relacionado conhecido._

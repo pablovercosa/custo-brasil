@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T16:58:54.983211+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_98f40fab88e0166dedc6d5c273be77832c78a7f23151e6c34ada44224a5e0987.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2014-001-v1-30-evento-epec/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2014-001-v1-30-evento-epec/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2014-001-v1-30-evento-epec.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2014-001-v1-30-evento-epec.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -331,7 +337,7 @@ Nota:  (*1) Validações genéricas do Registro de Evento.
 | #      |   Modelo | Regra de Validação                                                                                                                                                                                                  | Aplic    |   Msg | Efeito   | Descrição Erro                                                                               |
 |--------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------|----------|----------------------------------------------------------------------------------------------|
 | P11-21 |       55 | Se informado CPF do autor do evento, evento = EPEC e série difere da faixa [920-969]                                                                                                                                | . Obrig. |   495 | Rej.     | Rejeição: CPF do emitente com série incompatível                                             |
-| P12-32 |       55 | Validação da Chave de Acesso: - Série difere da faixa [0-889] [920-969] (NT 2018.001)                                                                                                                               | Obrig.   |   266 | Rej.     | Rejeição: Série utilizada não permitida no Web Service                                       |
+| P12-32 |       55 | Validação da Chave de Acesso: - Série difere da faixa [0-889] [920-969] ([NT 2018.001](../nt2018-001-v1-10-emitente-cpf/document.md))                                                                                                                               | Obrig.   |   266 | Rej.     | Rejeição: Série utilizada não permitida no Web Service                                       |
 | P12-50 |       55 | - Tipo de Emissão difere de '4' (posição 35 da Chave de Acesso)                                                                                                                                                     | Obrig.   |   484 | Rej.     | Rejeição: Chave de Acesso com tipo de emissão diferente de 4 (posição 35 da Chave de Acesso) |
 | P15-10 |       55 | Verificar se sequencial do evento (nSeqEvento) difere de 1                                                                                                                                                          | Obrig.   |   594 | Rej.     | Rejeição: O número de sequencia do evento informado é maior que o permitido                  |
 | P20-10 |       55 | Verificar se o órgão do Autor (cOrgaoAutor) difere da UF da Chave de Acesso (Evento do Emitente)                                                                                                                    | Obrig.   |   455 | Rej.     | Rejeição: Órgão Autor do evento diferente da UF da Chave de Acesso                           |
@@ -369,32 +375,32 @@ Nota:  (*1) Validações genéricas do Registro de Evento.
 
 |         |   *** Banco de Dados: Destinatário | *** Banco de Dados: Destinatário                                                                                                                                                                                                                     | *** Banco de Dados: Destinatário   |   *** Banco de Dados: Destinatário | *** Banco de Dados: Destinatário   | *** Banco de Dados: Destinatário                    |
 |---------|------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|------------------------------------|------------------------------------|-----------------------------------------------------|
-| 6P31-10 |                                 55 | Se informada IE do Destinatário: - Acessar Cadastro de Contribuinte da UF (Chave: UF Dest, IE Dest.) (*5) - IE destinatário não cadastrada, ou situação da IE igual a exclusão lógica no CCC (CCC.cSitIE=9-Exclusão lógica) (*7) (NT 2019.001 v1.00) | Obrig.                             |                                233 | Rej.                               | Rejeição: IE do destinatário não cadastrada         |
-| 6P31-20 |                                 55 | - Se informado CNPJ do destinatário e IE destinatário não vinculada ao CNPJ (tratar Regime Especial de IE Única) (NT 2019.001 v1.00)                                                                                                                 | Obrig.                             |                                234 | Rej.                               | Rejeição: IE do destinatário não vinculada ao CNPJ  |
-| 6P31-30 |                                 55 | - Se informado CPF do destinatário e IE destinatário não vinculada ao CPF (*7) (NT 2019.001 v1.00)                                                                                                                                                   | Obrig.                             |                                624 | Rej.                               | Rejeição: IE Destinatário não vinculada ao CPF      |
-| 6P31-40 |                                 55 | - Destinatário em situação irregular perante o Fisco, vedada operação na UF (CCC.cSitCNPJ=3-Vedado) (NT 2019.001 v1.00)                                                                                                                              | Obrig.                             |                                302 | Rej.                               | Uso Denegado: Irregularidade fiscal do destinatário |
-| 6P31-43 |                                 55 | - Destinatário bloqueado na UF (CCC.cSitCNPJ=2-Bloqueado) (NT 2019.001 v1.00)                                                                                                                                                                        | Obrig.                             |                                305 | Rej.                               | Rejeição: Destinatário bloqueado na UF              |
+| 6P31-10 |                                 55 | Se informada IE do Destinatário: - Acessar Cadastro de Contribuinte da UF (Chave: UF Dest, IE Dest.) (*5) - IE destinatário não cadastrada, ou situação da IE igual a exclusão lógica no CCC (CCC.cSitIE=9-Exclusão lógica) (*7) ([NT 2019.001](../nt2019-001-v1-70-regras-de-valida-o/document.md) v1.00) | Obrig.                             |                                233 | Rej.                               | Rejeição: IE do destinatário não cadastrada         |
+| 6P31-20 |                                 55 | - Se informado CNPJ do destinatário e IE destinatário não vinculada ao CNPJ (tratar Regime Especial de IE Única) ([NT 2019.001](../nt2019-001-v1-70-regras-de-valida-o/document.md) v1.00)                                                                                                                 | Obrig.                             |                                234 | Rej.                               | Rejeição: IE do destinatário não vinculada ao CNPJ  |
+| 6P31-30 |                                 55 | - Se informado CPF do destinatário e IE destinatário não vinculada ao CPF (*7) ([NT 2019.001](../nt2019-001-v1-70-regras-de-valida-o/document.md) v1.00)                                                                                                                                                   | Obrig.                             |                                624 | Rej.                               | Rejeição: IE Destinatário não vinculada ao CPF      |
+| 6P31-40 |                                 55 | - Destinatário em situação irregular perante o Fisco, vedada operação na UF (CCC.cSitCNPJ=3-Vedado) ([NT 2019.001](../nt2019-001-v1-70-regras-de-valida-o/document.md) v1.00)                                                                                                                              | Obrig.                             |                                302 | Rej.                               | Uso Denegado: Irregularidade fiscal do destinatário |
+| 6P31-43 |                                 55 | - Destinatário bloqueado na UF (CCC.cSitCNPJ=2-Bloqueado) ([NT 2019.001](../nt2019-001-v1-70-regras-de-valida-o/document.md) v1.00)                                                                                                                                                                        | Obrig.                             |                                305 | Rej.                               | Rejeição: Destinatário bloqueado na UF              |
 | 6P31-46 |                                 55 | - IE do Destinatário não está ativa na UF (CCC.cSitIE=0-Não                                                                                                                                                                                          | Obrig.                             |                                306 | Rej.                               | Rejeição: IE do destinatário não está ativa na UF   |
 
 ![Image](assets/image_000015_ece3877173e6fecec3ca31ea482d22e52be64e9fc258db9051e0dfd567d4ca75.png)
 
-|         |    | habilitado) (*7) (NT 2019.001 v1.00)                                                                                                                                                                                                                               |        |     |      |                                                          |
+|         |    | habilitado) (*7) ([NT 2019.001](../nt2019-001-v1-70-regras-de-valida-o/document.md) v1.00)                                                                                                                                                                                                                               |        |     |      |                                                          |
 |---------|----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|-----|------|----------------------------------------------------------|
-| 6P31-50 | 55 | Se IE Destinatário não informada e informado CNPJ do destinatário: - Acessar Cadastro Contribuinte da UF (Chave: UF-Dest, CNPJ- Dest) (*6) - Destinatário possui IE ativa na UF (CCC.cSitIE=1-Habilitado) e CCC.IndIEDestOpc = 0 - Obrigatório (NT 2019.001 v1.00) | Obrig. | 232 | Rej. | Rejeição: IE do destinatário não informada               |
-| 6P31-60 | 55 | - Destinatário com CNPJ vedado na UF (CCC.cSitCNPJ=3- Vedado) (NT 2019.001 v1.00)                                                                                                                                                                                  | Obrig. | 303 | Den. | Uso Denegado: Destinatário não habilitado a operar na UF |
-| 6P31-63 | 55 | - Destinatário bloqueado na UF (CCC.cSitCNPJ=2- Bloqueado) (NT 2019.001 v1.00)                                                                                                                                                                                     | Obrig. | 305 | Rej. | Rejeição: Destinatário bloqueado na UF                   |
+| 6P31-50 | 55 | Se IE Destinatário não informada e informado CNPJ do destinatário: - Acessar Cadastro Contribuinte da UF (Chave: UF-Dest, CNPJ- Dest) (*6) - Destinatário possui IE ativa na UF (CCC.cSitIE=1-Habilitado) e CCC.IndIEDestOpc = 0 - Obrigatório ([NT 2019.001](../nt2019-001-v1-70-regras-de-valida-o/document.md) v1.00) | Obrig. | 232 | Rej. | Rejeição: IE do destinatário não informada               |
+| 6P31-60 | 55 | - Destinatário com CNPJ vedado na UF (CCC.cSitCNPJ=3- Vedado) ([NT 2019.001](../nt2019-001-v1-70-regras-de-valida-o/document.md) v1.00)                                                                                                                                                                                  | Obrig. | 303 | Den. | Uso Denegado: Destinatário não habilitado a operar na UF |
+| 6P31-63 | 55 | - Destinatário bloqueado na UF (CCC.cSitCNPJ=2- Bloqueado) ([NT 2019.001](../nt2019-001-v1-70-regras-de-valida-o/document.md) v1.00)                                                                                                                                                                                     | Obrig. | 305 | Rej. | Rejeição: Destinatário bloqueado na UF                   |
 
 ## Nota:
 
 - (*2) O tamanho da IE deve ser normalizado na aplicação do AN, desprezando os zeros não significativos, antes da verificação do dígito de controle;
 - (*3) Valor parametrizável, definido inicialmente em R$ 500 milhões, para evitar erros de preenchimento do campo;
 - (*4) No caso do ambiente de contingência EPEC bloqueado para o emitente, serão retornadas as Chaves de Acesso de até 50 EPEC pendentes de conciliação (tag:chNFePend);
-- (*5)  Validação  possível  na  operação  interestadual,  ou  no  ambiente  da  SEFAZ  Virtual,  utilizando  o  CCCCadastro Centralizado de Contribuintes. (NT 2019.001 v1.00)
+- (*5)  Validação  possível  na  operação  interestadual,  ou  no  ambiente  da  SEFAZ  Virtual,  utilizando  o  CCCCadastro Centralizado de Contribuintes. ([NT 2019.001](../nt2019-001-v1-70-regras-de-valida-o/document.md) v1.00)
 
 Nota: A validação do destinatário do EPEC não gera denegação, mas simplesmente uma rejeição.
 
-- (*6) Validação possível na operação interestadual, ou no ambiente da SEFAZ Virtual, utilizando o CCC. Pesquisar todas as IE vinculadas com o CNPJ informado. (NT 2019.001 v1.00)
-- (*7) Algumas UF ainda não cadastraram no CCC os Contribuintes Pessoa Física (IE e CPF). Portanto, o Ambiente de Contingência EPEC que utiliza o CCC para validar o destinatário somente poderá efetuar as validações assinaladas se o contribuinte (IE e CPF) existir no CCC.(NT 2019.001 v.1.00)
+- (*6) Validação possível na operação interestadual, ou no ambiente da SEFAZ Virtual, utilizando o CCC. Pesquisar todas as IE vinculadas com o CNPJ informado. ([NT 2019.001](../nt2019-001-v1-70-regras-de-valida-o/document.md) v1.00)
+- (*7) Algumas UF ainda não cadastraram no CCC os Contribuintes Pessoa Física (IE e CPF). Portanto, o Ambiente de Contingência EPEC que utiliza o CCC para validar o destinatário somente poderá efetuar as validações assinaladas se o contribuinte (IE e CPF) existir no CCC.([NT 2019.001](../nt2019-001-v1-70-regras-de-valida-o/document.md) v.1.00)
 
 ## 3.10   Final do Processamento do Lote
 
@@ -668,17 +674,6 @@ NFe
 
 1. Recomendado a não utilização de caracteres especiais ou acentuação nos textos das mensagens de erro.
 2. Recomendado que o campo xMotivo da mensagem de erro para o código 999 seja informado com a mensagem de erro do aplicativo ou do sistema que gerou a exceção não prevista.
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2014-001-v1-30-evento-epec/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2014-001-v1-30-evento-epec/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2014-001-v1-30-evento-epec.md)
-- [Proveniência resumida](../../../../sources/provenance/nt-2014-001-v1-30-evento-epec.json)
-
 
 ## Documentos relacionados
-
-- [nt-nfce-2014-001](../../../nfce/notas-tecnicas/nt-nfce-2014-001/document.md)
-- [nt2014-002-v1-30-wsnfedistribuicaodfe](../nt2014-002-v1-30-wsnfedistribuicaodfe/document.md)
-- [nt2014-003-v1-02](../../../nfce/notas-tecnicas/nt2014-003-v1-02/document.md)
-- [nt2014-004-v1-10-ncm-pais-fuso-evento](../nt2014-004-v1-10-ncm-pais-fuso-evento/document.md)
+_Nenhum documento relacionado conhecido._

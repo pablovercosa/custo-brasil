@@ -8,9 +8,13 @@ converted_at_utc: "2026-06-25T19:00:44.548346+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_c77b72cd276118fac6a560431a3bdbf7ae07e801140eab570df26846bbf74587.png)
 
-![Image](assets/image_000001_901a30a0b1398c857cf1b90ce60550dc0ca49468bfa0ef6aca8357390761135e.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-40-rtc-nf-e-ibs-cbs-is-final/source.json)
+- [Dados normalizados](../../../../normalized/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-40-rtc-nf-e-ibs-cbs-is-final/normalized.json)
+- [Changelog](../../../../changelog/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-40-rtc-nf-e-ibs-cbs-is-final.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2025-002-v1-40-rtc-nf-e-ibs-cbs-is-final.json)
 
 ## Reforma Tributária do Consumo -Adequações NF-e / NFC-e
 
@@ -63,7 +67,7 @@ Nota Técnica 2025.002-RTC - Versão 1.40
 
 ![Image](assets/image_000005_1c1e4f09d2151c02fa86c9828c1feca6469d704428f120e17cf5208bead65f57.png)
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000006_1c1e4f09d2151c02fa86c9828c1feca6469d704428f120e17cf5208bead65f57.png)
 
@@ -128,7 +132,7 @@ NT 2025.002-RTC
 
 ![Image](assets/image_000007_1c1e4f09d2151c02fa86c9828c1feca6469d704428f120e17cf5208bead65f57.png)
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000008_1c1e4f09d2151c02fa86c9828c1feca6469d704428f120e17cf5208bead65f57.png)
 
@@ -146,7 +150,7 @@ NT 2025.002-RTC
 
 ## Nota Fiscal Eletrônica - NF-e Reforma Tributária -Lei Complementar nº 214/2025
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000009_1c1e4f09d2151c02fa86c9828c1feca6469d704428f120e17cf5208bead65f57.png)
 
@@ -169,13 +173,13 @@ As  orientações  para  CRT=1-Simples  Nacional,  CRT=2-Simples  Nacional-Exces
 
 ![Image](assets/image_000010_6bcae2caf603b0ff6aba05555e821ad8bf6e1f0afb25bdfbe4d9e20428069fc3.png)
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ## 1.  Introdução
 
 A Lei Complementar 214/2025 que institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS), cria o Comitê Gestor do IBS e altera a legislação tributária, definiu na Seção VIII -Disposições transitórias, Art. 62, a obrigatoriedade para a União, os Estados, o Distrito Federal e os Municípios adaptarem os sistemas autorizadores de  Documentos  Fiscais  Eletrônicos  (DFe)  vigentes  para  utilização  de  leiaute  padronizado,  que permita aos contribuintes informarem os dados relativos ao Imposto sobre Bens e Serviços (IBS), Contribuição sobre Bens e Serviços (CBS) e Imposto Seletivo (IS).
 
-Esta Nota Técnica substitui, no âmbito da NFe/NFCe, a RT NT 2024.002 - IBS/CBS v1.10, que cria novos eventos e modifica o leiaute da NF-e e NFC-e, inserindo os grupos e campos opcionais relacionados à tributação dos novos Impostos, em atendimento às alterações previstas na Emenda Constitucional 132 de 20 de dezembro de 2023 e Lei Complementar 214 de 16 de janeiro de 2025 para implementação da Reforma Tributária, com data de implantação em ambiente de produção prevista para outubro de 2025, de modo a viabilizar sua efetiva operacionalização a partir de janeiro de 2026.
+Esta Nota Técnica substitui, no âmbito da NFe/NFCe, a RT [NT 2024.002](../../../nfe/notas-tecnicas/nt2024-002-v1-00-econf/document.md) - IBS/CBS v1.10, que cria novos eventos e modifica o leiaute da NF-e e NFC-e, inserindo os grupos e campos opcionais relacionados à tributação dos novos Impostos, em atendimento às alterações previstas na Emenda Constitucional 132 de 20 de dezembro de 2023 e Lei Complementar 214 de 16 de janeiro de 2025 para implementação da Reforma Tributária, com data de implantação em ambiente de produção prevista para outubro de 2025, de modo a viabilizar sua efetiva operacionalização a partir de janeiro de 2026.
 
 Vale destacar que, em Produção, no ano de 2025 as informações de tributação relativas ao IBS, CBS e IS serão opcionais e somente serão validadas se forem preenchidas. A partir de janeiro de 2026, as novas regras de validação referentes à tributação do IBS e da CBS serão aplicadas.
 
@@ -212,7 +216,7 @@ Esta Nota Técnica cria na NF-e modelo 55 as finalidades de emissões correspond
 
 As  finalidades  de  emissão  ' Nota  de  Ajuste '  e  'Nota  Complementar',  já  existentes,  são  casos especiais  de  Nota  de  Débito;  uma  nota  de  entrada  emitida  para  documentar,  por  exemplo,  a devolução de mercadoria que havia sido vendida a um consumidor final, é um caso especial de Nota de Crédito.
 
-A regulamentação do IBS e da CBS disporá sobre a utilização de notas de crédito e notas de débito para  lançamentos  de  ajuste,  com  a  finalidade  de  instrumentalizar  a  preparação  da  declaração NT 2025.002-RTC
+A regulamentação do IBS e da CBS disporá sobre a utilização de notas de crédito e notas de débito para  lançamentos  de  ajuste,  com  a  finalidade  de  instrumentalizar  a  preparação  da  declaração [NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000012_1f5269711236bd3c9e9ad2b0d3323ba77735f4196681f0f6d64296d4364778c2.png)
 
@@ -261,7 +265,7 @@ Alteração da seção 5.1.2 do MOC - Leiaute Mensagem de Retorno.
 
 ![Image](assets/image_000014_16f9b44d7aa8346688b5a463e2469c0dc4ed39aa02bfe2bba6f17dc4048fbdf6.png)
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000015_e415af511c51364fbff746cc6ae93f705b17a6448ae6a4764deff40590211c38.png)
 
@@ -304,7 +308,7 @@ Retorno: Estrutura XML com o resultado do processamento da mensagem de envio de 
 |------|---------|-------|-------|--------|---------|--------|-----------------------------------------------|
 | PR01 | protNFe | Raiz  | -     | -      | -       |        | - TAG raiz do Protocolo de recebimento da NFe |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000016_e415af511c51364fbff746cc6ae93f705b17a6448ae6a4764deff40590211c38.png)
 
@@ -321,9 +325,9 @@ NT 2025.002-RTC
 | PR10 | digVal        | E     | PR03  | C      | 0-1     | 28     | Digest Value da NF-e processada Utilizado para conferir a integridade da NFe original.                                                                                                               |
 | PR11 | cStat         | E     | PR03  | N      | 1-1     | 3-4    | Código do status da resposta                                                                                                                                                                         |
 | PR12 | xMotivo       | E     | PR03  | C      | 1-1     | 1-255  | Descrição literal do status da resposta para a NF-e.                                                                                                                                                 |
-| PR13 | Sequência XML | G     | PR03  |        | 0-1     |        | Grupo de informações para envio de mensagens do interesse da SEFAZ (Criado na NT 2018.005)                                                                                                           |
-| PR14 | cMsg          | E     | PR13  | N      | 0-1     | 1-4    | Código da Mensagem. (Criado na NT 2018.005)                                                                                                                                                          |
-| PR15 | xMsg          | E     | PR13  | C      | 1-1     | 1-200  | Mensagem da SEFAZ para o emissor. (Criado na NT 2018.005)                                                                                                                                            |
+| PR13 | Sequência XML | G     | PR03  |        | 0-1     |        | Grupo de informações para envio de mensagens do interesse da SEFAZ (Criado na [NT 2018.005](../../../nfe/notas-tecnicas/nt2018-005-v1-52-alteracaodeleiautenf-enfc/document.md))                                                                                                           |
+| PR14 | cMsg          | E     | PR13  | N      | 0-1     | 1-4    | Código da Mensagem. (Criado na [NT 2018.005](../../../nfe/notas-tecnicas/nt2018-005-v1-52-alteracaodeleiautenf-enfc/document.md))                                                                                                                                                          |
+| PR15 | xMsg          | E     | PR13  | C      | 1-1     | 1-200  | Mensagem da SEFAZ para o emissor. (Criado na [NT 2018.005](../../../nfe/notas-tecnicas/nt2018-005-v1-52-alteracaodeleiautenf-enfc/document.md))                                                                                                                                            |
 | PR90 | Signature     | G     | PR01  | xml    | 0-1     | -      | Assinatura XML do grupo identificado pelo atributo 'Id' A decisão de assinar a mensagem fica a critério da UF interessada.                                                                           |
 
 ## 5.4. Protocolo de Autorização do Pedido de Inutilização
@@ -345,7 +349,7 @@ Alteração da seção 5.3.2 do MOC - Leiaute Mensagem de Retorno.
 | DR09                                                                                                                                                      | cUF                                                                                                                                                       | E                                                                                                                                                         | DR03                                                                                                                                                      | N                                                                                                                                                         | 1-1                                                                                                                                                       | 2                                                                                                                                                         | Código da UF que atendeu a solicitação                                                                                                                                                                                 |
 | Os campos a seguir são obrigatórios no caso de homologação da inutilização cStat=102. Os campos de dhRecbto e nProt não serão preenchidos em caso de erro | Os campos a seguir são obrigatórios no caso de homologação da inutilização cStat=102. Os campos de dhRecbto e nProt não serão preenchidos em caso de erro | Os campos a seguir são obrigatórios no caso de homologação da inutilização cStat=102. Os campos de dhRecbto e nProt não serão preenchidos em caso de erro | Os campos a seguir são obrigatórios no caso de homologação da inutilização cStat=102. Os campos de dhRecbto e nProt não serão preenchidos em caso de erro | Os campos a seguir são obrigatórios no caso de homologação da inutilização cStat=102. Os campos de dhRecbto e nProt não serão preenchidos em caso de erro | Os campos a seguir são obrigatórios no caso de homologação da inutilização cStat=102. Os campos de dhRecbto e nProt não serão preenchidos em caso de erro | Os campos a seguir são obrigatórios no caso de homologação da inutilização cStat=102. Os campos de dhRecbto e nProt não serão preenchidos em caso de erro | Os campos a seguir são obrigatórios no caso de homologação da inutilização cStat=102. Os campos de dhRecbto e nProt não serão preenchidos em caso de erro                                                              |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000017_e415af511c51364fbff746cc6ae93f705b17a6448ae6a4764deff40590211c38.png)
 
@@ -390,7 +394,7 @@ Alteração da seção 5.8.2 do MOC - Leiaute Mensagem de Retorno.
 | R19 | tpEvento     | E     | R11   | N      | 0-1     | 6      | Idem a mensagem de entrada                                                                                                                                                                          |
 | R20 | xEvento      | E     | R11   | C      | 0-1     | 5-60   | Idem a mensagem de entrada                                                                                                                                                                          |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000018_16f9b44d7aa8346688b5a463e2469c0dc4ed39aa02bfe2bba6f17dc4048fbdf6.png)
 
@@ -415,20 +419,20 @@ NT 2025.002-RTC
 | 29.1 | B25.1 | tpNFDebito   | Tipo de Nota de Débito                                    | CE    | B01   | N      | 0-1     | 2      | 01=Transferência de créditos para Cooperativas; 02=Anulação de Crédito por Saídas Imunes/Isentas; 03=Débitos de notas fiscais não processadas na apuração; 04=Multa e juros; 05=Transferência de crédito na sucessão; 06=Pagamento antecipado; 07=Perda em estoque (Perecimento, Perda, Furto, Roubo); 08=Desenquadramento do SN. |
 | 29.2 | B25.2 | tpNFCredito  | Tipo de Nota de Crédito                                   | CE    | B01   | N      | 0-1     | 2      | 01=Multa e juros; 02=Apropriação de crédito presumido de IBS sobre o saldo devedor na ZFM (art. 450, § 1º, LC 214/25); 03=Retorno por recusa total na entrega ou por não localização do destinatário na tentativa de entrega;                                                                                                     |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000019_1e248c76b8d4285a53c8bcda44970bb994cc413513c4b390e5f8fad3a259b0fd.png)
 
 | #     | ID   | Campo       | Descrição                                                                              | Ele   | Pai   | Tipo   | Ocor.   |   Tam. | Observação 04=Redução de valores;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |-------|------|-------------|----------------------------------------------------------------------------------------|-------|-------|--------|---------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 29.3  | B25a | indFinal    | Indica operação com Consumidor final                                                   | E     | B01   | N      | 1-1     |      1 | 0=Normal; 1=Consumidor final;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| 29.4  | B25b | indPres     | Indicador de presença do comprador no estabelecimento comercial no momento da operação | E     | B01   | N      | 1-1     |      1 | 0=Não se aplica (por exemplo, Nota Fiscal complementar ou de ajuste); 1=Operação presencial; 2=Operação não presencial, pela Internet; 3=Operação não presencial, Teleatendimento; 4=NFC-e em operação com entrega a domicílio; 5=Operação presencial, fora do estabelecimento; (incluído NT 2016/002) 9=Operação não presencial, outros.                                                                                                                                                                                                                                                                                                                                                               |
-| 29.5  | B25c | indIntermed | Indicador de intermediador/marketplace                                                 | E     | B01   | N      | 0-1     |      1 | 0=Operação sem intermediador (em site ou plataforma própria) 1=Operação em site ou plataforma de terceiros (intermediadores/marketplace) • Considera-se intermediador/marketplace os prestadores de serviços e de negócios referentes às transações comerciais ou de prestação de serviços intermediadas, realizadas por pessoas jurídicas inscritas no Cadastro Nacional de Pessoa Jurídica - CNPJ ou pessoas físicas inscritas no Cadastro de Pessoa Física - CPF, ainda que não inscritas no cadastro de contribuintes do ICMS. • Considera-se site/plataforma própria as vendas que não foram intermediadas (por marketplace), como venda em site próprio, teleatendimento. (Criado na NT 2020.006) |
+| 29.4  | B25b | indPres     | Indicador de presença do comprador no estabelecimento comercial no momento da operação | E     | B01   | N      | 1-1     |      1 | 0=Não se aplica (por exemplo, Nota Fiscal complementar ou de ajuste); 1=Operação presencial; 2=Operação não presencial, pela Internet; 3=Operação não presencial, Teleatendimento; 4=NFC-e em operação com entrega a domicílio; 5=Operação presencial, fora do estabelecimento; (incluído [NT 2016/002](../../../nfe/notas-tecnicas/nt-2016-002-v1-61/document.md)) 9=Operação não presencial, outros.                                                                                                                                                                                                                                                                                                                                                               |
+| 29.5  | B25c | indIntermed | Indicador de intermediador/marketplace                                                 | E     | B01   | N      | 0-1     |      1 | 0=Operação sem intermediador (em site ou plataforma própria) 1=Operação em site ou plataforma de terceiros (intermediadores/marketplace) • Considera-se intermediador/marketplace os prestadores de serviços e de negócios referentes às transações comerciais ou de prestação de serviços intermediadas, realizadas por pessoas jurídicas inscritas no Cadastro Nacional de Pessoa Jurídica - CNPJ ou pessoas físicas inscritas no Cadastro de Pessoa Física - CPF, ainda que não inscritas no cadastro de contribuintes do ICMS. • Considera-se site/plataforma própria as vendas que não foram intermediadas (por marketplace), como venda em site próprio, teleatendimento. (Criado na [NT 2020.006](../../../nfe/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/document.md)) |
 | 29.6  | B25d | cIndOp      | Código indicador do local da operação de fornecimento                                  | E     | B01   | N      | 0-1     |      6 | Preenchimento obrigatório no caso de: - Leilão judicial ou Licitação promovida pelo poder público (cIndOp=010104) - Constatação de irregularidade pela falta de documentação fiscal ou pelo acobertamento por documentação inidônea (cIndOp=010105) Observação: Consultar tabela 'Código Indicador do Local de Operação'.                                                                                                                                                                                                                                                                                                                                                                               |
 | 29f   | B31  | gCompraGov  | Grupo de Compra Governamental                                                          | G     | B01   | -      | 0-1     |        | Observação: movido para 'Grupo BB. Grupo de Compras Governamentais', para compatibilização com o esquema XML.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | 29f.1 | B32  | tpEnteGov   | Tipo de ente governamental                                                             | E     | B31   | N      | 1-1     |      1 | Para administração pública direta e suas autarquias e fundações: 1=União 2=Estado                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000020_e415af511c51364fbff746cc6ae93f705b17a6448ae6a4764deff40590211c38.png)
 
@@ -497,7 +501,7 @@ Sem alterações.
 
 ![Image](assets/image_000021_16f9b44d7aa8346688b5a463e2469c0dc4ed39aa02bfe2bba6f17dc4048fbdf6.png)
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000022_fbcb9e4216af9c7d02480767fad9439682044890d9edeef825f459352a8f6fbb.png)
 
@@ -527,7 +531,7 @@ NT 2025.002-RTC
 | 324.36  | UB36  | gIBSMun    | Grupo de Informações do IBS para o município                                                                         | G     | UB15  | -      | 1-1     | -      |                                                                                                                                                                   |
 | 324.37  | UB37  | pIBSMun    | Alíquota do IBS de competência do Município (em percentual)                                                          | E     | UB36  | N      | 1-1     | 3v2-4  | Alíquota vigente do IBS do Município. Preencher de acordo com a tabela de alíquotas do IBS e CBS.                                                                 |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000023_1e248c76b8d4285a53c8bcda44970bb994cc413513c4b390e5f8fad3a259b0fd.png)
 
@@ -553,7 +557,7 @@ NT 2025.002-RTC
 | 324.61  | UB61  | vDif      | Valor do Diferimento                                                                                    | E     | UB59  | N      | 1-1     | 13v2   |                                                                                                                                                                   |
 | 324.62  | UB62  | gDevTrib  | Grupo de Informações da devolução de tributos                                                           | G     | UB55  | -      | 0-1     |        | Grupo usado para registrar a devolução de tributos no fornecimento de energia elétrica, água, esgoto, gás natural e em outras hipóteses definidas no regulamento. |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000024_1e248c76b8d4285a53c8bcda44970bb994cc413513c4b390e5f8fad3a259b0fd.png)
 
@@ -573,7 +577,7 @@ NT 2025.002-RTC
 | 324.67  | UB67  | vCBS            | Valor da CBS                                                                | E     | UB55  | N      | 1-1     | 13v2   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | 324.68  | UB68  | gTribRegular    | Grupo de informações da Tributação Regular                                  | G     | UB15  | -      | 0-1     | -      | Grupo de informações da Tributação Regular. Informar como seria a tributação caso não cumprida a condição resolutória/suspensiva.                                                                                                                                                                                                                                                                                                                                           |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000025_16f9b44d7aa8346688b5a463e2469c0dc4ed39aa02bfe2bba6f17dc4048fbdf6.png)
 
@@ -601,7 +605,7 @@ NT 2025.002-RTC
 | 324.87  | UB87  | adRemCBS           | Alíquota ad rem da CBS                                                                             | E     | UB84a | N      | 1-1     | 3v2-4  |                                                                                                                                                                 |
 | 324.88  | UB88  | vIBSMono           | Valor do IBS monofásico                                                                            | E     | UB84a | N      | 1-1     | 13v2   | O valor do imposto é obtido pela multiplicação da alíquota ad rem pela quantidade do produto                                                                    |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000026_1e248c76b8d4285a53c8bcda44970bb994cc413513c4b390e5f8fad3a259b0fd.png)
 
@@ -621,7 +625,7 @@ NT 2025.002-RTC
 | 324.98  | UB98  | adRemCBSRet   | Alíquota ad rem da CBS retida anteriormente                                                                      | E     | UB94  | N      | 1-1     | 3v2-4  | Alíquota ad rem da CBS, estabelecida na legislação para o produto.                                                                                                                                                                                                                                                                                 |
 | 324.98a | UB98a | vCBSMonoRet   | Valor da CBS retida anteriormente                                                                                | E     | UB94  | N      | 1-1     | 13v2   | O valor da CBS é obtido pela multiplicação da alíquota ad rem pela quantidade do produto                                                                                                                                                                                                                                                           |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000027_fbcb9e4216af9c7d02480767fad9439682044890d9edeef825f459352a8f6fbb.png)
 
@@ -647,7 +651,7 @@ NT 2025.002-RTC
 | 324.119 | UB119 | -x-                 | Sequência XML                                                                                              | G     | UB12  | -      | 0-1     | -      |                                                                                                                                                                                                                                                                                                                                        |
 | 324.120 | UB120 | gCredPresOper       | Crédito Presumido da Operação                                                                              | CG    | UB119 | -      | 1-1     | -      | Observação 1: a permissão ou vedação do preenchimento deste grupo está condicionada ao indicador 'ind_gCredPresOper' da tabela de cClassTrib do IBS e da CBS. Observação 2: O valor "1" do indicador 'ind_gCredPresOper' significa que o contribuinte pode utilizar o crédito presumido, sem obrigatoriedade (permite, mas não exige). |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000028_1e248c76b8d4285a53c8bcda44970bb994cc413513c4b390e5f8fad3a259b0fd.png)
 
@@ -696,7 +700,7 @@ NT 2025.002-RTC
 | 355.4 | W34  | IBSCBSTot | Totais da NF-e com IBS e CBS      | G     | W01   | -      | 0-1     | -      | O grupo de valores totais da NF-e deve ser informado com o somatório do campo correspondente dos itens. O IBS e a CBS são 'por fora' , por isso seus valores devem ser adicionados ao valor total da NF. |
 | 355.5 | W35  | vBCIBSCBS | Valor total da BC do IBS e da CBS | E     | W34   | N      | 1-1     | 13v2   |                                                                                                                                                                                                          |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000030_1e248c76b8d4285a53c8bcda44970bb994cc413513c4b390e5f8fad3a259b0fd.png)
 
@@ -742,7 +746,7 @@ NT 2025.002-RTC
 |---------|----------|---------------------------------------------------------------------|-------------------------------------------------------------|
 | B10a-10 |       65 | NFC-e com data de previsão de entrega (tag: dPrevEntrega, id: B10a) | Obrig. 1153 Rejeição: NFC-e com data de previsão de entrega |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000031_e415af511c51364fbff746cc6ae93f705b17a6448ae6a4764deff40590211c38.png)
 
@@ -754,12 +758,12 @@ NT 2025.002-RTC
 | B10a-50 |       55 | Se modalidade do frete (tag: modFrete, id: X02) igual "1" (Contratação do Frete por conta do Destinatário - FOB), "4" (Transporte Próprio por conta do Destinatário) ou "9" (Sem Ocorrência de Transporte): - Proibido informar data de previsão de entrega (tag: dPrevEntrega, id: B10a)                                                                                                                  | Obrig.   |  1157 | Rejeição: Data de previsão de entrega não permitida para a modalidade de frete informada   |
 | B25-30  |       55 | Se NF-e complementar (tag: finNFe=2) ou NF-e de Crédito do tipo 1-Multa e Juros (tag: tpNFCredito=1) ou do tipo 3-Retorno (tag: tpNFCredito=3) ou do tipo 4-Redução de Valores (tag: tpNFCredito=4): - Não informado NF referenciada (tag: NFref)                                                                                                                                                          | Obrig.   |   254 | Rejeição: NF-e não possui NF referenciada                                                  |
 | B25-40  |       55 | Se NF-e complementar (tag:finNFe=2) ou NF-e de Crédito do tipo 1-Multa e Juros (tag: tpNFCredito=1) ou do tipo 3-Retorno (tag: tpNFCredito=3) ou do tipo 4-Redução de Valores (tag: tpNFCredito=4): - NF referenciada com mais de uma ocorrência (tag: NFref)                                                                                                                                              | Obrig.   |   255 | Rejeição: NF-e possui mais de uma NF referenciada                                          |
-| B25-50  |       55 | Se NF-e complementar (tag:finNFe=2) ou NF-e de Crédito do tipo 3-Retorno (tag: tpNFCredito=3) ou do tipo 4-Redução de Valores (tag: tpNFCredito=4): - CNPJ/CPF emitente da NF Referenciada difere do CNPJ/CPF emitente desta NF-e (NT 2018.001)                                                                                                                                                            | Obrig.   |   269 | Rejeição: CNPJ/CPF Emitente da NF-e difere do CNPJ/CPF da NF Referenciada                  |
-| B25-60  |       55 | Se NF-e complementar (tag: finNFe=2) ou NF-e de Crédito do tipo 3-Retorno (tag: tpNFCredito=3) ou do tipo 4-Redução de Valores (tag: tpNFCredito=4): - UF da NF-e referenciada diferente da UF do emitente (NT 2013/003)                                                                                                                                                                                   | Obrig.   |   678 | Rejeição: NF referenciada com UF diferente desta NF-e                                      |
+| B25-50  |       55 | Se NF-e complementar (tag:finNFe=2) ou NF-e de Crédito do tipo 3-Retorno (tag: tpNFCredito=3) ou do tipo 4-Redução de Valores (tag: tpNFCredito=4): - CNPJ/CPF emitente da NF Referenciada difere do CNPJ/CPF emitente desta NF-e ([NT 2018.001](../../../nfe/notas-tecnicas/nt2018-001-v1-10-emitente-cpf/document.md))                                                                                                                                                            | Obrig.   |   269 | Rejeição: CNPJ/CPF Emitente da NF-e difere do CNPJ/CPF da NF Referenciada                  |
+| B25-60  |       55 | Se NF-e complementar (tag: finNFe=2) ou NF-e de Crédito do tipo 3-Retorno (tag: tpNFCredito=3) ou do tipo 4-Redução de Valores (tag: tpNFCredito=4): - UF da NF-e referenciada diferente da UF do emitente ([NT 2013/003](../../../nfe/notas-tecnicas/nt2013-003-v1-00a-lei-transparencia/document.md))                                                                                                                                                                                   | Obrig.   |   678 | Rejeição: NF referenciada com UF diferente desta NF-e                                      |
 | B25-65  |       55 | Se NF-e de Crédito do tipo 2-Apropriação de Crédito Presumido de IBS sobre o saldo devedor na ZFM (tag: tpNFCredito=2): - Informado NF referenciada (tag: NFref)                                                                                                                                                                                                                                           | Obrig.   |  1027 | Rejeição: NF referenciada informada indevidamente                                          |
 | B25-80  |       55 | Se finalidade da NF-e igual a crédito ou débito (tag:finNFe=5 ou 6) ou tpOperGov=2- Recebimento do pagamento: - Informado ICMS (tag: ICMS), ISSQN (tag: ISSQN), IPI (tag: IPI), II (tag: II), PIS (tag: PIS), PIS ST (tag: PISST), COFINS (tag: COFINS), COFINS ST (tag: COFINSST), ICMS UF Destino (tag: ICMSUFDest) ou Imposto Devolvido (tag: impostoDevol). Exceção: a regra acima não se aplica para: | Obrig.   |  1001 | Rejeição: NF-e com finalidade de débito ou crédito somente para IBS/CBS                    |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000032_1e248c76b8d4285a53c8bcda44970bb994cc413513c4b390e5f8fad3a259b0fd.png)
 
@@ -783,7 +787,7 @@ NT 2025.002-RTC
 | B25d-20  | 55       | Se informado o código indicador do local da operação de fornecimento (tag: cIndOp): - cIndOp informado possui indicador que não permite ser utilizado na NF-e (indNFe = 0) Observação: Consultar tabela 'Código Indicador de Local da Operação' .                                 | Obrig.        | 1102      | Rejeição: Código indicador do local de operação de fornecimento não permitido neste modelo de DFe           |
 | B25d-30  | 55       | Se informado o código indicador do local da operação de fornecimento (tag: cIndOp) e cIndOp = '010104' ou '010105': - Local de Retirada não informado (grupo: retirada, id: F01)                                                                                                  | Obrig.        | 1110      | Rejeição: Local de Retirada não informado                                                                   |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ## Grupo BB. Grupo de Compras Governamentais
 
@@ -798,7 +802,7 @@ NT 2025.002-RTC
 | BB05-30        |       55 | Se o tipo da operação com ente governamental for igual a 2-Recebimento do pagamento com fornecimento já realizado (tpOperGov=2): - Informado indevidamente mais de uma chave de acesso do DFe anterior (refDFeAnt)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Obrig.   |  1197 | Rejeição: Referenciado mais de um DFe anterior em operação com ente governamental na operação de recebimento do pagamento com fornecimento já realizado                                |
 | BB05-40        |       55 | Se o tipo da operação com ente governamental for igual a 3-Fornecimento com pagamento já realizado (tpOperGov=3): - Chave de acesso do DFe anterior (gCompraGov/refDFeAnt) não informada                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Obrig.   |  1198 | Rejeição: Não referenciado DFe anterior em operação com ente governamental na operação de fornecimento com pagamento já realizado                                                      |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000034_e415af511c51364fbff746cc6ae93f705b17a6448ae6a4764deff40590211c38.png)
 
@@ -815,7 +819,7 @@ NT 2025.002-RTC
 | BB05-130 |       55 | Se informado chave de acesso do documento fiscal anterior no grupo de compras governamentais (gCompraGov/refDFeAnt): - Para cada chave de acesso referenciada (refDFeAnt): - Chave de Acesso referenciada com Número zerado                                                                                                                                                                                                                                                      | Obrig.   |  1210 | Rejeição: DFe referenciado em operação com ente governamental com Número inválido [nOcor:nnn]                                                           |
 | BB05-140 |       55 | Se informado chave de acesso do documento fiscal anterior no grupo de compras governamentais (gCompraGov/refDFeAnt): - Para cada chave de acesso referenciada (refDFeAnt): - Verificar duplicidade da NF-e referenciada (duplicidade de chave de acesso)                                                                                                                                                                                                                         | Obrig.   |  1211 | Rejeição: DFe referenciado em operação com ente governamental em duplicidade [nOcor:nnn]                                                                |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000035_1e248c76b8d4285a53c8bcda44970bb994cc413513c4b390e5f8fad3a259b0fd.png)
 
@@ -834,7 +838,7 @@ NT 2025.002-RTC
 |----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 | C22-10         | 55/65 Se Inscrição do emitente na SUFRAMA (emit/ISUFemit) informada: - Município do Emitente (tag:emit/cMun) diferente de: ZFM: 1302603-Manaus, 1303569-Rio Preto da Eva, 1301902-Itacoatiara | Obrig. 1185 Rejeição: Município do Emitente não pertence à área incentivada - CBS |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000036_e415af511c51364fbff746cc6ae93f705b17a6448ae6a4764deff40590211c38.png)
 
@@ -856,17 +860,17 @@ NT 2025.002-RTC
 | I05k-10 |       65 | Se informada a Classificação para subapuração do IBS na ZFM (tag: tpCredPresIBSZFM, id:I05k): - Modelo igual a 65                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Obrig.   |  1165 | Rejeição: Não é permitido informar a classificação para subapuração do IBS na ZFM na NFC-e modelo 65 [nItem: 999] |
 | I05k-20 |       55 | Se informada a Classificação para subapuração do IBS na ZFM (tag: tpCredPresIBSZFM, id:I05k): - UF do Emitente difere de AC-Acre, ou AM-Amazonas, ou RO-Rondônia, ou RR- Roraima, ou AP-Amapá (só para municípios 1600303-Macapá e 1600600-Santana)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Obrig.   |  1166 | Rejeição: Classificação para subapuração do IBS na ZFM informado indevidamente. [nItem: 999]                      |
 | I05k-30 |       55 | Se não informada a Classificação para subapuração do IBS na ZFM (tag: tpCredPresIBSZFM, id:I05k): - Código da UF do Emitente do Documento Fiscal (tag:ide/cUF) igual a 13-AM e emitente com inscrição de indústria incentivada. Observação 01: Regra de Validação se aplica somente ao Amazonas. Observação 02: Implementação futura.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Obrig.   |  1167 | Rejeição: Classificação para subapuração do IBS na ZFM não informada [nItem: 999]                                 |
-| I08-140 |       55 | Para NF-e com finalidade de devolução de mercadoria (tag: finNFe = 4) ou de Nota de Crédito (tag: finNFe =5) do tipo '03=Retorno por Recusa Total na Entrega ou Por Não Localização do Destinatário na Tentativa de Entrega' (tag: tpNFCredito=03) ou do tipo '06=Retorno por Recusa Parcial na Entrega' (tag: tpNFCredito=06), somente serão aceitos CFOPs de devolução de mercadoria. Observação 1: Vide relação de CFOP de devolução de mercadoria na tabela de apoio publicada no Portal da NF-e (Tabela CFOP, indDevol=1). Observação 2: A partir de 01/07/2024 em homologação e 01/04/2025 em produção, se CRT (id:C21) igual 4 com finalidade de devolução de mercadoria (tag:finNFe=4), somente serão aceitos CFOP 1.202, 1.553, 2.202,2.553, 5.202 e 6.202. (Regra substituída pela RV I08-141, com alteração na redação) Exceção 1: Aceitar os CFOP 1.949 e 2.949 na devolução de venda para não Contribuinte. Para estes CFOP verificar a condição: - tag:finNFe = 4 (devolução) e tag:indIEDest = 9 (não Contribuinte) (NT 2015.002) | Obrig.   |   327 | Rejeição: CFOP inválido para Nota Fiscal de devolução ou de retorno de mercadoria [nItem:nnn]                     |
+| I08-140 |       55 | Para NF-e com finalidade de devolução de mercadoria (tag: finNFe = 4) ou de Nota de Crédito (tag: finNFe =5) do tipo '03=Retorno por Recusa Total na Entrega ou Por Não Localização do Destinatário na Tentativa de Entrega' (tag: tpNFCredito=03) ou do tipo '06=Retorno por Recusa Parcial na Entrega' (tag: tpNFCredito=06), somente serão aceitos CFOPs de devolução de mercadoria. Observação 1: Vide relação de CFOP de devolução de mercadoria na tabela de apoio publicada no Portal da NF-e (Tabela CFOP, indDevol=1). Observação 2: A partir de 01/07/2024 em homologação e 01/04/2025 em produção, se CRT (id:C21) igual 4 com finalidade de devolução de mercadoria (tag:finNFe=4), somente serão aceitos CFOP 1.202, 1.553, 2.202,2.553, 5.202 e 6.202. (Regra substituída pela RV I08-141, com alteração na redação) Exceção 1: Aceitar os CFOP 1.949 e 2.949 na devolução de venda para não Contribuinte. Para estes CFOP verificar a condição: - tag:finNFe = 4 (devolução) e tag:indIEDest = 9 (não Contribuinte) ([NT 2015.002](../../../nfe/notas-tecnicas/nt-2015-002-v141-23-08-2016/document.md)) | Obrig.   |   327 | Rejeição: CFOP inválido para Nota Fiscal de devolução ou de retorno de mercadoria [nItem:nnn]                     |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000037_e415af511c51364fbff746cc6ae93f705b17a6448ae6a4764deff40590211c38.png)
 
 | Campo   |   Modelo | Regra de Validação                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Aplic.   | Msg Descrição Erro                                                                                                     |
 |---------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------|
-|         |          | Exceção 2: Aceitar os CFOP 5.949 e 6.949 na devolução simbólica- de gás natural (NCM 27112100) nos termos do Ajuste SINIEF nº 22/21 (NT 2021.004)                                                                                                                                                                                                                                                                                                                                                                                                                                                    |          |                                                                                                                        |
+|         |          | Exceção 2: Aceitar os CFOP 5.949 e 6.949 na devolução simbólica- de gás natural (NCM 27112100) nos termos do Ajuste SINIEF nº 22/21 ([NT 2021.004](../../../nfe/notas-tecnicas/nt2021-004v1-35-novos-campos-e-regras/document.md))                                                                                                                                                                                                                                                                                                                                                                                                                                                    |          |                                                                                                                        |
 | I08-141 |       55 | Se informado CRT (id:C21) igual 4-MEI e idDest<>3: - Se finalidade de devolução de mercadoria (tag:finNFe=4) ou tipo de nota de crédito igual a ' 03-Retorno por Recusa Total na Entrega ou Por Não Localização do Destinatário na Tentativa de Entrega' (tag: tpNFCredito=03) ou igual a ' 06-Retorno por Recusa Parcial na Entrega' (tag: tpNFCredito=06): - Somente serão aceitos CFOP 1.202, 1.553, 2.202,2.553, 5.202 e 6.202                                                                                                                                                                   | Obrig.   | 1179 Rejeição: CFOP inválido para Nota Fiscal de devolução ou de retorno de mercadoria emitida por MEI [nItem:nnn]     |
-| I08-144 |       55 | Para as NF-e que não tem a finalidade de devolução de mercadoria (tag:finNFe não é '2" nem '4"), não serão aceitos CFOP de devolução de mercadoria. (NT 2013/005) Exceção: Esta regra não se aplica para Nota de Crédito (tag:finNFe =5) do '03 -Retorno por Recusa Total na Entrega ou Por Não Localização do Destinatário na Tentativa de Entrega' (tag: tpNFCredito=03) ou '06 - Retorno por Recusa Parcial na Entrega' (tag: tpNFCredito=06). Observação: Vide relação de CFOP de devolução de mercadoria natabela de apoio publicada no Portal da NF-e (Tabela CFOP, indDevol=1). (NT 2015.002) | Obrig.   | 328 Rejeição: CFOP de devolução de mercadoria para NF-e que não é de devolução ou de retorno de mercadoria [nItem:nnn] |
+| I08-144 |       55 | Para as NF-e que não tem a finalidade de devolução de mercadoria (tag:finNFe não é '2" nem '4"), não serão aceitos CFOP de devolução de mercadoria. ([NT 2013/005](../../../nfe/notas-tecnicas/nt2013-005-v1-22/document.md)) Exceção: Esta regra não se aplica para Nota de Crédito (tag:finNFe =5) do '03 -Retorno por Recusa Total na Entrega ou Por Não Localização do Destinatário na Tentativa de Entrega' (tag: tpNFCredito=03) ou '06 - Retorno por Recusa Parcial na Entrega' (tag: tpNFCredito=06). Observação: Vide relação de CFOP de devolução de mercadoria natabela de apoio publicada no Portal da NF-e (Tabela CFOP, indDevol=1). ([NT 2015.002](../../../nfe/notas-tecnicas/nt-2015-002-v141-23-08-2016/document.md)) | Obrig.   | 328 Rejeição: CFOP de devolução de mercadoria para NF-e que não é de devolução ou de retorno de mercadoria [nItem:nnn] |
 
 ## Grupo LA. Item / Combustível
 
@@ -881,7 +885,7 @@ NT 2025.002-RTC
 | N11-10  | 55/65    | Se informado o grupo 'ICMS' (id: N01) e CRT (id:C21) diferente de 4 e não informado o campo orig (ou valor "nulo") (id: N11): - Obrigatório o preenchimento da origem da mercadoria (id: N11) Exceção: A regra acima não se aplica para a NF-e de Crédito (finNFe=5) e para NF-e de Débito (finNFe=6).                                                                                                                                                                                                                                                                                                                                                           | Obrig.   | 966 Rejeição: Obrigatório o preenchimento da origem da mercadoria [nItem:nnn]                                       |
 | N12-110 | 55/65    | Se produto (tag: cProdANP) está presente na Tabela de Combustíveis Sujeitos à Tributação Monofásica (coluna cProdANP): - Obrigatório o preenchimento de CST de tributação monofásica sobre combustíveis (CST= 02, 15, 53, 61) Exceção: A regra acima não se aplica para a NF-e de Crédito (finNFe=5) e NF-e de Débito (finNFe=6). Observação 1: Tabela de Combustíveis Sujeitos à Tributação Monofásica publicada na aba 'Documentos', opção 'Diversos' do Portal Nacional da Nota Fiscal Eletrônica Observação 2: Regra válida a partir de 25/09/2023 em homologação e 30/10/2023 em produção. Observação 3: Também poderão ser aceitos os CST 40, 41, 50 e 90. | Obrig.   | 960 Rejeição: Obrigatório o preenchimento de Grupo de Tributação do ICMS monofásica sobre combustíveis. [nItem:999] |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ## Grupo NA. Item / ICMS para a UF de Destino
 
@@ -889,7 +893,7 @@ NT 2025.002-RTC
 
 | Campo   |   Modelo | Regra de Validação                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Aplic.   |   Msg | Descrição Erro                                                            |
 |---------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------|---------------------------------------------------------------------------|
-| NA01-20 |       55 | Não informado grupo de ICMS para a UF de Destino (tag:ICMSUFDest): - Operação Interestadual (idDest=2) e - Operação com Consumidor Final (indFinal=1) e - Operação com Não Contribuinte (indIEDest=9) e - Não é operação de prestação de serviços (não existe tag 'ISSQN"). Exceção 1: Esse grupo não deve ser exigido se o Grupo de Partilha do ICMS (campo ICMSPart) estiver preenchido. Exceção 2: A regra de validação não se aplica, em produção, para Nota Fiscal com data de emissão anterior a 01/07/2016. Exceção 3: A regra de validação não se aplica para Devolução de Mercadoria (finNFe=4) que referencie Nota Fiscal com chave de acesso anterior a 2016. Exceção 4: A regra de validação acima não se aplica para as operações com CFOP de Retorno de Mercadorias (Tabela CFOP, indRetor=1). Exceção 5: A regra de validação acima não se aplica nas NF-e de entrada (tpNF=0). Exceção 6: A regra de validação acima não se aplica nas operações com combustíveis (tag:comb) derivados de petróleo: código ANP diferente de: 820101001, 820101010, 810102001, 810102004, 810102002, 810102003, 810101002, 810101001, 810101003, 220101003, 220101004, 220101002, 220101001, 220101005, 220101006, 560101001. Exceção 7: A regra de validação acima não se aplica se informada UF do local de entrega (tag: entrega/UF) igual à UF do emitente (tag: emit/enderEmit/UF). Exceção 8: A regra de validação acima não se aplica para as operações com CFOP de Remessa de Mercadoria (Tabela CFOP, indRemes=1). Exceção 9: A regra de validação acima não se aplica para os CFOP: - 6.552 - Transferência de bem do ativo imobilizado; - 6.922 - Lançamento efetuado a título de simples faturamento decorrente de venda p/ entrega futura; - 6.929 - Lançamento relativo a Cupom Fiscal. Exceção 10: Esta regra de validação não se aplica nas operações isentas (CST=40-Isenta ou CSOSN=103-Isento), imunes ou não tributadas (CST=41-Não tributada, ou CSOSN=300-Imune, ou CSOSN=400-Não tributada pelo Simples Nacional). Exceção 11: A regra de validação acima não se aplica às seguintes Finalidades de NF-e: - Complementar (finNFe=2) - Ajuste (finNFe=3) - Crédito (finNFe=5) - Débito (finNFe=6) - tpOperGov=2-Recebimento do pagamento Exceção 12: A regra de validação acima não se aplica para emitentes optantes pelo Simples Nacional (CRT=1 ou 4). (NT 2017.002 / NT 2015.003) | Obrig.   |   694 | Rejeição: Não informado o grupo de ICMS para a UF de destino [nItem: 999] |
+| NA01-20 |       55 | Não informado grupo de ICMS para a UF de Destino (tag:ICMSUFDest): - Operação Interestadual (idDest=2) e - Operação com Consumidor Final (indFinal=1) e - Operação com Não Contribuinte (indIEDest=9) e - Não é operação de prestação de serviços (não existe tag 'ISSQN"). Exceção 1: Esse grupo não deve ser exigido se o Grupo de Partilha do ICMS (campo ICMSPart) estiver preenchido. Exceção 2: A regra de validação não se aplica, em produção, para Nota Fiscal com data de emissão anterior a 01/07/2016. Exceção 3: A regra de validação não se aplica para Devolução de Mercadoria (finNFe=4) que referencie Nota Fiscal com chave de acesso anterior a 2016. Exceção 4: A regra de validação acima não se aplica para as operações com CFOP de Retorno de Mercadorias (Tabela CFOP, indRetor=1). Exceção 5: A regra de validação acima não se aplica nas NF-e de entrada (tpNF=0). Exceção 6: A regra de validação acima não se aplica nas operações com combustíveis (tag:comb) derivados de petróleo: código ANP diferente de: 820101001, 820101010, 810102001, 810102004, 810102002, 810102003, 810101002, 810101001, 810101003, 220101003, 220101004, 220101002, 220101001, 220101005, 220101006, 560101001. Exceção 7: A regra de validação acima não se aplica se informada UF do local de entrega (tag: entrega/UF) igual à UF do emitente (tag: emit/enderEmit/UF). Exceção 8: A regra de validação acima não se aplica para as operações com CFOP de Remessa de Mercadoria (Tabela CFOP, indRemes=1). Exceção 9: A regra de validação acima não se aplica para os CFOP: - 6.552 - Transferência de bem do ativo imobilizado; - 6.922 - Lançamento efetuado a título de simples faturamento decorrente de venda p/ entrega futura; - 6.929 - Lançamento relativo a Cupom Fiscal. Exceção 10: Esta regra de validação não se aplica nas operações isentas (CST=40-Isenta ou CSOSN=103-Isento), imunes ou não tributadas (CST=41-Não tributada, ou CSOSN=300-Imune, ou CSOSN=400-Não tributada pelo Simples Nacional). Exceção 11: A regra de validação acima não se aplica às seguintes Finalidades de NF-e: - Complementar (finNFe=2) - Ajuste (finNFe=3) - Crédito (finNFe=5) - Débito (finNFe=6) - tpOperGov=2-Recebimento do pagamento Exceção 12: A regra de validação acima não se aplica para emitentes optantes pelo Simples Nacional (CRT=1 ou 4). ([NT 2017.002](../../../nfe/notas-tecnicas/nt-2017-002-v1-40-tabela-cfop/document.md) / [NT 2015.003](../../../nfe/notas-tecnicas/nt-2015-003-v194/document.md)) | Obrig.   |   694 | Rejeição: Não informado o grupo de ICMS para a UF de destino [nItem: 999] |
 
 ## Grupo Q. Item / Tributo: PIS
 
@@ -916,7 +920,7 @@ NT 2025.002-RTC
 
 ![Image](assets/image_000039_fbcb9e4216af9c7d02480767fad9439682044890d9edeef825f459352a8f6fbb.png)
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000040_16f9b44d7aa8346688b5a463e2469c0dc4ed39aa02bfe2bba6f17dc4048fbdf6.png)
 
@@ -929,7 +933,7 @@ NT 2025.002-RTC
 | UB11-10 | 55/65    | Se informado imposto seletivo (tag: imposto/IS): Valor do IS (vIS) = BC (tag: vBCIS) * (Alq (tag: pIS) / 100) Observação 1: Se informada alíquota específica (tag: IS/pISEspec): Valor do IS (vIS) = BC (tag: vBCIS) * (Alq (tag: pIS) / 100) + qtd (tag: IS/qTrib) * (Alq (tag: IS/pISEspec) / 100) Observação 2: Aceitar uma tolerância de 0,01 a mais ou a menos. Nota: Implementação Futura.                                                                                                                                                                                                                                                                                                                                                                                                              | Obrig.   |  1019 | Rejeição: Valor do Imposto Seletivo difere do calculado [nItem: 999]                                                 |
 | UB12-10 | 55/65    | Não informado grupo de imposto IBS e CBS (tag: det/imposto/IBSCBS) Exceção 1 : Não se aplica à NFe de devolução de mercadorias (tag: finNFe = 4) ou NFe complementar (tag: finNFe = 2) que referencia NFe com data de emissão anterior a 2026. Exceção 2: Não se aplica caso informado campo cProdANP (id: LA02) e produto está presente na Tabela de Combustíveis Sujeitos à Tributação Monofásica (coluna cProdANP). Observação 1: implementação futura para homologação . Observação 1 : implementação em homologação para NFe com data de emissão maior ou igual a 01/07/2026 e emitente com CRT 3=Regime Normal. Observação 2 : implementação futura para produção. Observação 2: implementação em produção para NFe com data de emissão maior ou igual a 03/08/2026 e emitente com CRT 3=Regime Normal. | Obrig.   |  1115 | Rejeição: IBS/CBS não informado [nItem: 999]                                                                         |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000041_16f9b44d7aa8346688b5a463e2469c0dc4ed39aa02bfe2bba6f17dc4048fbdf6.png)
 
@@ -946,7 +950,7 @@ NT 2025.002-RTC
 | UB14-10 | 55/65    | Se cClassTrib (id: UB14, tag: IBSCBS/cClassTrib) for informado: - cClassTrib inexistente                                                                                                                                                                                                                                                                                                                                                                                                | Obrig.   |  1023 | Rejeição: Classificação Tributária do IBS/CBS informada inexistente [nItem: 999]                           |
 | UB14-20 | 55/65    | Se cClassTrib (id: UB14, tag: IBSCBS/cClassTrib) for informado: - cClassTrib incompatível com CST (tag: IBSCBS/CST) Observação: Consultar Tabela de Código de Classificação Tributária do IBS e CBS.                                                                                                                                                                                                                                                                                    | Obrig.   |  1024 | Rejeição: Rejeição: Classificação Tributária do IBS e da CBS incompatível com o CST informado [nItem: 999] |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000042_1e248c76b8d4285a53c8bcda44970bb994cc413513c4b390e5f8fad3a259b0fd.png)
 
@@ -959,7 +963,7 @@ NT 2025.002-RTC
 | -- cClassTrib x tpNFCredito / tpNFDebito -- | -- cClassTrib x tpNFCredito / tpNFDebito -- | -- cClassTrib x tpNFCredito / tpNFDebito --                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | -- cClassTrib x tpNFCredito / tpNFDebito -- | -- cClassTrib x tpNFCredito / tpNFDebito --                                                                                             | -- cClassTrib x tpNFCredito / tpNFDebito -- |
 | UB14-60                                     | 55                                          | Validar se cClassTrib é compatível com o tpNFDebito OU tpNFCredito, de acordo com a tabela abaixo: cClassTrib tpNFDebito tpNFCredito 410030-Estorno de crédito por perda 07 - 800001-Fusão, cisão ou incorporação 05 05 800002-Transferência de crédito do associado 01 - 810001-Crédito presumido IBS ZFM - 02 811001-Anulação Crédito por Saída Imune/Isenta 02 - 811002-Débito de NF não processada na apuração 03 - 811003-Desenquadramento Simples Nacional 08 -                                                                                   | Obrig.                                      | 1202 Rejeição: cClassTrib incompatível com a finalidade da nota ou com o tipo de Nota de Débito ou Crédito [nItem: 999]                 |                                             |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000043_fbcb9e4216af9c7d02480767fad9439682044890d9edeef825f459352a8f6fbb.png)
 
@@ -969,7 +973,7 @@ NT 2025.002-RTC
 | UB14-80 | 55       | Se informado tipo de nota de crédito (tag: tpNFCredito): - Validar se tpNFCredito é compatível com o cClassTrib, de acordo com a tabela abaixo: tpNFCredito cClassTrib 01=Multa e Juros Não limitar 02=Apropriação de crédito presumido de IBS sobre o saldo devedor na ZFM (art. 450, § 1º, LC 214/25) 810001 03=Retorno por recusa total na entrega ou por não localização do destinatário na tentativa de entrega Não limitar 04=Redução de valores Não limitar 05=Transferência de crédito na sucessão 800001 06=Retorno por recusa parcial na entrega Não limitar | Obrig. |         1201 | Rejeição: cClassTrib incompatível com o tipo de Nota de Crédito [nItem: 999]                               |
 | UB16-10 | 55/65    | Valor da Base de cálculo do IBS e CBS (gIBSCBS/vBC) deve ser igual ao somatório de: (+) vProd (+) vServ (+) vFrete (+) vSeg (+) vOutro (+) vII (-) vDesc (-) vPIS (-) vCOFINS (-) vICMS (-) vICMSUFDest (-) vFCP (-) vFCPUFDest (-) vICMSMono (-) vISSQN (+) vIS                                                                                                                                                                                                                                                                                                       | Obrig. |         1104 | Rejeição: Valor da Base de cálculo do IBS e CBS difere do somatório dos valores que a compõem [nItem: 999] |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000044_fbcb9e4216af9c7d02480767fad9439682044890d9edeef825f459352a8f6fbb.png)
 
@@ -984,7 +988,7 @@ NT 2025.002-RTC
 | UB26-10 | 55/65    | Se CST possui indicador que não permite o uso de Redução de Alíquota (ind_gRed = 0): - Grupo de Redução de Alíquota informado (grupo: gIBSUF/gRed) Exceção: Percentual de redução da alíquota em compra governamental (tag:gCompraGov/pRedutor) informado e gIBSUF/gRed/pRedAliq igual a zero. Observação: Consultar Tabela de Indicadores de CST do IBS e CBS.                                                                                                                                                                                        | Obrig.   |  1032 | Rejeição: CST do IBS/CBS informado não permite informação de redução de alíquota Estadual [nItem: 999] |
 | UB26-20 | 55/65    | Se CST possui indicador que exige o uso de Redução de Alíquota (ind_gRed = 1), ou foi informado o grupo de compras governamentais (tag:gCompraGov): - Grupo de Redução de Alíquota Estadual não informado (grupo: gIBSUF/gRed) Exceção: A regra não se aplica para CST do IBS/CBS (tag: IBSCBS/CST) que possui indicador que não permite a informação do IBS/CBS (ind_gIBSCBS = 0). Observação: Consultar Tabela de Indicadores de CST do IBS e CBS.                                                                                                   | Obrig.   |  1033 | Rejeição: Não informado o grupo de redução de alíquota Estadual [nItem: 999]                           |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000045_e415af511c51364fbff746cc6ae93f705b17a6448ae6a4764deff40590211c38.png)
 
@@ -995,7 +999,7 @@ NT 2025.002-RTC
 | UB35-10 | 55/65    | Se informado grupo IBS de competência das Unidades Federadas (gIBSUF): - Valor do IBS Estadual (vIBSUF) deverá ser resultante de: vIBSUF = (gIBSCBS/vBC x (pIBSUF / 100)) - vDif - vDevTrib Observação 1: Aceitar uma tolerância de 0,01 a mais ou a menos Observação 2: Em caso de preenchimento do grupo de redução (gIBSUF/gRed) a alíquota utilizada deverá ser a tag Alíquota Efetiva (gIBSUF/gRed/pAliqEfet): vIBSUF = (gIBSCBS/vBC x (pAliqEfet / 100)) - vDif - vDevTrib                                                                                                                                                                                                                                             | Obrig.   |  1041 | Rejeição: Valor do IBS da UF difere do calculado [nItem: 999]                                    |
 | UB37-10 | 55/65    | Se informado grupo de IBS Municipal (gIBSMun): A alíquota de IBS do Município (pIBSMun) deverá ser: - 0% para documento com data de emissão no ano de 2025 e 2026. (Art. 343 da LC 214/25); - 0,05% para documento com data de emissão no ano de 2027 e 2028. (Art. 344 da LC 214/25); - Alíquota de referência ou específica a ser publicada para anos posteriores a 2028. Exceção 1: Se o cClassTrib possuir indicador de Tributação Regular, o pIBSMun deve ser igual a zero. Exceção 2: A regra acima não se aplica caso tpNFCredito=04-Redução de valores.                                                                                                                                                              | Obrig    |  1036 | Rejeição: Alíquota do IBS do Município inválida [nItem: 999]                                     |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000046_1e248c76b8d4285a53c8bcda44970bb994cc413513c4b390e5f8fad3a259b0fd.png)
 
@@ -1010,7 +1014,7 @@ NT 2025.002-RTC
 | UB46-10 | 55/65    | Se informado grupo de Redução de Alíquota (gIBSMun/gRed): - Se CST possui indicador que exige o uso de Redução de Alíquota (ind_gRed = 1): - Percentual de Redução de Alíquota (pRedAliq) não é válido para este cClassTrib (gIBSCBS/cClassTrib) - Se CST possui indicador que veda o uso de Redução de Alíquota (ind_gRed = 0): - Percentual de redução da alíquota em compra governamental (tag:gCompraGov/pRedutor) não informado ou gIBSUF/gRed/pRedAliq maior que a zero Observação 1: Consultar Tabela de cClassTrib do IBS e CBS. Observação 2: No caso de Compra Governamental, o grupo gRed deve ser informado e pRedAliq deve ser igual a zero, mesmo que o CST possua indicador que veda o preenchimento. | Obrig.   |  1046 | Rejeição: Percentual de redução de alíquota do Município não é válido para este cClassTrib [nItem: 999] |
 | UB47-10 | 55/65    | Se informado grupo de Redução de Alíquota (gIBSMun/gRed): - Alíquota Efetiva (tag: pAliqEfet) deve ser igual ao resultado de: - Se NÃO houver compra governamental (grupo gCompraGov não informado): pAliqEfet = pIBSMun × (1 - pRedAliq / 100). - Se houver compra governamental (grupo gCompraGov informado):                                                                                                                                                                                                                                                                                                                                                                                                      | Obrig.   |  1047 | Rejeição: Valor da Alíquota Efetiva do IBS do Município calculado incorretamente [nItem: 999]           |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000047_e415af511c51364fbff746cc6ae93f705b17a6448ae6a4764deff40590211c38.png)
 
@@ -1022,7 +1026,7 @@ NT 2025.002-RTC
 | UB56-10  | 55/65    | Alíquota da CBS (tag: pCBS) deve ser igual a 0,9% para documento com data de emissão no ano de 2025 e 2026. Art. 346 da LC 214/2025. Exceção 1: Se o cClassTrib possuir indicador de Tributação Regular (ind_gTribRegular = 1), o pCBS deve ser igual a zero.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Obrig.   |  1037 | Rejeição: Alíquota da CBS inválida [nItem: 999]                        |
 | UB56-10  |          | Exceção 2: A regra acima não se aplica caso tpNFCredito=04-Redução de valores. Exceção 2 3: A Alíquota da CBS (tag: pCBS) pode ser igual a zero quando as duas condições abaixo forem atendidas: Condição 01: NCM do Produto (tag: prod/NCM) NÃO inicia por : a) 93 (armas e munições); b) 24 (fumos e derivados); c) 2203 a 2208 (bebidas alcoólicas); d) 8703 (automóveis de passageiros); e) 33, exceto 3303 a 3307 (produtos de perfumaria ou de toucador). Condição 02: Emitente e destinatário devem estar na mesma área incentivada (ou seja, emitente e destinatário dentro da ZFM, ou emitente e destinatário na mesma ALC), conforme relação abaixo: - ZFM: AC-Acre, AM-Amazonas, RO-Rondônia, RR-Roraima, AP-Amapá (só para municípios 1600303-Macapá e 1600600-Santana); - ZFM: 1302603-Manaus, 1303569-Rio Preto da Eva, 1301902-Itacoatiara - ALC: conforme tabela abaixo: Município Emitente Município Destinatário 1304062-Tabatinga 1304062-Tabatinga |          |       |                                                                        |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000048_1e248c76b8d4285a53c8bcda44970bb994cc413513c4b390e5f8fad3a259b0fd.png)
 
@@ -1046,7 +1050,7 @@ NT 2025.002-RTC
 |         |          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | 1200252-Epitaciolândia (AC) |          |       |                  |
 |         |          | 1200104-Brasileia (AC)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | 1200203-Cruzeiro do Sul(AC) |          |       |                  |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000050_1e248c76b8d4285a53c8bcda44970bb994cc413513c4b390e5f8fad3a259b0fd.png)
 
@@ -1061,7 +1065,7 @@ NT 2025.002-RTC
 | UB62a-10 | 55       | - Grupo de Devolução da CBS informado indevidamente Se informado grupo de Devolução da CBS (gCBS/gDevTrib): - Percentual de devolução da CBS (pDevTrib) não informado                                                                                                                                                                                                                                                                                                                          | - Grupo de Devolução da CBS informado indevidamente Se informado grupo de Devolução da CBS (gCBS/gDevTrib): - Percentual de devolução da CBS (pDevTrib) não informado                                                                                                                                                                                                                                                                                                                          | Obrig.   |  1188 | Rejeição: Percentual de devolução da CBS não informado [nItem: 999]                          |
 | UB63-10  | 55       | Se informado grupo de Devolução da CBS (gCBS/gDevTrib): - Valor da CBS devolvida (vDevTrib) deverá ser resultante da Base de Cálculo x Percentual da CBS x Percentual do tributo devolvido: vDevTrib = vBC x (pCBS / 100) x (pDevTrib / 100) Observação 1: Em caso de preenchimento do grupo de Redução de Alíquota (gCBS/gRed) a alíquota utilizada deverá ser a tag Alíquota Efetiva (gCBS/gRed/pAliqEfet) ao invés do pCBS. Observação 2: Aceitar uma tolerância de 0,01 a mais ou a menos. | Se informado grupo de Devolução da CBS (gCBS/gDevTrib): - Valor da CBS devolvida (vDevTrib) deverá ser resultante da Base de Cálculo x Percentual da CBS x Percentual do tributo devolvido: vDevTrib = vBC x (pCBS / 100) x (pDevTrib / 100) Observação 1: Em caso de preenchimento do grupo de Redução de Alíquota (gCBS/gRed) a alíquota utilizada deverá ser a tag Alíquota Efetiva (gCBS/gRed/pAliqEfet) ao invés do pCBS. Observação 2: Aceitar uma tolerância de 0,01 a mais ou a menos. | Obrig.   |  1189 | Rejeição: Valor da CBS devolvida difere do calculado [nItem: 999]                            |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000051_fbcb9e4216af9c7d02480767fad9439682044890d9edeef825f459352a8f6fbb.png)
 
@@ -1075,7 +1079,7 @@ NT 2025.002-RTC
 | UB66a-10 | 55/65    | Se informado gCBS/gALCZFMCBS: - Inscrição do emitente na Suframa (tag:emit/ISUFemit) não informada                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Obrig.   |  1190 | Rejeição: Inscrição do emitente na Suframa não informado                                                      |
 | UB66a-20 | 55/65    | Se informado gCBS/gALCZFMCBS: - NCM do Produto (tag: prod/NCM) inicia por: a) 93 (armas e munições); b) 24 (fumos e derivados); c) 2203 a 2208 (bebidas alcoólicas);                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Obrig.   |  1191 | Rejeição: Grupo de operações em áreas incentivadas (ALC/ZFM) - CBS (alíquota zero) não permitido [nItem: 999] |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000052_1e248c76b8d4285a53c8bcda44970bb994cc413513c4b390e5f8fad3a259b0fd.png)
 
@@ -1111,7 +1115,7 @@ NT 2025.002-RTC
 
 ## Lei Complementar nº 214/2025
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000054_fbcb9e4216af9c7d02480767fad9439682044890d9edeef825f459352a8f6fbb.png)
 
@@ -1128,7 +1132,7 @@ NT 2025.002-RTC
 | UB82a-10 | 55       | Se grupo Compra Governamental (grupo: gCompraGov) informado: - Grupo de informações da composição do valor do IBS e da CBS em compras governamentais (ID:UB82a, grupo: gTribCompraGov) não informado. Exceção: A regra não se aplica para CST do IBS/CBS (tag: IBSCBS/CST) que possui indicador que não permite a informação do IBS/CBS (ind_gIBSCBS = 0)                                             | Obrig.   |  1141 | Rejeição: Grupo de informações da composição do valor do IBS e da CBS em compras governamentais não informado [nItem: 999] |
 | UB82a-20 | 55       | Se grupo gTribCompraGov informado:                                                                                                                                                                                                                                                                                                                                                                    | Obrig.   |  1142 | Rejeição: Soma dos valores de IBS e CBS em compras governamentais divergente [nItem: 999]                                  |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000055_16f9b44d7aa8346688b5a463e2469c0dc4ed39aa02bfe2bba6f17dc4048fbdf6.png)
 
@@ -1143,7 +1147,7 @@ NT 2025.002-RTC
 | UB94-10  | 55/65    | Se cClassTrib possui indicador que exige Tributação Monofásica de Combustível cobrada anteriormente (ind_gMonoRet = 1): - Não informada a Tributação Monofásica Retida Anteriormente (id: UB94) própria sobre combustíveis cobrada anteriormente, observado o art. 180 da LC 214/2025 Observação 1: Consultar Tabela de Código de Classificação Tributária do IBS e CBS. Observação 2 : Implantação em produção a partir de 04/01/2027. Observação 3 : Implementação futura para homologação. | Obrig.   |  1108 | Rejeição: Não informada a Tributação Monofásica Retida Anteriormente [nItem: 999]                                                    |
 | UB94-20  | 55/65    | Se cClassTrib possui indicador que não permite Tributação Monofásica de Combustível cobrada anteriormente (ind_gMonoRet = 0): - Informada indevidamente a Tributação Monofásica Retida anteriormente (id: UB94) própria sobre combustíveis cobrada anteriormente, observado o art. 180 da LC 214/2025. Observação 1: Consultar Tabela de Código de Classificação Tributária do IBS e CBS.                                                                                                     | Obrig.   |  1109 | Rejeição: Informada indevidamente a Tributação Monofásica Retida anteriormente [nItem: 999]                                          |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000056_16f9b44d7aa8346688b5a463e2469c0dc4ed39aa02bfe2bba6f17dc4048fbdf6.png)
 
@@ -1160,7 +1164,7 @@ NT 2025.002-RTC
 | UB112-20 | 55       | Se CST possui indicador que obriga o preenchimento do grupo de ajuste de competência: (ind_gAjusteCompet = 1): - Não informado grupo 'gAjusteCompet' (id: UB112) Observação: Consultar tabela de CST.                                                                                                                                                                                                                                                          | Obrig.   |  1170 | Rejeição: Grupo de Ajuste de Competência não informado [nItem: 999]                                 |
 | UB112-30 | 55       | Se informado grupo 'gAjusteCompet' (id: UB112): - Valor do IBS (gAjusteCompet/vIBS, id: UB114) ou Valor da CBS (gAjusteCompet/vCBS, id: UB115) deve ser maior que zero.                                                                                                                                                                                                                                                                                        | Obrig.   |  1171 | Rejeição: Valor do IBS ou da CBS deve ser maior que zero no ajuste de competência [nItem: 999]      |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000057_16f9b44d7aa8346688b5a463e2469c0dc4ed39aa02bfe2bba6f17dc4048fbdf6.png)
 
@@ -1176,7 +1180,7 @@ NT 2025.002-RTC
 | UB123-20 | 55       | Se cCredPres (id: UB122) possui indicador que exige o uso de crédito presumido para o IBS (ind_gIBSCredPres = 1): - Crédito presumido para o IBS não informado (grupo: IBSCBS/gCredPresOper/gIBSCredPres) Observação 01: Consultar Tabela de Crédito Presumido do IBS e da CBS.                                                                                                                                                                                                                                                                                  | Obrig.   |  1054 | Rejeição: Crédito Presumido para o IBS não informado [nItem: 999]                           |
 | UB125-10 | 55       | Se informado Valor do Crédito Presumido do IBS (tag: gIBSCredPres/vCredPres) e cCredPres = '4 -Aquisição de bens móveis de PF não contrib. para revenda (exemplo: veículos / brechó): - Valor do Crédito Presumido (tag: vCredPres) não pode ser superior a vProd                                                                                                                                                                                                                                                                                                | Obrig.   |  1107 | Rejeição: Valor do Crédito Presumido do IBS não pode ser superior a vProd [nItem: 999]      |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000058_16f9b44d7aa8346688b5a463e2469c0dc4ed39aa02bfe2bba6f17dc4048fbdf6.png)
 
@@ -1192,7 +1196,7 @@ NT 2025.002-RTC
 | UB131-30 |       55 | Se CST possui indicador que obriga o uso de crédito presumido para a ZFM (ind_gCredPresIBSZFM = 1): - Não informado grupo gCredPresIBSZFM (id: UB131)                                                                                                                                                                                                                  | Obrig.   | 1135 Rejeição: CST do IBS/CBS informado exige a informação do grupo para apropriação de crédito presumido de IBS sobre o saldo devedor na ZFM [nItem: 999]     |
 | UB131-40 |       55 | Se informado grupo do IBS da ZFM (grupo: gCredPresIBSZFM): - Tipo de Nota de Crédito (tag: tpNFCredito) diferente de 02 - Apropriação de crédito presumido de IBS sobre o saldo devedor na ZFM (art. 450, § 1º, LC 214/25)                                                                                                                                             | Obrig.   | 1158 Rejeição: Tipo de Nota de Crédito não permite o grupo para apropriação de crédito presumido de IBS sobre o saldo devedor na ZFM [nItem: 999]              |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000059_e415af511c51364fbff746cc6ae93f705b17a6448ae6a4764deff40590211c38.png)
 
@@ -1207,15 +1211,15 @@ NT 2025.002-RTC
 | Campo   | Modelo   | Regra de Validação                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Aplic.   | Msg Descrição Erro                                                                                    |
 |---------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------|
 | VB01-05 | 55/65    | Se informado grupo gIBSCBS: - vItem não informado. Observação 1: Implementação Futura.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Obrig.   | 1137 Rejeição: Valor total do Item (vItem) não informado [nItem: 999]                                 |
-| VB01-10 | 55/65    | Se vItem informado: Se não é operação de Faturamento Direto para veículos novos (tpOp = nulo ou tpOp <> 2, id:J02): - Valor total do Item (vItem) deve ser igual ao somatório: (+) vProd (-) vDesc (-) vICMSDeson, se indDeduzDeson=1 (+) vICMSST (+) vICMSMonoReten (+) vFCPST (+) vFrete (+) vSeg (+) vOutro (+) vII (+) vIPI (+) vIPIDevol (+) vServ (+) vPIS (id: R06, campo: PISST/vPIS), se indSomaPISST=1 (+) vCofins (id: T06, campo: COFINSST/vCOFINS), se indSomaCOFINSST =1 (NT 2020.005) (+) vIBS (+) vCBS (+) vIS (+) vTotIBSMonoItem (+) vTotCBSMonoItem Exceção 1: Em 2025 e 2026 não somar vIBS, vCBS, vIS, vTotIBSMonoItem, vTotCBSMonoItem. | Obrig.   | 1105 Rejeição: Valor total do Item (vItem) difere do somatório dos valores que o compõem [nItem: 999] |
+| VB01-10 | 55/65    | Se vItem informado: Se não é operação de Faturamento Direto para veículos novos (tpOp = nulo ou tpOp <> 2, id:J02): - Valor total do Item (vItem) deve ser igual ao somatório: (+) vProd (-) vDesc (-) vICMSDeson, se indDeduzDeson=1 (+) vICMSST (+) vICMSMonoReten (+) vFCPST (+) vFrete (+) vSeg (+) vOutro (+) vII (+) vIPI (+) vIPIDevol (+) vServ (+) vPIS (id: R06, campo: PISST/vPIS), se indSomaPISST=1 (+) vCofins (id: T06, campo: COFINSST/vCOFINS), se indSomaCOFINSST =1 ([NT 2020.005](../../../nfe/notas-tecnicas/nt2020-005-v1-21-regras-de-valida-o/document.md)) (+) vIBS (+) vCBS (+) vIS (+) vTotIBSMonoItem (+) vTotCBSMonoItem Exceção 1: Em 2025 e 2026 não somar vIBS, vCBS, vIS, vTotIBSMonoItem, vTotCBSMonoItem. | Obrig.   | 1105 Rejeição: Valor total do Item (vItem) difere do somatório dos valores que o compõem [nItem: 999] |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000060_fbcb9e4216af9c7d02480767fad9439682044890d9edeef825f459352a8f6fbb.png)
 
 | Campo   |   Modelo | Regra de Validação                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Aplic.   |   Msg | Descrição Erro                                                                                   |
 |---------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------|--------------------------------------------------------------------------------------------------|
-| VB01-20 |       55 | Se vItem informado: Se informada operação de Faturamento Direto para veículos novos (tpOp = 2, id:J02): - Valor total do Item (vItem) deve ser igual ao somatório: (+) vProd (-) vDesc (-) vICMSDeson, se indDeduzDeson=1 (+) vFrete (+) vSeg (+) vOutro (+) vII (+) vIPI (+) vServ (+) vPIS (id: R06, campo: PISST/vPIS), se indSomaPISST=1 (+) vCofins (id: T06, campo: COFINSST/vCOFINS), se indSomaCOFINSST =1 (NT 2020.005) (+) vIBS (+) vCBS (+) vIS Exceção 1: Em 2025 e 2026 não somar vIBS, vCBS, vIS Observação 1: Implementação Futura. | Obrig.   |  1105 | Rejeição: Valor total do Item (vItem) difere do somatório dos valores que o compõem [nItem: 999] |
+| VB01-20 |       55 | Se vItem informado: Se informada operação de Faturamento Direto para veículos novos (tpOp = 2, id:J02): - Valor total do Item (vItem) deve ser igual ao somatório: (+) vProd (-) vDesc (-) vICMSDeson, se indDeduzDeson=1 (+) vFrete (+) vSeg (+) vOutro (+) vII (+) vIPI (+) vServ (+) vPIS (id: R06, campo: PISST/vPIS), se indSomaPISST=1 (+) vCofins (id: T06, campo: COFINSST/vCOFINS), se indSomaCOFINSST =1 ([NT 2020.005](../../../nfe/notas-tecnicas/nt2020-005-v1-21-regras-de-valida-o/document.md)) (+) vIBS (+) vCBS (+) vIS Exceção 1: Em 2025 e 2026 não somar vIBS, vCBS, vIS Observação 1: Implementação Futura. | Obrig.   |  1105 | Rejeição: Valor total do Item (vItem) difere do somatório dos valores que o compõem [nItem: 999] |
 
 ## Grupo VC. Referenciamento de item de outro Documento Fiscal Eletrônico - DF-e
 
@@ -1227,13 +1231,13 @@ NT 2025.002-RTC
 | VC02-10 |       55 | Se tpNFDebito='03 - Débitos de notas fiscais não processadas na apuração' ou tpNFDebito='04 - Multa e Juros' ou tpNFCredito='06 -Retorno por recusa parcial na entrega: - DF-e Referenciado (tag: DFeReferenciado/chaveAcesso) não informado                                                                                                                                                                                                  | Obrig.   |  1038 | Rejeição: DFeReferenciado não informado [nItem: 999]                                                     |
 | VC02-14 |       55 | Se NF-e de devolução de mercadoria (tag: finNFe = 4): - Não informado documento fiscal referenciado (NF-e, NFC-e, NF modelo 1, NF Produtor, ECF) a nível de nota (tag: NFref) nem a nível de item (tag: DFeReferenciado/chaveAcesso) Observação 1: Fica proibido o referenciamento da Nota na tag ' refNFe ' na devolução, devendo referenciar no grupo ' DFeReferenciado '. Observação 2 : Implementação em produção a partir de 01/09/2026. | Obrig.   |   321 | Rejeição: NF-e de devolução de mercadoria não possui documento fiscal referenciado por item [nItem: 999] |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000061_1e248c76b8d4285a53c8bcda44970bb994cc413513c4b390e5f8fad3a259b0fd.png)
 
 | Campo   |   Modelo | Regra de Validação                                                                                                                                                                                                                                                                                           | Aplic.   | Msg Descrição Erro                                                                                                                             |
 |---------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| VC02-15 |       55 | (NT 2013/005 v1.20) Se NF-e de devolução de mercadoria (tag: finNFe = 4) e informado referenciamento a nível de item (tag: DFeReferenciado/chaveAcesso): - Item da NF-e referenciada (tag: DFeReferenciado/nItem) não informado.                                                                             | Obrig.   | 1102 Rejeição: NF-e de devolução de mercadoria com referenciamento a nível de item exige referenciamento do item da NF-e original [nItem: 999] |
+| VC02-15 |       55 | ([NT 2013/005](../../../nfe/notas-tecnicas/nt2013-005-v1-22/document.md) v1.20) Se NF-e de devolução de mercadoria (tag: finNFe = 4) e informado referenciamento a nível de item (tag: DFeReferenciado/chaveAcesso): - Item da NF-e referenciada (tag: DFeReferenciado/nItem) não informado.                                                                             | Obrig.   | 1102 Rejeição: NF-e de devolução de mercadoria com referenciamento a nível de item exige referenciamento do item da NF-e original [nItem: 999] |
 | VC02-20 |       55 | DFe/Item referenciado em duplicidade: - Informado mais de uma vez uma mesma chave de acesso (tag: DFeReferenciado/chaveAcesso) e item (tag: DFeReferenciado/nItem). Observação 1: Caso nItem não informado, considerar somente a chaveAcesso.                                                                | Obrig.   | 1072 Rejeição: DFe/Item referenciado em duplicidade [nItem: 999]                                                                               |
 | VC02-30 |       55 | Um único documento fiscal deve ser referenciado: - Informadas chaves de acesso diferentes em documento referenciado (tag: DFeReferenciado/chaveAcesso). Exceção 1: RV não se aplica caso: - tpNFDebito='03 - Débitos de notas fiscais não processadas na apuração' ; - finNFe ='4 - Devolução'.              | Obrig.   | 1130 Rejeição: Mais de um documento fiscal referenciado [nItem: 999]                                                                           |
 | VC02-40 |       55 | Se NF-e de devolução de mercadoria (tag: finNFe = 4): - CNPJ/CPF do Emitente do DFeReferenciado deve ser igual em todos os itens da NFe Observação: No caso de Nota Fiscal Avulsa (NFA) com CNPJ da SEFAZ na Chave de Acesso deve ser considerado o CNPJ ou CPF do Emitente.                                 | Obrig.   | 1193 Rejeição: Emitente das NFe Referenciadas deve ser o mesmo em todos os itens [nItem: 999]                                                  |
@@ -1245,11 +1249,11 @@ NT 2025.002-RTC
 
 | Campo        | Modelo                                                                                                                            | Regra de Validação                                                                     |   Aplic. Msg | Descrição Erro                                                     |
 |--------------|-----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|--------------|--------------------------------------------------------------------|
-| W07-10       | 55/65 Total dos Produtos e Serviços (id:W07) difere sujeitos ao ICMS ou IBS/CBS/IS. Considerar indTot (id:I17b) = 1 (NT 2011/004) | do somatório do valor dos itens (id:I11) somente os valores dos itens com a TAG Obrig. |          564 | Rejeição: Total do Produto / Serviço difere do somatório dos itens |
+| W07-10       | 55/65 Total dos Produtos e Serviços (id:W07) difere sujeitos ao ICMS ou IBS/CBS/IS. Considerar indTot (id:I17b) = 1 ([NT 2011/004](../../../nfe/notas-tecnicas/nt2011-004/document.md)) | do somatório do valor dos itens (id:I11) somente os valores dos itens com a TAG Obrig. |          564 | Rejeição: Total do Produto / Serviço difere do somatório dos itens |
 | W31-10 55/65 | Se grupo de totais do IS (tag: total/ISTot) - Nenhum item possui Imposto Seletivo                                                 | informado: informado Obrig.                                                            |         1073 | Rejeição: Total de IS informado indevidamente                      |
 | W31-20 55/65 | Se grupo de totais do IS (tag: total/ISTot) não informado: - Pelo menos um item possui Imposto Seletivo informado                 | Obrig.                                                                                 |         1117 | Rejeição: Total de IS não informado                                |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000062_e415af511c51364fbff746cc6ae93f705b17a6448ae6a4764deff40590211c38.png)
 
@@ -1278,7 +1282,7 @@ NT 2025.002-RTC
 | W59c-10 | 55/65    | O total do IBS monofásico retido anteriormente deverá ser a soma dos campos vIBSMonoRet informados nos itens                                                | Obrig.   | 1122 Rejeição: Total do IBS monofásico retido anteriormente difere da soma dos itens |
 | W59d-10 | 55/65    | O total da CBS monofásica retida anteriormente deverá ser a soma dos campos vCBSMonoRet informados nos itens                                                | Obrig.   | 1123 Rejeição: Total da CBS monofásica retida anteriormente difere da soma dos itens |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000063_e415af511c51364fbff746cc6ae93f705b17a6448ae6a4764deff40590211c38.png)
 
@@ -1293,10 +1297,10 @@ NT 2025.002-RTC
 
 | Campo    |   Modelo | Regra de Validação                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Aplic.   |   Msg | Descrição Erro                                                                        |
 |----------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------|---------------------------------------------------------------------------------------|
-| 3BA02-10 |       55 | Para cada NF-e referenciada (tag:refNFe), se a UF da Chave de Acesso referenciada for igual a UF do Emitente: - Acessar BD NFE com Chave de Acesso referenciada (se mod=55) - NF-e referenciada inexistente Exceção : A NF-e referenciada pode não existir no caso de Emissão em Contingência (tpEmis = 2, 4 ou 5) (NT 2013/003) ou NFF (tpEmis=3), desde que a Chave de Acesso da NF-e referenciada tenha o Ano-Mês de Emissão inferior a 1 mês da data atual ou desde que exista o EPEC (NT 2021.004). Observação 1 : A exceção acima não se aplica para: - ' finNFe=2" (NF-e Complementar) - 'tpNFCredito='01' (Multa e juros) - 'tpNFCredito='03' (Retorno)                                                                                                                                                                                                                                                                              | Obrig.   |   267 | Rejeição: Chave de Acesso referenciada inexistente [nRef: xxx]                        |
+| 3BA02-10 |       55 | Para cada NF-e referenciada (tag:refNFe), se a UF da Chave de Acesso referenciada for igual a UF do Emitente: - Acessar BD NFE com Chave de Acesso referenciada (se mod=55) - NF-e referenciada inexistente Exceção : A NF-e referenciada pode não existir no caso de Emissão em Contingência (tpEmis = 2, 4 ou 5) ([NT 2013/003](../../../nfe/notas-tecnicas/nt2013-003-v1-00a-lei-transparencia/document.md)) ou NFF (tpEmis=3), desde que a Chave de Acesso da NF-e referenciada tenha o Ano-Mês de Emissão inferior a 1 mês da data atual ou desde que exista o EPEC ([NT 2021.004](../../../nfe/notas-tecnicas/nt2021-004v1-35-novos-campos-e-regras/document.md)). Observação 1 : A exceção acima não se aplica para: - ' finNFe=2" (NF-e Complementar) - 'tpNFCredito='01' (Multa e juros) - 'tpNFCredito='03' (Retorno)                                                                                                                                                                                                                                                                              | Obrig.   |   267 | Rejeição: Chave de Acesso referenciada inexistente [nRef: xxx]                        |
 | 3BA02-70 |       55 | Se NF-e de crédito (tag: finNFe=5) e tpNFCredito='0 1-Multa e j uros' ou tpNFCredito='03 - Retorno' : - Para cada NF-e referenciada (tag:refNFe): - Acessar BD NFE com Chave de Acesso referenciada (se mod=55) - Chave de acesso referenciada deve existir e não estar cancelada. Nota Explicativa : Em operação entre empresas, o fornecedor pode cobrar multa e juros do cliente e no valor cobrado de juros e multas, incide o IBS e a CBS. O fornecedor deve emitir uma nota de débito do tipo 'multa e juros' para que o adquirente do regime regular possa se creditar do valor pago. Caso o fornecedor não emita a nota de débito, o adquirente tem como alternativa emitir uma nota de crédito, do tipo '0 1- Multa e juros' para se creditar. Esse crédito é condicionado à emissão do evento 'Aceite de débito na apuração por emissão de nota de crédito' pelo fornecedor e a quitação do débito correspondente em sua apuração. | Obrig.   |  1095 | Rejeição: Chave de acesso referenciada deve existir e não estar cancelada [nRef: xxx] |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000064_16f9b44d7aa8346688b5a463e2469c0dc4ed39aa02bfe2bba6f17dc4048fbdf6.png)
 
@@ -1357,7 +1361,7 @@ O Web Service de Registro de Evento possui uma parte geral, complementada por um
 
 A parte geral se mantém a mesma para envio de todos os eventos e está especificada na seção 5.8 do Manual de Orientação do Contribuinte (MOC) e na seção Web Service -NFeRecepcaoEvento -Parte Geral do MOC Online.
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000066_16f9b44d7aa8346688b5a463e2469c0dc4ed39aa02bfe2bba6f17dc4048fbdf6.png)
 
@@ -1445,7 +1449,7 @@ Schema XML - parte específica: e211110\_v1.00.xsd
 
 ![Image](assets/image_000067_16f9b44d7aa8346688b5a463e2469c0dc4ed39aa02bfe2bba6f17dc4048fbdf6.png)
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000068_16f9b44d7aa8346688b5a463e2469c0dc4ed39aa02bfe2bba6f17dc4048fbdf6.png)
 
@@ -1474,7 +1478,7 @@ Serão aplicadas as regras de validação gerais apresentadas no item 5.8.4 do M
 | 2P26-20              | Se cCredPres possui indicador que exige o uso de crédito presumido para o IBS (ind_gIBSCredPres = 1): - Crédito presumido para o IBS não informado (grupo: gCredPresOper/gIBSCredPres) Observação 01: Consultar Tabela de Crédito Presumido do IBS e da CBS.                 | Obrig.               | 1054 Rejeição: Crédito Presumido para o IBS não informado [nItem: 999]                      |                      |
 | 2P30-10              | Se cCredPres possui indicador que não permite o uso de crédito presumido para a CBS (ind_gCBSCredPres = 0): - Crédito presumido para a CBS informado indevidamente (grupo: gCredPresOper/gCBSCredPres) Observação 01: Consultar Tabela de Crédito Presumido do IBS e da CBS. | Obrig.               | 1050 Rejeição: Crédito Presumido para a CBS informado indevidamente [nItem: 999]            |                      |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000069_16f9b44d7aa8346688b5a463e2469c0dc4ed39aa02bfe2bba6f17dc4048fbdf6.png)
 
@@ -1500,7 +1504,7 @@ Estrutura XML da parte específica do evento, a ser inserida na tag detEvento (P
 
 ## Schema XML: envEventoNFe\_v9.99.xsd
 
-Schema XML - parte específica: e211120\_v1.00.xsd NT 2025.002-RTC
+Schema XML - parte específica: e211120\_v1.00.xsd [NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000070_744f9633e732103a3385e0ce45b88b77ac3a66e299baaf9dcab9fd57a1da59d6.png)
 
@@ -1547,7 +1551,7 @@ Serão aplicadas as regras de validação gerais apresentadas no item 5.8.4 do M
 | 2P24-10   | Observação : para o evento código 211120, poderá ser aceito o CNPJ base (8 dígitos). - Número do item do evento (tag: gConsumo/nItem) informado não existe na NFe de Aquisição (tag: det/nItem)                                                                                                                                                                      | Obrig.   |  1096 | Rejeição: Número de item não existe na NFe                                                        |
 | 2P25-10   | - Valor do IBS do evento (tag: gConsumo/vIBS) maior que o valor do IBS do item informado na NFe de Aquisição                                                                                                                                                                                                                                                         | Obrig.   |  1097 | Rejeição: O valor do IBS do item não pode ser maior que o valor do IBS do respectivo item na NFe. |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000073_16f9b44d7aa8346688b5a463e2469c0dc4ed39aa02bfe2bba6f17dc4048fbdf6.png)
 
@@ -1585,7 +1589,7 @@ Schema XML - parte específica: e211128\_v1.00.xsd
 | P20 cOrgaoAutor | E     | P17   | N      | 1-1     | 2      | Código da UF do emitente do Evento                                                 |
 | P21 tpAutor     | E     | P17   | N      | 1-1     | 1      | Informar 2=Empresa destinatária.                                                   |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000075_16f9b44d7aa8346688b5a463e2469c0dc4ed39aa02bfe2bba6f17dc4048fbdf6.png)
 
@@ -1636,7 +1640,7 @@ Schema XML - parte específica: e211130\_v1.00.xsd
 | P26 | vCBS             | E     | P23   | N      | 1-1     | 13v2   | Valor da CBS relativo à imobilização                                         |
 | P27 | gControleEstoque | G     | P23   |        | 1-1     |        | Informações de crédito presumido por item                                    |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000076_16f9b44d7aa8346688b5a463e2469c0dc4ed39aa02bfe2bba6f17dc4048fbdf6.png)
 
@@ -1717,7 +1721,7 @@ Serão aplicadas as regras de validação gerais apresentadas no item 5.8.4 do M
 
 ![Image](assets/image_000077_16f9b44d7aa8346688b5a463e2469c0dc4ed39aa02bfe2bba6f17dc4048fbdf6.png)
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000078_fbcb9e4216af9c7d02480767fad9439682044890d9edeef825f459352a8f6fbb.png)
 
@@ -1812,7 +1816,7 @@ Estrutura XML da parte específica do evento, a ser inserida na tag detEvento (P
 
 ![Image](assets/image_000079_16f9b44d7aa8346688b5a463e2469c0dc4ed39aa02bfe2bba6f17dc4048fbdf6.png)
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000080_16f9b44d7aa8346688b5a463e2469c0dc4ed39aa02bfe2bba6f17dc4048fbdf6.png)
 
@@ -1950,7 +1954,7 @@ Estrutura XML com a mensagem do resultado da transmissão, conforme retorno do W
 
 ![Image](assets/image_000082_16f9b44d7aa8346688b5a463e2469c0dc4ed39aa02bfe2bba6f17dc4048fbdf6.png)
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ## 8.14. Evento: Cancelamento de Evento
 
@@ -2052,7 +2056,7 @@ e112120\_v1.00.xsd
 
 ![Image](assets/image_000084_16f9b44d7aa8346688b5a463e2469c0dc4ed39aa02bfe2bba6f17dc4048fbdf6.png)
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000085_16f9b44d7aa8346688b5a463e2469c0dc4ed39aa02bfe2bba6f17dc4048fbdf6.png)
 
@@ -2103,7 +2107,7 @@ Schema XML - parte específica: e211124\_v1.00.xsd
 | P17 detEvento | G P06 1-1 Detalhes do Evento                      |
 | P18 versao    | A P17 N 1-1 2v2 Versão do leiaute do evento (P16) |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000086_e415af511c51364fbff746cc6ae93f705b17a6448ae6a4764deff40590211c38.png)
 
@@ -2153,7 +2157,7 @@ Schema XML - parte específica: e112130\_v1.00.xsd
 |---------------|------------------------------------------------|
 | P17 detEvento | G P06 1-1 Detalhes do Evento                   |
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ![Image](assets/image_000087_16f9b44d7aa8346688b5a463e2469c0dc4ed39aa02bfe2bba6f17dc4048fbdf6.png)
 
@@ -2201,7 +2205,7 @@ Código do Tipo de Evento
 
 Estrutura XML da parte específica do evento, a ser inserida na tag detEvento (P17) da Parte Geral do Web Service de Registro de Eventos especificada na seção 5.8 do MOC.
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ## Schema XML: envEventoNFe\_v9.99.xsd
 
@@ -2253,7 +2257,7 @@ Estrutura XML da parte específica do evento, a ser inserida na tag detEvento (P
 
 Schema XML: envEventoNFe\_v9.99.xsd
 
-NT 2025.002-RTC
+[NT 2025.002](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)-RTC
 
 ## Schema XML - parte específica: e112150\_v1.00.xsd
 
@@ -2294,21 +2298,6 @@ Tabela publicada na aba 'Documentos', opção 'Diversos' do Portal Nacional da N
 Tabela publicada na aba 'Documentos', opção 'Diversos' do Portal Nacional da Nota Fiscal Eletrônica
 
 ![Image](assets/image_000090_16f9b44d7aa8346688b5a463e2469c0dc4ed39aa02bfe2bba6f17dc4048fbdf6.png)
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-40-rtc-nf-e-ibs-cbs-is-final/source.json)
-- [Dados normalizados](../../../../normalized/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-40-rtc-nf-e-ibs-cbs-is-final/normalized.json)
-- [Changelog](../../../../changelog/reforma-tributaria/notas-tecnicas/nt-2025-002-v1-40-rtc-nf-e-ibs-cbs-is-final.md)
-- [Proveniência resumida](../../../../sources/provenance/nt-2025-002-v1-40-rtc-nf-e-ibs-cbs-is-final.json)
-
 
 ## Documentos relacionados
-
-- [20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code](../../../nfce/manuais/20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code/document.md)
-- [dfe-ntcj-2025-001-cnpj-alfa-v1-00](../../../geral/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00/document.md)
-- [it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15](../../informes-tecnicos/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15/document.md)
-- [it-2025-003-altera-o-endere-o-qrcode-nfc-e-go](../../../nfce/informes-tecnicos/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go/document.md)
-- [it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel](../../../combustiveis/informes-tecnicos/it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel/document.md)
-- [it2025-001v1-00-atualiza-tabela-municipios](../../../geral/informes-tecnicos/it2025-001v1-00-atualiza-tabela-municipios/document.md)
-- [nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is](../nt-2025-002-v1-36-rtc-nf-e-ibs-cbs-is/document.md)
-- [nt-2025-002-v1-50-rtc-nf-e-ibs-cbs-is](../nt-2025-002-v1-50-rtc-nf-e-ibs-cbs-is/document.md)
+_Nenhum documento relacionado conhecido._

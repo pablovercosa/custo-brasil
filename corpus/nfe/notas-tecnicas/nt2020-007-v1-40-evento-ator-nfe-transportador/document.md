@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T15:51:50.790636+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_4f9898c530d8bf82e36dfb5fd14a054dff0ddfd8c9cdd867d989d833a12c8c33.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2020-007-v1-40-evento-ator-nfe-transportador/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2020-007-v1-40-evento-ator-nfe-transportador/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2020-007-v1-40-evento-ator-nfe-transportador.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2020-007-v1-40-evento-ator-nfe-transportador.json)
 
 ## Sistema Nota Fiscal Eletrônica
 
@@ -93,7 +99,7 @@ No caso em que o transporte não é de responsabilidade do Emitente, o Destinat�
 
 Nos casos de Redespacho ou Subcontratação, definido o transportador contratado, este poderá também autorizar outro transportador participante da mesma operação de transporte a acessar o XML da NF-e.
 
-O Transportador precisa dos dados da NF-e para instrumentalizar seus processos de transporte e, a partir da geração deste evento, possibilita o transportador em buscar o XML da NF-e no Ambiente Nacional, por meio do 'Web Service de Distribuição de DF-e de Interesse dos Atores da NF-e', conforme documentado na NT2014.002.
+O Transportador precisa dos dados da NF-e para instrumentalizar seus processos de transporte e, a partir da geração deste evento, possibilita o transportador em buscar o XML da NF-e no Ambiente Nacional, por meio do 'Web Service de Distribuição de DF-e de Interesse dos Atores da NF-e', conforme documentado na [NT2014.002](../nt2014-002-v1-30-wsnfedistribuicaodfe/document.md).
 
 Este evento somente pode ser gerado no prazo de 6 meses após a data de autorização da NF-e.
 
@@ -296,7 +302,7 @@ Regras de validação idênticas aos demais Web Services, podendo gerar os erros
 | P12-22  | - Mês = 0 ou Mês > 12 (*1)                                                                                                                                                       | Obrig.   |   616 | Rejeição: Chave de Acesso inválida (Mês < 1 ou Mês > 12)                                                              |
 | P12-26  | - CNPJ/CPF zerado ou dígito inválido (*1) Nota: Considerar a Série para determinar se CNPJ/CPF na Chave de Acesso. CNPJ: Série=[0-909], CPF: Série<>[0-909]                      | Obrig.   |   617 | Rejeição: Chave de Acesso inválida (CNPJ/CPF zerado ou dígito inválido)                                               |
 | P12-30A | - Eventos somente da NF-e: - Modelo diferente de 55                                                                                                                              | Obrig.   |   450 | Rejeição: Modelo da NF-e diferente de 55                                                                              |
-| J02f    | Chave de Acesso inválida (modelo diferente de 55 e 65) (NT 2013.005)                                                                                                             | Obrig.   |   618 | Rejeição: Chave de Acesso inválida (modelo diferente de 55 e 65)                                                      |
+| J02f    | Chave de Acesso inválida (modelo diferente de 55 e 65) ([NT 2013.005](../nt2013-005-v1-22/document.md))                                                                                                             | Obrig.   |   618 | Rejeição: Chave de Acesso inválida (modelo diferente de 55 e 65)                                                      |
 | P12-34  | - Número NF = 0 (*1)                                                                                                                                                             | Obrig.   |   619 | Rejeição: Chave de Acesso inválida (número NF = 0)                                                                    |
 | P12-40  | Se tpAutor=1-Empresa Emitente: - UF da Chave de Acesso diverge da UFAutorizadora                                                                                                 | Obrig.   |   249 | Rejeição: UF da Chave de Acesso diverge da UF autorizadora                                                            |
 | P12-44  | - CNPJ/CPF do Autor diverge do CNPJ/CPF daChave de Acesso (*1) Nota: Considerar a Série para determinar seCNPJ/CPF na Chave de Acesso. CNPJ: Série=[0-909], CPF: Série<>[0- 909] | Obrig.   |   574 | Rejeição: Autor do evento diverge do emissor da NF-e                                                                  |
@@ -387,12 +393,6 @@ O processamento do lote pode resultar em:
 |      831 | Rejeição: Transportador Contratado não autorizado a a liberar acesso a NF-e        |
 
 ![Image](assets/image_000014_38634ee29cb5757427c04a1b82d3a078055468a4f3c809e099a1f3b829b90ab3.png)
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2020-007-v1-40-evento-ator-nfe-transportador/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2020-007-v1-40-evento-ator-nfe-transportador/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2020-007-v1-40-evento-ator-nfe-transportador.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2020-007-v1-40-evento-ator-nfe-transportador.json)
 
 ## Documentos relacionados
 _Nenhum documento relacionado conhecido._

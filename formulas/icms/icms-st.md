@@ -15,6 +15,22 @@ created_at: 2025-06-26
 updated_at: 2025-06-26
 ---
 
+## Metadados
+
+### Fontes normativas
+- [nt2020-005-v1-21-regras-de-valida-o](corpus/nfe/notas-tecnicas/nt2020-005-v1-21-regras-de-valida-o/document.md)
+- [nt-2016-002-v1-61](corpus/nfe/notas-tecnicas/nt-2016-002-v1-61/document.md)
+- [nt2018-005-v1-52-alteracaodeleiautenf-enfc](corpus/nfe/notas-tecnicas/nt2018-005-v1-52-alteracaodeleiautenf-enfc/document.md)
+- [cbenef-pr-html](corpus/nfe/Estado de PR/cbenef-pr-html/document.md)
+- tabela-fcp-uf-2025
+
+### Fontes normativas
+- [nt2020-005-v1-21-regras-de-valida-o](corpus/nfe/notas-tecnicas/nt2020-005-v1-21-regras-de-valida-o/document.md)
+- [nt-2016-002-v1-61](corpus/nfe/notas-tecnicas/nt-2016-002-v1-61/document.md)
+- [nt2018-005-v1-52-alteracaodeleiautenf-enfc](corpus/nfe/notas-tecnicas/nt2018-005-v1-52-alteracaodeleiautenf-enfc/document.md)
+- [cbenef-pr-html](corpus/nfe/Estado de PR/cbenef-pr-html/document.md)
+- tabela-fcp-uf-2025
+
 # ICMS Substituição Tributária
 
 ## Visão geral
@@ -24,9 +40,9 @@ O ICMS-ST é o regime pelo qual a responsabilidade pelo recolhimento do imposto 
 ## Base legal
 
 - Convênios ICMS de ST por setor (PE-13, etc.)
-- NT 2020.005 — nova modalidade de BC do ICMS-ST (CST 70 e 90)
-- NT 2016.002 — alterações de leiaute para ST
-- NT 2018.005 — campo pST (alíquota suportada pelo consumidor final)
+- [NT 2020.005](../../corpus/nfe/notas-tecnicas/nt2020-005-v1-21-regras-de-valida-o/document.md) — nova modalidade de BC do ICMS-ST (CST 70 e 90)
+- [NT 2016.002](../../corpus/nfe/notas-tecnicas/nt-2016-002-v1-61/document.md) — alterações de leiaute para ST
+- [NT 2018.005](../../corpus/nfe/notas-tecnicas/nt2018-005-v1-52-alteracaodeleiautenf-enfc/document.md) — campo pST (alíquota suportada pelo consumidor final)
 - Benefícios fiscais por UF (cbenef-PR, SP, RS, etc.)
 - Tabela FCP por UF
 
@@ -85,7 +101,7 @@ Total_a_recolher = ICMS_ST_a_recolher + FCP_ST
 
 ### Com redução de BC (CST 70)
 
-Com redução de base de cálculo, aplicam-se percentuais distintos sobre a BC própria e a BC da ST conforme NT 2020.005:
+Com redução de base de cálculo, aplicam-se percentuais distintos sobre a BC própria e a BC da ST conforme [NT 2020.005](../../corpus/nfe/notas-tecnicas/nt2020-005-v1-21-regras-de-valida-o/document.md):
 
 BC_propria_reduzida = BC_propria × (1 - pRedBC / 100)
 
@@ -183,4 +199,4 @@ Total = 154,18 + 34,55 = 188,73
 - O IVA Ajustado é usado em operações interestaduais para equilibrar a tributação entre estados
 - Diferimento parcial: ICMS próprio reduzido, ST calculado integralmente (ex: cbenef-PR)
 - **Tabela de alíquotas por UF** em `formulas/icms/aliquotas-icms-uf.md`
-- CST 70 e 90 com nova modalidade de BC (NT 2020.005): percentuais de redução distintos
+- CST 70 e 90 com nova modalidade de BC ([NT 2020.005](../../corpus/nfe/notas-tecnicas/nt2020-005-v1-21-regras-de-valida-o/document.md)): percentuais de redução distintos

@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T15:35:07.918932+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_8d5d0c0e62af3151466e42b41f7de3556918135c51406d35a13b425f1c00468e.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfce/notas-tecnicas/nt-nfce-2014-001/source.json)
+- [Dados normalizados](../../../../normalized/nfce/notas-tecnicas/nt-nfce-2014-001/normalized.json)
+- [Changelog](../../../../changelog/nfce/notas-tecnicas/nt-nfce-2014-001.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-nfce-2014-001.json)
 
 ## Projeto Nota Fiscal de Consumidor Eletrônica
 
@@ -272,12 +278,6 @@ A validação da solicitação poderá resultar em:
 |      411 | Rejeição: Campo versaoDados inexistente no elemento nfeCabecMsg do SOAP Header |
 |      695 | Rejeição: Solicitante não autorizado para a consulta                           |
 |      999 | Rejeição: Erro não catalogado                                                  |
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfce/notas-tecnicas/nt-nfce-2014-001/source.json)
-- [Dados normalizados](../../../../normalized/nfce/notas-tecnicas/nt-nfce-2014-001/normalized.json)
-- [Changelog](../../../../changelog/nfce/notas-tecnicas/nt-nfce-2014-001.md)
-- [Proveniência resumida](../../../../sources/provenance/nt-nfce-2014-001.json)
 
 ## Documentos relacionados
 _Nenhum documento relacionado conhecido._

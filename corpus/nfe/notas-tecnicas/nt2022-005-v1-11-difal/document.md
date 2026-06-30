@@ -8,9 +8,13 @@ converted_at_utc: "2026-06-25T15:36:00.323632+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_98f3651deb3779045a3d05955a12dcae77e60f44ee54773b092ff854d875d1d5.png)
 
-![Image](assets/image_000001_a9b1d1601c4484180d757697cd0ab40d19f0c9cd9166651b416a83a8f25897bc.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2022-005-v1-11-difal/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2022-005-v1-11-difal/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2022-005-v1-11-difal.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2022-005-v1-11-difal.json)
 
 ## Sistema Nota Fiscal Eletrônica
 
@@ -144,12 +148,6 @@ NT 2022.005 - ICMS na Operação Interestadual em Venda a Consumidor Final
 |      694 | Rejeição: Não informado o grupo de ICMS para a UF de destino [nItem:999]              |
 
 ![Image](assets/image_000009_aae72a9f0f5ccc87fb5330edf90aecc9a8996adb17b17d4a252129aacc6fdce0.png)
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2022-005-v1-11-difal/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2022-005-v1-11-difal/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2022-005-v1-11-difal.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2022-005-v1-11-difal.json)
 
 ## Documentos relacionados
 _Nenhum documento relacionado conhecido._

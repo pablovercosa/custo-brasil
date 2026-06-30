@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T15:19:54.737622+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_8542a9b924c64f2d7a2a9028893112c320e89e69610a55adc1ab08e59f7cafaf.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2010-008/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2010-008/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2010-008.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2010-008.json)
 
 ## Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica
 
@@ -548,16 +554,6 @@ O  arquivo  digital  da  Carta  de  Correção  com  a  respec tiva  informaçã
 
 1.  Recomendamos  a  não  utilização  de  caracteres  espe ciais  ou  acentuação  nos  textos  das mensagens de erro.
 2. Recomendamos que o campo xMotivo da mensagem de erro para o código 999 seja informado com a mensagem de erro do aplicativo ou do sistema que gerou a exceção não prevista.
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2010-008/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2010-008/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2010-008.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2010-008.json)
-
 
 ## Documentos relacionados
-
-- [nota-t-cnica-2010-002-publicada-em-29-11-2010](../nota-t-cnica-2010-002-publicada-em-29-11-2010/document.md)
-- [nota-t-cnica-2010-005-publicada-em-06-07-2010](../nota-t-cnica-2010-005-publicada-em-06-07-2010/document.md)
-- [nota-t-cnica-2010-009-publicada-em-10-12-2010](../nota-t-cnica-2010-009-publicada-em-10-12-2010/document.md)
+_Nenhum documento relacionado conhecido._

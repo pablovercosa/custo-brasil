@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T18:21:38.186957+00:00"
 status: "published"
 type: "manual"
 ---
-![Image](assets/image_000000_c841b36497e78d3e107a3395ae08d0609c747a7dd7c38129acb35071bd1268ab.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfgas/manuais/moc-nfgas-anexo-ii-danfgas-v1-00/source.json)
+- [Dados normalizados](../../../../normalized/nfgas/manuais/moc-nfgas-anexo-ii-danfgas-v1-00/normalized.json)
+- [Changelog](../../../../changelog/nfgas/manuais/moc-nfgas-anexo-ii-danfgas-v1-00.md)
+- [Proveniência resumida](../../../../sources/provenance/moc-nfgas-anexo-ii-danfgas-v1-00.json)
 
 ## Projeto Nota Fiscal Eletrônica do Gás
 
@@ -63,7 +69,7 @@ Este  documento é parte  integrante do Manual de  Orientação  do  Contribuint
 
 O Manual de Orientação do Contribuinte 1.00a é composto pelos seguintes documentos:
 
-- MOC - Visão Geral
+- [MOC - Visão Geral](../../../nfe/manuais/manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e/document.md)
 - MOC - Anexo I - Leiaute e Regras de Validação da NFGas
 - MOC - Anexo II - Manual de Especificações Técnicas do DANFGas
 
@@ -409,14 +415,6 @@ MOC - ANEXO II - v 1.00
 MOC - ANEXO II - v 1.00
 
 ![Image](assets/image_000028_06b00dd54ee540476bb7c3f89ef08ce1e20e07f9693071e3170a6b1d6d0e0705.png)
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfgas/manuais/moc-nfgas-anexo-ii-danfgas-v1-00/source.json)
-- [Dados normalizados](../../../../normalized/nfgas/manuais/moc-nfgas-anexo-ii-danfgas-v1-00/normalized.json)
-- [Changelog](../../../../changelog/nfgas/manuais/moc-nfgas-anexo-ii-danfgas-v1-00.md)
-- [Proveniência resumida](../../../../sources/provenance/moc-nfgas-anexo-ii-danfgas-v1-00.json)
-
 
 ## Documentos relacionados
-
-- [moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f](../moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f/document.md)
+_Nenhum documento relacionado conhecido._

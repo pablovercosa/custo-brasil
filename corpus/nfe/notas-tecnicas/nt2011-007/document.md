@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T14:55:07.000000+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_181538cba8008b7211d15e5cd978d6d0c2bf11226028da3c4f63e632b4682dd6.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2011-007/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2011-007/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2011-007.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2011-007.json)
 
 ## Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica
 
@@ -49,16 +55,6 @@ Alterada  tabela  de  Códigos  de  Erros  e  Descrições  de   Mensagens  de  
 |   Código | RESULTADO DO PROCESSAMENTO DA SOLICITAÇÃO                           |
 |----------|---------------------------------------------------------------------|
 |      220 | Rejeição: Prazo de Cancelamento Superior ao Pre visto na Legislação |
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2011-007/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2011-007/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2011-007.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2011-007.json)
-
 
 ## Documentos relacionados
-
-- [nota-t-cnica-2011-001-publicada-em-25-02-2011](../nota-t-cnica-2011-001-publicada-em-25-02-2011/document.md)
-- [nota-t-cnica-2011-005-publicada-em-21-10-2011](../nota-t-cnica-2011-005-publicada-em-21-10-2011/document.md)
-- [nota-t-cnica-2011-007-publicada-em-26-12-2011](../nota-t-cnica-2011-007-publicada-em-26-12-2011/document.md)
+_Nenhum documento relacionado conhecido._

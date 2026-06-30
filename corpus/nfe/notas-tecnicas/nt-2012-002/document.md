@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T15:33:29.054870+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_aa151bc9da2012b094d92ac97e3228b7b994832df46da807a7b6a96ce390c3b0.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2012-002/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2012-002/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2012-002.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2012-002.json)
 
 ## Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica
 
@@ -1020,17 +1026,6 @@ O ambiente de homologação deve ser usado para que a s empresas possam efetuar 
 Em relação a massa de dados para que os testes poss am ser efetuados, lembramos que podem ser geradas NF-e no ambiente de homologação à critério da empresa (NF-e sem valor fiscal). As NF-e  no  ambiente  de  homologação  podem  ser  geradas  p or  aplicativo  da  própria  empresa,  ou usando o Programa Emissor Público, com a mesma fina lidade.
 
 Os testes no ambiente de produção, quando liberado  este ambiente, por falha da aplicação da empresa, podem disparar os mecanismos de controle de uso indevido, impedindo, por exemplo, uma  nova  Consulta  a  Relação  de  Documentos  Destinado s  para  documentos  que  já  foram consultados anteriormente.
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2012-002/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2012-002/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2012-002.md)
-- [Proveniência resumida](../../../../sources/provenance/nt-2012-002.json)
-
 
 ## Documentos relacionados
-
-- [nt2012-001](../nt2012-001/document.md)
-- [nt2012-003d](../nt2012-003d/document.md)
-- [nt2012-004-v1-2-nfce](../../../nfce/notas-tecnicas/nt2012-004-v1-2-nfce/document.md)
-- [nt2012-005c-resol-13](../nt2012-005c-resol-13/document.md)
+_Nenhum documento relacionado conhecido._

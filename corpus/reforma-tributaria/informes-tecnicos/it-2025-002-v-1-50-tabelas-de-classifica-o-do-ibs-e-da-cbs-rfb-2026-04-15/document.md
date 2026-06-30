@@ -8,19 +8,13 @@ converted_at_utc: "2026-06-25T20:46:20.717379+00:00"
 status: "published"
 type: "informe_tecnico"
 ---
-Versão 1.00
 
-![Image](assets/image_000000_7011b941c0f20935accad7ffb4bf5a8b96ca039ef8c979f5da3caf6c0c9a3ae4.png)
-
-![Image](assets/image_000001_449361e0fc73b50daffb13c9ea7bdf06260961d2494b888e05587701eedfebe8.png)
-
-![Image](assets/image_000002_6d032fadbbb188a3ed35e4a2e320938a528720e2d35d0e410508302fbb3386ab.png)
-
-![Image](assets/image_000003_5d0378f5d0bd1fff7c3647f7fbe9db2f16cd8ecb581e01c478dfce0456bb9a04.png)
-
-![Image](assets/image_000004_24f697e75b4b3b916b609be2e71c1e41430faeecf65659db135de005cfc0a578.png)
-
-![Image](assets/image_000005_d03b4d7b98ee3a12bc1ffc382a3883cd65b42fbbd0ac2cb50a1d280155faa643.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/reforma-tributaria/informes-tecnicos/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15/source.json)
+- [Dados normalizados](../../../../normalized/reforma-tributaria/informes-tecnicos/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15/normalized.json)
+- [Changelog](../../../../changelog/reforma-tributaria/informes-tecnicos/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15.md)
+- [Proveniência resumida](../../../../sources/provenance/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15.json)
 
 ## Projeto Reforma Tributária do Consumo
 
@@ -356,16 +350,6 @@ associado não sujeito ao regime regular do IBS e da CBS.
 - o Desativação ind\_gMonoPadrao: 550023
 - o Ativação ind\_gTribRegular: 550023
 - As atualizações de valores estão destacadas em verde nas respectivas visualizações. As linhas atualizadas podem ser identificadas pela data registrada na coluna DataAtualização = 15/04/2026.
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/reforma-tributaria/informes-tecnicos/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15/source.json)
-- [Dados normalizados](../../../../normalized/reforma-tributaria/informes-tecnicos/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15/normalized.json)
-- [Changelog](../../../../changelog/reforma-tributaria/informes-tecnicos/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15.md)
-- [Proveniência resumida](../../../../sources/provenance/it-2025-002-v-1-50-tabelas-de-classifica-o-do-ibs-e-da-cbs-rfb-2026-04-15.json)
-
 
 ## Documentos relacionados
-
-- [it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel](../../../combustiveis/informes-tecnicos/it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel/document.md)
-- [it-2026-001-v-1-00-tabelas-de-meios-de-pagamento-para-vincula-o-com-o-split](../it-2026-001-v-1-00-tabelas-de-meios-de-pagamento-para-vincula-o-com-o-split/document.md)
-- [it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs](../it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs/document.md)
+_Nenhum documento relacionado conhecido._

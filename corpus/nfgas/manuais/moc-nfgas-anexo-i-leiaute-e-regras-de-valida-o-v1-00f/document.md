@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T17:56:10.924642+00:00"
 status: "published"
 type: "manual"
 ---
-![Image](assets/image_000000_747f21c508093ae483a7477521710a55958473c55d41d921344627713d347223.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfgas/manuais/moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f/source.json)
+- [Dados normalizados](../../../../normalized/nfgas/manuais/moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f/normalized.json)
+- [Changelog](../../../../changelog/nfgas/manuais/moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f.md)
+- [Proveniência resumida](../../../../sources/provenance/moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f.json)
 
 ## Projeto Nota Fiscal Eletrônica do Gás
 
@@ -57,7 +63,7 @@ Este documento é parte integrante do Manual de Orientação do Contribuinte (MO
 
 O Manual de Orientação do Contribuinte 1.00 é composto pelos seguintes documentos:
 
--  MOC - Visão Geral
+-  [MOC - Visão Geral](../../../nfe/manuais/manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e/document.md)
 -  MOC - Anexo I - Leiaute e Regras de Validação da NFGas
 -  MOC - Anexo II - Manual de Especificações Técnicas do DANFGAS
 
@@ -1107,20 +1113,6 @@ Ocorr: 0 - 1 (opcional sem repetição), 1 - 1 (obrigatório sem repetição), 0
 | D40   | 0, 1, 2, 3, 4, 5                                       |
 
 ![Image](assets/image_000051_215fa58a8b76908b51c6aa23ac2569f73742a2d82d65d9e97cbe0304de8d8710.png)
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfgas/manuais/moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f/source.json)
-- [Dados normalizados](../../../../normalized/nfgas/manuais/moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f/normalized.json)
-- [Changelog](../../../../changelog/nfgas/manuais/moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f.md)
-- [Proveniência resumida](../../../../sources/provenance/moc-nfgas-anexo-i-leiaute-e-regras-de-valida-o-v1-00f.json)
-
 
 ## Documentos relacionados
-
-- [anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e](../../../nfe/manuais/anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e/document.md)
-- [moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k](../../../nfag/manuais/moc-nfag-anexo-i-leiaute-e-regras-de-valida-o-v1-00k/document.md)
-- [moc-nfeabi-anexo-i-leiaute-e-rv-v2-00](../../../nfeabi/manuais/moc-nfeabi-anexo-i-leiaute-e-rv-v2-00/document.md)
-- [moc-nfgas-anexo-ii-danfgas-v1-00](../moc-nfgas-anexo-ii-danfgas-v1-00/document.md)
-- [nt2019-001-v1-70-regras-de-valida-o](../../../nfe/notas-tecnicas/nt2019-001-v1-70-regras-de-valida-o/document.md)
-- [nt2020-005-v1-21-regras-de-valida-o](../../../nfe/notas-tecnicas/nt2020-005-v1-21-regras-de-valida-o/document.md)
-- [nt2022-004-v1-10-regras-de-valida-o-issqn](../../../nfe/notas-tecnicas/nt2022-004-v1-10-regras-de-valida-o-issqn/document.md)
+_Nenhum documento relacionado conhecido._

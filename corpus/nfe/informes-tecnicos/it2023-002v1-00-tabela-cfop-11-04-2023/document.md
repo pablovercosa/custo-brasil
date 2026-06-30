@@ -8,9 +8,13 @@ converted_at_utc: "2026-06-25T20:42:33.762797+00:00"
 status: "published"
 type: "informe_tecnico"
 ---
-![Image](assets/image_000000_f4fe5a9b76c8defab871426be314dc2f911cb40812e313304fe06f9fc9315b02.png)
 
-![Image](assets/image_000001_da1946a487b8e6731b1473267258bb83090aee84ab0c4bd6c7280208f9a55f4f.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/source.json)
+- [Dados normalizados](../../../../normalized/nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/normalized.json)
+- [Changelog](../../../../changelog/nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023.md)
+- [Proveniência resumida](../../../../sources/provenance/it2023-002v1-00-tabela-cfop-11-04-2023.json)
 
 ## Sistema Nota Fiscal Eletrônica
 
@@ -67,18 +71,6 @@ Os prazos dessa atualização de tabelas estão documentados anteriormente, no i
 Os códigos contidos na Tabela CFOP disponível no Portal Nacional da NF-e são criados, alterados ou excluídos a partir de Ajustes SINIEF publicados no Portal do CONFAZ (https://www.confaz.fazenda.gov.br/).
 
 ![Image](assets/image_000004_320ce71d1eb081a7bf1cebc2fc95112e6fc933ea1e98d057f64948b9f529f73e.png)
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/source.json)
-- [Dados normalizados](../../../../normalized/nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/normalized.json)
-- [Changelog](../../../../changelog/nfe/informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023.md)
-- [Proveniência resumida](../../../../sources/provenance/it2023-002v1-00-tabela-cfop-11-04-2023.json)
-
 
 ## Documentos relacionados
-
-- [it-2023-001-v1-10-tabela-cprodanp](../../../combustiveis/informes-tecnicos/it-2023-001-v1-10-tabela-cprodanp/document.md)
-- [it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica](../../../combustiveis/informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica/document.md)
-- [it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026](../it2024-002v1-11-atualiza-tabela-meios-de-pagamento-04032026/document.md)
-- [nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024](../../notas-tecnicas/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/document.md)
-- [nt-2017-002-v1-40-tabela-cfop](../../notas-tecnicas/nt-2017-002-v1-40-tabela-cfop/document.md)
+_Nenhum documento relacionado conhecido._

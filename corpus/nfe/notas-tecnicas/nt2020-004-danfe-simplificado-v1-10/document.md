@@ -8,9 +8,13 @@ converted_at_utc: "2026-06-25T15:22:59.748274+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_4f9898c530d8bf82e36dfb5fd14a054dff0ddfd8c9cdd867d989d833a12c8c33.png)
 
-![Image](assets/image_000001_b5e9770915d74f696b205aff61062d20847875f0de7ae843a033467d41be9a64.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2020-004-danfe-simplificado-v1-10/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2020-004-danfe-simplificado-v1-10/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2020-004-danfe-simplificado-v1-10.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2020-004-danfe-simplificado-v1-10.json)
 
 ## Sistema Nota Fiscal Eletrônica
 
@@ -100,15 +104,6 @@ e)  Dados dos totais da NF-e: Valor total da Nota Fiscal.
 ![Image](assets/image_000008_0fd5513c08d487ed710316fa90cf5cf193c67123734f59aa7846eebdbeb408e2.png)
 
 ![Image](assets/image_000009_b485c241bf3783cfd7fd263391ecd4ca27e0c5872a0a03170837b068c9de5296.png)
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2020-004-danfe-simplificado-v1-10/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2020-004-danfe-simplificado-v1-10/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2020-004-danfe-simplificado-v1-10.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2020-004-danfe-simplificado-v1-10.json)
-
 
 ## Documentos relacionados
-
-- [nt-2026-003-v1-00-danfe-simplificado-tipo-2](../nt-2026-003-v1-00-danfe-simplificado-tipo-2/document.md)
-- [nt2020-002v-1-01-espec-fica-para-ipi](../nt2020-002v-1-01-espec-fica-para-ipi/document.md)
+_Nenhum documento relacionado conhecido._

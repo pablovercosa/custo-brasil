@@ -12,6 +12,16 @@ created_at: 2025-06-26
 updated_at: 2025-06-26
 ---
 
+## Metadados
+
+### Fontes normativas
+- tabela-fcp-uf-2025
+- corpys/geral/tabelas-federais/tabela-fcp-uf-2025
+
+### Fontes normativas
+- tabela-fcp-uf-2025
+- corpys/geral/tabelas-federais/tabela-fcp-uf-2025
+
 # Alíquotas ICMS por UF
 
 Tabela de referência rápida das alíquotas de ICMS praticadas por estado. **Alíquotas podem variar por produto e por legislação estadual específica. Consulte a legislação vigente de cada UF.**

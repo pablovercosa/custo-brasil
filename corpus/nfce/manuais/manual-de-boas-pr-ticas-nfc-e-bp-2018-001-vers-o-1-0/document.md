@@ -8,11 +8,13 @@ converted_at_utc: "2026-06-25T15:49:46.348710+00:00"
 status: "published"
 type: "manual"
 ---
-![Image](assets/image_000000_8698f55a41bd20ea8d5afa2aef810249b52961a7d653230c9a3835e9e7133823.png)
 
-![Image](assets/image_000001_de33c37f15fd7eaf65ab0fb13fb324ba7e96c361808c8f8437b5a202f3c7f878.png)
-
-![Image](assets/image_000002_c40d5803bb49c6835a65f85ea68c430ef8aeb89c72f1a37df750c1fc50b62f42.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfce/manuais/manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0/source.json)
+- [Dados normalizados](../../../../normalized/nfce/manuais/manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0/normalized.json)
+- [Changelog](../../../../changelog/nfce/manuais/manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0.md)
+- [Proveniência resumida](../../../../sources/provenance/manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0.json)
 
 ## CONTROLE DE VERSÕES
 
@@ -314,14 +316,6 @@ Deve se esperar um tempo de processamento inferior a 1 segundo no processamento 
 |   48 | 685-Rejeicao: Total do Valor Aproximado dos Tributos difere do somatório dos itens                         |    9.144 |     349 |
 |   49 | 660-Rejeicao: CFOP de Combustível e não informado grupo de combustível da NF-e                             |    8.728 |     230 |
 |   50 | 780-Rejeicao: NFC-e com valor total superior ao permitido                                                  |    8.447 |      11 |
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfce/manuais/manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0/source.json)
-- [Dados normalizados](../../../../normalized/nfce/manuais/manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0/normalized.json)
-- [Changelog](../../../../changelog/nfce/manuais/manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0.md)
-- [Proveniência resumida](../../../../sources/provenance/manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0.json)
-
 
 ## Documentos relacionados
-
-- [manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e](../../../nfe/manuais/manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e/document.md)
+_Nenhum documento relacionado conhecido._

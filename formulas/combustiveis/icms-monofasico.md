@@ -13,6 +13,18 @@ created_at: 2025-06-26
 updated_at: 2025-06-26
 ---
 
+## Metadados
+
+### Fontes normativas
+- [nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis](corpus/combustiveis/notas-tecnicas/nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis/document.md)
+- [nt-2023-01-perguntas-e-respostas](corpus/combustiveis/notas-tecnicas/nt-2023-01-perguntas-e-respostas/document.md)
+- tabela-combustiveis-monofasica
+
+### Fontes normativas
+- [nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis](corpus/combustiveis/notas-tecnicas/nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis/document.md)
+- [nt-2023-01-perguntas-e-respostas](corpus/combustiveis/notas-tecnicas/nt-2023-01-perguntas-e-respostas/document.md)
+- tabela-combustiveis-monofasica
+
 # ICMS Monofásico — Combustíveis
 
 ## Visão geral
@@ -23,7 +35,7 @@ O ICMS monofásico sobre combustíveis (também chamado ICMS Mono) concentra a t
 
 - LC 192/2022 — ICMS monofásico sobre combustíveis
 - Convênio ICMS 199/2022 — alíquotas ad rem
-- NT 2023.001 — tributaçao monofásica dos combustíveis (leiaute)
+- [NT 2023.001](../../corpus/combustiveis/notas-tecnicas/nt2023-001v1-60-tributa-o-monof-sica-dos-combust-veis/document.md) — tributaçao monofásica dos combustíveis (leiaute)
 - NT 2023.01 — perguntas e respostas com exemplos de cálculo
 - Tabela de combustíveis monofásica (`corpus/geral/tabelas-federais/tabela-combustiveis-monofasica/`)
 

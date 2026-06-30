@@ -8,9 +8,13 @@ converted_at_utc: "2026-06-25T15:45:09.283230+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_71f191a8fc4a9a19897668052c6800a63bfb860f3c534c192b24ca5065832043.png)
 
-![Image](assets/image_000001_b80903ed1b93a07698a88ee32b6fd1f2b82afd156cb68fe5ddb7421247e7f2cb.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -83,17 +87,6 @@ Os códigos incluídos na tabela de NCM publicada no Portal Nacional da NF-e est
 | Resolução Gecex nº 529/2023 | 1901.20.00     | Misturas e pastas para a preparação de produtos de padaria, pastelaria e da in- dústria de bolachas e biscoi- tos, da posição 19.05 | 01/11/23 para 31/12/2023 | 1901.20.20     | Massa para a preparação de pão, com adição de grãos ou sementes inte- grais, congelada | Adiada de 01/11/23 para 01/01/2024 |
 | Resolução Gecex nº 529/2023 | 1901.20.00     | Misturas e pastas para a preparação de produtos de padaria, pastelaria e da in- dústria de bolachas e biscoi- tos, da posição 19.05 | 01/11/23 para 31/12/2023 | 1901.20.90     | Outras                                                                                 | Adiada de 01/11/23 para 01/01/2024 |
 | Resolução Gecex nº 529/2023 |                |                                                                                                                                     |                          | 3004.90.98     | Regenerador de cartila- gem, constituído por colá- geno moldado, absorvível            | Mantida em 01/11/2023              |
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024.md)
-- [Proveniência resumida](../../../../sources/provenance/nt-2016-003-v3-62-tabela-ncm-vig-ncia-01-11-2023-ou-01-01-2024.json)
-
 
 ## Documentos relacionados
-
-- [it-2023-001-v1-10-tabela-cprodanp](../../../combustiveis/informes-tecnicos/it-2023-001-v1-10-tabela-cprodanp/document.md)
-- [it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica](../../../combustiveis/informes-tecnicos/it-2023-003-v1-08-tabela-de-combust-veis-sujeitos-tributa-o-monof-sica/document.md)
-- [it2023-002v1-00-tabela-cfop-11-04-2023](../../informes-tecnicos/it2023-002v1-00-tabela-cfop-11-04-2023/document.md)
-- [nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024](../nt-2016-003-v3-7-tabela-ncm-vig-ncia-01-04-2024/document.md)
+_Nenhum documento relacionado conhecido._

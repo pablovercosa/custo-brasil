@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T14:54:25.066514+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_57e90876e2337423e28bb28b063080ec75418bab531376f105e9d8a9c42913af.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2009-004/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2009-004/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2009-004.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2009-004.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -145,12 +151,6 @@ Exemplo de XML de operação normal:
 - "ESTABELECIMENTO IMPEDIDO DE RECOLHER O ICMS/ISS PELO SIMPLES NACIONAL, NOS TERMOS DO § 1º DO ART. 20 DA LC 123/2006";
 
 "NÃO GERA DIREITO A CRÉDITO FISCAL DE IPI".
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2009-004/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2009-004/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2009-004.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2009-004.json)
 
 ## Documentos relacionados
 _Nenhum documento relacionado conhecido._

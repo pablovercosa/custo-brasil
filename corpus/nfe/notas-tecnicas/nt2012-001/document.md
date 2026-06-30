@@ -8,9 +8,13 @@ converted_at_utc: "2026-06-25T15:02:48.944679+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_75d3f6ddb229b1c1c190f5fa00db01cb8b4e9179cc4d970d788308e3748e029d.png)
 
-Nota Fiscal eletrônica Manual de Integração - Contribuinte
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2012-001/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2012-001/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2012-001.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2012-001.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -67,12 +71,6 @@ No DANFE Simplificado deverão ser impressos no mínimo, além da expressão 'DA
 - c) Dados do destinatário/remetente: Nome/Razão Social, Sigla da UF, CNPJ/CPF;
 - d) Dados dos itens: Descrição dos Produtos/Serviços, Unidade Comercial, Quantidade, Valor unitário, Valor total do item;
 - e) Dados dos totais da NF-e: Valor total da Nota Fiscal.
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2012-001/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2012-001/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2012-001.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2012-001.json)
 
 ## Documentos relacionados
 _Nenhum documento relacionado conhecido._

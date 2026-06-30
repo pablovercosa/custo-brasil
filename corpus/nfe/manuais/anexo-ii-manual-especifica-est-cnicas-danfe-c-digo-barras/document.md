@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T17:23:17.308783+00:00"
 status: "published"
 type: "manual"
 ---
-![Image](assets/image_000000_d86b67ef9063841d72b1bdaa4397ed28a1077d316e08e6f59b467768b3e04e62.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/manuais/anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras/source.json)
+- [Dados normalizados](../../../../normalized/nfe/manuais/anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras/normalized.json)
+- [Changelog](../../../../changelog/nfe/manuais/anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras.md)
+- [Proveniência resumida](../../../../sources/provenance/anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras.json)
 
 ## Sistema Nota Fiscal Eletrônica
 
@@ -36,8 +42,8 @@ Versão 7.00 -Outubro de 2020
 | 3.1.1.                                                                                                                                                                                                                                                                                            | Chave de Acesso...................................................................................................................8                                                                                                                                                               | Chave de Acesso...................................................................................................................8                                                                                                                                                               |                                                                                                                   |
 | 3.1.2.                                                                                                                                                                                                                                                                                            | Dados                                                                                                                                                                                                                                                                                             | da NF-e......................................................................................................................9                                                                                                                                                                    |                                                                                                                   |
 | 3.1.3.                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                   | Dados do Emitente                                                                                                                                                                                                                                                                                 | ................................................................................................................9 |
-| 3.1.4.                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                   | Informações do local de retirada (NT 2018.005).......................................................................9                                                                                                                                                                            |                                                                                                                   |
-| 3.1.5.                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                   | Informações do local de entrega (NT 2018.005).......................................................................9                                                                                                                                                                             |                                                                                                                   |
+| 3.1.4.                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                   | Informações do local de retirada ([NT 2018.005](../../notas-tecnicas/nt2018-005-v1-52-alteracaodeleiautenf-enfc/document.md)).......................................................................9                                                                                                                                                                            |                                                                                                                   |
+| 3.1.5.                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                   | Informações do local de entrega ([NT 2018.005](../../notas-tecnicas/nt2018-005-v1-52-alteracaodeleiautenf-enfc/document.md)).......................................................................9                                                                                                                                                                             |                                                                                                                   |
 | 3.1.6.                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                   | Quadro Fatura/Duplicatas.......................................................................................................9                                                                                                                                                                  |                                                                                                                   |
 | 3.1.7.                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                   | Quadro Dados dos Produtos / Serviços.................................................................................10                                                                                                                                                                           |                                                                                                                   |
 | 3.1.8.                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                   | Informações Complementares..............................................................................................11                                                                                                                                                                        |                                                                                                                   |
@@ -90,7 +96,7 @@ Versão 7.00 -Outubro de 2020
 | 3.11.2.                                                                                                            | 3.11.2.                                                                                                                             | Chave de acesso.................................................................................................................22 |
 | 3.11.3.                                                                                                            | 3.11.3.                                                                                                                             | Padrões de Caracteres (Tipos de Fontes) .............................................................................22            |
 | 3.11.4.                                                                                                            | 3.11.4.                                                                                                                             | Campos obrigatórios............................................................................................................23  |
-| 3.12.                                                                                                              | 3.12.                                                                                                                               | DANFE Simplificado - Etiqueta (NT 2020.004) ...................................................................23                  |
+| 3.12.                                                                                                              | 3.12.                                                                                                                               | DANFE Simplificado - Etiqueta ([NT 2020.004](../../notas-tecnicas/nt2020-004-danfe-simplificado-v1-10/document.md)) ...................................................................23                  |
 | 3.12.1.                                                                                                            | 3.12.1.                                                                                                                             | Tipo e tamanho do Papel......................................................................................................23    |
 | 3.12.2.                                                                                                            | 3.12.2.                                                                                                                             | Chave de acesso.................................................................................................................23 |
 | 3.12.3.                                                                                                            | 3.12.3.                                                                                                                             | Padrões de Caracteres (Tipos de Fontes) .............................................................................23            |
@@ -113,8 +119,8 @@ Versão 7.00 -Outubro de 2020
 
 |   Versão | Histórico de atualizações                                                                                                                              | Implantação Homologação   | Implantação Produção   |
 |----------|--------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|------------------------|
-|     7.00 | Publicação dos campos obrigatóriosda NF-e no DANFESimplificado - Etiqueta (NT 2020.004)                                                                | Imediato                  | Imediato               |
-|     7.00 | Atualização das informações do Quadro do Transportador,Informaçõesdo local de retirada e Informações do local de entrega (NT2018.005)                  | 25/02/2019                | 29/04/2019             |
+|     7.00 | Publicação dos campos obrigatóriosda NF-e no DANFESimplificado - Etiqueta ([NT 2020.004](../../notas-tecnicas/nt2020-004-danfe-simplificado-v1-10/document.md))                                                                | Imediato                  | Imediato               |
+|     7.00 | Atualização das informações do Quadro do Transportador,Informaçõesdo local de retirada e Informações do local de entrega ([NT2018.005](../../notas-tecnicas/nt2018-005-v1-52-alteracaodeleiautenf-enfc/document.md))                  | 25/02/2019                | 29/04/2019             |
 |     7.00 | Separação dos capítulos6 e 7 do MOC6.0 e seus Anexos III, IV, V, VI e VIII, que tratam da especificação técnica do DANFE, para este manual específico. |                           |                        |
 
 ![Image](assets/image_000006_7bcee34395c54f1a41583adfeddae28c7fdeda15322b0964dc5762d57a0b2ce5.png)
@@ -125,11 +131,11 @@ Este documento é parte integrante do Manual de Orientação  do Contribuinte  (
 
 O Manual de Orientação do Contribuinte 7.0 é composto pelos seguintes documentos:
 
-- MOC - Visão Geral
+- [MOC - Visão Geral](../manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e/document.md)
 - MOC - Anexo I - Leiaute NF-e/NFC-e
 - MOC - Anexo II - Manual de Especificações  Técnicas do DANFE e Código de Barras
-- MOC - Anexo III - Manual de Contingência NF-e
-- MOC - Anexo IV - Manual de Contingência NFC-e
+- [MOC - Anexo III - Manual de Contingência NF-e](../anexo-iii-manual-de-conting-ncia-nf-e/document.md)
+- [MOC - Anexo IV - Manual de Contingência NFC-e](../anexo-iii-manual-de-conting-ncia-nf-e/document.md)
 
 As informações do DANFE NFC-e estão publicadas no Manual de Especificações Técnicas do DANFE NFC-e e QR Code, disponível no Portal Nacional da NFC-e
 
@@ -284,7 +290,7 @@ Deverá conter a identificação do emitente, composta no mínimo por:
 
 Opcionalmente  poderá  conter  logotipo,  desde  que  sua  inclusão  não  prejudique  a  exibição  das informações obrigatórias.
 
-## 3.1.4.  Informações do local de retirada (NT 2018.005)
+## 3.1.4.  Informações do local de retirada ([NT 2018.005](../../notas-tecnicas/nt2018-005-v1-52-alteracaodeleiautenf-enfc/document.md))
 
 Caso haja preenchimento  do grupo F - Local de retirada, fica possibilitada  a exibição de informações no DANFE em área especifica, conforme sugestão de modelo abaixo:
 
@@ -334,7 +340,7 @@ UF
 
 FONE/FAX
 
-## 3.1.5.  Informações do local de entrega (NT 2018.005)
+## 3.1.5.  Informações do local de entrega ([NT 2018.005](../../notas-tecnicas/nt2018-005-v1-52-alteracaodeleiautenf-enfc/document.md))
 
 Caso haja preenchimento  do grupo G - Local de entrega, fica possibilitada a exibição de informações no DANFE em área especifica, conforme sugestão de modelo abaixo:
 
@@ -459,7 +465,7 @@ Deverá conter todas as Informações Adicionais da NF-e incluídas nas TAGs &lt
 
 ![Image](assets/image_000013_350c37e69f25029e544f39ad773fc43048bfc5728f82693be7356d300e0dfd3b.png)
 
-As empresas remetentes  devem informar,  no campo  de 'Informações  Complementares',  os valores descritos no grupo de tributação do ICMS para a UF de destino. (NT 2015.003)
+As empresas remetentes  devem informar,  no campo  de 'Informações  Complementares',  os valores descritos no grupo de tributação do ICMS para a UF de destino. ([NT 2015.003](../../notas-tecnicas/nt-2015-003-v194/document.md))
 
 Exemplo 1 de preenchimento do DANFE (1ª situação da sistemática de cálculo descrita a seguir):
 
@@ -483,7 +489,7 @@ O contribuinte não deverá preencher este quadro, sendo seu preenchimento de us
 
 ## 3.1.10. Quadro do Transportador
 
-O campo identificação da Modalidade do Frete (id: X02, tag:modFrete) deverá ser preenchido com um dos seguintes códigos (NT 2016/002) (Atualizado NT 2108.005):
+O campo identificação da Modalidade do Frete (id: X02, tag:modFrete) deverá ser preenchido com um dos seguintes códigos ([NT 2016/002](../../notas-tecnicas/nt-2016-002-v1-61/document.md)) (Atualizado NT 2108.005):
 
 0=Contratação do Frete por conta do Remetente (CIF);
 
@@ -1014,7 +1020,7 @@ No DANFE Simplificado deverão ser impressos, no mínimo, além da expressão 'D
 - d) Dados dos itens: Descrição dos Produtos/Serviços,  Unidade Comercial, Quantidade, Valor unitário, Valor total do item;
 - e) Dados dos totais da NF-e: Valor total da Nota Fiscal.
 
-## 3.12. DANFE Simplificado  - Etiqueta (NT 2020.004)
+## 3.12. DANFE Simplificado  - Etiqueta ([NT 2020.004](../../notas-tecnicas/nt2020-004-danfe-simplificado-v1-10/document.md))
 
 Com o avanço do comércio eletrônico, surgiu a necessidade de simplificar o processo de impressão do Documento Auxiliar da Nota Fiscal Eletrônica.
 
@@ -1314,19 +1320,6 @@ SNFeNFCe
 ![Image](assets/image_000039_fc36a4f92cb438f9c985d18778cb4778958f1a52d777087fa6fa0360b7cd054e.png)
 
 ![Image](assets/image_000040_215b4241f4f9863008ae7fd6de4652e0fc27b711f1a0c1593f1134cad6e5fa7a.png)
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/manuais/anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras/source.json)
-- [Dados normalizados](../../../../normalized/nfe/manuais/anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras/normalized.json)
-- [Changelog](../../../../changelog/nfe/manuais/anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras.md)
-- [Proveniência resumida](../../../../sources/provenance/anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras.json)
-
 
 ## Documentos relacionados
-
-- [20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code](../../../nfce/manuais/20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code/document.md)
-- [anexo-iii-manual-de-conting-ncia-nf-e](../anexo-iii-manual-de-conting-ncia-nf-e/document.md)
-- [anexo-iv-manual-de-conting-ncia-nfc-e](../../../nfce/manuais/anexo-iv-manual-de-conting-ncia-nfc-e/document.md)
-- [manual-svan-anexo-i](../manual-svan-anexo-i/document.md)
-- [manual-svan-anexo-ii](../manual-svan-anexo-ii/document.md)
-- [nt2020-002v-1-01-espec-fica-para-ipi](../../notas-tecnicas/nt2020-002v-1-01-espec-fica-para-ipi/document.md)
+_Nenhum documento relacionado conhecido._

@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T15:00:15.457939+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_aa151bc9da2012b094d92ac97e3228b7b994832df46da807a7b6a96ce390c3b0.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2012-003d/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2012-003d/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2012-003d.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2012-003d.json)
 
 ## Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica Projeto Nota Fiscal Eletrônica
 
@@ -111,7 +117,7 @@ Alteradas as regras de validação nas operações ince ntivadas com a Suframa, 
 
 | #      | Campo   | Regra de validação                                                                                                                                                                  | Aplic.   |   Msg | Efeito   | Descrição Erro                                                               |
 |--------|---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------|----------|------------------------------------------------------------------------------|
-| GN28   | N28     | Se informado motDesICMS = 7 ISUF (id:E18) deve ser informado (NT 2011/004) Exceção: Não exigir a Inscrição Suframa se informado CFOP de entrada (inicia por 1 ou 2) - (NT 2012.003) | Facult.  |   625 | Rej.     | Rejeição: Inscrição SUFRAMA deve ser informada na venda com isenção para ZFM |
+| GN28   | N28     | Se informado motDesICMS = 7 ISUF (id:E18) deve ser informado ([NT 2011/004](../nt2011-004/document.md)) Exceção: Não exigir a Inscrição Suframa se informado CFOP de entrada (inicia por 1 ou 2) - (NT 2012.003) | Facult.  |   625 | Rej.     | Rejeição: Inscrição SUFRAMA deve ser informada na venda com isenção para ZFM |
 | GN28.1 | N28     | Se informado motDesICMS = 7 - deve ser informado CFOP: 1203, 1204, 1208, 1209, 2203, 2204, 2208, 2209, 5109, 5110, 5151, 5152, 6109, 6110, 6151, 6152, 6122 e 6123 (NT 2012.003)    | Facult.  |   626 | Rej.     | Rejeição: CFOP de operação isenta para ZFM d iferente do previsto            |
 
 Nota: Alterada a descrição do erro 626, conforme do cumentado.
@@ -169,7 +175,7 @@ Eliminada as regras de validação que seguem:
 | #       | Campo   | Regra de validação                                                                                          | Aplic.   |   Msg | Efeito   | Descrição Erro                                                                       |
 |---------|---------|-------------------------------------------------------------------------------------------------------------|----------|-------|----------|--------------------------------------------------------------------------------------|
 | GB09.02 | B09     | Se versão = '1.10' - Data de Emissão posterior à 31/03/2011 (NT 201 1.002)                                  | Obrig.   |   595 | Rej.     | Rejeição: A versão do leiaute da NF- e utilizada não é mais válida                   |
-| GB09.03 |         | Se versão = '1.10': - Data de Recepção posterior à 31/03/2011 e tpAmb (B24) = 2 - homologação (NT 2011.002) | Obrig.   |   596 | Rej.     | Rejeição: Ambiente de homologação indisponível para recepção de NF-e da versão 1.10. |
+| GB09.03 |         | Se versão = '1.10': - Data de Recepção posterior à 31/03/2011 e tpAmb (B24) = 2 - homologação ([NT 2011.002](../nt2011-002/document.md)) | Obrig.   |   596 | Rej.     | Rejeição: Ambiente de homologação indisponível para recepção de NF-e da versão 1.10. |
 
 ![Image](assets/image_000009_a612254256487620210007e236beec685214465d7d9bba737756632ff54f4fc6.png)
 
@@ -585,12 +591,6 @@ Exemplo de alguns Códigos da ANP para combustíveis e lubrificantes.
 | TURBINA LEVE                             | 610101007 |
 | TURBINA PESADO                           | 610101008 |
 | VASELINA                                 | 640301001 |
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2012-003d/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2012-003d/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2012-003d.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2012-003d.json)
 
 ## Documentos relacionados
 _Nenhum documento relacionado conhecido._

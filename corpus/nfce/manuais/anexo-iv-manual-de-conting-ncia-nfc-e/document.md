@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T16:53:10.362154+00:00"
 status: "published"
 type: "manual"
 ---
-![Image](assets/image_000000_180ef7ef8ebda3f30d88ba489c1618332150124e2b39cd03255b34bcb08388e3.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfce/manuais/anexo-iv-manual-de-conting-ncia-nfc-e/source.json)
+- [Dados normalizados](../../../../normalized/nfce/manuais/anexo-iv-manual-de-conting-ncia-nfc-e/normalized.json)
+- [Changelog](../../../../changelog/nfce/manuais/anexo-iv-manual-de-conting-ncia-nfc-e.md)
+- [Proveniência resumida](../../../../sources/provenance/anexo-iv-manual-de-conting-ncia-nfc-e.json)
 
 ## Sistema Nota Fiscal Eletrônica
 
@@ -59,11 +65,11 @@ Este documento é parte integrante do Manual de Orientação  do Contribuinte  (
 
 O Manual de Orientação do Contribuinte 7.0 é composto pelos seguintes documentos:
 
-- MOC - Visão Geral
-- MOC - Anexo I - Leiaute NF-e/NFC-e e Regras de Validação
+- [MOC - Visão Geral](../../../nfe/manuais/manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e/document.md)
+- [MOC - Anexo I - Leiaute NF-e/NFC-e e Regras de Validação](../../../nfe/manuais/anexo-i-leiaute-e-regra-de-valida-o-nf-e-e-nfc-e/document.md)
 - MOC - Anexo II - Manual de Especificações  Técnicas do DANFE e Código de Barras
-- MOC - Anexo III - Manual de Contingência NF-e
-- MOC - Anexo IV - Manual de Contingência NFC-e
+- [MOC - Anexo III - Manual de Contingência NF-e](../../../nfe/manuais/anexo-iii-manual-de-conting-ncia-nf-e/document.md)
+- [MOC - Anexo IV - Manual de Contingência NFC-e](../../../nfe/manuais/anexo-iii-manual-de-conting-ncia-nf-e/document.md)
 
 As informações do DANFE NFC-e estão publicadas no Manual de Especificações Técnicas do DANFE NFC-e e QR Code, disponível no Portal Nacional da NFC-e
 
@@ -271,17 +277,6 @@ MOC 7.0 - Anexo  IV, Padrões Técnicos de Contingência  O ff-line NFC-e
 - cancelar, se autorizada.
 
 ![Image](assets/image_000022_72e01bcbe9c4a8ceb2d6f1a5af20a30c122d852de5791c31a808cc561e1cab30.png)
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfce/manuais/anexo-iv-manual-de-conting-ncia-nfc-e/source.json)
-- [Dados normalizados](../../../../normalized/nfce/manuais/anexo-iv-manual-de-conting-ncia-nfc-e/normalized.json)
-- [Changelog](../../../../changelog/nfce/manuais/anexo-iv-manual-de-conting-ncia-nfc-e.md)
-- [Proveniência resumida](../../../../sources/provenance/anexo-iv-manual-de-conting-ncia-nfc-e.json)
-
 
 ## Documentos relacionados
-
-- [anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras](../../../nfe/manuais/anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras/document.md)
-- [anexo-iii-manual-de-conting-ncia-nf-e](../../../nfe/manuais/anexo-iii-manual-de-conting-ncia-nf-e/document.md)
-- [manual-svan-anexo-i](../../../nfe/manuais/manual-svan-anexo-i/document.md)
-- [manual-svan-anexo-ii](../../../nfe/manuais/manual-svan-anexo-ii/document.md)
+_Nenhum documento relacionado conhecido._

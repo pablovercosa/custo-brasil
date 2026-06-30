@@ -8,15 +8,13 @@ converted_at_utc: "2026-06-26T15:51:43.776024+00:00"
 status: "published"
 type: "manual"
 ---
-**Projeto Nota Fiscal Eletrônica**
 
-![](/home/projetos/custo-brasil/runtime/work/nfe/manuais/manual-svan-v1-00/assets/media/image1.jpeg)
-
-Orientações de Utilização
-
-do Sefaz Virtual Ambiente Nacional para as Empresas
-
-Versão 1.0
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/manuais/manual-svan-v1-00/source.json)
+- [Dados normalizados](../../../../normalized/nfe/manuais/manual-svan-v1-00/normalized.json)
+- [Changelog](../../../../changelog/nfe/manuais/manual-svan-v1-00.md)
+- [Proveniência resumida](../../../../sources/provenance/manual-svan-v1-00.json)
 
 ##### Fevereiro 2008
 
@@ -105,8 +103,6 @@ O projeto Sefaz Virtual viabiliza os seguintes benefícios e vantagens aos contr
 - Fornecer um ambiente único e padronizado para as Secretarias de Fazenda e empresas participantes do projeto.
 
 # Orientações para as Empresas no Ambiente de Homologação
-
-
 
 Para participar do Sefaz Virtual como empresa emissora de NF-e, o primeiro passo a ser realizado pela empresa é entrar em contato com a Secretaria Estadual de Fazenda correspondente à UF onde ela está situada.
 
@@ -339,15 +335,5 @@ A central de atendimento do projeto Nota Fiscal Eletrônica está disponível no
 \[2\] Portal da NF-e\
 Disponível em: <http://www.nfe.fazenda.gov.br/portal>
 
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/manuais/manual-svan-v1-00/source.json)
-- [Dados normalizados](../../../../normalized/nfe/manuais/manual-svan-v1-00/normalized.json)
-- [Changelog](../../../../changelog/nfe/manuais/manual-svan-v1-00.md)
-- [Proveniência resumida](../../../../sources/provenance/manual-svan-v1-00.json)
-
-
 ## Documentos relacionados
-
-- [manual-svan-anexo-i](../manual-svan-anexo-i/document.md)
-- [manual-svan-anexo-ii](../manual-svan-anexo-ii/document.md)
+_Nenhum documento relacionado conhecido._

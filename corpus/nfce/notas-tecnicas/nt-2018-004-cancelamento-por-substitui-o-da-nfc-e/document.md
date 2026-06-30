@@ -8,9 +8,13 @@ converted_at_utc: "2026-06-25T16:30:51.026763+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_87068efaacdcfba37c009d21d2142f80bf18f025f314e97058cd11f62feb52d0.png)
 
-![Image](assets/image_000001_3ebe18e7d44788c92d727014eb2f6f20d633408aa48e34420ad14e0f9a1cbed8.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfce/notas-tecnicas/nt-2018-004-cancelamento-por-substitui-o-da-nfc-e/source.json)
+- [Dados normalizados](../../../../normalized/nfce/notas-tecnicas/nt-2018-004-cancelamento-por-substitui-o-da-nfc-e/normalized.json)
+- [Changelog](../../../../changelog/nfce/notas-tecnicas/nt-2018-004-cancelamento-por-substitui-o-da-nfc-e.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2018-004-cancelamento-por-substitui-o-da-nfc-e.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -328,19 +332,6 @@ Nota: A SEFAZ autorizadora poderá aceitar o cancelamento fora de prazo, mantend
 |      920 | Rejeição: Tipo de Emissão inválido no Cancelamento por Substituição                                                         |
 
 ![Image](assets/image_000016_7960d33f2b154f941221050690ae870cb6f1c389263b12926bbfcde80ed5f207.png)
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfce/notas-tecnicas/nt-2018-004-cancelamento-por-substitui-o-da-nfc-e/source.json)
-- [Dados normalizados](../../../../normalized/nfce/notas-tecnicas/nt-2018-004-cancelamento-por-substitui-o-da-nfc-e/normalized.json)
-- [Changelog](../../../../changelog/nfce/notas-tecnicas/nt-2018-004-cancelamento-por-substitui-o-da-nfc-e.md)
-- [Proveniência resumida](../../../../sources/provenance/nt-2018-004-cancelamento-por-substitui-o-da-nfc-e.json)
-
 
 ## Documentos relacionados
-
-- [manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0](../../manuais/manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0/document.md)
-- [nota-t-cnica-2016-001-v-1-40-publicada-em-16-07-2018](../../../nfe/notas-tecnicas/nota-t-cnica-2016-001-v-1-40-publicada-em-16-07-2018/document.md)
-- [nt-2018-002-v1-00](../../../nfe/notas-tecnicas/nt-2018-002-v1-00/document.md)
-- [nt-2018-003-v1-01-tabela-de-pa-ses](../../../nfe/notas-tecnicas/nt-2018-003-v1-01-tabela-de-pa-ses/document.md)
-- [nt2018-001-v1-10-emitente-cpf](../../../nfe/notas-tecnicas/nt2018-001-v1-10-emitente-cpf/document.md)
-- [nt2018-005-v1-52-alteracaodeleiautenf-enfc](../../../nfe/notas-tecnicas/nt2018-005-v1-52-alteracaodeleiautenf-enfc/document.md)
+_Nenhum documento relacionado conhecido._

@@ -8,9 +8,13 @@ converted_at_utc: "2026-06-25T15:09:54.578267+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_6172778e5ef24aa6ff5019009153ec7792c600dee64bc7b8fd6dcaae50e95141.png)
 
-![Image](assets/image_000001_c16c7c891244ca695ff5d7180c63e4d273f2f297911980318bf5ec7981dce8ad.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2018-003-v1-01-tabela-de-pa-ses/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2018-003-v1-01-tabela-de-pa-ses/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2018-003-v1-01-tabela-de-pa-ses.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2018-003-v1-01-tabela-de-pa-ses.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -33,7 +37,7 @@ Versão
 |      |                                                                                                                                                                                                                                                                                                                                                                                                      | Teste      | o Produção 01/07/2019   |
 |------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------------|
 | 1.01 | Publicação da 'Tabela de País' atualizada com: a) alteração dos nomes dos países 4499 - Macedônia Ant. Rep. Ioguslávia, para Macedonia do Norte e 7544 - Suazilândia para ESSUATINI ; b) Os códigos 6980 e 6998 estavam com nomes de países similares, por isso foram corrigidos: 6980 foi alterado São Martilho, Ilha de parte Francesa e o código 6998 para São Martinho, Ilha de parte Holandesa. | 03/06/2019 |                         |
-| 1.00 | Inclusões, exclusões e alterações dos códigos de países apresentados no Anexo IX do Manual de Contribuinte. Entre as alterações está a inclusão do Dígito Verificador '3' para o país Curaçao (código 2003), criado pela NT 2015.002 e alteração do nome de 'Coveite' para 'Kuwait'.                                                                                                                 | 14/05/2018 | 01/06/2018              |
+| 1.00 | Inclusões, exclusões e alterações dos códigos de países apresentados no Anexo IX do Manual de Contribuinte. Entre as alterações está a inclusão do Dígito Verificador '3' para o país Curaçao (código 2003), criado pela [NT 2015.002](../nt-2015-002-v141-23-08-2016/document.md) e alteração do nome de 'Coveite' para 'Kuwait'.                                                                                                                 | 14/05/2018 | 01/06/2018              |
 
 ## 1 . Resumo
 
@@ -71,19 +75,6 @@ Países que tiveram alteração no Nome
 |                  6980 | ILHAS DE SAO MARTINHO (PARTE FRANCESA) | SAO MARTINHO, ILHA DE (PARTE FRANCESA)  |
 |                  6998 | SAO MARTINHO, ILHA DE (PARTE FRANCESA) | SAO MARTINHO, ILHA DE (PARTE HOLANDESA) |
 |                  7544 | SUAZILÂNDIA                            | ESWATINI                                |
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2018-003-v1-01-tabela-de-pa-ses/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2018-003-v1-01-tabela-de-pa-ses/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2018-003-v1-01-tabela-de-pa-ses.md)
-- [Proveniência resumida](../../../../sources/provenance/nt-2018-003-v1-01-tabela-de-pa-ses.json)
-
 
 ## Documentos relacionados
-
-- [manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0](../../../nfce/manuais/manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0/document.md)
-- [nota-t-cnica-2016-001-v-1-40-publicada-em-16-07-2018](../nota-t-cnica-2016-001-v-1-40-publicada-em-16-07-2018/document.md)
-- [nt-2018-002-v1-00](../nt-2018-002-v1-00/document.md)
-- [nt-2018-004-cancelamento-por-substitui-o-da-nfc-e](../../../nfce/notas-tecnicas/nt-2018-004-cancelamento-por-substitui-o-da-nfc-e/document.md)
-- [nt2018-001-v1-10-emitente-cpf](../nt2018-001-v1-10-emitente-cpf/document.md)
-- [nt2018-005-v1-52-alteracaodeleiautenf-enfc](../nt2018-005-v1-52-alteracaodeleiautenf-enfc/document.md)
+_Nenhum documento relacionado conhecido._

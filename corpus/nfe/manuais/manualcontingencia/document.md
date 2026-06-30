@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T19:34:17.328581+00:00"
 status: "published"
 type: "manual"
 ---
-![Image](assets/image_000000_c97b14eeff5f83e691bc059ee00d9c9a9a63db2429ce245b9cc3343562af17bd.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/manuais/manualcontingencia/source.json)
+- [Dados normalizados](../../../../normalized/nfe/manuais/manualcontingencia/normalized.json)
+- [Changelog](../../../../changelog/nfe/manuais/manualcontingencia.md)
+- [Proveniência resumida](../../../../sources/provenance/manualcontingencia.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -1389,16 +1395,6 @@ URL da página web para consulta de DPEC do ambiente de produção:
 https://www.nfe.fazenda.gov.br/portal/DPEC/ConsultaDPEC.aspx
 
 ![Image](assets/image_000080_dc3e0141ee4bae2e70e4835987f0a761bbd56b7ba200359eec527570d5ad1b27.png)
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/manuais/manualcontingencia/source.json)
-- [Dados normalizados](../../../../normalized/nfe/manuais/manualcontingencia/normalized.json)
-- [Changelog](../../../../changelog/nfe/manuais/manualcontingencia.md)
-- [Proveniência resumida](../../../../sources/provenance/manualcontingencia.json)
-
 
 ## Documentos relacionados
-
-- [anexo-iii-manual-de-conting-ncia-nf-e](../anexo-iii-manual-de-conting-ncia-nf-e/document.md)
-- [anexo-iv-manual-de-conting-ncia-nfc-e](../../../nfce/manuais/anexo-iv-manual-de-conting-ncia-nfc-e/document.md)
-- [manual-de-especificacoes-tecnicas-da-contingencia-off-line-versao-2-0](../../../nfce/manuais/manual-de-especificacoes-tecnicas-da-contingencia-off-line-versao-2-0/document.md)
+_Nenhum documento relacionado conhecido._

@@ -8,11 +8,13 @@ converted_at_utc: "2026-06-25T16:10:38.534665+00:00"
 status: "published"
 type: "manual"
 ---
-![Image](assets/image_000000_75b2f4c4210bcd206dd6471c28bdb2805e15fb9025d74b38f8be6844eb1edbd3.png)
 
-![Image](assets/image_000001_4abb77f01f4bf7166dc05c8751d8ff165d4f8733ca361656639b1672600a4142.png)
-
-![Image](assets/image_000002_3d67beca62ca10f61f04b9684c8816f62ec75ce5ef7b7c34f462d53d54247a6b.png)
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfce/manuais/manual-de-especificacoes-tecnicas-da-contingencia-off-line-versao-2-0/source.json)
+- [Dados normalizados](../../../../normalized/nfce/manuais/manual-de-especificacoes-tecnicas-da-contingencia-off-line-versao-2-0/normalized.json)
+- [Changelog](../../../../changelog/nfce/manuais/manual-de-especificacoes-tecnicas-da-contingencia-off-line-versao-2-0.md)
+- [Proveniência resumida](../../../../sources/provenance/manual-de-especificacoes-tecnicas-da-contingencia-off-line-versao-2-0.json)
 
 ## 1.  Conceito e Modelo Operacional da Contingência Off-line para NFC-e
 
@@ -161,20 +163,6 @@ Para aquela que ficou pendente de retorno (a nota n° 20 desse exemplo):
 
 - inutilizar a numeração, se não autorizada; ou
 - cancelar, se autorizada.
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfce/manuais/manual-de-especificacoes-tecnicas-da-contingencia-off-line-versao-2-0/source.json)
-- [Dados normalizados](../../../../normalized/nfce/manuais/manual-de-especificacoes-tecnicas-da-contingencia-off-line-versao-2-0/normalized.json)
-- [Changelog](../../../../changelog/nfce/manuais/manual-de-especificacoes-tecnicas-da-contingencia-off-line-versao-2-0.md)
-- [Proveniência resumida](../../../../sources/provenance/manual-de-especificacoes-tecnicas-da-contingencia-off-line-versao-2-0.json)
-
 
 ## Documentos relacionados
-
-- [20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code](../20250324-manual-de-especifica-es-t-cnicas-do-danfe-nfc-e-qr-code/document.md)
-- [anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras](../../../nfe/manuais/anexo-ii-manual-especifica-est-cnicas-danfe-c-digo-barras/document.md)
-- [anexo-iii-manual-de-conting-ncia-nf-e](../../../nfe/manuais/anexo-iii-manual-de-conting-ncia-nf-e/document.md)
-- [anexo-iv-manual-de-conting-ncia-nfc-e](../anexo-iv-manual-de-conting-ncia-nfc-e/document.md)
-- [manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0](../manual-de-boas-pr-ticas-nfc-e-bp-2018-001-vers-o-1-0/document.md)
-- [manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e](../../../nfe/manuais/manual-de-orienta-o-ao-contribuinte-moc-vers-o-7-0-nf-e-e-nfc-e/document.md)
-- [nt2020-002v-1-01-espec-fica-para-ipi](../../../nfe/notas-tecnicas/nt2020-002v-1-01-espec-fica-para-ipi/document.md)
+_Nenhum documento relacionado conhecido._

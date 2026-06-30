@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T15:01:34.235671+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_fe6be84161521e88755b2fcf6266ac33af92377ba5aa975f460bc794e3ba9dba.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2008-004/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2008-004/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2008-004.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2008-004.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -191,21 +197,6 @@ O código de País do BACEN dos seguintes países tem o DV - dígito verificador
 - 7370 - SERVIA;
 
 As aplicações dos Estados e dos emissores devem utilizar os códigos de País do BACEN sem validação do DV - dígito verificador, da mesma forma que consta da tabela de código de país do BACEN.
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2008-004/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2008-004/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2008-004.md)
-- [Proveniência resumida](../../../../sources/provenance/nt-2008-004.json)
-
 
 ## Documentos relacionados
-
-- [nota-t-cnica-2008-001-publicada-em-30-11-2010](../nota-t-cnica-2008-001-publicada-em-30-11-2010/document.md)
-- [nota-t-cnica-2008-003-publicada-em-30-11-2010](../nota-t-cnica-2008-003-publicada-em-30-11-2010/document.md)
-- [nota-t-cnica-2008-005-publicada-em-30-11-2010](../nota-t-cnica-2008-005-publicada-em-30-11-2010/document.md)
-- [nt-2008-001](../nt-2008-001/document.md)
-- [nt-2008-003](../nt-2008-003/document.md)
-- [nt-2008-005](../nt-2008-005/document.md)
-- [nt-2008-006](../nt-2008-006/document.md)
-- [nt2008-002](../nt2008-002/document.md)
+_Nenhum documento relacionado conhecido._

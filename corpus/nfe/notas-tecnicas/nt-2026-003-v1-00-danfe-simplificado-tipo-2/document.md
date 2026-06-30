@@ -8,9 +8,13 @@ converted_at_utc: "2026-06-25T17:45:21.201069+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_17ffeb99d2c1f80f00904d016d110ccdb72ebe85ecbd63c75b6b018e4be49296.png)
 
-Nota Fiscal Eletrônica - NF-e
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2026-003-v1-00-danfe-simplificado-tipo-2/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2026-003-v1-00-danfe-simplificado-tipo-2/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2026-003-v1-00-danfe-simplificado-tipo-2.md)
+- [Proveniência resumida](../../../../sources/provenance/nt-2026-003-v1-00-danfe-simplificado-tipo-2.json)
 
 ## DANFE Simplificado Tipo 2
 
@@ -744,14 +748,6 @@ Tabela 3: Mensagens de validação de consulta da NF-e
 | 245                                                                           | Chave de Acesso da NF-e inválida.                                                                                    | Problema na Chave de Acesso                                                   |
 | 246                                                                           | A chave de acesso informada não é de uma NF-e (modelo 55). Verifique o modelo do documento fiscal eletrônico (DF-e). | Problema na Chave de Acesso                                                   |
 | 247                                                                           | A chave de acesso informada não se refere a uma NF-e emitida por contribuinte da UF indicada.                        | Problema na Chave de Acesso                                                   |
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt-2026-003-v1-00-danfe-simplificado-tipo-2/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt-2026-003-v1-00-danfe-simplificado-tipo-2/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt-2026-003-v1-00-danfe-simplificado-tipo-2.md)
-- [Proveniência resumida](../../../../sources/provenance/nt-2026-003-v1-00-danfe-simplificado-tipo-2.json)
-
 
 ## Documentos relacionados
-
-- [nt2020-004-danfe-simplificado-v1-10](../nt2020-004-danfe-simplificado-v1-10/document.md)
+_Nenhum documento relacionado conhecido._

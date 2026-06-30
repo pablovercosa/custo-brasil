@@ -8,7 +8,13 @@ converted_at_utc: "2026-06-25T14:51:44.950298+00:00"
 status: "published"
 type: "nota_tecnica"
 ---
-![Image](assets/image_000000_c4e6daffbc318bd841fc00aef9f87a94e2b919c94e64e8100d060f4f9064a90b.png)
+
+## Metadados
+- [Metadados do corpus](metadata.json)
+- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2009-002/source.json)
+- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2009-002/normalized.json)
+- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2009-002.md)
+- [Proveniência resumida](../../../../sources/provenance/nt2009-002.json)
 
 ## Projeto Nota Fiscal Eletrônica
 
@@ -62,12 +68,6 @@ NFe99999999999999999999999999999999999999999999
 8. o 9946 - A DESIGNAR
 9. o 9950 - BANCOS CENTRAIS
 10. o 9970 - ORGANIZACOES INTERNACIONAIS
-## Metadados
-- [Metadados do corpus](metadata.json)
-- [Fonte e procedência](../../../../sources/portal_nacional_nfe/nfe/notas-tecnicas/nt2009-002/source.json)
-- [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2009-002/normalized.json)
-- [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2009-002.md)
-- [Proveniência resumida](../../../../sources/provenance/nt2009-002.json)
 
 ## Documentos relacionados
 _Nenhum documento relacionado conhecido._
