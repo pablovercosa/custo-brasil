@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nota-t-cnica-2011-007-publicada-em-26-12-2011",
+  "category": "nota_tecnica",
+  "document_path": "corpus/nfe/notas-tecnicas/nota-t-cnica-2011-007-publicada-em-26-12-2011/document.md",
+  "metadata_path": "corpus/nfe/notas-tecnicas/nota-t-cnica-2011-007-publicada-em-26-12-2011/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "Nota T\u00e9cnica 2011.007 - Publicada em 26_12_2011.pdf",
+  "original_sha256": "1969689ecdec7bc8826dd521836241b202d9d2ed76329eb69be63aa07c7b8751",
+  "published_at_utc": "2026-06-30T14:57:44.816071+00:00",
+  "slug": "nota-t-cnica-2011-007-publicada-em-26-12-2011",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal_nacional_nfe/nfe/notas-tecnicas/nota-t-cnica-2011-007-publicada-em-26-12-2011/source.json",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica Projeto Nota Fiscal Eletr\u00f4nica Projeto Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 5,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 5,
+    "missing_image_refs_count": 0
+  }
+}

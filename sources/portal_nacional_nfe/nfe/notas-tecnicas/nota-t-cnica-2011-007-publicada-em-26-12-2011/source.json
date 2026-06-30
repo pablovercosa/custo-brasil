@@ -1,0 +1,34 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nota-t-cnica-2011-007-publicada-em-26-12-2011",
+  "category": "nota_tecnica",
+  "conversion_tool": "docling-server",
+  "derived_public_files": [
+    "corpus/nfe/notas-tecnicas/nota-t-cnica-2011-007-publicada-em-26-12-2011/document.md",
+    "corpus/nfe/notas-tecnicas/nota-t-cnica-2011-007-publicada-em-26-12-2011/metadata.json",
+    "corpus/nfe/notas-tecnicas/nota-t-cnica-2011-007-publicada-em-26-12-2011/assets/image_000000_181538cba8008b7211d15e5cd978d6d0c2bf11226028da3c4f63e632b4682dd6.png",
+    "corpus/nfe/notas-tecnicas/nota-t-cnica-2011-007-publicada-em-26-12-2011/assets/image_000001_62f467db8e75df3b69c42e4a25108c482fc63f7d81b04501ff221245ca84a411.png",
+    "corpus/nfe/notas-tecnicas/nota-t-cnica-2011-007-publicada-em-26-12-2011/assets/image_000002_7b9f322dedb8058e2d54cc8c7037b5f9b708adff65cbbc352ad555ba5d302527.png",
+    "corpus/nfe/notas-tecnicas/nota-t-cnica-2011-007-publicada-em-26-12-2011/assets/image_000003_3a66fc30b576bfac27b6b482a1fed6f23193ea1f2f4b163bb34e2f3fed6e5e9c.png",
+    "corpus/nfe/notas-tecnicas/nota-t-cnica-2011-007-publicada-em-26-12-2011/assets/image_000004_331fe630ffd23ee160f43c343be41cf0b9ce5523c38c29f0785599868c7fbd94.png",
+    "sources/portal_nacional_nfe/nfe/notas-tecnicas/nota-t-cnica-2011-007-publicada-em-26-12-2011/source.json",
+    "normalized/nfe/notas-tecnicas/nota-t-cnica-2011-007-publicada-em-26-12-2011/normalized.json",
+    "changelog/nfe/notas-tecnicas/nota-t-cnica-2011-007-publicada-em-26-12-2011.md"
+  ],
+  "original_filename": "Nota T\u00e9cnica 2011.007 - Publicada em 26_12_2011.pdf",
+  "original_public_path_hint": "www.nfe.fazenda.gov.br/Documentos/Notas T\u00e9cnicas/Nota T\u00e9cnica 2011.007 - Publicada em 26_12_2011.pdf",
+  "original_sha256": "1969689ecdec7bc8826dd521836241b202d9d2ed76329eb69be63aa07c7b8751",
+  "publication_stage": "published",
+  "published_at_utc": "2026-06-30T14:57:44.816071+00:00",
+  "slug": "nota-t-cnica-2011-007-publicada-em-26-12-2011",
+  "source_family": "portal_nacional_nfe",
+  "source_url": "https://www.nfe.fazenda.gov.br/portal/listaSubMenu.aspx?Id=04BIflQt1aY=",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica Projeto Nota Fiscal Eletr\u00f4nica Projeto Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 5,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 5,
+    "missing_image_refs_count": 0
+  }
+}
