@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nota-t-cnica-2007-004-publicada-em-15-09-2011",
+  "category": "nota_tecnica",
+  "document_path": "corpus/nfe/notas-tecnicas/nota-t-cnica-2007-004-publicada-em-15-09-2011/document.md",
+  "metadata_path": "corpus/nfe/notas-tecnicas/nota-t-cnica-2007-004-publicada-em-15-09-2011/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "Nota T\u00e9cnica 2007.004 - Publicada em 15_09_2011.pdf",
+  "original_sha256": "195051e21f232723bb15991e2a2e4bdaf9c29e34adf07228b856d22b8f409106",
+  "published_at_utc": "2026-06-30T14:59:28.499138+00:00",
+  "slug": "nota-t-cnica-2007-004-publicada-em-15-09-2011",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal_nacional_nfe/nfe/notas-tecnicas/nota-t-cnica-2007-004-publicada-em-15-09-2011/source.json",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 4,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 4,
+    "missing_image_refs_count": 0
+  }
+}
