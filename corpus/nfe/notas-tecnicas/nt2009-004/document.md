@@ -151,3 +151,6 @@ Exemplo de XML de operação normal:
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2009-004/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2009-004.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2009-004.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

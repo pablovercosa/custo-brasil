@@ -1153,3 +1153,6 @@ Nota Técnica 2021.003 - Validação de GTIN
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2021-003-v1-40-valida-o-gtin-grupo-iv/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2021-003-v1-40-valida-o-gtin-grupo-iv.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2021-003-v1-40-valida-o-gtin-grupo-iv.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

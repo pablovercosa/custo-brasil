@@ -661,3 +661,6 @@ Exemplo 3: Neste caso, a consulta com a tag 'distNSU' teve sucesso e retornou do
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2014-002-v1-30-wsnfedistribuicaodfe/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2014-002-v1-30-wsnfedistribuicaodfe.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2014-002-v1-30-wsnfedistribuicaodfe.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

@@ -85,3 +85,6 @@ As dúvidas e sugestões devem ser encaminhadas através do Canal Fale Conosco d
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2008-002/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2008-002.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2008-002.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

@@ -346,3 +346,6 @@ A validação da mensagem de requisição poderá resultar em:
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2022-001-v1-00-ws-consulta-gtin/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2022-001-v1-00-ws-consulta-gtin.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2022-001-v1-00-ws-consulta-gtin.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

@@ -82,3 +82,6 @@ A tabela está disponível no Portal Nacional da NFe, na aba 'Documentos', opç�
 - [Dados normalizados](../../../../normalized/reforma-tributaria/informes-tecnicos/it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs/normalized.json)
 - [Changelog](../../../../changelog/reforma-tributaria/informes-tecnicos/it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs.md)
 - [Proveniência resumida](../../../../sources/provenance/it-2026-002-v-1-00-tabela-de-aliquotas-da-cbs.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

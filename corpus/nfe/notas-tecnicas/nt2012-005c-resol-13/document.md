@@ -84,3 +84,6 @@ Incluída nova regra de validação, conforme segue:
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2012-005c-resol-13/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2012-005c-resol-13.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2012-005c-resol-13.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

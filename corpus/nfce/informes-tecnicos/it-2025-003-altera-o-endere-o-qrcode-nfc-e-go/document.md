@@ -82,3 +82,6 @@ Não há alteração na RV, apenas mudou a URL de Goiás utilizada para fazer a 
 - [Dados normalizados](../../../../normalized/nfce/informes-tecnicos/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go/normalized.json)
 - [Changelog](../../../../changelog/nfce/informes-tecnicos/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go.md)
 - [Proveniência resumida](../../../../sources/provenance/it-2025-003-altera-o-endere-o-qrcode-nfc-e-go.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

@@ -315,3 +315,6 @@ Seguem as regras de validação relativas aos campos citados no item 2.
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2020-002v-1-01-espec-fica-para-ipi/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2020-002v-1-01-espec-fica-para-ipi.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2020-002v-1-01-espec-fica-para-ipi.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

@@ -140,3 +140,6 @@ Os  campos  relativos  aos  tributos  federais  (PIS,  COFINS  e  IPI)  deverão
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2020-003-v1-00-emiss-o-nf-e-de-energia-el-trica.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

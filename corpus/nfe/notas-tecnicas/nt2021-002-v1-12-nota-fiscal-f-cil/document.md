@@ -471,3 +471,6 @@ Informações de embalagem do produto (infProdEmb) disponíveis apenas para tpEm
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2021-002-v1-12-nota-fiscal-f-cil/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2021-002-v1-12-nota-fiscal-f-cil.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2021-002-v1-12-nota-fiscal-f-cil.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

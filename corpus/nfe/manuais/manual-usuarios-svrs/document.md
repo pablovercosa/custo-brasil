@@ -549,3 +549,6 @@ private void geraAssinaturaDigitalXML () { // Passo 1: Obter os objetos principa
 - [Dados normalizados](../../../../normalized/nfe/manuais/manual-usuarios-svrs/normalized.json)
 - [Changelog](../../../../changelog/nfe/manuais/manual-usuarios-svrs.md)
 - [Proveniência resumida](../../../../sources/provenance/manual-usuarios-svrs.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

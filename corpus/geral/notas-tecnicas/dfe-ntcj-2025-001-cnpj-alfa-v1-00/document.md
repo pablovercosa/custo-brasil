@@ -372,3 +372,6 @@ Public Class ChaveAcesso Private Const TamanhoChaveAcessoSemDV = 43 Public Share
 - [Dados normalizados](../../../../normalized/geral/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00/normalized.json)
 - [Changelog](../../../../changelog/geral/notas-tecnicas/dfe-ntcj-2025-001-cnpj-alfa-v1-00.md)
 - [Proveniência resumida](../../../../sources/provenance/dfe-ntcj-2025-001-cnpj-alfa-v1-00.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

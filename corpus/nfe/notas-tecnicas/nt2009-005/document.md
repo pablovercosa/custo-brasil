@@ -1665,3 +1665,6 @@ Código de Situação da Operação - Simples Nacional ( CSOSN)
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2009-005/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2009-005.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2009-005.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

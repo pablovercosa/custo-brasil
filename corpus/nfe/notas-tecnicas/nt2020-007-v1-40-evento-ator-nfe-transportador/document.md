@@ -393,3 +393,6 @@ O processamento do lote pode resultar em:
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2020-007-v1-40-evento-ator-nfe-transportador/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2020-007-v1-40-evento-ator-nfe-transportador.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2020-007-v1-40-evento-ator-nfe-transportador.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

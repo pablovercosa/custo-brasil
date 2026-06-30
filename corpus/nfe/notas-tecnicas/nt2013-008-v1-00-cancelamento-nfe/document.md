@@ -79,3 +79,6 @@ Obs.: Alterada a descrição da mensagem de erro 690,  já existente, incluindo 
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2013-008-v1-00-cancelamento-nfe/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2013-008-v1-00-cancelamento-nfe.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2013-008-v1-00-cancelamento-nfe.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

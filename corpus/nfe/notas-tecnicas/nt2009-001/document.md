@@ -112,3 +112,6 @@ consDPEC_v1.00.xsd para consDPEC_v1.01; envDPEC_v1.00.xsd para envDPEC_v1.01; re
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2009-001/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2009-001.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2009-001.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

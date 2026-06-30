@@ -1778,3 +1778,6 @@ Exemplificando, para obter o WSDL de cada um dos Web Service acione o navegador 
 - [Dados normalizados](../../../../normalized/nfag/manuais/moc-nfag-visaogeral-v1-00k/normalized.json)
 - [Changelog](../../../../changelog/nfag/manuais/moc-nfag-visaogeral-v1-00k.md)
 - [Proveniência resumida](../../../../sources/provenance/moc-nfag-visaogeral-v1-00k.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

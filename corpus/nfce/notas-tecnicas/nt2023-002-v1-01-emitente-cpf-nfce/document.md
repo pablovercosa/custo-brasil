@@ -218,3 +218,6 @@ Quando o emissor tiver em situação irregular deverá ter a rejeição '781 - R
 - [Dados normalizados](../../../../normalized/nfce/notas-tecnicas/nt2023-002-v1-01-emitente-cpf-nfce/normalized.json)
 - [Changelog](../../../../changelog/nfce/notas-tecnicas/nt2023-002-v1-01-emitente-cpf-nfce.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2023-002-v1-01-emitente-cpf-nfce.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

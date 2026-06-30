@@ -116,3 +116,6 @@ As  dúvidas  e  sugestões  devem  ser  encaminhadas  através  do  Canal  Fale
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2007-006/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2007-006.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2007-006.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

@@ -627,3 +627,6 @@ Caso exista unicamente o EPEC, a Consulta Pública d a NFC-e deverá mostrar os 
 - [Dados normalizados](../../../../normalized/nfce/notas-tecnicas/nt2014-003-v1-02/normalized.json)
 - [Changelog](../../../../changelog/nfce/notas-tecnicas/nt2014-003-v1-02.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2014-003-v1-02.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

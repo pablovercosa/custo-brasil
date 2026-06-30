@@ -1274,3 +1274,6 @@ Para realizar o download das atualizações, clicar em OK . Após o download, o 
 - [Dados normalizados](../../../../normalized/nfe/manuais/manual-emissor-nfe/normalized.json)
 - [Changelog](../../../../changelog/nfe/manuais/manual-emissor-nfe.md)
 - [Proveniência resumida](../../../../sources/provenance/manual-emissor-nfe.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

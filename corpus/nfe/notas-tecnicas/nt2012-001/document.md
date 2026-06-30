@@ -73,3 +73,6 @@ No DANFE Simplificado deverão ser impressos no mínimo, além da expressão 'DA
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2012-001/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2012-001.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2012-001.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

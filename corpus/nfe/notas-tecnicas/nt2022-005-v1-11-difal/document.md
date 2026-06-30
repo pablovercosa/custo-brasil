@@ -150,3 +150,6 @@ NT 2022.005 - ICMS na Operação Interestadual em Venda a Consumidor Final
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2022-005-v1-11-difal/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2022-005-v1-11-difal.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2022-005-v1-11-difal.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

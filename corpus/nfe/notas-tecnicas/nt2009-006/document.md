@@ -2008,3 +2008,6 @@ A identificação de que o SCAN foi ativado pela SEFAZ será através do serviç
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2009-006/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2009-006.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2009-006.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

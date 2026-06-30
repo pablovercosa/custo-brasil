@@ -200,3 +200,6 @@ Também é critério da UF o estabelecimento de outras medidas de controle, de a
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2013-001-manifestacao-combustivel/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2013-001-manifestacao-combustivel.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2013-001-manifestacao-combustivel.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

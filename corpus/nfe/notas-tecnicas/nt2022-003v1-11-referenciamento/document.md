@@ -330,3 +330,6 @@ Essa versão trouxe somente uma adequação ao texto do item 2.1.1 e alteraçõe
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2022-003v1-11-referenciamento/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2022-003v1-11-referenciamento.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2022-003v1-11-referenciamento.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

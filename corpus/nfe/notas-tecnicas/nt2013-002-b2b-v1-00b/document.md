@@ -156,3 +156,6 @@ No caso de troca de arquivo entre as empresas, é sugerida a adoção do nome do
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2013-002-b2b-v1-00b/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2013-002-b2b-v1-00b.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2013-002-b2b-v1-00b.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

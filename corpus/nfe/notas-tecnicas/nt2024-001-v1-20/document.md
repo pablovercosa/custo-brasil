@@ -337,3 +337,6 @@ Incluída  a  regra  N12a-90  que  verifica  o  correto  preenchimento  dos  CFO
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2024-001-v1-20/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2024-001-v1-20.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2024-001-v1-20.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

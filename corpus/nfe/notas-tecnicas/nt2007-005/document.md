@@ -1355,3 +1355,6 @@ As dúvidas e sugestões devem ser encaminhadas através do Canal Fale Conosco d
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2007-005/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2007-005.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2007-005.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

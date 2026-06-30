@@ -373,3 +373,6 @@ SBN. Qd. 02 Ed. Vale do Rio Doce 7º andar CEP: 70.040-909 Secretaria de Estado 
 - [Dados normalizados](../../../../normalized/nfe/Estado de DF/edital-transacao-pgdf/normalized.json)
 - [Changelog](../../../../changelog/nfe/Estado de DF/edital-transacao-pgdf.md)
 - [Proveniência resumida](../../../../sources/provenance/edital-transacao-pgdf.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

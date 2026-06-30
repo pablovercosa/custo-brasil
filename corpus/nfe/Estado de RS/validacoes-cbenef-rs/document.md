@@ -184,3 +184,6 @@ A tabela de códigos utilizada para validação dos campos encontra-se disponív
 - [Dados normalizados](../../../../normalized/nfe/Estado de RS/validacoes-cbenef-rs/normalized.json)
 - [Changelog](../../../../changelog/nfe/Estado de RS/validacoes-cbenef-rs.md)
 - [Proveniência resumida](../../../../sources/provenance/validacoes-cbenef-rs.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

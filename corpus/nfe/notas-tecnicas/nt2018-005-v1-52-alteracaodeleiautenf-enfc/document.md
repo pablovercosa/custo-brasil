@@ -646,3 +646,6 @@ FONE/FAX
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2018-005-v1-52-alteracaodeleiautenf-enfc/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2018-005-v1-52-alteracaodeleiautenf-enfc.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2018-005-v1-52-alteracaodeleiautenf-enfc.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

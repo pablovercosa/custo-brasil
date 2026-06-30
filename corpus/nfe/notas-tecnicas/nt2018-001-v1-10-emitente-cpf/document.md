@@ -630,3 +630,6 @@ O emitente pessoa física, normalmente um produtor rural, possui característica
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2018-001-v1-10-emitente-cpf/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2018-001-v1-10-emitente-cpf.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2018-001-v1-10-emitente-cpf.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

@@ -177,3 +177,6 @@ O 'Valor Aproximado dos Tributos', poderá opcionalm ente constar no DANFE em ca
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2013-003-v1-00a-lei-transparencia/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2013-003-v1-00a-lei-transparencia.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2013-003-v1-00a-lei-transparencia.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

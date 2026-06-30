@@ -486,3 +486,6 @@ O processamento do lote pode resultar em:
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2024-002-v1-00-econf/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2024-002-v1-00-econf.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2024-002-v1-00-econf.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

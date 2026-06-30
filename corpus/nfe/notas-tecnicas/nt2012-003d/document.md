@@ -591,3 +591,6 @@ Exemplo de alguns Códigos da ANP para combustíveis e lubrificantes.
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2012-003d/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2012-003d.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2012-003d.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

@@ -106,3 +106,6 @@ Atualização dos percentuais obrigatórios de adição de etanol anidro à gaso
 - [Dados normalizados](../../../../normalized/combustiveis/informes-tecnicos/it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel/normalized.json)
 - [Changelog](../../../../changelog/combustiveis/informes-tecnicos/it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel.md)
 - [Proveniência resumida](../../../../sources/provenance/it-2025-004-v-1-10-tabela-de-ind-ce-de-mistura-de-biocombsut-vel.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

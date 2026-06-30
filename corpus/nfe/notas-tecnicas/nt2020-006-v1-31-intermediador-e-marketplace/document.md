@@ -352,3 +352,6 @@ Portanto, para efeitos do CNPJ da instituição de pagamento, deve ser informada
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2020-006-v1-31-intermediador-e-marketplace.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2020-006-v1-31-intermediador-e-marketplace.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

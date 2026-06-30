@@ -1195,3 +1195,6 @@ Para as situações não enquadradas na Consulta Completa, o acesso aos dados da
 - [Dados normalizados](../../../../normalized/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta/normalized.json)
 - [Changelog](../../../../changelog/nfeabi/manuais/moc-nfe-abi-vis-o-geral-v1-00-minuta.md)
 - [Proveniência resumida](../../../../sources/provenance/moc-nfe-abi-vis-o-geral-v1-00-minuta.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

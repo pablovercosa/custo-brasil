@@ -68,3 +68,6 @@ NFe99999999999999999999999999999999999999999999
 - [Dados normalizados](../../../../normalized/nfe/notas-tecnicas/nt2009-002/normalized.json)
 - [Changelog](../../../../changelog/nfe/notas-tecnicas/nt2009-002.md)
 - [Proveniência resumida](../../../../sources/provenance/nt2009-002.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._

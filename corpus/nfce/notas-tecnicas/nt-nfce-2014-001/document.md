@@ -278,3 +278,6 @@ A validação da solicitação poderá resultar em:
 - [Dados normalizados](../../../../normalized/nfce/notas-tecnicas/nt-nfce-2014-001/normalized.json)
 - [Changelog](../../../../changelog/nfce/notas-tecnicas/nt-nfce-2014-001.md)
 - [Proveniência resumida](../../../../sources/provenance/nt-nfce-2014-001.json)
+
+## Documentos relacionados
+_Nenhum documento relacionado conhecido._
