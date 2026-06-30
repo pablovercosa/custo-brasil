@@ -1,0 +1,23 @@
+{
+  "authority": "Portal Nacional da Nota Fiscal Eletronica",
+  "canonical_id": "nota-t-cnica-2016-001-v-1-40-publicada-em-16-07-2018",
+  "category": "nota_tecnica",
+  "document_path": "corpus/nfe/notas-tecnicas/nota-t-cnica-2016-001-v-1-40-publicada-em-16-07-2018/document.md",
+  "metadata_path": "corpus/nfe/notas-tecnicas/nota-t-cnica-2016-001-v-1-40-publicada-em-16-07-2018/metadata.json",
+  "normalization_status": "auto_batch_published",
+  "original_filename": "Nota T\u00e9cnica 2016.001 - v.1.40 - Publicada em 16_07_2018.pdf",
+  "original_sha256": "0a60137242cc4c5cfdca07871f94fb1be257b74bc8c461caf893abab7ade39bf",
+  "published_at_utc": "2026-06-30T15:01:24.095635+00:00",
+  "slug": "nota-t-cnica-2016-001-v-1-40-publicada-em-16-07-2018",
+  "source_family": "portal_nacional_nfe",
+  "source_path": "sources/portal_nacional_nfe/nfe/notas-tecnicas/nota-t-cnica-2016-001-v-1-40-publicada-em-16-07-2018/source.json",
+  "status": "published",
+  "title": "Projeto Nota Fiscal Eletr\u00f4nica",
+  "validation": {
+    "asset_count": 9,
+    "contains_base64_images": false,
+    "contains_data_image": false,
+    "image_refs_count": 9,
+    "missing_image_refs_count": 0
+  }
+}
